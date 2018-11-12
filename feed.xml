@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Messer // Product manager</title>
+    <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 12 Nov 2018 21:18:55 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 21:18:55 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Staying of the Course</title>
+        <description>&lt;p&gt;We’re reaching the mid-point of the quarter, so there’s a flurry of things going on. The team is chugging through work at a good pace, but there’s still so much to do if we’re to achieve the objective for our mission. Opening up conversation on how we’ll meet those goals has been good, but we’re subject to so many external factors it can sometimes be tough to stay the course. (&lt;a href=&quot;https://medium.com/@stevenjmesser/dealing-with-domineering-clients-67052f02f551&quot;&gt;Sailing analogies&lt;/a&gt; are quite good for framing team-work and missions, I find.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2400/1*lAVDmL0uD2LwYkrQiHx2sw.jpeg&quot; alt=&quot;🖼 [‘The Storm’](https://artuk.org/discover/artworks/the-storm-160391), Joseph Mallord William Turner, Amgueddfa Cymru (National Museum Wales)&quot; /&gt;&lt;em&gt;🖼 &lt;a href=&quot;https://artuk.org/discover/artworks/the-storm-160391&quot;&gt;‘The Storm’&lt;/a&gt;, Joseph Mallord William Turner, Amgueddfa Cymru (National Museum Wales)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Having migrated the first two applications over to a new hosting provider, we had a v-team retrospective with our friends in Reliability Engineering. It worked well, acting as a review of the steps we’d previously taken, giving us the chance to improve the run book for next time.&lt;/p&gt;
+
+&lt;p&gt;There was one gotcha to eliminate for next time: making sure that the release pipeline is clear and no one’s forgotten to release Puppet changes specifically. Our lead architect, Tim, reminded everyone that it was their responsibility to own a pull request (and associated changes) all the way through and to keep the deployment pipeline as clear as possible. &lt;a href=&quot;https://gds-way.cloudapps.digital/standards/continuous-delivery.html#use-continuous-delivery&quot;&gt;Continuous delivery&lt;/a&gt; relies on principles rather than process.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Had our first GOV.UK product manager fortnightly meet-up with the new Head of Product, Leanne. It was a bit full-on for her first session, but then again it was probably a perfect introduction for someone who’s going to own our high-level strategy for the forseeable future. We touched briefly on the product triage process – which has dominated most fortnightly meetings in recent months – and it was relatively trivial as opposed to the usual furore. That was good to see. Chatter about it had been dividing us as a community of late, but we were unified on it this week.&lt;/p&gt;
+
+&lt;p&gt;Rob used the &lt;a href=&quot;http://leancoffee.org&quot;&gt;Lean Coffee&lt;/a&gt; approach to decide what we’d talk about next. Everyone wanted to talk overwhelmingly about the roadmap and the next 12 months – which, unfortunately, we’re not able to &lt;a href=&quot;https://app.productplan.com/p/bUmH4fHC0hOivX-E2LYMu2hg9uEhkWp_&quot;&gt;make public like in previous years&lt;/a&gt;. I’m not entirely certain on the reasons behind that but I don’t think it was an internal decision, because &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap&quot;&gt;using roadmaps as an open communication tool is a principle we hold dear&lt;/a&gt;. I suspect it could be more to do with our roadmap being seen as a delivery plan rather than &lt;a href=&quot;https://svpg.com/vision-vs-strategy/&quot;&gt;a strategy to achieving a multipart vision&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my view, GOV.UK has pretty much (but not totally) achieved its &lt;a href=&quot;https://web.stanford.edu/class/ee204/ProductMarketFit.html&quot;&gt;product–market fit&lt;/a&gt; and should now be concerned with scaling. The issue we have is that new and existing departments on GOV.UK often bring solutionised features to us as problems, and many expect their requests to be built out. We have a good set of products and features to offer to government but I’m not sure where the sales process happens, and we need an amount of feedback from those interactions to influence our product iterations. In the meantime there’s plenty of work to be done on scaling the platform’s architecture and that’s something we can do with application- and machine-level data alone.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Though it meant I missed a team lunch for a new starter on Platform Health, we took one and half hours out of a busy day to map the problem space of publishing, and it was really beneficial. Myself, Humin, Sam and Mark, all product managers on publishing aspects of the platform, wrote up the high level problems we see with scaling GOV.UK and grouped those by theme. It’s intended to form a strategy for solving those problems, but in a time when reliability is perhaps more important than efficiency, I’m not sure how much of it we’ll be able to work on.&lt;/p&gt;
+
+&lt;p&gt;That aside, it was excellent to get together with PMs from across the programme and join up our thinking. I’ve been meaning to do that ever since joining Platform Health, bringing other product teams and their goals into our team’s thinking. Because, arguably, I am currently a &lt;a href=&quot;https://medium.com/productschool/what-is-technical-product-management-anyway-d36deb3216d0&quot;&gt;technical product manager&lt;/a&gt; whether I intended to become one or not. And technical product management has internal teams as its users.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve got a couple of product ideas bobbing around and have a hankering to scratch the ‘build a thing’ itch, so if you want to get involved in a side hustle, &lt;a href=&quot;mailto:stevenjmesser@gmail.com&quot;&gt;hit me up&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Spent two hours coming up with options to upgrade and manage our Elasticsearch with Bevan. If I’m honest, I wasn’t really sure how to approach this, but I knew we needed a range of options plus their technical, financial and product-focussed impacts to present to the programme team for them to choose from. Sort of like a Choose Your Own Adventure business case.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/5772/1*49VaAAfIY-cEY5d6THUG8Q.png&quot; alt=&quot;A matrix of options plotted against risks, benefits, technical complexity, delivery time and financial costs&quot; /&gt;&lt;em&gt;A matrix of options plotted against risks, benefits, technical complexity, delivery time and financial costs&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I freestyled a matrix of Post-it notes, detailing the different stages and options plotted against the risks, benefits, technical complexity, delivery time and financial costs of each. It actually worked quite well and we got all the brainstorming done inside of the meeting.&lt;/p&gt;
+
+&lt;p&gt;When a point was raised, there would usually be a counterpoint to consider for a different option, meaning we grew a body of thoughts quite quickly. Much better than scrolling up and down a document, scribbling in part-thoughts and half-formed sentences, which I’ve done previously.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Bevan covered how we code and quality assure products and features at GOV.UK. This was off the back of our retrospective, where Alan had asked to be introduced to our process and I was keen to hear about it too. We’d been told about it informally but found this proper session really useful. And it was good to understand the inner workings as compared to the development process at previous places I’ve worked. It’s pretty fast at GOV.UK and everything’s to such a high quality, I was just really intrigued to know more.&lt;/p&gt;
+
+&lt;p&gt;It hangs off a set of principles rather than defined processes. I’m paraphrasing here, but essentially our developers&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;are responsible for their code and features throughout the development and release lifecycle,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;should test their code and its dependencies,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;have code peer-reviewed for quality,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;should QA their code in integration, either individually or with product managers, and&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;use continuous delivery to release small, frequent changes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s more in the &lt;a href=&quot;https://gds-way.cloudapps.digital&quot;&gt;GDS Way&lt;/a&gt; but bear in mind that this works for us and may not suit other teams.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;That all these facilitation techniques and Post-it noting practices are just methods for getting ideas out. Yes, I was skeptical at first and I know many people still are, but they work. If you’re struggling to have productive conversations at work and meetings go round in circles, try something different. There’s shitloads of blogs and other websites with loads of approaches you can try.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Ask people to give feedback to my line manager. A colleague came over and praised me for some work, saying they’d pass it on, but I’ve neglected to ask people to do that in the past. I’m going to make sure I know who line manages each person on our team, too, so I can furnish them with all the good work our people do.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/f8e9c2ea-b29b-11e8-87e0-d84e0d934341&quot;&gt;&lt;strong&gt;Governments fail to capitalise on swaths of open data&lt;/strong&gt;
+&lt;em&gt;Making data freely available is one thing, creating value from it is quite another&lt;/em&gt;www.ft.com&lt;/a&gt;
+&lt;a href=&quot;https://freedomhouse.org/report/freedom-net/freedom-net-2018/rise-digital-authoritarianism&quot;&gt;&lt;strong&gt;Freedom on the Net 2018: The Rise of Digital Authoritarianism&lt;/strong&gt;
+&lt;em&gt;The internet is growing less free around the world, and democracy itself is withering under its influence.&lt;/em&gt;freedomhouse.org&lt;/a&gt;
+&lt;a href=&quot;https://www.mindtheproduct.com/2018/10/escape-from-the-feature-roadmap-to-outcome-driven-development/&quot;&gt;&lt;strong&gt;Escape From the Feature Roadmap to Outcome-driven Development - Mind the Product&lt;/strong&gt;
+&lt;em&gt;I’ve made a lot of roadmaps in my time. In fact, in the first three years I was at WorldRemit, I counted that I…&lt;/em&gt;www.mindtheproduct.com&lt;/a&gt;
+&lt;a href=&quot;https://logicmag.io/05-how-to-kill-your-tech-industry/&quot;&gt;&lt;strong&gt;How To Kill Your Tech Industry&lt;/strong&gt;
+&lt;em&gt;In World War II, Britain invented the electronic computer. By the 1970s, its computing industry had collapsed-thanks to…&lt;/em&gt;logicmag.io&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/11/10/the-staying-of-the-course/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
