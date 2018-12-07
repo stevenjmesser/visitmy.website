@@ -5,9 +5,75 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Nov 2018 11:44:12 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Nov 2018 11:44:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 22:07:38 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 22:07:38 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Spin Up</title>
+        <description>&lt;p&gt;The most fun I’ve had at work in a week on record. We’re doing work which sings to the vision of GOV.UK, making information about government and services simple, clearer and faster. Can’t knock it really, though it’s a heck of a change of pace from lying on the beach last week!&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-that-happened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;I had the honour of spinning up a brand new sub-team. If you don’t count the outsourced teams I’ve run and looking after Platform Health while Martin’s off, this is my first time leading a multidisciplinary team at GDS – and I’m loving it. Staying aware of emotional energy while also having open conversations about delivering value for users is hugely enjoyable, especially when you have a team of excellent people.&lt;/p&gt;
+
+&lt;p&gt;We had a quick kick-off on Tuesday from our lead technical architect, Tim, who explained that our team would be looking after dynamic content performance, the fourth of Platform Health’s OKRs that I set with Martin at the start of the quarter. After taking them through the technical introduction to GOV.UK’s architecture, I disbanded the group and set up to meet the following day at 9 a.m.&lt;/p&gt;
+
+&lt;p&gt;We grouped at 10 a.m. on Wednesday and spent pretty much the entire day defining our mission: the objective, what success would look like, our ways of working, and a &lt;a href=&quot;https://en.wikipedia.org/wiki/Johari_window&quot;&gt;Johari Window&lt;/a&gt; to start building a roadmap. By 4 p.m. we had a team charter, a roadmap, a prioritised backlog and a set of cards to tackle the following day.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Aditya, one of our developers on the new sub-team, is profoundly deaf and working with him has been a real eye-opener. It hasn’t been that hard to bear his needs in mind, and I’m making sure to address him directly and speak clearly, but it does change the pace of conversation some times. It makes us more metered and considered, if anything, as more effort needs to go into how one conducts oneself. We’re also filling in a doc before and after daily ceremonies too, so that he can read through the morning’s stand-up or the afternoon’s playback if he’s working from home. That’s one element I really like, having a record of what I said to check against what I manage to achieve.&lt;/p&gt;
+
+&lt;p&gt;Aditya is very pleasant to work with too, a gracious person who’s always smiling. We’ve a very considerate working culture at GDS but anyone would be hard pushed to &lt;em&gt;not&lt;/em&gt; change their working patterns for him! Top bloke.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/tijmenbr&quot;&gt;Tijmen&lt;/a&gt;, our tech lead, had dived headlong into the new work with Jon, another developer on the team whom we’ve borrowed from the Observe team. Following a quick run-through of dynamic content applications on GOV.UK, they got started on looking into previous load-testing we’d done on Platform Health. They were able to quickly identify opportunities for optimisations, adding &lt;a href=&quot;https://github.com/alphagov/finder-frontend/pull/722&quot;&gt;HTTP caching&lt;/a&gt; and content caching where appropriate.&lt;/p&gt;
+
+&lt;p&gt;The tests on that pull request show an improvement on one Finder being able to serve 16x more requests with zero errors. The change was deployed later on that day and Tijmen put together a Grafana dashboard, to show the effect across all Finders and search pages on average, which I’ve been watching throughout most of Friday. It has reduced the number of requests being served by finder-frontend by 17%, widening the bottleneck and shifting the load onto our internal caches and the content delivery network.&lt;/p&gt;
+
+&lt;p&gt;All within two days. Working at this rate, in a fast cycle, and achieving these results is testament to our working practice. It’s moments like this when you realise just what we can achieve in a short space of time with determination, skill and good frameworks.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;I’ve got an interview at HMRC on Friday – woo! No news of the GDS PM interviews yet, but we’ll see what becomes of those. They’ve been delayed for quite a while now.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;That I’m capable of leading a team…for a few days, anyway. Here’s hoping the next two weeks go just as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;It would have been better if I’d foreseen needing to spend the entirety of Wednesday with the new sub-team, rather than thinking I could juggle that and Platform Health too. That was naïve of me, but there weren’t any ill effects on the team so perhaps it’s not such a huge deal.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;p&gt;I read through a boat-load of stuff on holiday, here’s a selection of the best bits. There’s a very particular theme, perhaps based on the fact I was reading Douglas Rushkoff’s &lt;em&gt;Throwing Rocks at the Google Bus&lt;/em&gt; at the same time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/common-pm-problem-areas/&quot;&gt;Common PM Problem Areas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/a-short-history-of-facebooks-mess-ups&quot;&gt;Here’s a list of all the times that Facebook proved you can’t trust it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://motherboard.vice.com/en_us/article/xwjden/targeted-advertising-is-ruining-the-internet-and-breaking-the-world&quot;&gt;Targeted Advertising Is Ruining the Internet and Breaking the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2016/02/what-do-you-really-mean-by-business-transformation&quot;&gt;What Do You Really Mean by Business “Transformation”?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://avc.com/2014/07/platform-monopolies/&quot;&gt;Platform Monopolies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/google-france-silicon-valley&quot;&gt;France is ditching Google to reclaim its online independence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2018/12/07/the-something/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/12/07/the-something/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>This is how I work…give or take</title>
@@ -105,10 +171,67 @@
       </item>
     
       <item>
+        <title>The Wind Down</title>
+        <description>&lt;p&gt;A four-day week spent closing open loops. Took yesterday off to pack for my holiday which I’m really, &lt;em&gt;really&lt;/em&gt; looking forward to – especially because it’s supposed to drop to 1°C next week!&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-that-happened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;undefined&quot;&gt;John Cutler&lt;/a&gt; spared us an hour to chat product, and it was really beneficial. We talked quite a bit about valuing non-feature work, how it’s important and continuous improvement needs to happen under the hood too. That sort of work is our main focus on Platform Health, really, and selling it to ‘the business’ isn’t too hard.&lt;/p&gt;
+
+&lt;p&gt;But how this work is described by senior teams can irk me. Platform work is often referred to as ‘keeping the lights on’, but it’s really much more than that: it’s chopping wood, filling buckets, building aqueducts…&lt;/p&gt;
+
+&lt;p&gt;John mentioned Cost of Delay and it’s a useful prism to view all platform work through. &lt;em&gt;Does the value opened up by doing this story diminish over time?&lt;/em&gt; That sort of thinking allows you to take on anything urgent and create value in the short term while also keeping an eye on the long term.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Had check-in with the programme team on Wednesday, or at least we were supposed to have check-in with them. The majority of them weren’t there, which was a let down as we had some important things to tell them. Really frustrating when you’ve had to work through lunch to get the presentation together too, because there’s so little time on Tuesdays and Wednesdays what with all the meetings. And putting the slides together on Monday would miss 20 per cent out of the last two weeks.&lt;/p&gt;
+
+&lt;p&gt;Despite that, our new Head of Product, Leanne, was there in force and tried her best to accommodate us. She was pleased with our progress and some of the optimisations we’ve brought to the publishing pipeline, wanting to push us to show it off. I’m really keen to get the team showing off what they’ve done because, as I always say, it’s not sexy work but it’s damn-near as important as building features.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;The excellent &lt;a href=&quot;undefined&quot;&gt;Emily&lt;/a&gt; gave our team a run-down of SLIs, SLOs and SLAs – henceforth known as SLXs – and how they can create psychological safety in our work. We’ve had a go at creating one already (which I covered in &lt;a href=&quot;https://weeknot.es/the-delivery-93a08085cc32&quot;&gt;S02E03&lt;/a&gt;) and this was included in her slides, which meant to work was framed much better than I had introduced it to them. As Emily spoke about the noise of alerting and how to make alerts more meaningful, there was lots of nodding amongst the group. It certainly hit home.&lt;/p&gt;
+
+&lt;p&gt;We’re going to be looking at building SLOs for the other jobs of GOV.UK soon, once some important Brexity business is out of the way. In lieu of an actual stress-test of the pipeline, making our current data more meaningful will provide a decent, actionable contingency for the months ahead.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Darren Barnes from ONS came to talk about and demonstrate the amazing &lt;a href=&quot;https://gss.civilservice.gov.uk/guidance/the-gss-data-project/&quot;&gt;GSS Data&lt;/a&gt; project. Using linked data principles and technologies such as concept schemes, triple stores, URIs and all that other stuff, they’ve pulled together a neat open data portal that allows you to find statistics about stuff. It was super impressive, and it was nice to hear that they held &lt;a href=&quot;undefined&quot;&gt;Mike&lt;/a&gt;’s work on &lt;a href=&quot;https://about.esd.org.uk/about&quot;&gt;ESD and LG Inform&lt;/a&gt; in high regard – as an exemplar of what could be done.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;That everything I learned about linked data at Porism could be useful during my time at GDS. That was quite a surprise. Darren was throwing out technical terms left, right and centre – and I understood everything.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Compose myself during meetings. I get very excited about things and that’s not always good, especially if your body language communicates a commitment to a project prematurely.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860&quot;&gt;&lt;strong&gt;Prioritizing “Non-Feature” Work and Continuous Improvement&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/radar&quot;&gt;&lt;strong&gt;Emerging Tech Trends for 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/analyzing-experiment-outcomes/&quot;&gt;&lt;strong&gt;Analyzing Experiment Outcomes: Beyond Average Treatment Effect&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.niemanlab.org/2018/11/how-the-wall-street-journal-is-preparing-its-journalists-to-detect-deepfakes/&quot;&gt;&lt;strong&gt;How The Wall Street Journal is preparing its journalists to detect deepfakes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2018/11/17/the-wind-down/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/11/17/the-wind-down/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
         <title>The Staying of the Course</title>
         <description>&lt;p&gt;We’re reaching the mid-point of the quarter, so there’s a flurry of things going on. The team is chugging through work at a good pace, but there’s still so much to do if we’re to achieve the objective for our mission. Opening up conversation on how we’ll meet those goals has been good, but we’re subject to so many external factors it can sometimes be tough to stay the course. (&lt;a href=&quot;https://medium.com/@stevenjmesser/dealing-with-domineering-clients-67052f02f551&quot;&gt;Sailing analogies&lt;/a&gt; are quite good for framing team-work and missions, I find.)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2400/1*lAVDmL0uD2LwYkrQiHx2sw.jpeg&quot; alt=&quot;🖼 [‘The Storm’](https://artuk.org/discover/artworks/the-storm-160391), Joseph Mallord William Turner, Amgueddfa Cymru (National Museum Wales)&quot; /&gt;&lt;em&gt;🖼 &lt;a href=&quot;https://artuk.org/discover/artworks/the-storm-160391&quot;&gt;‘The Storm’&lt;/a&gt;, Joseph Mallord William Turner, Amgueddfa Cymru (National Museum Wales)&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
 
@@ -184,14 +307,12 @@
 &lt;p&gt;Ask people to give feedback to my line manager. A colleague came over and praised me for some work, saying they’d pass it on, but I’ve neglected to ask people to do that in the past. I’m going to make sure I know who line manages each person on our team, too, so I can furnish them with all the good work our people do.&lt;/p&gt;
 
 &lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/f8e9c2ea-b29b-11e8-87e0-d84e0d934341&quot;&gt;&lt;strong&gt;Governments fail to capitalise on swaths of open data&lt;/strong&gt;
-&lt;em&gt;Making data freely available is one thing, creating value from it is quite another&lt;/em&gt;www.ft.com&lt;/a&gt;
-&lt;a href=&quot;https://freedomhouse.org/report/freedom-net/freedom-net-2018/rise-digital-authoritarianism&quot;&gt;&lt;strong&gt;Freedom on the Net 2018: The Rise of Digital Authoritarianism&lt;/strong&gt;
-&lt;em&gt;The internet is growing less free around the world, and democracy itself is withering under its influence.&lt;/em&gt;freedomhouse.org&lt;/a&gt;
-&lt;a href=&quot;https://www.mindtheproduct.com/2018/10/escape-from-the-feature-roadmap-to-outcome-driven-development/&quot;&gt;&lt;strong&gt;Escape From the Feature Roadmap to Outcome-driven Development - Mind the Product&lt;/strong&gt;
-&lt;em&gt;I’ve made a lot of roadmaps in my time. In fact, in the first three years I was at WorldRemit, I counted that I…&lt;/em&gt;www.mindtheproduct.com&lt;/a&gt;
-&lt;a href=&quot;https://logicmag.io/05-how-to-kill-your-tech-industry/&quot;&gt;&lt;strong&gt;How To Kill Your Tech Industry&lt;/strong&gt;
-&lt;em&gt;In World War II, Britain invented the electronic computer. By the 1970s, its computing industry had collapsed-thanks to…&lt;/em&gt;logicmag.io&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/f8e9c2ea-b29b-11e8-87e0-d84e0d934341&quot;&gt;&lt;strong&gt;Governments fail to capitalise on swaths of open data&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freedomhouse.org/report/freedom-net/freedom-net-2018/rise-digital-authoritarianism&quot;&gt;&lt;strong&gt;Freedom on the Net 2018: The Rise of Digital Authoritarianism&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindtheproduct.com/2018/10/escape-from-the-feature-roadmap-to-outcome-driven-development/&quot;&gt;&lt;strong&gt;Escape From the Feature Roadmap to Outcome-driven Development - Mind the Product&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://logicmag.io/05-how-to-kill-your-tech-industry/&quot;&gt;&lt;strong&gt;How To Kill Your Tech Industry&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
         <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
