@@ -5,9 +5,61 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Dec 2018 16:20:54 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Dec 2018 16:20:54 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 08:36:20 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 08:36:20 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Fallow Period</title>
+        <description>&lt;p&gt;A short week at work, being only Christmas Eve and one day of The Gooch – the bit between Christmas and New Year that’s a bit empty but definitely has purpose. Spent most of it either wrapping up the quarter or walking in the &lt;a href=&quot;https://gojauntly.app.link/FJdpLwifZS?_p=f34a264cea2ade7e638208&quot;&gt;West Midlands&lt;/a&gt; and Wales (&lt;a href=&quot;https://gojauntly.app.link/il3YL5Yf1S?_p=f34a264cea2ade7e638208&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1079046602940141568&quot;&gt;2&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;two-things-that-happened&quot;&gt;Two Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this (though it was only a 2-day week)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;As there will be a new &lt;a href=&quot;https://www.gov.uk/government/publications/associate-product-manager-skills-they-need/associate-product-manager-skills-they-need&quot;&gt;associate product manager&lt;/a&gt; replacing me on Platform Health, I spent a few hours packaging up a project I’d made a start on but can’t continue. Translations on GOV.UK give departments the ability to share information in languages other than English, which due to the platform’s organic growth isn’t a function that’s handled consistently by the various publishing applications. Since we have a few issues with translations to be solved, it’s worthwhile looking at how we can make it better everywhere rather than fixing bit-part problems.&lt;/p&gt;
+
+&lt;p&gt;It’ll be a good first project for them to sink their teeth into, a meaty technical problem – allowing them to explore the stack and the idiosyncracies of applications – which can be fixed by focusing on delivering value to users. &lt;a href=&quot;https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs&quot;&gt;Starting with user needs&lt;/a&gt; will mean they can check on whether we’ve delivered enough for users already, as this hasn’t been looked at holistically before.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;I wrote up what we’d managed to achieve this quarter and it’s quite a bit. There had been a few headline metrics such as &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2018/11/28/making-sure-users-see-updates-caching/&quot;&gt;making content appear 10x sooner for users&lt;/a&gt;, reducing the publishing queues by 45 per cent and improving publishing latency by 25 per cent. But after digging into our metrics a little more, the improvements haven’t been wholly consistent and there’s still a few fluctuations to take account of.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t mean that the team hasn’t been successful. Though we set ourselves the task of improving the publishing pipeline, we don’t own it and the actions of other teams have influence on it. We’ve been successful in finding root causes and addressing those through code, but it’s time to take a look at some principles.&lt;/p&gt;
+
+&lt;p&gt;I regret not having been able to set service level objectives (&lt;a href=&quot;https://medium.com/@asuffield/thinking-about-slos-64841737d1ed&quot;&gt;SLOs&lt;/a&gt;) for the user experience on GOV.UK. It was my main aim at the beginning of the quarter but holiday and urgent EU Exit projects got in the way. It started off with a prioritisation of Jobs-to-be-Done on GOV.UK and setting SLOs for scheduling publications, but the body of work needs to be completed.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;You can’t get precious about the effect of your code on shared infrastructure. It’s better to be precious about the principles you set for everyone who shares it. One to run past &lt;a href=&quot;https://blog.probablyfine.co.uk/about.html&quot;&gt;Alex&lt;/a&gt; when we next have coffee.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;It was a 2-day week, it’s hard to improve on answering emails and writing up organisation knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html&quot;&gt;How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://motherboard.vice.com/en_us/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format&quot;&gt;Why the PDF Is Secretly the World’s Most Important File Format&lt;/a&gt; &lt;em&gt;(Spoiler: it’s not, it’s just pushed heavily.)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/DesignIssues/Open.html&quot;&gt;The Many Meanings of Open&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2018/dec/25/break-brexit-deadlock-ancient-athens-sortition&quot;&gt;How can we break the Brexit deadlock? Ask ancient Athens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/parmyolson/2018/12/17/this-health-startup-won-big-government-dealsbut-inside-doctors-flagged-problems/&quot;&gt;This Health Startup Won Big Government Deals—But Inside, Doctors Flagged Problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/teej/fathom-analytics-on-heroku-3o6h&quot;&gt;Fathom Analytics on Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2018/12/31/the-fallow-period/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/12/31/the-fallow-period/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Reading List Picks of 2018</title>
