@@ -5,9 +5,67 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Dec 2018 08:36:20 +0000</pubDate>
-    <lastBuildDate>Mon, 31 Dec 2018 08:36:20 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Jan 2019 23:10:08 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Jan 2019 23:10:08 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Limbo Continues</title>
+        <description>&lt;p&gt;We’re still in the fallow period, but it has been a boon: loose ends tied, histories written, new ships prepared for departure. Writing reviews of 2018 has been popular this week, and I’ve enjoyed reading pieces by new weeknoters. This weekend I’ll try to find the time to have a little retro of these first two series of my weeknotes, make the most of the continuing limbo.&lt;/p&gt;
+
+&lt;h2 id=&quot;three-things-that-happened&quot;&gt;Three Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;As the quarter has already ended and this week demanded nothing urgent (for a change), I spent a day continuing to document the last three months. This consisted of going through the Trello board, picking out the cards related to our OKRs, i.e. not business-as-usual cards to support the platform, and writing up a narrative on Confluence telling future colleagues what we did, why, and what we learned.&lt;/p&gt;
+
+&lt;p&gt;I didn’t rewrite the details of the cards on Confluence, simply linked to the cards, because that would have taken hours. That troubled me because – as &lt;a href=&quot;https://twitter.com/jonodrew&quot;&gt;Jonathan&lt;/a&gt; pointed out – Trello isn’t a permanent record of anything. Hopefully it will persist in the immediate future but it’s certainly time to look at writing product decision records.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Talking to users is an important aspect of good product work, as is talking to your team. This week I spoke with two users – a local authority and HM Courts &amp;amp; Tribunals Service (HMCTS) – about some issues they’d had; and Bruce, tech lead on the upcoming search work.&lt;/p&gt;
+
+&lt;p&gt;Usually contact with users would be handled over email but it’s not always an ideal communication channel. I’ve used phone calls in my previous role to quickly catch up with users, it’s more immediate, and it tends improve our rapport with users.&lt;/p&gt;
+
+&lt;p&gt;What’s more, it’s a great way to open up your pipeline for new work. Emails can be very direct, whereas verbal conversations cover more ground. For example, I was able to find out how HMCTS use one of our publishing tools, the steps they take, why they use that process and the steps they take in other similar workflows – all inside 5 minutes. That meant I was able to address their issue immediately and gather useful context to consider improvements. It’s not always possible or necessary, granted, but quick contact would help lubricate our support processes.&lt;/p&gt;
+
+&lt;p&gt;Having a chat with Bruce to field any questions was great too. When he first requested the meeting, I made sure to pull together everything we’d already done and make it available to him. He took a read through and said he felt really good about it, as we’ve had much of the work shaped by Kat from Digital Marketplace who’s upgraded Elasticsearch before. Considering we were rather in the dark three months ago, we’re in a really strong position now.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;I also caught up with Leanne, Head of Product for GOV.UK, about the discovery into personalisation we’re doing in the upcoming quarter. I’ll not speak about that on my weeknotes as I’m intending to blog about it regularly. I’d also like us to publish the research and reports openly.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;Fail to prepare, prepare to fail, etc. It works. Although perhaps I’m &lt;a href=&quot;https://hackernoon.com/10-product-development-traps-2de02bc358bd&quot;&gt;overestimating the alignment from one meeting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;After pitching my firebreak session, someone raised a challenge and I replied with a stumbled ‘Errr…’. I think I should compose myself more during those moments, I’m afraid I looked shook.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scottcolfer.com/2018/03/02/value-context.html&quot;&gt;Leadership dimensions: value management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insidegovuk.blog.gov.uk/2015/02/06/gov-uks-firebreak-why-and-how-we-spent-a-month-working-differently/&quot;&gt;GOV.UK’s firebreak: why and how we spent a month working differently&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bcg.com/publications/2017/government-digital-services-by-numbers.aspx&quot;&gt;Digital Government Services by the Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://overreacted.io/things-i-dont-know-as-of-2018/&quot;&gt;Things I Don’t Know as of 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.receptive.io/blog/2018/12/14/we-need-to-rethink-the-product-backlog.html&quot;&gt;We Need to Rethink the Product Backlog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@loft27design/good-design-doesnt-just-happen-7602358096e5&quot;&gt;Good design doesn’t just happen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/01/04/the-limbo-continues/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/01/04/the-limbo-continues/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Fallow Period</title>
@@ -124,6 +182,12 @@
 &lt;p&gt;What surprised me most when I joined GDS was that many of our products didn’t have defined user personas. Nor did we say who we wouldn’t build things for. Not all users are equal. The mindset of building for everyone is helpful in not excluding certain groups, but it can widen the scope of a product too much. The Parliament Data team, and &lt;a href=&quot;https://twitter.com/fantasticlife&quot;&gt;Michael&lt;/a&gt; in particular, have been good in acknowledging that.&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;http://smethur.st/posts/176135868&quot;&gt;This isn’t for everyone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;democratic-technical-debt&quot;&gt;Democratic technical debt&lt;/h2&gt;
+
+&lt;p&gt;Digital government has surged forth leaving improved services in its wake. But how much of the enhancements are only surface-deep? ‘If you don’t consider what the long term impact of how you build something is, you’re accruing democratic technical debt,’ author Alex Blandford says. While also positing that terrific idea, Alex also points out that, well, government has been a bit shit at providing the research it has conducted. A few blog posts ain’t enough.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@blangry/democratic-technical-debt-ff2f119cbeed&quot;&gt;Democratic technical debt&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;building-personal-resilience-or-how-to-avoid-burnout&quot;&gt;Building personal resilience (or how to avoid burnout)&lt;/h2&gt;
 
