@@ -5,9 +5,77 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Jan 2019 10:49:29 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Jan 2019 10:49:29 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jan 2019 08:57:32 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Jan 2019 08:57:32 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The New Cross</title>
+        <description>&lt;p&gt;Firebreak week, a time to make things better and get ready for next quarter. The &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1082944581472264192&quot;&gt;Platform Health sticker arrived&lt;/a&gt; too, which was bleeding great. Proud to have played a part in such an important mission of maintenance, glad they’re continuing on. Expect a post from Martin on why the team was set up.&lt;/p&gt;
+
+&lt;p&gt;This week’s painting is completely unrelated to the week I had. It’s what it looked like at the end of my road in 1850.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/alphagov/local-links-manager&quot;&gt;Local Links Manager&lt;/a&gt; is a tool we use at GOV.UK to maintain and update links to services on local authority websites. It was built quickly and is a good minimum viable product (MVP), but this week it needed a little more refinement work.&lt;/p&gt;
+
+&lt;p&gt;We sat down with our Content Support team to take notes on their process, picking out the main pain points and where we could add value. By far the biggest time-hog was local authorities spending up to two months to return a spreadsheet with updated links. That’s likely because they were sent a CSV with 60,000 rows! So our first improvement was to add a button allowing teams to &lt;a href=&quot;https://github.com/alphagov/local-links-manager/pull/363&quot;&gt;download broken links for a council&lt;/a&gt;. This should mean that councils don’t need to filter the sheet they’re sent, it’s more easily workable.&lt;/p&gt;
+
+&lt;p&gt;The next big time-hog was updating links. This is done manually by Content Support amongst all their other work, it can take an entire day if they focus solely on updating links. This could be solved with an import feature, allowing them to upload a CSV of changed links, reducing their time spent on updating links to a couple of minutes. Unfortunately, due to illness, we didn’t have enough dev time to get this built but I’m hoping my good friends on Platform Health will consider taking it on – it’s a small card and a big plus for our operations budget.&lt;/p&gt;
+
+&lt;p&gt;Local Links Manager is a good example of an MVP needing time to bed down before being iterated. The product was viable, but minimally so, and over the last 18 months of functioning well the areas for improvement became more apparent. It’s a lesson in giving products time to settle down, in beta and live phases. Once the gleam of newness has dulled, areas to be iterated will naturally appear from the new normal.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Things are looking good for the product community on GOV.UK. We got together with Leanne, Head of Product, to look at how we’re going to approach the year and a strategy will emerge in the next few weeks. We’ve been encouraged to come up with visions and strategies for our areas of the platform, and to be entrepreneurial in how we seek and justify new opportunities. I found this really invigorating as I’ve got some decent ideas on what could be done, so knowing there’s time to validate these and present cases for doing the work is really valuable.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Handed the translations work over to Adam, the new associate product manager on Platform Health. He joined GDS three months ago and I’ve been buddying with him since he joined, as he was a Fast Streamer hired as a developer and put into a product role. He’s been devouring the resources and reading, and I was really impressed by his questions about the translation work and how he handled getting more information from our developers. He’s gonna do pretty well, I reckon.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;I started putting together the objectives for my two missions this quarter: search performance and resilience, and exploring personalisation. I’ve been blessed with a good team on both fronts, and my delivery managers Lee and James both sent over slide decks for our kick-off meetings. I added some background info, details on the problem space and called out our objective on both decks, giving us time during the rest of the session to ask questions, work out what we know, set up an initial backlog and agree some key results as a team.&lt;/p&gt;
+
+&lt;p&gt;I did start writing that guide I promised in &lt;a href=&quot;https://visitmy.website/2018/12/21/the-winter-solstice/&quot;&gt;S02E09&lt;/a&gt; on how to get teams started, but I’ll add what we get up this quarter too.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Met with civic tech legend &lt;a href=&quot;https://twitter.com/psd&quot;&gt;Paul Downey&lt;/a&gt;. He’s come up with some absolute classics that you’ll recognise: &lt;a href=&quot;https://twitter.com/psd/status/568324759521501184&quot;&gt;the difference between waterfall and agile&lt;/a&gt;, &lt;a href=&quot;https://gds.blog.gov.uk/2014/04/30/just-doodling-telling-the-story-with-a-few-pen-strokes/&quot;&gt;doodles about technology and teams&lt;/a&gt;, the discovery of &lt;a href=&quot;https://www.registers.service.gov.uk&quot;&gt;GOV.UK Registers&lt;/a&gt;, and &lt;a href=&quot;https://www.flickr.com/photos/psd/8451589322/in/album-72157633230231221/&quot;&gt;the unit of delivery is the team&lt;/a&gt;. So he’s a bit of a celebrity and I was really grateful he took time to chat with me. We spoke about open data (of course), some GOV.UK history, Vannevar Bush and Ted Nelson, and what it’s like working with senior stakeholders. That last bit was hugely valuable for me – probably the most valuable five minutes in recent weeks. If you, dear reader, would like to advise me on how to work well with Big Wigs, please get in touch!&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;This week was the first time I’ve observed the delta of seniority. I was gifted wisdom from someone senior to me, and it was useful. But the teaching I’ve tried to give someone junior to me has, seemingly, paid off in part. I’ve never been a line manager before but would certainly be interested now.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Got a bit meeting-logged on Monday. Too many short meetings that took the entire half an hour, not giving me enough time to work my notes into something sensible. So I could do better at giving myself buffer time between meetings. That’s hard when people demand your time through Google Calendar and it doesn’t support buffer time. Maybe there’s something on Zapier I could use.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getpocket.com/explore/item/the-busier-you-are-the-more-you-need-quiet-time&quot;&gt;The Busier You Are, the More You Need Quiet Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quantamagazine.org/how-space-and-time-could-be-a-quantum-error-correcting-code-20190103/&quot;&gt;How Space and Time Could Be a Quantum Error-Correcting Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenomadicjournal.com/2014/07/21/survive-the-future-a-lesson-on-megastructures-with-glen-small/&quot;&gt;Survive the Future: A Lesson on Megastructures with Glen Small&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/&quot;&gt;Let’s Resolve to Create Humane Products in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2016/12/4-ways-to-control-your-emotions-in-tense-moments&quot;&gt;4 Ways to Control Your Emotions in Tense Moments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://makermag.com/2018/12/17/indie-maker-cannabis-industry/&quot;&gt;Being an indie maker in the heavily regulated cannabis industry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/01/12/the-new-cross/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/01/12/the-new-cross/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Limbo Continues</title>
