@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Jan 2019 11:40:40 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Jan 2019 11:40:40 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Jan 2019 11:45:19 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Jan 2019 11:45:19 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -832,6 +832,1114 @@
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
         <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
         <guid isPermaLink="true">https://visitmy.website/2018/11/10/the-staying-of-the-course/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Comfort of Company</title>
+        <description>&lt;p&gt;People were &lt;em&gt;the best&lt;/em&gt; this week. Chats about life and around work, conversations on what we’re doing, and generally making and seeing friends. That doesn’t mean I’ve had much time spare, it’s been a busy week, but &lt;a href=&quot;https://medium.com/u/9dad630c25b4&quot;&gt;Philippa&lt;/a&gt;’s post on resilience (check the Reading section) has framed it all rather well. It’s not about burning the candle at both ends, it’s about realising that rest takes different forms.&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-thathappened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Monday was unremarkable if not for proving that marking out time in your calendar for recurrent tasks is worthwhile. There were lots of meetings, a few with our performance analysts and data scientists which was cool, but the main success of the day was getting the next sprint planned. I’ve protected my Monday mornings for sprint planning and it paid off for the rest of the week. So that’s a win.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Wednesday was absolutely back-to-back with team stuff, as it always is. Everyone seemed to vibe with the cards I’d brought into sprint, which was good, but I was rushing from meeting to meeting – and it was pretty draining. Meeting people &lt;em&gt;for fun&lt;/em&gt; wasn’t draining though, and I was grateful of my regular catch-up with &lt;a href=&quot;https://medium.com/u/e2a8548b9f4f&quot;&gt;Alex&lt;/a&gt; and a lunch jaunt to &lt;a href=&quot;http://sub-cult.co.uk&quot;&gt;Sub Cult&lt;/a&gt; with Elliot.&lt;/p&gt;
+
+&lt;p&gt;Alex is incredibly intelligent, articulate and friendly, and I sincerely hope he gets as much out of our chats as I do from him! When speaking, I tend to waffle and flit from thought to thought, a wholly different approach to my writing which can be pared down to something…comprehensible. Nevertheless, it’s great to talk to someone outside the building about teams, leadership, platforms and the odd joke here and there.&lt;/p&gt;
+
+&lt;p&gt;Our check-in with the programme team was all right, I was a bit pooped from a busy day, which meant that I didn’t understand a question from our lead technical architect, Tim. This gave me a good opportunity to ask for a chat with him, which I’d thought about in the bath that morning, as we kind of need some direction from him – or his involvement in our mission, would be better – in our infrastructure work.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;It was another good year for JAM Conference. I first went last year and found it really inspirational, and the events this time around didn’t disappoint. It’s always good to have an excuse to spend time with &lt;a href=&quot;https://medium.com/u/c8c40c52174f&quot;&gt;Mike&lt;/a&gt; too!&lt;/p&gt;
+
+&lt;p&gt;Star of the show was &lt;a href=&quot;https://www.linkedin.com/in/stevekatospyrou/&quot;&gt;Steve Kato-Spyrou&lt;/a&gt;, who not only put forward good reasoning for striving for collaboration instead of conflict with stakeholders but was also fucking hilarious. &lt;a href=&quot;https://medium.com/u/e642edf7243c&quot;&gt;Hugo&lt;/a&gt; and &lt;a href=&quot;https://medium.com/u/2e12cea2061b&quot;&gt;Lindsey&lt;/a&gt; from Monzo gave a good talk about the people and practice behind good products, and answered my question about the principles they hold dear which make them better product managers. Unsurprisingly for a Government Digital Service (GDS) alumnus, Lindsey spoke often about good principles driving one’s practice, and I largely believe that little mantras can sometimes carry you further forward than action alone.&lt;/p&gt;
+
+&lt;p&gt;It was fun to see &lt;a href=&quot;https://medium.com/u/b59d9418c84b&quot;&gt;Femke&lt;/a&gt; talk, as someone I’ve followed on Twitter for a while, and she’s really humble – it was a great talk on working in international markets as a Western company. But then again, that would require humility, so it’s nice to someone at Uber thinking that way – they’re not all as bad as Travis Kalanick. Femke’s talk book-ended a talk from &lt;a href=&quot;https://medium.com/u/ed6d3ecb45fb&quot;&gt;Charlotte&lt;/a&gt; at Wikimedia, talking about how they used Jobs-to-be-Done to draw parallels between users in both high-use and emerging markets. Basically: what is the common need between users in the USA and India? (Turns out it’s &lt;a href=&quot;https://blog.wikimedia.org/2018/05/25/synced-reading-lists/&quot;&gt;synced reading lists&lt;/a&gt;.) I really liked this talk because it was about making a widespread information platform work for &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone&quot;&gt;everyone&lt;/a&gt;: a problem that pervades my thinking every day. People asked questions about ensuring authenticity and credibility in a distributed system too, which is at the forefront of my mind after MozFest.&lt;/p&gt;
+
+&lt;p&gt;Given that there was so much chat about stuff we’ve already done at GDS though, I think we need to be out there talking at these events as an organisation. GDS used to be on the frontline of product thinking and we’re just not that prevalent any more, and that’s sad. I’m going to ask around and see who fancies chatting.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Friday kicked off with a new way to think about our goals as a team. Our delivery manager has put forward a new idea, that we could meet each Monday midway through a sprint and quickly run through our goals for this sprint, next sprint and how those tie into our goals for the quarter. Another essential component will be talking about team health too, and whether we’ve had any major blockers recently. It’s not designed to replace retrospectives, stand-up or sprint planning, but it is an opportunity for &lt;em&gt;everyone&lt;/em&gt; on the team to step back, take a higher level view at what we’re doing, and make recommendations for where to go next. I’m really excited about this as more collaboration is definitely my product management style – I’m facilitator, not decision-maker.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/u/4cd140afefc2&quot;&gt;Dan&lt;/a&gt; popped in for a coffee and it was truly excellent to catch up. I loved meeting him at the Delib/Weeknotes event, his cerebral conversation is quite engaging. We spoke about the nature of services, who could provide them, distributed design and the Web model, and the challenges of working in the public sector. Lots of laughs too. Looking forward to seeing him again.&lt;/p&gt;
+
+&lt;p&gt;The other main achievement of the day was a lunch chat with our lead technical architect, too. Because our work touches up against the long-run strategy for GOV.UK, it felt sensible to get him in on our ideas. All the problems we’re coming up against can be optimised in the short-term, but that won’t last and will need some planning to solve one day. There’s no time for us to fix those though. So we can dial down the long-run improvement work and dial up the discovery: of where problems lie, why they exist, the data points we use to measure those, and spending a little more thinking power on viewing this pipeline holistically. We’ve done some of that already, but the stress-testing work will help keep this moving.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-ilearned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;Learning is better than knowing. But you needn’t enact that learning immediately. Strategy is an important part of platform development, whereas you can forge ahead when building new products – because new products are more about disruption rather than development. So don’t be afraid to move more slowly on established products, because there’s many more factors to think about.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-dobetter&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;I’ve been getting in at 8 a.m. and leaving around 6 p.m. most days, so could be better at sticking to my hours. The extra hour and a half isn’t draining though, and I do have a lot on: looking after 46 interconnected applications plus moving them all to a new hosting provider, the support queue for a busy licensing product, our product management community and a big team. You do need a few more minutes to keep on top of all that.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/BpNGctdpsR&quot;&gt;Rebooting GDS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/g9bUXagpsR&quot;&gt;The End of the Beginning of Digital Service Units&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/kziOfVipsR&quot;&gt;The future of experience design: beyond the screen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/xZcuKflpsR&quot;&gt;Building personal resilience (or how to avoid burnout)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2018/11/03/The-Comfort-of-Company/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/11/03/The-Comfort-of-Company/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Delivery</title>
+        <description>&lt;p&gt;Rather a happy week, on the whole, and much calmer than last week. There’s less busyness now that the unconference is out of the way, fewer things flying around my head. More thinking space to focus on day-to-day matters. Got this out the door early as I’m heading to &lt;a href=&quot;https://mozillafestival.org&quot;&gt;MozFest&lt;/a&gt; now, so tweet or telegram me if you’re heading there too. I’m planning on checking out &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1055787778267664384&quot;&gt;these things&lt;/a&gt; on data, publishing, Semantic Web and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Four new associate product managers joined GDS recently. One has been with the organisation for a few years, but the other three are Fast Streamers. One of those Fast Streamers, Adam, actually joined as a developer – but they’ve placed him in a product role. As we’re trying to kick the buddying scheme back into life in the product management community, I spent an hour with him on Monday morning.&lt;/p&gt;
+
+&lt;p&gt;Ethics in human resources aside, he’s doing pretty well despite not having a background in the practice. He has started poring through &lt;a href=&quot;https://medium.com/u/bb88a6d5fb68&quot;&gt;Ross&lt;/a&gt;’s &lt;a href=&quot;https://docs.google.com/document/d/1BOzRg_e-qE24bYHSSKNFq5rUYca4U0rVeb5aG710kRo&quot;&gt;reading list&lt;/a&gt; and has caught a couple of blog posts online, to gain a footing, and it’s helping him in being able to answer questions and make decisions on his team. I wanted to make sure he had a good understanding of what product was and why it works, though, so went over the ‘Business, Tech, UX’ Venn diagram, the product lifecycle, how to use a lean canvas and &lt;em&gt;The Lean Startup&lt;/em&gt; approach to product development. He seemed much more chilled out at the end of our chat, and I offered him help whenever he needs it.&lt;/p&gt;
+
+&lt;p&gt;If he &lt;em&gt;can&lt;/em&gt; nail it, being a developer with a product manager head would be a huge advantage. There are many founders and CEOs out there with those skills, so this could be great for him.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;The team swarmed on how scheduled publications work under the hood, and we set a service level objective (SLO) for that job. I’ll explain how we did that, but full credit goes to &lt;a href=&quot;https://medium.com/u/f30ef58c4490&quot;&gt;Emily&lt;/a&gt; for putting this technique.&lt;/p&gt;
+
+&lt;p&gt;We mapped the user journey for scheduling a page for publication, using a press release as an example. We drew out the steps horizontally, then noted beneath each step the applications and stack that powered that part of the journey. Next we listed the data points, or service level indicators (SLIs), between each step which verify the user can complete the job successfully. For example, the publishing application returns a 200, the publishing API has workers free to take the job, the content item is built and has an ID, etc. These SLIs in sequence form a pattern we can observe to know that users can successfuly schedule publications. We could monitor it constantly or only refer to it during an incident.&lt;/p&gt;
+
+&lt;p&gt;Finally, we needed to set an SLO: a measure of the performance of the service with a target for its performance. Each content item has a &lt;code class=&quot;highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; property which shows the time difference between when the user intended it to be published and when it was actually published. Over the last 3 months it has been 1–18 seconds on average during good spells, but if an incident occurs it has been known to max out at 3 days. Quite the delay! We decided that &lt;code class=&quot;highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; for each content item should be 1–59 seconds, meaning that our SLO is for pages to be published within the minute of schedulation.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Martin’s on holiday for two weeks, which means I’m the only PM on the team. It feels good to have temporary sole leadership of our team objectives, and it’s good experience to manage a team of our size. Though I have been leading on the pipeline work for some time, I don’t feel like I’m in Martin’s shadow this week.&lt;/p&gt;
+
+&lt;p&gt;We had our sprint planning which seemed to go well. People were enthused about working on pipeline stuff and didn’t have any questions about the sprint goals I’d set. So I think I’ve settled in! I know our domain, I’m hyped to work on a really technical team, and we’re doing cool things.&lt;/p&gt;
+
+&lt;p&gt;Our retro was pretty chilled too. The only significant problem we discussed was that using GPG for encryption was cumbersome and maybe we could change it! We’re working as a solid unit on Platform Health now, I’m really grateful to have my first go at running a large agile team with these people.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Did some planning of the quarter ahead and how we’ll meet our key results. This was mostly sticking up Post-its on our physical board for the initiatives we’ll need to complete, which meant we needed to iterate the workstreams we’d laid out in &lt;a href=&quot;https://weeknot.es/the-launch-of-quarter-3-cf4e1b6ac614&quot;&gt;S02E01&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Though we’d initially chosen to list our key results as workstreams, it feels better to list the different classes of activity we’ll undertake to learn and make improvements. The three key workstreams are now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ideas and Research, to find out what we know, don’t know and need to know&lt;/li&gt;
+  &lt;li&gt;Build and Test, to create or improve a thing and make sure it doesn’t break anything else&lt;/li&gt;
+  &lt;li&gt;Measure and Learn, to set or test a benchmark and analyse whether our hypothesis has been validated&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s the framework for a lean experimental approach mentioned in &lt;a href=&quot;https://weeknot.es/the-finale-bda5ca81237c&quot;&gt;S01E10&lt;/a&gt; and should help ensure we keep focussed on making proactive improvements to the pipeline, meaning we don’t get sidetracked by BAU reactive work and fixes.&lt;/p&gt;
+
+&lt;p&gt;Oh, we gave Tom a good send-off at the pub. Spent lots of time talking with Rob, our lead product manager until he heads of to productise an interesting new start-up. Half about work stuff and my ideas for the platform, but the other half just about personal life. Turns out we both have a fisherman for a father! Lots of time spent as a kid by a riverbank wondering when the fun would start.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Didn’t yet hear back from the recruitment team about the product manager vacancies at GDS, which is annoying as interviews are supposed to start on Monday. Perhaps they’ve had to knock it back – or maybe loads of superstars have applied! I’m fairly confident that I’ll get an interview based on what others have been telling me, but it’s natural to worry. Perhaps I’ll apply for the vacancy at HMRC which Alex mentioned or maybe the one at MOJ Scott has. I would really, &lt;em&gt;really&lt;/em&gt; like to stay at GDS though.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-ilearned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;Initiatives don’t have to fit neatly into key results, or you will have to do some work which spans across a couple of key results. Workstreams are themes of work.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-dobetter&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;I stormed into the SLO-setting session without much of a plan except what was in my head. I’ll need to firm that up for the next time we run a session, so that there’s less _umm_ing and _ahh_ing.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/whatsapp-web-internet-shutdown-india-turn-off&quot;&gt;To fight fake news on WhatsApp, India is turning off the internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.martinlugton.com/achieving-extraordinary-results-with-ordinary-people-marty-cagan/&quot;&gt;Achieving Extraordinary Results with Ordinary People&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/VfkSxU6JgR&quot;&gt;Regulating for Responsible Technology: Introducing the Office for Responsible Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dataingovernment.blog.gov.uk/2018/10/19/how-we-used-deep-learning-to-structure-gov-uks-content/&quot;&gt;How we used deep learning to structure GOV.UK’s content&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 27 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/10/27/The-Delivery/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/10/27/The-Delivery/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Unconference</title>
+        <description>&lt;p&gt;These notes are hurriedly typed up, not well formatted, and probably impenetrable – but they make sense to me. I’ve pulled out the main lessons from the week, but everything was overshadowed by the unconference – which was a real success. I’m very proud of that and in debt to the people who helped me put it together.&lt;/p&gt;
+
+&lt;p&gt;It took a lot of energy though, so this week’s notes haven’t been given the same dedication as usual.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Had aimed to work out which applications needed work in the pipeline by looking at stats in AWS X-Ray, our request tracing software. Spent most of the morning trying to get access to it. We’ve only recently got access to Amazon Web Services set up, so we have only a few administrators, and everyone who could help was at AWS Game Day. It was frustrating that I couldn’t start gathering data that would be essential for backing up any work we decide to do.&lt;/p&gt;
+
+&lt;p&gt;But that changed in the afternoon. I heard about an incident review and realised we had to cater to &lt;em&gt;everything&lt;/em&gt; going through the pipeline, not just fix the slow stuff. It got me thinking: maybe looking at the data first wasn’t the right way to go, and everything should be based on user value. I changed tack and thought about criticality of &lt;em&gt;all&lt;/em&gt; jobs-to-be-done on GOV.UK. It’s a way to cut through everything the platform offers and prioritise everything against each other. I was in a serious flow of creative thinking but needed to check my analysis against something, so I went and bothered &lt;a href=&quot;https://medium.com/u/f30ef58c4490&quot;&gt;Emily&lt;/a&gt;. She helped by sharing how they’re approaching setting SLIs by mapping user journeys and stack traces against outcomes. This was massively helpful – exactly what I needed – and I went away to start building a framework to help us work out which applications need work &lt;em&gt;first&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The boon here is that we have tons of data, swathes of it – huge tracts of data – but now we know how to slice it up.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Put the framework together in the morning and started weighting some jobs against each other. Realised we needed to validate our assumptions against some qualitative data, started thinking about how to form a survey for the programme, content product leads and other teams – the intro of which became an explainer for the framework.&lt;/p&gt;
+
+&lt;p&gt;Had pre-planning, explained my ideas to Martin and Bevan. The framework supports the research Bevan’s already done and the hypotheses he’s put together for improving things, and it gives us an objective view of what we’re fixing and by how much. We should be able to marry up, quite quickly, their ideas to a delivery plan without much ambiguity. Arguably the technologists on our team would be able to fix the pipeline without a product manager, they’re hugely talented, but the framework gives us a way to get buy-in from the management team – and check our assumptions too.&lt;/p&gt;
+
+&lt;p&gt;Later there was an interesting comment when a team member said that some parts of the onboarding process were crap, but when asked how they’d change it they just reiterated it was crap. They didn’t offer ideas for what they’d hoped would be different. Bevan said that people don’t immediately realise they have the agency to change things, but we do at GDS. We can actually improve our workplace, and it’s a good point. Mustn’t forget that.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Another great morning coffee with &lt;a href=&quot;https://medium.com/u/e2a8548b9f4f&quot;&gt;Alex&lt;/a&gt;. We talked about selling ideas into teams and how, ideally, platform teams should be able to work autonomously.&lt;/p&gt;
+
+&lt;p&gt;Have spent much of the last two weeks helping a Content Designer from another department with their struggles dealing the culture of their workplace. It’s deadline heavy, their scrum masters don’t listen and just are not really willing to help. Bad situation but felt it was important to help them try and improve the scenario, but also reminded them that they can choose which battles to fight.&lt;/p&gt;
+
+&lt;p&gt;Had a tougher-than-usual sprint planning session but that was to be expected. Last week’s didn’t register with people and I’ve since had new thinking to help frame things, and wanted to make sure that landed well. So, I put forward cards for how we’ll change tack and look at defining how different bits of the stack fit together based on Jobs-to-be-Done. Had some healthy challenge from Bevan, and one of our developers, Tom, asked &lt;em&gt;What if it turns out the problems are all with Whitehall Publisher?&lt;/em&gt; Well, at least then we’ll have the data to spin up a mission around fixing or replacing it.&lt;/p&gt;
+
+&lt;p&gt;I’m trying to find a way to turn all the latent problems with GOV.UK into a 12-month roadmap. Feel like this could be the beginning of that.&lt;/p&gt;
+
+&lt;p&gt;The afternoon was spent celebrating GOV.UK’s sixth birthday, and it still feels like an honour to work on this thing!&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Was supposed to present at the Delivery &amp;amp; Support fortnightly huddle but a couple of folk overran, so we got bumped to the next one. Not terrible but I’d rather not spend another 45 minutes on a Thursday morning stood with cortisol and adrenaline sumping through my system. We’re going to be billed first at either the next all-staff or next D&amp;amp;S fortnightly, so at least something came good of it.&lt;/p&gt;
+
+&lt;p&gt;I wrote some prompt cards about working in the open, thanks to &lt;a href=&quot;https://medium.com/u/fb24db1416c3&quot;&gt;@jukesie&lt;/a&gt; for the inspiration. We checked in with the programme team which was all good. They’re happy with our progress and asked us to share our approach to check-ins with the rest of the programme, so I’ll build on those OKR slides and share here.&lt;/p&gt;
+
+&lt;p&gt;Took a Pedal Me bike taxi home, tested the PA system for livestreaming at the unconference, but found out that one key bit was missing. Poo. At least it was one less thing to worry about but I had really wanted to share Marty Cagan’s talk for people who were unable to attend.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Chatted to Bevan about an incident from Thursday. Fixing it nicely coincides with work we’re due to do next, so encouraged him to write up cards and pull the work through. Felt good to have some of the framework validated in real-life, based on real events. Had stand-up then went off to Geovation to get the unconference going. I’ve been working on this for a couple of months, so there were some butterflies in the morning, but they dissipated by the time I arrived – just really wanted it to work!&lt;/p&gt;
+
+&lt;p&gt;Was a little late but Jon, Marie, Anna-Marie and Alex had got going. We had a run-through of the day, and there was little left to sort out, but James was really helpful in shaping how to run the session voting. And we were really lucky that Geovation had some tech to get the livestream sorted! They had a Mevo which could stream direct to Vimeo – a massive relief!&lt;/p&gt;
+
+&lt;p&gt;People started arriving, we had pizza, everyone was hanging out, then we got started. The sessions were pitched well and lively. Really glad people engaged with it.&lt;/p&gt;
+
+&lt;p&gt;Marty turned up and was pretty chill. Nice bloke, and really nice of him to take time out to chat to us. It was an inspiring talk, as you might expect, and I was overjoyed that there was so much note-taking in the crowd. Let me know if you want to watch it, I’ll ping the link over. (Check cross-gov Slack in the #prodmgmt channel if you’re on there.)&lt;/p&gt;
+
+&lt;p&gt;Ended the day at the pub, a couple of glasses of wine, and a healthy chat with &lt;a href=&quot;https://medium.com/u/f30ef58c4490&quot;&gt;Emily&lt;/a&gt; on the Overground home. It was an incredible day!&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-ilearned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;That I know what I’m doing.&lt;/p&gt;
+
+&lt;p&gt;I’ve not found myself suffering from imposter syndrome, and though it’s important not to be egotistical as a product manager, this week really felt like I was hitting my stride. Maintaining that flow while also keeping a healthy dose of humility about my work is now my focus.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-dobetter&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Be ready to take on challenge from other team members, and not be phased by it. It’s my job to guide us, not set the work, so I might sometimes have to be Devil’s Advocate to my own plans in order to explore the team’s challenges.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dlberes/its-too-late-to-stop-trusting-facebook-2488cb76b9e&quot;&gt;It’s Too Late to Stop Trusting Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@s_m_i/working-notes-on-product-management-7353cd8b9964&quot;&gt;Working notes on product management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 21 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/10/21/The-Unconference/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/10/21/The-Unconference/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Launch of Quarter 3</title>
+        <description>&lt;p&gt;A new quarter, a new series. My weeknotes have been an excellent learning aid so far, so I’m carrying on with them. It was awesome to meet &lt;a href=&quot;https://medium.com/u/4cd140afefc2&quot;&gt;Dan&lt;/a&gt;, &lt;a href=&quot;https://medium.com/u/fb24db1416c3&quot;&gt;@jukesie&lt;/a&gt;, &lt;a href=&quot;https://medium.com/u/53cebec8f152&quot;&gt;Coco&lt;/a&gt; and &lt;a href=&quot;https://medium.com/u/fdfe39be24e0&quot;&gt;Louise&lt;/a&gt; last week and it wouldn’t have happened without this little journaling style. I’m putting together an unconference session around working in the open as a result, please send me your tidbits.&lt;/p&gt;
+
+&lt;p&gt;A fair chunk of this week was dedicated to getting the team set up, so I’ve written about that. It’ll be helpful in the future. I probably drank too much though, and after a fun Friday drinking with two workmates I was &lt;em&gt;wiped&lt;/em&gt; yesterday – hence why these are later than usual. I’ll also be moving everything to my own website soon, though still posting on Medium for the &lt;a href=&quot;https://weeknot.es&quot;&gt;weeknotes aggregator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We broke a bottle of champagne over the bow of quarter 3 and launched the damn thing. Monday was all about kicking things off: grouping the team together, going over what’s changed and what’ll stay the same, introducing our priorities for the next 3 months, and welcoming our two new members.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/600/1*GyDxP0ou65R1XNBMRlRTlQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’ve been reading my weeknotes for a while, you’ll remember that I covered our objectives and key results for 2018/19 Q3 in &lt;a href=&quot;https://weeknot.es/the-finale-bda5ca81237c&quot;&gt;S01E10&lt;/a&gt;, but since some people might find it useful, here’s the slide we use to visualise and report on our OKRs.&lt;/p&gt;
+
+&lt;p&gt;I also put together a slide deck which explained our team and its work in a little more detail for our new developers, Alan and Aga. We spent an hour with them in the afternoon, taking them through the point of our team, our vision, what we’d done before and how that fits in to our the work we’re doing soon. Context is everything to ensure we hit the ground running, and I wanted to make sure they had everything explained plus a document they could refer back to. It also gave them an opportunity to ask questions, and they seemed quite happy with everything.&lt;/p&gt;
+
+&lt;p&gt;The last job for the day was to mark up our physical boards with grid tape. It’s something I asked for us to introduce last quarter, so we can orient ourselves, and it was hugely helpful. You can mark the sprint goals for each workstream throughout the quarter, getting a sense for whether you’re likely to achieve your overall goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*9_j6DbdUTEEbJwRyatCN5g@2x.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our Q2 physical board. A grid with sprints as columns and workstreams as rows.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Our wonderful delivery manager introduced the Platform Health delivery style. They went over agile vs waterfall, the difference between scrum and kanban, and explained our hybrid method and why it works. There was also a game about what happens when the product manager changes the priorities of a sprint halfway through, and how to account for that. Largely we try not upend things once we’ve started a sprint but as a (sort of) support team, other people can have other ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/u/86da9a49c10b&quot;&gt;Richard&lt;/a&gt; and me ran another product management community session. Our new Head of Community, &lt;a href=&quot;https://twitter.com/JPForman86&quot;&gt;Jon&lt;/a&gt;, said hello to the everyone; our &lt;a href=&quot;https://www.linkedin.com/in/chris-russell-6760564/&quot;&gt;Deputy Director for Product&lt;/a&gt; told everyone about the &lt;a href=&quot;https://jobs.jobvite.com/gds/jobs/category?c=Product+management#jobs&quot;&gt;new product roles&lt;/a&gt; we could apply for; Katie and Alex showed us about behaviour-driven development; and we had an AMA with outgoing lead product manager on Reliability Engineering, &lt;a href=&quot;https://www.linkedin.com/in/tomdolanuk/&quot;&gt;Tom&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tom’s an exceptional product manager, the kind of vision leader who can cogently inspire, explain and motivate in a small sum of words. The audience could ask him questions using &lt;a href=&quot;https://www.sli.do&quot;&gt;Slido&lt;/a&gt; on their phones, and we had these displayed on a big screen. My initial hope was that people might ask some cheeky questions but everyone was quite well mannered, and the questions mostly sought to learn from his good experience. We’re going to try it again at a future event.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;I met recent weeknotes convert, &lt;a href=&quot;https://medium.com/u/e2a8548b9f4f&quot;&gt;Alex&lt;/a&gt;, who works at &lt;a href=&quot;https://medium.com/u/d076523eaf3b&quot;&gt;Unruly Media&lt;/a&gt; which is luckily in the same building. We had an excellent chat about team culture, working on infrastructure projects, the value of being open, and our shared experiences of civic tech. He put together &lt;a href=&quot;https://democracyclub.org.uk/projects/polling-stations/embed/&quot;&gt;Democracy Club’s polling station finder widget&lt;/a&gt; (I think I’ve got that right) which was super useful during the last big round of local elections. We’ve set up a weekly coffee to learn more from each other and meet with other tech people in Whitechapel – all thanks to weeknotes!&lt;/p&gt;
+
+&lt;p&gt;We had a retro for quarter 2, the main takeaway from which was that everyone feels good about their work. I’ve been trying to encourage us to blog more but we feel limited by the system the Comms team has put around it. It’s important for us to feel empowered to talk about our work through official channels, and I offered to help work on blog posts with anyone who wanted to write one. But on Monday I’ll be sharing this weeknote and hope some people will jump onboard. One of our developers, &lt;a href=&quot;https://memo.barrucadu.co.uk/tag/weeknotes.html&quot;&gt;Michael&lt;/a&gt;, already has.&lt;/p&gt;
+
+&lt;p&gt;Updating our &lt;a href=&quot;https://github.com/alphagov/seal/blob/release_52/config/alphagov.yml#L110&quot;&gt;team charter&lt;/a&gt; was another 45 minutes well spent. It gave us the opportunity to review how well we’d applied our thinking, as well as space to talk about anything we might want to add. It turns out that the team charter is quite a lynch pin to how we work, and it was good that everyone wanted to spend time on it. Something I must bear in mind for future teams.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Caught up with Heads of Product across government about the &lt;a href=&quot;https://www.eventbrite.co.uk/e/cross-government-product-people-unconference-tickets-50708536598&quot;&gt;unconference&lt;/a&gt; I’ve accidentally organised for product managers. Jon’s joined at just the right time and been able to pick up some tasks, including helping me wrangle some other key players. He’s even gone and created a slide deck for the day, so we can show the agenda and messages to attendees. He’s been really helpful and it’s an excellent show of how he’ll run the show as head of community, I think.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Did lots of product thinking. My calendar’s looking quite empty on Fridays for the next few months, so I’m going to mark it out as a day for product thinking. Was able to pore through some data with our tech lead, Bevan, which we’d collected through X-Ray. He came up with some great ideas for how we can meet our key results using existing methods, which I think will help us get ahead. I’ll be working much more closely with Bevan this quarter, so I’m excited to see what he’ll come up with as the weeks move on.&lt;/p&gt;
+
+&lt;p&gt;I sense-checked my thinking against Martin, who seemed to think it was all sound. We walked and talked, venturing down to the riverside at Tower Bridge, which was a lovely way to spend half an hour. Also, walking is a great enabler of thinking – the repetitive motion helps your body get into the flow state, I find. I wrapped it all up and published some thinking on our Q3 wiki page, and I’d like to make sure that’s updated across the quarter. It’s an essential record of what we’re doing and what we discover, which can help future versions of ourselves (as I learned in &lt;a href=&quot;https://weeknot.es/the-step-up-2f6926ad0981&quot;&gt;S01E03&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-ilearned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;A good structure around your work and your team can democratise how it works. I was surprised by how much everyone was invested in the team charter.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-dobetter&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Delegating work to the most appropriate agents. I am very much an ideas man – in general and in my role – but others are willing to make those ideas happen too.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://smethur.st/posts/176135868&quot;&gt;This isn’t for everyone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban&quot;&gt;What is Article 13? The EU’s divisive new copyright plan explained&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/kalevleetaru/2018/10/12/why-facebooks-breach-should-mean-deletefacebook-but-wont/&quot;&gt;Why Facebook’s Breach Should Mean #DeleteFacebook But Won’t&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/&quot;&gt;The Coders Programming Themselves Out of a Job&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 14 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Finale</title>
+        <description>&lt;p&gt;Lots of time spent in meetings or at events this week, but I did manage to hold one worthwhile team session, at least. Need to start blocking out time in my calendar for menial tasks next quarter — emails, Trello, backlog-sorting and the like — so that meetings don’t derail making progress. Desperately need to &lt;strong&gt;get shit done&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;This will be the final episode of my first series of weeknotes. I’ve decided to start a new series each quarter and since next week I’m not in the office, I’ll miss the final sprint and won’t have anything work-related to talk about. So I’m taking two weeks off and will be back with series two in the second week of October!&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this…especially this week&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Mostly spent Monday thinking about the future, the very immediate future. Quarter 3 missions have been finalised, ours being to prepare the GOV.UK platform for the scale demands of Brexit. The point of the mission is to de-risk EU Exit (for GOV.UK) by preparing for large numbers of visitors and concurrent publishing. There’s lots of opportunity to use an lean experimental approach, setting hypotheses and testing scenarios, reading the results to inform product development.&lt;/p&gt;
+
+&lt;p&gt;Our key results contributing to a successful mission will be&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;migrating GOV.UK applications to AWS,&lt;/li&gt;
+  &lt;li&gt;setting publishing speed and reliability benchmarks and improving those by 10%,&lt;/li&gt;
+  &lt;li&gt;stress-testing the pipeline with 2x, 4x, 6x and 8x peak activity, setting hypotheses for improving concurrent publishing next quarter, and&lt;/li&gt;
+  &lt;li&gt;serving 2x previous hourly peak traffic with no drop in performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my head, it’s going to work a bit like the production and development of space capsules in &lt;a href=&quot;https://en.wikipedia.org/wiki/Project_Mercury&quot;&gt;Project Mercury&lt;/a&gt;, which I saw in &lt;a href=&quot;https://www.imdb.com/title/tt4846340/&quot;&gt;&lt;em&gt;Hidden Figures&lt;/em&gt;&lt;/a&gt;. (This week’s image is NASA research mathematician Katherine Johnson, whose story and work the film covers.)&lt;/p&gt;
+
+&lt;p&gt;We went for lunch to try and work out our development approach but ended up talking about people. We’re blessed with some excellent developers on our team, but one project has been unfortunately siloed and losing its lead would be a detriment. &lt;a href=&quot;https://blogs.msdn.microsoft.com/oldnewthing/20121211-00/?p=5863&quot;&gt;V-teams&lt;/a&gt; have their own cadence, despite how fast your own part moves. So we’ll need to tussle for that developer’s inclusion on our roster next quarter.&lt;/p&gt;
+
+&lt;p&gt;We did explore options for making concurrent publishing better though, and it’ll be interesting to see those develop further as we put the pipeline through its paces.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;We went to an all-staff event, to hear about &lt;a href=&quot;https://twitter.com/Carrie999Murray/status/1042119219545104384&quot;&gt;GDS’s future agenda and how it’s being made a great place to work&lt;/a&gt;. I do love working at GDS and feel blessed to work on GOV.UK, but frankly I’m oblivious as to how much of that can be credited to the current management. Could be loads, could be little, I’ve honestly no idea. Regardless, they’re doing their bit and I get paid each month, so I can’t complain. It’s essential, though, that we sustain the grassroots start-up culture and people have space to do their best work. We should ask for forgiveness rather than permission on the frontlines of transformation.&lt;/p&gt;
+
+&lt;p&gt;After all the corporate jargon (sorry, corporate building blocks), we heard lightning talks from teams who’re really bringing in the results. Would have been better to fill the event with those stories, to be honest. And so closing on a tale of &lt;a href=&quot;https://twitter.com/Matt_Leat/status/1042105873336860674&quot;&gt;how open standards can save lives&lt;/a&gt; from &lt;a href=&quot;https://twitter.com/GoAgileGov&quot;&gt;James Findlay&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Matt_Leat&quot;&gt;Matt Leat&lt;/a&gt; was awesome. It worked in the Victorian era when railways were breaking new ground, and it’s the same now. Ask them to share that talk if you’re exploring open standards at any time, it gives you good perspective.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I can also recommend &lt;a href=&quot;https://medium.com/u/c8c40c52174f&quot;&gt;Mike&lt;/a&gt;’s blog on &lt;a href=&quot;https://medium.com/porism/boring-boring-standards-8843b2ea1f85&quot;&gt;why standards are surprisingly not boring&lt;/a&gt;, and &lt;a href=&quot;https://standards.porism.com&quot;&gt;a guide to creating and maintaining open standards&lt;/a&gt; which is also from my alma mater.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Held a scoring session on our backlog of cards grouped under a theme to promote the underlying health of GOV.UK. Those come from a mixture of sources: tech debt, other mission work, ideas from 2nd Line shifts, and good ol’ regular forward-thinking. They haven’t been a priority for the last three months, but given that we’re about to enter a period where the health of the platform is paramount, it seemed like a good idea to look through them.&lt;/p&gt;
+
+&lt;p&gt;I used a simple Value vs Effort matrix to score cards and help us make decisions on where to focus effort, checking the relative value of each card. It pays to be ruthless in time-keeping, avoiding too much talk – it’s not a science, we’re only looking for an objective view. I’ll write a post on how I structured that session, in case it’s of use to anyone.&lt;/p&gt;
+
+&lt;p&gt;The best result was archiving cards we’d done already in other work. Some cards had their nature altered too; for example, a card about extending an interoperable method to our publishing API turned into one about removing that method from the stack entirely. We’d superseded it with a better, more long-term solution! But the rest is either low-hanging fruit, stuff that needs to be planned into sprints, and ‘anytime’ or ‘some time’ cards.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Had a remote meeting with Heads of Product across government to talk about an event we’re putting together. It’s good to get the perspective of how product management works across government, and it’s just nice to say hello to your colleagues in other departments.&lt;/p&gt;
+
+&lt;p&gt;We ironed out the theme of the event, ideas on the running order, and other logistical bits and pieces. There’s a little more work to do this weekend but, once that’s done, we should be able to release tickets early next week. (It’s free but the size of the venue limits how many spaces we have to offer.)&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Martin and I made some headway into our data science course, first mentioned in &lt;a href=&quot;https://weeknot.es/the-snorlax-95f4ac78c4c4&quot;&gt;S01E07&lt;/a&gt;. It was mostly getting to grips with &lt;a href=&quot;https://www.tableau.com&quot;&gt;Tableau&lt;/a&gt;, a data analysis and visualisation tool, which is really good. You simply feed it a CSV or open data API endpoint and it’ll work out the measures and dimensions, allowing you to build visualisations quickly. You can create calculated measures too, adding new levels of analysis on top of the raw dataset. If you’re at all curious about data science, what it is and how to do it, the &lt;a href=&quot;https://www.udemy.com/share/1000juBUMeeFZRTX4=/&quot;&gt;Data Science A-Z™&lt;/a&gt; course on Udemy is the one we’re taking and would fill a weekend comfortably.&lt;/p&gt;
+
+&lt;p&gt;That got me thinking about what projects we could start during the course. I’m intrigued to know if the way content is arranged on our &lt;a href=&quot;https://www.blog.gov.uk&quot;&gt;blogs platform&lt;/a&gt; makes a difference to performance metrics. For example, does fewer paragraphs under headings affect scroll depth? Do blog posts with images receive more traffic, and, if so, do pictures of people or diagrams make a difference? But I know Martin’s keen to analyse what items food banks need – an idea I had back in December in this &lt;a href=&quot;https://medium.com/porism/democratising-civic-problem-solving-1a3c81a6d3b7&quot;&gt;blog post&lt;/a&gt; – and that’s certainly a more worthy use of our time and brains. Be cool to automate it all and publish the data openly with &lt;a href=&quot;https://octopub.io&quot;&gt;Octopub&lt;/a&gt; or something, as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The team is the unit of delivery&lt;/li&gt;
+  &lt;li&gt;Dust off those dormant backlogs, you might surprise yourself&lt;/li&gt;
+  &lt;li&gt;Jump right in and get involved in your community – it’s FUN!&lt;/li&gt;
+  &lt;li&gt;Learning new concepts is achievable if you give yourself the time to do it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2018/08/29/tips-on-how-to-set-up-and-maintain-your-own-community/&quot;&gt;Tips on how to set up and maintain your own community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/meet-now-conquer-now-build-your-brand-by-staging-events/&quot;&gt;Connect and conquer - build your brand by staging events&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Sep 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/09/22/The-Finale/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/09/22/The-Finale/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Successful Experiment</title>
+        <description>&lt;p&gt;The last two weeks have been really packed, so you might find this set of weeknotes quite brief. I’m giving myself a breather. The practice is valuable but isn’t without cost, so this is a little mid-series rest. Perhaps I’ll try one of the other formats or try inventing my own.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Is there a list of formats, #weeknotes crew? Let me know!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;EDIT: &lt;a href=&quot;https://medium.com/u/1914560770fb&quot;&gt;Sam&lt;/a&gt; put together a post on the &lt;a href=&quot;https://weeknot.es/weeknote-styles-61d957e58a4a&quot;&gt;styles used across the weeknotes community&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;four-things-thathappened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Blasted through the inbox. Had a meeting with a council finish early and a meeting with a colleague was also cancelled, giving me more time to work through stuff.&lt;/p&gt;
+
+&lt;p&gt;Caught up with a department on their progress, all moving along nicely.&lt;/p&gt;
+
+&lt;p&gt;Also spent an hour with Joe talking about OKRs, KPIs, etc. Mainly chatted about the framework that’s been rolled out across GDS, how it’s working for other programmes but doesn’t fit well with GOV.UK. Suspect we’ve always been a bit of a different beast but I’d like to introduce experimentation to our team’s approach next quarter, to make us think about measurability more.&lt;/p&gt;
+
+&lt;p&gt;Had a &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2018/09/10/how-were-improving-publishing-times/&quot;&gt;blog post&lt;/a&gt; published – yay! The first one I’ve written since joining GDS in January, which is great because their blogging was part of what inspired me to apply.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Got the Q3 missions close to being finalised in the GOV.UK PM community meet-up. Everyone’s sold on our mission, to continue improving the publishing pipeline and stress test it for Brexit: high load, concurrent jobs and reliable tools. I thought about a simple open roadmap for GOV.UK, might have to get one going during firebreak.&lt;/p&gt;
+
+&lt;p&gt;Also met with Mark, who’s with DExEU briefly, and our 2nd Line crew to cover the next big Brexit publishing event – the second round of &lt;a href=&quot;http://gov.uk/technicalnotices&quot;&gt;technical notices&lt;/a&gt;. We’ve got a different tactic this time, based on the sequence of events last time, and we’ll be testing out our new cache invalidation service. Everyone was pretty calm and felt secure, the rounds of testing definitely helped. The &lt;a href=&quot;https://gdstechnology.blog.gov.uk/2015/02/06/running-a-game-day-for-gov-uk/&quot;&gt;Game Day approach&lt;/a&gt; to getting through worrying times is great.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Randomly got to meet the new head of product management community, &lt;a href=&quot;https://twitter.com/JPForman86&quot;&gt;Jon&lt;/a&gt;. He caught wind on Slack that we were heading to a &lt;a href=&quot;https://www.meetup.com/ProductTank/events/253945616/&quot;&gt;ProductTank on internal products&lt;/a&gt; and we invited him along. Went for a curry at Tayyab’s first, with &lt;a href=&quot;https://medium.com/u/f30ef58c4490&quot;&gt;Emily&lt;/a&gt; and Martin too, a great way to induct someone into the PM community! Also gave us an opportunity to learn about him informally, and to tell him about the culture at GDS, how we’re wary of anything too corporate.&lt;/p&gt;
+
+&lt;p&gt;Honestly, I thought it was a pretty naff ProductTank, but I finally got to meet &lt;a href=&quot;https://medium.com/u/fb24db1416c3&quot;&gt;@jukesie&lt;/a&gt; which was awesome! Been following that guy on Twitter for years, glad to have the chance to say hello. Can’t wait for the #weeknotes meet-up in Bristol now.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;The publishing of the technical notices went like a breeze. And our experiment with cache invalidation worked! 🎉 We were able to serve new and updated content quickly, with fewer of the imperfections of last time. This not only gives us confidence that our hypotheses for fixes are correct, we’ve also made considerable improvements this quarter. We’re writing a blog post on that work, will share it when it’s ready, but there’s a big headline metric for the end of quarter Show &amp;amp; Tell we can be proud of.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OKRs are there to help you be objective in a complicated world of ‘delivering value’&lt;/li&gt;
+  &lt;li&gt;Simulating failure in a safe environment is an incredible way to learn more about your systems&lt;/li&gt;
+  &lt;li&gt;Community is central to the human experience&lt;/li&gt;
+  &lt;li&gt;We know what’s healthy, what’s not and how to fix things&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;p&gt;After Ellie taught me about &lt;a href=&quot;https://twitter.com/Ellayanor/status/1037756853579599881&quot;&gt;low spoons&lt;/a&gt;, I’ve looked at my own mental capacity in a different light. The past couple weeks have been a bit busy, so I’ve avoided stuffing my head with more information this week.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Sep 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/09/16/The-Successful-Experiment/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/09/16/The-Successful-Experiment/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Cusp</title>
+        <description>&lt;p&gt;We’re in a liminal zone, a headspace between two periods but only present physically in one. It’s a headtrip to operate that way. For most of the quarter we’ve been working from a physical board, but as we’re nearing the end of that and there’s no board for next quarter, you have to keep everything in your head. That saps energy, and it’s something to learn from for next quarter.&lt;/p&gt;
+
+&lt;p&gt;A busy week with lots of brain-thinking stuff and tiredness, but here’s what we did.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;I went over how our content designer, Mark, helped DExEU publish the &lt;a href=&quot;https://www.gov.uk/technicalnotices&quot;&gt;technical notices&lt;/a&gt;, to understand the user behaviour behind publishing those documents. There’s more to come from government and we want to be prepared to help deliver that information. He placed trust in scheduling a publication which not all users do, so that’s one area to keep an eye.&lt;/p&gt;
+
+&lt;p&gt;I’ve been assuming there’s some work to be done to build back publishers’ trust in the publishing system as a whole, but validating that could be tough. However, there’s other mission teams on GOV.UK looking after publisher workflows and they’ll likely be looking into satisfaction ratings. Having said that, it’s an opportunity to get in front of users on a team that rarely has face-to-face contact with our publishing community.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;The first PM community session organised by ProductBuro went well – I think. Yay! Iain gave a good talk about metrics, reminding us that we can go back to basics and choose to observe the signals that tell us we’re solving problems. Afterwards we had a chat about long run indicators, &lt;a href=&quot;https://weeknot.es/weeknotes-s01e02-81f7c23f5bb5&quot;&gt;something which I’ve touched on previously&lt;/a&gt; thanks to a Product for Good meet-up. For example, a good metric to measure the value of GOV.UK is a reduction in contact volume to call centres.&lt;/p&gt;
+
+&lt;p&gt;Given there’s lots of chat about KPIs, measuring value and &lt;a href=&quot;https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/digital-government-inquiry-launch-17-19/&quot;&gt;general wondering about whether Government Digital Service is worth it&lt;/a&gt;, articulating the difference between short term performance measurement and long term impact assessment could be quite pertinent.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Meeting other product managers across the community is always interesting, especially when government causes our practice to be warped from the norm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/lisa_e_scott&quot;&gt;Lisa&lt;/a&gt; organised an unprecedented Product People meet-up in London…or at least I’ve never been to one so busy, with so many speakers! We heard from product managers at HMRC, MoJ, GDS and CQC about product management on a non-software team. Developing policy is different to developing a product, but the tools you use and how you describe success, how people drive outcomes, is almost identical. It comes down to the tenets of product management: an understanding of users and a desire for fight for their needs, an understanding of the organisation and a willingness to involve their insights, and an understanding of the mechanics of your problem space. If you don’t mind being Chief Antagonist, you’ll be all right.&lt;/p&gt;
+
+&lt;p&gt;Afterwards I got to meet the inimitable Rose Waite who co-founded the Product People meet-up (she’s written about &lt;a href=&quot;https://gds.blog.gov.uk/2018/08/29/tips-on-how-to-set-up-and-maintain-your-own-community/&quot;&gt;how Product People got started and how to maintain a community&lt;/a&gt;), and she spoke of the revolution within government that is indicative of transformation. I’m wondering whether we’re entering a second generation of that movement, as the &lt;em&gt;avant-garde&lt;/em&gt; move on in great numbers, and how we sustain the momentum. There’s OneTeamGov, yes, but if your direct leadership team isn’t a part of it, what then?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do @ me, I know the weeknotes community will have valuable thoughts on this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;I brought about 45 per cent of myself to work one day. Partly a result of falling asleep on the sofa accidentally, rousing from slumber by the cat at 2 a.m., then plodding to bed. Waking again 2 hours later, lain upright with a crick in my neck from too many pillows was a further dint. Trying to push through any day on little sleep, let alone a busy one in the final third of a quarter, is really tough.&lt;/p&gt;
+
+&lt;p&gt;But thankfully we’re gifted with flexible working at Government Digital Service. Tomorrow I can work from Wales (WFW) in any place with a table and WiFi. This kind of flexibility, which enables one to work hard but adjust their environs based on circumstance, operates beneath a layer of trust. And it’s not something to be taken for granted. I can have a full night’s rest, in a silent village, and still work on complex problems tomorrow.&lt;/p&gt;
+
+&lt;p&gt;We engineer our working lives to make optimal achievements, but underneath it all we’re just humans with unquantified, organic machinery. Sometimes nature’s signals are the best alerts to monitor.&lt;/p&gt;
+
+&lt;p&gt;Aside from all that, I was grateful to Joe – a senior business analyst looking at KPIs across our programmes – for reaching out and asking for more time to chat through something. We’d left a chance conversation the previous day unfinished and it needed a conclusion; he stepped up and heard me out.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Also, I got a bit sad we hadn’t been able to achieve a load on the pipeline work. But I was reminded that we have lots on, and there’s still time left. Thankfully everyone’s enthused with the work and wants to do more, and I’m looking forward to forming a final productive push. I’m getting together with our technical lead and a senior dev on Monday to shape the stories, and we’ll put them in front of the team when there’s room on the quarterly roadmap.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research is good, but some times you won’t learn anything new&lt;/li&gt;
+  &lt;li&gt;We still need a way to look into turning qualitative comments into quantitative metrics&lt;/li&gt;
+  &lt;li&gt;Sometimes nature’s signals are the best alerts to monitor – take time for you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-wants-to-kill-the-url/&quot;&gt;Google Wants to Kill the URL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://contentinsights.com/blog/from-data-driven-to-data-informed-why-the-distinction-matters/&quot;&gt;From data-driven to data-informed: why the distinction matters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@benwerd/rules-for-resters-809e368c0fdb&quot;&gt;Rules for Resters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@asuffield/defining-an-slo-6302f60b218a&quot;&gt;Defining an SLO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 07 Sep 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/09/07/The-Cusp/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/09/07/The-Cusp/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Snorlax</title>
+        <description>&lt;p&gt;Remember in Pokémon Red when a giant beast blocked the road ahead? It was sleeping soundly but looked like a terrifying adversary. Your prods and pokes did nothing to rouse it, but still it lay there, blocking the way. To get past it, you had to go on a convoluted journey to beat your sporting rivals, climb atop a tower and eventually be handed a special flute. Then you had the fight the beast.&lt;/p&gt;
+
+&lt;p&gt;This week was mostly planning a convoluted journey in a short space of time, and we’ve still got to fight the beast. As a result, this week’s notes are shorter and less reflective. It was a busy week and I’m still tired.&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-thathappened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;I met our new head of data science. They’re giving a talk at the next product &amp;amp; service manager community meet-up, so we touched base to say hello and for me to offer help (with my ProductBuro hat on). Though the data science community is small, made up of ~6 people parachuted into teams as needed, it‘ll help product teams learn more about their world and the problem space.&lt;/p&gt;
+
+&lt;p&gt;What’s important about this talk is it’ll give the community some context: how data scientists work, their tools and processes, the sorts of questions data science can answer. Data science can teach us a lot, but understanding the boundaries of what it can deliver, in what timeframe, is essential. No one wants to be asked to complete a PhD project in 3 months.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;And in relation to that, Martin and I JFDI’d starting a data science course! I’ve been thinking about doing something since early July and Martin wanted to get involved too, so we made a start on &lt;a href=&quot;https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e&quot;&gt;the best data science course as according to one data scientist&lt;/a&gt;. It’s a pretty general overview of the tools and techniques, and I’m excited to play with SQL again, and it’ll be a nice deep-dive into that world. If we end up making a project, I’ll blog about it.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;The workshop to help a department with a thorny Brexit thing happened. It went quite well and they’re happy to get moving. I found it very tiring though – four hours leading four people through a sort-of design sprint. Couldn’t have done it without Elliot’s tech involvement and Nick’s delivery management though. Haven’t really had much chance to step back and think about the consultancy model for ‘selling’ our products into other transformation programmes, but will make a note to do so.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Another Brexit shaped thing swooped in, which actually dominated the week. It’s a massive milestone in our roadmap (in everyone’s lives too) and the lack of clarity on what people will need to do come March 2019 is troubling. However, there’s ways in which we prepare for that and make GOV.UK’s vision – the best place to find government services and information – central to how the country will navigate exiting the EU. We spent a good two days looking through a Brexit lens at our propositions for the next six months.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t change our strategy on Platform Health much, we’re still focused on scaling the platform to meet increased demand. We’ve been viewing everything through a Brexit lens anyway, deprioritising anything which wouldn’t contribute to meeting its demands.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Working with other professions is &lt;strong&gt;great&lt;/strong&gt; – expand your world&lt;/li&gt;
+  &lt;li&gt;Working with data requires ‘a deep appreciation for &lt;em&gt;what is possible&lt;/em&gt; and &lt;em&gt;what will&lt;/em&gt; &lt;strong&gt;&lt;em&gt;soon&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;be possible&lt;/em&gt;’  (thanks to &lt;a href=&quot;https://medium.com/u/12a305d5eaad&quot;&gt;Trey Causey&lt;/a&gt; for &lt;a href=&quot;https://medium.com/@treycausey/rise-of-the-data-product-manager-2fb9961b21d1&quot;&gt;this&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Working with other departments is an eye-opener&lt;/li&gt;
+  &lt;li&gt;Oh mate, Brexit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-werecooking&quot;&gt;What We’re Cooking&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sun-dried tomato &amp;amp; spinach linguine with courgette carpaccio (raw courgette marinated in anchovy oil, chilli, garlic and white wine vinegar)&lt;/li&gt;
+  &lt;li&gt;Baba ghanoush, hummus and lemon &amp;amp; parsley freekeh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/if-policy-research/how-did-privacy-come-to-be-enshrined-as-a-human-right-286d97344008&quot;&gt;How did privacy come to be enshrined as a human right?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theoutline.com/post/1528/this-pizza-billboard-used-facial-recognition-tech-to-show-women-ads-for-salad&quot;&gt;A pizza shop used facial recognition in its ads and they’re pretty sexist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ericaavey/microdosing-lsd-made-me-quit-my-job-ba425aa86fcb&quot;&gt;Microdosing Isn’t a Shortcut to Professional Success&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/09/01/The-Snorlax/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/09/01/The-Snorlax/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Unity</title>
+        <description>&lt;p&gt;An overarching feeling on oneness this week. A good team lunch, some get-togethers with good folk, and nice vibes all round really. That’ll continue into the weekend, whether it’s wandering the South Downs Way or skanking to to a mate’s jungle set at Carnival. But without further ado, here’s what I got up to this week.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Procuring funds and commissioning talent takes time. Trying to do it fast is possible, but it’s a lot of running around. I did &lt;em&gt;a lot&lt;/em&gt; of running around, meeting people and typing words, to get some support for one of our products. Should it be easier and quicker? I don’t know, perhaps not. Should it really involve product managers? Mmm, yeah, definitely. You need that space to mentally and physically commit to sub-contracting work, and understand what it means financially, economically and strategically to have another team pick up that effort. It’s just that spending 6 hours a day typing into Google Docs is one of the unglamorous but essential parts of the job.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*Pr07KCPVpvmLXxLpBem7UA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But between that, I spent the other main currency of product management: time in meetings, with 30 minutes alongside my fellows in ProductBuro.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;u wot m8?&lt;/em&gt; Ah, well, ProductBuro is a council of product managers from across the community at GDS, focussed on organising and delivering sessions for the community. It’s been happening organically since &lt;a href=&quot;https://medium.com/u/bb88a6d5fb68&quot;&gt;Ross Ferguson&lt;/a&gt; was artfully poached by Canadian Digital Service – a highly prized moose head to mount on your product team – led by Martin and &lt;a href=&quot;https://medium.com/u/cc3d51c2495a&quot;&gt;Chantal Foyer&lt;/a&gt; (with assistance from others whom I shamefully forget). The aim is to lead the community from within, provide support across programmes and give the PMs chance to bond, learn from each other, share stories and tips, and spur the community onwards – something Ross was incredible at.&lt;/p&gt;
+
+&lt;p&gt;I nominated myself along with fellow weeknoter &lt;a href=&quot;https://medium.com/u/86da9a49c10b&quot;&gt;Richard Walker&lt;/a&gt;, the ebullient &lt;a href=&quot;https://twitter.com/lrnthom&quot;&gt;Lauren&lt;/a&gt;, and the creative Neil (he named the group). Despite expecting some pomp and ritual, we weren’t elected to the posts and our good intent was enough, so hopefully we’ll do the community proud. Having said that, it’s not like we have any special powers, it’s mostly organising things and giving people chance to learn more, which is quite nice. Anyway, the we’ll see how the first meet-up goes! In the meantime, we need to induct the new PMs into the community.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Part of the quarterly mission structure is defining &lt;a href=&quot;https://marcabraham.com/2018/06/05/book-review-radical-focus/&quot;&gt;objectives and key results (OKRs)&lt;/a&gt;, which we set out for quarter 3. We set a bold, qualitative goal for the end of the quarter and define how we’ll reach that with four to five measurable, tangible key results.&lt;/p&gt;
+
+&lt;p&gt;Our team’s mission at Platform Health is to operate and maintain a stable, scalable and secure platform. It’s pretty secure and relatively stable, but the stack of technology needs some work making it scalable to current and future demand.&lt;/p&gt;
+
+&lt;p&gt;We set that as the objective for next quarter, and we’ll know we’ve achieved it when we’ve&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;moved to the cloud,&lt;/li&gt;
+  &lt;li&gt;set and met &lt;a href=&quot;https://medium.com/@asuffield/thinking-about-slos-64841737d1ed&quot;&gt;service level objectives&lt;/a&gt; for publishing, and&lt;/li&gt;
+  &lt;li&gt;made alerting less noisy and more relevant.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Those key results have KPIs for product (we’ll know we’re done when we’ve add &lt;em&gt;x&lt;/em&gt; amount of value) and delivery (we’ll know we’re done when we’ve created &lt;em&gt;y&lt;/em&gt; concept or thing). &lt;em&gt;Why all that fluff and the weapons-grade acronyms?&lt;/em&gt; Because keeping it all in your head is hard, and knowing when you’ve realistically achieved all you could is healthy.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;We tried a new thing with our team Show &amp;amp; Tell: lightning talks on what you’ve been working on. It’s a simple concept. People take 3–5 minutes sharing their work, whether that’s a new application, the finer details of a pull request, knowledge or research. Anything really, but mostly to share context: the unit of delivery is the team, so spread knowledge in more detail because stand-ups aren’t enough. It seemed to go well but we’ll see if there’s any way we can iterate on it.&lt;/p&gt;
+
+&lt;p&gt;I must call myself out for some bad practice though. During &lt;a href=&quot;https://www.gov.uk/technicalnotices&quot;&gt;a big publishing event&lt;/a&gt; later on, I got involved without being asked, and possibly just added extra noise. The team would have found the solution anyway, so my buzzing around was pointless. No one’s complained about it, it’s just that I wasn’t needed, so should have stayed away. An important lesson to learn though.&lt;/p&gt;
+
+&lt;p&gt;Lesson learned, I moved on to where my input &lt;em&gt;was&lt;/em&gt; needed, in a meeting with the awesome &lt;a href=&quot;https://twitter.com/simoneverest&quot;&gt;Simon&lt;/a&gt;. We’re going to help a department with a thorny thing, and he was very, very relieved, because now he can think about the rest of their Brexit thornbush. And theirs is fucking massive, to be fair. This work will give me time to think about a consultancy model for ‘selling’ our products into other transformation programmes.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;We had another good check-in with the programme team. I don’t know what’s happening this quarter but most things seem to be working out. We’re making progress, we’re confident we can deliver the key results, and we know what’s coming up. We’ve found our flow maybe.&lt;/p&gt;
+
+&lt;p&gt;They provided good challenge though, and that’s what we want: prompt us to consider the wider impact of our work, and check our thinking.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;On Friday I got the chance to visit the Product team at Ordnance Survey. Michael, their strategic product manager, explained what they do, their markets and the arms of the business, and their long term strategy. They’re a robust team with great product thinking, and though I had no idea what to expect I left seriously impressed. We mused on shared challenges in the product space and, if I’m quite honest, it would be good to work there once I’m done with London. Check out &lt;a href=&quot;https://blog.mapbox.com/ordnance-survey-launches-vector-maps-for-great-britain-e096c2413139&quot;&gt;Open Zoomstack, their cool mapping app&lt;/a&gt;. Really grateful for them hosting us. Thanks, Michael and team!&lt;/p&gt;
+
+&lt;p&gt;We were there to talk about &lt;a href=&quot;https://data.gov.uk&quot;&gt;data.gov.uk&lt;/a&gt;, which I don’t manage but do have experience in data: open, geospatial, linked and standardised. It was nice to get back into that world, and it turns out that four years listening to &lt;a href=&quot;https://medium.com/u/c8c40c52174f&quot;&gt;Mike Thacker&lt;/a&gt; is an exceptional education in its opportunities.&lt;/p&gt;
+
+&lt;p&gt;Many people across the open data space are bought into the vision of data.gov.uk and I know Martin, though the odds may feel stacked up against him, is a choice person to lead it onwards. There’s a community of people doing fabulous work out there, and government can have trust in it. Wouldn’t mind lending a hand, if I can.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Togetherness is a quality of life&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec&quot;&gt;Purpose is your moral imperative, it is the scope of what you are doing and why you are doing it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Only sit at the table if you’re bringing something we all need&lt;/li&gt;
+  &lt;li&gt;Trust in communities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-werecooking&quot;&gt;What We’re Cooking&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Recipes we made that we liked, either borrowed or invented&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Peach, Gorgonzola and quinoa salad with sherry vinegar dressing (this one needs work, peppery rocket instead of pea shoots and the peaches need griddling)&lt;/li&gt;
+  &lt;li&gt;Veggie goulash&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/611805/the-four-ways-that-ex-internet-idealists-explain-where-it-all-went-wrong/&quot;&gt;The four ways that ex-internet idealists explain where it all went wrong&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/cities/2018/aug/21/turbo-island-is-a-space-left-over-after-planning-and-bristolians-want-it-back-gentrification&quot;&gt;Turbo Island is a ‘space left over after planning’ - and Bristolians want it back&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@treycausey/rise-of-the-data-product-manager-2fb9961b21d1&quot;&gt;Rise of the Data Product Manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 25 Aug 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/08/25/The-Unity/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/08/25/The-Unity/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Boost</title>
+        <description>&lt;p&gt;After last week’s slump, it was good to escape that trough and ascend new heights this week. It’s a good reminder of the cyclical nature of things, the natural highs and lows, and how being mindful of those gives you opportunity to change tack – if needs be. It’s another benefit of weeknoting, being able to package up a period of time and conclude your thoughts on it, draw a line in the sand and move on.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;More than five things happened&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We had a GOV.UK away day. It was good to hang out with people I’ve not worked with before and there were great presentations from others in GDS, most notably from &lt;a href=&quot;https://medium.com/u/4c95e6ca7491&quot;&gt;Alistair Duggin&lt;/a&gt;, Head of Accessibility. He’s put together a set of &lt;a href=&quot;https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles&quot;&gt;user profiles for disabilities and impairments&lt;/a&gt; to use when designing services and products. It’s a great resource for people across government and anyone else in service design or tech.&lt;/p&gt;
+
+&lt;p&gt;He also covered how we can meet the &lt;a href=&quot;https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps&quot;&gt;new regulations for public sector websites’ accessibility&lt;/a&gt;, for which the &lt;a href=&quot;https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/&quot;&gt;Empathy Lab&lt;/a&gt; is hugely effective. Having never used screen readers before or had a visual impairment, it helps you experience the benefits of accessible design on the Web.&lt;/p&gt;
+
+&lt;p&gt;We didn’t do any strategic, future-vision stuff though people were expecting that. With a quarterly mission structure, we’re updated on where we’re headed quite regularly, but perhaps people are blind to that. As a PM community we’re doing lots of roadmapping at the moment, so I’ll plump for that being played back to teams. (I’d also like to make it open to the public, I just need an affirmative response to an email.)&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Each fortnight, the product manager community of GOV.UK gets together to chat strategy, tools of practice, methods, opportunities and more. It helps us all keep aligned with each other and the unit stays abreast of industry developments in product management. This week we explored the &lt;a href=&quot;https://hbswk.hbs.edu/item/clay-christensen-the-theory-of-jobs-to-be-done&quot;&gt;Jobs to be Done framework&lt;/a&gt; with our User Insights Lead, &lt;a href=&quot;https://medium.com/u/f55ce5f16fec&quot;&gt;Imeh Akpan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s something I’ve found helpful in the past – especially when trying to work out &lt;a href=&quot;https://www.intercom.com/blog/where-do-you-suck-where-does-it-matter/&quot;&gt;what product improvements to make when your backlog’s beefy&lt;/a&gt; – but with an entire country to create user personas for, Jobs to be Done helps us better empathise with what a user is trying to achieve on www.gov.uk.&lt;/p&gt;
+
+&lt;p&gt;It’ll be exciting to develop this thinking further, especially as we try to &lt;a href=&quot;https://gds.blog.gov.uk/2018/06/27/building-the-gov-uk-of-the-future/&quot;&gt;fuel the reciprocal relationship between users and government&lt;/a&gt; that can happen on the site. It’ll give us opportunities to develop true innovations in democracy both on– and offline. Most jobs are triggered in the real world, and we’re thinking more about the end-to-end journey people take.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;We did more research into request tracing for the publishing pipeline, and we wrote a blog post about what we’ve done thus far. (Hopefully it’ll be published next week!) But we’ve done a full audit of the tools available, &lt;a href=&quot;http://opentracing.io/&quot;&gt;an open standard we can use&lt;/a&gt; to reduce switching costs, and worked out how much each tool will cost us as it records HTTP requests across the publishing stack.&lt;/p&gt;
+
+&lt;p&gt;QUIZ TIME! How many HTTP requests do applications in the GOV.UK publishing pipeline get each week? Answer: ~109 million.&lt;/p&gt;
+
+&lt;p&gt;A boy is taken aback. Much like we were.&lt;/p&gt;
+
+&lt;p&gt;Also I caught up with our delivery manager as the first half of the quarter has passed, so we’re looking ahead to the next. They were really complimentary on some of my work, but they also gave me challenges for making improvements – mainly on my outwardly perceived attitude. This sort of criticism is really welcome and I’m glad they brought it up, as I do have a tendency to be blunt or seem unhappy. But that’s not fair when you’re leading a team and people rely on you, so I’ve got to be more mindful of that. After some tough talk, I was shocked but overwhelmingly pleased to be told I’d been nominated for a bonus!&lt;/p&gt;
+
+&lt;p&gt;Two good reality checks in one lunchtime.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Thursday was full of future thinking. Working on backlogs for the platform suite of products, thinking about missions for quarters 3 and 4, and how we can do agency-style work with departments as clients.&lt;/p&gt;
+
+&lt;p&gt;We’re refining our OKR approach to mission work. We set wide objectives for making improvements to the platform, break those down into specific missions to achieve outcomes, and measure the success of those with key results. We also set KPIs against the key results, to measure whether we need to do more or less work on those missions. It’ll &lt;a href=&quot;http://theleanstartup.com/principles&quot;&gt;bring more experimentation into our product development&lt;/a&gt;, which is really exciting and how other contemporary product organisations work.&lt;/p&gt;
+
+&lt;p&gt;But this got me thinking about the long-term strategy for GOV.UK and our place in the &lt;a href=&quot;https://www.w3.org/standards/semanticweb/&quot;&gt;Semantic Web&lt;/a&gt;. The Voice and SEO missions have edged us closer to that, but I’ve started thinking about other ways to slice our data warehouse. GOV.UK is one of many records of the history of government in the UK – we need to make it understandable to machines, and build ways for products to be developed on top of its output.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By the way, we’re looking for &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmY3NvdXJjZT1jc3FzZWFyY2gmam9ibGlzdF92aWV3X3ZhYz0xNTI2MDE3JnVzZXJzZWFyY2hjb250ZXh0PTYxOTkyODEzJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJnNlYXJjaF9zbGljZV9jdXJyZW50PTEmcmVxc2lnPTE1MzQ1MzMyNDUtYjU5M2NjYzEzY2ZlMGI2ZjJmNTcxZWExY2VlYjhjYjAxMjMwODdiNQ==&quot;&gt;developers&lt;/a&gt; and &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9NjE5OTI4MTMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVyPTUwNzAwMDAmc2VhcmNoX3NsaWNlX2N1cnJlbnQ9MSZvd25lcnR5cGU9ZmFpciZwYWdlY2xhc3M9Sm9icyZjc291cmNlPWNzcXNlYXJjaCZqb2JsaXN0X3ZpZXdfdmFjPTE1MjU5ODEmcmVxc2lnPTE1MzQ1MzMyNDUtYjU5M2NjYzEzY2ZlMGI2ZjJmNTcxZWExY2VlYjhjYjAxMjMwODdiNQ==&quot;&gt;senior developers&lt;/a&gt; – get onboard!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;And on Friday I chatted with my line manager about the possibilities of promotion. I’m working to the &lt;a href=&quot;https://www.gov.uk/government/publications/product-manager-skills-they-need/product-manager-skills-they-need&quot;&gt;levels of competency expected of product managers&lt;/a&gt; in our DDaT Framework, but a job needs to be created before I can apply and interview for it. And I shouldn’t assume I’d be the best candidate, but I do feel ready. Not sure how it’ll go but I’ve got my fingers crossed!&lt;/p&gt;
+
+&lt;p&gt;Also managed to encourage our delivery manager to write about the team culture they’re fostering, so keep an eye out for that blog. Thinking out loud about their work and blogging was the channel through which I learned about and was attracted to GDS, it’s sad that &lt;a href=&quot;https://daibach.uk/2018/02/state-blogging-digital-government/&quot;&gt;it has declined&lt;/a&gt;. But hopefully we can cause a ripple of new, more frequent writing to ebb out of our teams’ work.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone&quot;&gt;This is for everyone&lt;/a&gt;, always&lt;/li&gt;
+  &lt;li&gt;User journeys are too flat, what they need is context&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.cs.dal.ca/~johnston/poetry/island.html&quot;&gt;No man is an island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The future is exciting – and it’s an honour to nerd out about the Web and have fun &lt;em&gt;at work&lt;/em&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imcooking&quot;&gt;What I’m Cooking&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Grilled peach salad with mozzarella, pomegranate molasses &amp;amp; balsamic dressing and Parma ham&lt;/li&gt;
+  &lt;li&gt;Hot Punjabi prawn curry&lt;/li&gt;
+  &lt;li&gt;Masala chicken breast with pea shoot salad, spiced quinoa and carrot &amp;amp; coriander salad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@probablyfine/teams-from-scratch-part-1-psychological-safety-ea43d46cdbc6&quot;&gt;Teams from Scratch – Part 1: Psychological Safety&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solid.github.io/dweb-summit-2018/&quot;&gt;Solid: Empowering people through choice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nickmhalliday/how-long-will-the-uk-stay-the-world-leader-in-opendata-2cf7174cc857&quot;&gt;How long will the UK stay the world leader in opendata?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-threat-of-hylomorphic-design-thinking-3fd417971738&quot;&gt;The Threat of Hylomorphic Design Thinking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 18 Aug 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/08/18/The-Boost/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/08/18/The-Boost/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Farewell</title>
+        <description>&lt;p&gt;This week I was all over the shop mentally. On Friday I had to just bed down in work with headphones on, but all-in-all it’s been another good week. We lost a good member of the team, but the weeknotes community has proven itself incredible yet again. Happy to say that we even managed to attract &lt;a href=&quot;https://weeknot.es/weeknotes-1-861986b7907e?source=linkShare-c74615cf75ab-1533988229&quot;&gt;someone new to the crew&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-thathappened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;More than four things happened&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Monday and Tuesday were filled with the &lt;a href=&quot;https://userresearch.blog.gov.uk/introduction-and-basic-training-days-for-user-research-for-government-services/&quot;&gt;introduction and basic training days for user research for government services&lt;/a&gt;. Though I’m no stranger to the practice (and have written about &lt;a href=&quot;https://medium.com/@stevenjmesser/please-give-me-another-chance-f1a1555c8974&quot;&gt;what happens when you don’t do user research&lt;/a&gt;), I wanted to see if the context of working in government changed anything.&lt;/p&gt;
+
+&lt;p&gt;It turns out it doesn’t, not by much. User research is such a robust, worthy field of work that you &lt;em&gt;will&lt;/em&gt; reap the rewards by taking time to listen to what people need. The core concept is to reduce wasted effort and time by building the right thing, what people need not what they want. The only difference with user research in government is that you can’t be selective with your user personas: &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone&quot;&gt;this is for everyone&lt;/a&gt;. In the private sector your personas focus around people who’ll drive your revenue, but not so in government.&lt;/p&gt;
+
+&lt;p&gt;My only criticism of the course is that I don’t feel enough time was spent on eliminating bias. During the activities and practice sessions, the research questions were tainted by bias – designed to validate assumptions rather than invalidate, leading one to an expected answer – and user stories ended up being solutionistic. It’s no fault of the course leaders, they had lots to cover for an audience relatively new to a complex field, but I’ll pass on the feedback. Bias is one of the more difficult topics, but this article on &lt;a href=&quot;http://uk.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8&quot;&gt;cognitive biases that affect decisions&lt;/a&gt; is gold-dust.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Someone also told the story of how they’d seen several teams conduct research &lt;strong&gt;after&lt;/strong&gt; delivering a project, as a checkbox exercise to get past the &lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;Service Standard&lt;/a&gt;. It’s appalling behaviour and will come back to bite them, as it did me.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Having read how I’d been wrangling with someone unfamiliar to how we do things at GDS, &lt;a href=&quot;https://medium.com/u/e5e58b4f7364&quot;&gt;Ellie&lt;/a&gt; offered some advice over lunch. It was really on-the-money and will help me adapt to this person’s way of thinking. What I really need to do is sell the benefits of our approach to working, but it’s unfair to do that without hearing theirs and their motivations for joining GDS.&lt;/p&gt;
+
+&lt;p&gt;We also spoke about how the organisation is changing, what that means for product management, and the importance of communicating to stakeholders that some times they don’t know best. Ellie’s really talented and I’m glad she was able to spend some time helping me, so I must offer to give some back. And it just went to prove how supportive the weeknotes community can be – she even gave me a weeknotes sticker! Thanks, Ellie 😊&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;We said goodbye to Paul B. His knowledge of our stack is inimitable, but he did an incredible job of passing that on – and rewriting heaps of the dev docs. We’re going to really miss him, he was a stalwart of the tech community.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;We had an excellent check-in with the programme team. They’re pleased with the team’s work, but most amazingly they’re open to us descoping some of our objectives. That’s thanks to my colleague, &lt;a href=&quot;https://www.martinlugton.com&quot;&gt;Martin&lt;/a&gt;, who’s taken the time to see what’s achievable, what’s needed, and broken it down into a good strategy. There’s a lot going on there, so I hope he won’t mind passing the reins over to me, I’m happy to pick up more work. (He did it for during GDPR, which was well needed.)&lt;/p&gt;
+
+&lt;p&gt;And despite a few worries about team health previously, right now it’s really good. The team are engaged with their work, they really care about it, and they’re asking all the right questions during planning. This is no doubt due to our fabulous delivery manager (whom I won’t name as they’re not on social media) who has made it their mission to create space us to think, ensure everyone’s priorities are accounted for, and injects vivacity and enthusiasm into our daily lives (to boot!).&lt;/p&gt;
+
+&lt;p&gt;Working with them both these past few months has been a treat and the sort of training you don’t get most places. I’m intrigued to know which principles drive their work, the maxims they call on to move through the day. They could help me as I progress, I’m sure.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Government transformation is a massive undertaking with many minds to help adapt to new ways of working&lt;/li&gt;
+  &lt;li&gt;We’re really privileged in GOV.UK to have been on the frontline of transformation&lt;/li&gt;
+  &lt;li&gt;The weeknotes crewdem is 👌&lt;/li&gt;
+  &lt;li&gt;Multidisciplinary working is a treat when it works well&lt;/li&gt;
+  &lt;li&gt;Be careful of hubris: communicating your pride to others is an exercise in humility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imcooking&quot;&gt;What I’m Cooking&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kedgeree with smoked haddock and watercress&lt;/li&gt;
+  &lt;li&gt;Asparagus, sweet pea and burrata frittata (should have added basil oil to the pea shoot salad)&lt;/li&gt;
+  &lt;li&gt;Globe courgette stuffed with spicy rice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.userfocus.co.uk/articles/7-sins-of-user-research.html&quot;&gt;The 7 Deadly Sins of User Research&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/blog/bullshit-web/&quot;&gt;The Bullshit Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.googleblog.com/2018/07/introducing-data-transfer-project.html&quot;&gt;Introducing Data Transfer Project: an open source platform promoting universal data portability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@asuffield/thinking-about-slos-64841737d1ed&quot;&gt;Thinking about SLOs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 11 Aug 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/08/11/The-Farewell/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/08/11/The-Farewell/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Step Up</title>
+        <description>&lt;p&gt;Surprised myself this week by how much I handled it all. Everything feels like it’s fitting together well, and despite one minor wobbler I held it together. But most importantly, there’s a sense we’re making actual progress.&lt;/p&gt;
+
+&lt;p&gt;Despite being skint, I bought tickets to &lt;a href=&quot;https://mozillafestival.org/tickets&quot;&gt;MozFest 2018&lt;/a&gt; to find out where the Web is heading. 13-year-old Steve would be very proud.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;My return flight from Venice on Sunday was delayed by several hours, meaning I didn’t get in to bed until 3.30 a.m. Took the morning off and rolled in at lunch time. Completely failed to clear my inbox except for a few unimportant messages, but I &lt;em&gt;did&lt;/em&gt; manage to catch up on the previous week’s events.&lt;/p&gt;
+
+&lt;p&gt;Unrelated to but alongside a &lt;a href=&quot;https://twitter.com/neillyneil/status/1022119555265712130&quot;&gt;pretty major announcement&lt;/a&gt;, I was told about our deteriorating team health – both work-induced and general illness. We also talked about how to share good practice or stories of failure in the team, which got us thinking about team culture and leadership from within. I’ve always been a fan of CharlieHR’s &lt;a href=&quot;https://magazine.charliehr.com/tag/culturelab/&quot;&gt;CultureLab&lt;/a&gt; and wondered how we might set up our own. &lt;em&gt;If you have any interesting stories from the tech world, dear reader, please do share tales and links with me.&lt;/em&gt; First we’ll tinker with retros, and I’d like to encourage more blogging.&lt;/p&gt;
+
+&lt;p&gt;The day ended well, though, with a huddle on the pipeline work. It turns out the team had engaged with the discovery well, but we weren’t out of the trenches yet. We met to look at options, pick over them, and it raised questions about whether our work would be for short-term gains or long-term scalability.&lt;/p&gt;
+
+&lt;p&gt;But it’s something I’ll need to ponder tomorrow on a better night’s rest.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;A packed Tuesday, a standard for my working week, wherein I failed to reach Inbox Zero again. Tons of meetings happened, and I had to prepare slides for our Show &amp;amp; Tell during lunch, which meant I was pretty pooped when it got to pre-planning. But there’s a much better sense of where we’re headed now: we got used to the ebbs and flows of working on a stretched WebOps team last quarter, and planning is less worrisome.&lt;/p&gt;
+
+&lt;p&gt;Another boon is having a workstream to call our own. I presented the discovery-esque work we’d done so far at the Show &amp;amp; Tell, which seemed to go down well. There were murmurs of support from the tech community, its lead architect especially, DataOps, and the team making improvements to the publisher experience were receptive to our creative thinking.&lt;/p&gt;
+
+&lt;p&gt;I’d love for the team to get some feelings of achievement out of the pipeline work this quarter, to be able to say they’ve made serious improvements to the beating heart of GOV.UK, but I’m reticent to push too hard – and we need to consider the long-term effects and scalability of our solutions. It’s going to need some tact, foresight and comfort with having tough conversations. But first we’ll research all the options on the table. (A good night’s sleep helped after all, and &lt;a href=&quot;https://open.spotify.com/album/2QFHWiIMEbWmmI3iQoHVJ0&quot;&gt;this album&lt;/a&gt; by jazz/hip-hop/dub keyboardist &amp;amp; SE Londoner Joe Armon-Jones is a bonus.)&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Wednesday was a day of highlights.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inbox Zero! 🎉&lt;/li&gt;
+  &lt;li&gt;A good planning session with the full team! 👌&lt;/li&gt;
+  &lt;li&gt;A progressive retro! 🆙&lt;/li&gt;
+  &lt;li&gt;Team health is good! 😁&lt;/li&gt;
+  &lt;li&gt;I ran a retro for the first time, and people were engaged! 😊&lt;/li&gt;
+  &lt;li&gt;People sympathise with how much effort our work takes! 😎 &lt;em&gt;At least enough to retweet/like this a bunch of times anyway!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was lovely to bump into &lt;a href=&quot;https://medium.com/u/f30ef58c4490&quot;&gt;Emily&lt;/a&gt; at the end of the day and talk #weeknotes, how cathartic the practice can be, and the importance of reflection in a job that moves a million miles an hour. Her prose is much classier than mine, so &lt;a href=&quot;https://weeknot.es/weeknote-e1-s1-enchantment-beats-burn-out-d0712bf698b3&quot;&gt;have a gander&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;And Thursday wasn’t too bad either. We had some &lt;a href=&quot;https://twitter.com/neillyneil/status/1024943393913364480&quot;&gt;wise words from Neil&lt;/a&gt; to kick off the day.&lt;/p&gt;
+
+&lt;p&gt;Chatting to Elliot about the work he’d done on request tracing a couple of years ago was really beneficial. He’d actually got quite far into implementing something useful, but priorities changed and the work was dropped. Later on we searched through our wiki, looked at archived Trello boards, and dredged up old gists and PRs – we found all his work, which means we can pick it up again next sprint.&lt;/p&gt;
+
+&lt;p&gt;We’ll hit the ground running on the pipeline work, starting from where he left off, heading towards our renewed priorities. I must make sure to record all the thinking and doing from this work, in case someone else needs to run with it in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;On the whole, Friday was good apart from one hour meeting with a stakeholder. They’re relatively new to the organisation but, from what I can tell, also oblivious to &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles&quot;&gt;government design principles&lt;/a&gt;, &lt;a href=&quot;https://www.gov.uk/service-manual/user-research/how-user-research-improves-service-design&quot;&gt;user research&lt;/a&gt;, and any notion that we build with qual/quant data – based on real need – not just whims and fancies. We do not use our time and the public purse to make ineffectual gains. We &lt;a href=&quot;https://userresearch.blog.gov.uk/2014/09/17/6-case-studies-using-research-and-data-to-improve-a-live-service/&quot;&gt;use research and data&lt;/a&gt; to improve a live product, not bias.&lt;/p&gt;
+
+&lt;p&gt;Wrangling this person is incredibly stressful – even a fellow senior PM was finding it hard – and I had to take a tea break to chill afterwards.&lt;/p&gt;
+
+&lt;p&gt;But that was the silver lining. Wont to get stressed, forgetting to take a step back at times, I took a few moments to decompress and move on. And the rest of the afternoon sailed by with jollity and ease. We even got a shout-out on the programme weeknote, which capped off what was, on the whole, one of my best weeks yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/GobletofWisdom/status/1022770159331815424&quot;&gt;You are a human being, not a human doing.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pebbledash presentations lightly with humour – it makes it easier.&lt;/li&gt;
+  &lt;li&gt;Even ‘boring’ work needs good PR. Be an ambassador for your team.&lt;/li&gt;
+  &lt;li&gt;Knowledge management is a good thing, but I don’t yet do enough.&lt;/li&gt;
+  &lt;li&gt;Take a step back before you fall into the maelstrom.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imcooking&quot;&gt;What I’m Cooking&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fabada asturiana (white beans, chorizo &amp;amp; black pudding stew)&lt;/li&gt;
+  &lt;li&gt;Pornstar purée (a home-made rip-off of &lt;a href=&quot;http://www.laurasanttini.com/collection/taste-5-bomba-xxx&quot;&gt;Bomba! XXX&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Sonic the Hedgehog chili dogs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Though I’ve always meant to journal my cooking, I never got around to it and it’s ended up here. Some times I’ll cook nice things, other times it’ll just be comfort classics (which I won’t record unless they’re exciting). But if you ever want a recipe for these, ping me – and prod me if I forget to send one over.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/the-6-types-of-product-teams-youll-be-working-in-e6f6e300834d&quot;&gt;The 6 Types of Product Teams You’ll be Working In&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://growandconvert.com/marketing/positioning/&quot;&gt;Positioning Is the Part of “Product Market Fit” You’re Likely Ignoring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/05/29/the-eventhorizon-saga/&quot;&gt;The EventHorizon Saga&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 04 Aug 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/08/04/The-Step-Up/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/08/04/The-Step-Up/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Discovery</title>
+        <description>&lt;p&gt;These weeknotes come to you belatedly, as I was on holiday on Friday and spent the weekend celebrating my 30th with friends. It’s still a great practice though, helping me tie up the week and reflect on what happened. Makes me wish I’d been doing it earlier, there’s so much from building &lt;a href=&quot;https://ecasework.com/&quot;&gt;eCasework&lt;/a&gt; I could have shared. Thank you to the weeknotes folks for your kind words and encouragement!&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-thathappened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;What started out as a packed day ended up being free; meetings moved around giving me time to think. It’s important to have that time to process things, to actually do the work of a PM.&lt;/p&gt;
+
+&lt;p&gt;In the afternoon we had an incident review – a meeting covering the causes and solutions of a technical incident – which has given us more reason to work on the publishing pipeline this quarter. As mentioned in my &lt;a href=&quot;https://weeknot.es/weeknotes-s01e01-4b9623872485&quot;&gt;last weeknote&lt;/a&gt;, I’m keen we take on that work, and the consensus in the room was that we needed it now. With a major national event on the horizon, ensuring the pipeline can reliably deliver content is key.&lt;/p&gt;
+
+&lt;p&gt;There’s varying levels of experience in the team and I’d been planning on holding a mapping session followed by some problem sorting. After that we could implement some request tracking to measure the pipeline, to find out where the bottlenecks were, and then jump into making changes. Tech leads and senior devs thought that my approach was sound and that we &lt;em&gt;needed&lt;/em&gt; to build collective understanding – it was comforting to hear my thinking validated, in some part. Many in the team know how to tweak things to fix them, but don’t know &lt;em&gt;why&lt;/em&gt; to tweak those things or by how much.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy Dudfield&lt;/a&gt;, Service Owner at ONS Digital, popped in to chat to the GOV.UK product manager community about the &lt;a href=&quot;https://www.ons.gov.uk/&quot;&gt;ONS website&lt;/a&gt; and how it had been transformed over the last couple of years. I’d originally invited him in to hear about all the work they’d been doing on data, to help us think about data.gov.uk, but there were lots of questions from the community about the general website too. It was super pleasing that everyone was so engaged, there was lots of food for thought on the next steps for GOV.UK.&lt;/p&gt;
+
+&lt;p&gt;Andy’s presentation and the work at ONS Digital – kicked off by &lt;a href=&quot;https://medium.com/u/fb24db1416c3&quot;&gt;@jukesie&lt;/a&gt;’s work, which Andy was keen to point out – gave the PMs corroboration on our thoughts about user personas, DataOps, SEO, the definition of the term open data, and how to engage generalist audiences.&lt;/p&gt;
+
+&lt;p&gt;After that we chatted about the campaigns platform and how ONS might use it for the upcoming census. It’ll be good to have their needs shape the product alongside upcoming EU Exit work, to help avoid feature-bloat and keep the platform’s utility more general.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Thinking about how we define a product’s success in the public sector can be tough. Programmes and transformation are designed to effect change, but a digital product is propelled by metrics. A &lt;a href=&quot;https://www.meetup.com/Product-For-Good/&quot;&gt;Product for Good&lt;/a&gt; meetup on &lt;a href=&quot;https://www.meetup.com/Product-For-Good/events/251514601/&quot;&gt;defining metrics for social impact&lt;/a&gt; provided great insight from the tech for good community.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How can you turn qualitative comments into something you can measure quantitatively?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/u/a72dfd06845b&quot;&gt;Matt Kepple&lt;/a&gt; from Makerble has done lots of thinking on scaling impact measurement and trying to measure in the short term, where indicators are more attributable to your efforts. He said that changing what people do, think or have are the three types of impact story or behavioural change that you can influence. It touched on thoughts I’d been having back in February and raised in our 52 Weeks of UX lean coffee about measuring emotional impact. I’ll be able to develop that blog post more now.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;On Thursday we set aside two hours to map out the publishing pipeline and its problem space. It was my first time leading a discovery-esque approach to a live ‘product’ (arguably the platform is an assembly of products), but it went well. Our experienced developers shared knowledge amongst the team, gaps were filled in by others, and the new team members brought new ideas to the table. Following on from a tech intro the previous week, I was able to qualify my understanding of how it all fits together, which was pleasing.&lt;/p&gt;
+
+&lt;p&gt;After that we had a discussion on what problems we’d been facing and why, and the conclusion was that we can’t say for certain: we need good metrics to help expose where the bottlenecks lie. Though I had been directing conversation that way to a degree – the Build-Measure-Learn loop is central to hypothesis-driven development – it was great that Paul, previously the programme’s tech lead, called for this. We’ll also be able to take a look at work Elliot had done a couple of years back on request tracking, which will not only inform us but could help rebuild trust in the publisher community. ‘Getting two birds stoned at once,’ as &lt;a href=&quot;https://youtu.be/Jfq3c4Cf1Fs?t=162&quot;&gt;Ricky says&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Excited to see how conversations have developed when I get back from holiday next week.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stop making new things. Start making old things work.&lt;/li&gt;
+  &lt;li&gt;Reach out and meet people. We have a great community in gov.&lt;/li&gt;
+  &lt;li&gt;There’s other communities you can learn from too!&lt;/li&gt;
+  &lt;li&gt;Oh heck, I love this job.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/doteveryone/putting-users-first-is-not-the-answer-to-everything-dd05b9f11b5?source=linkShare-c74615cf75ab-1531775369&quot;&gt;Putting users first is not the answer to everything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead&quot;&gt;Ten Reasons Not to Measure Impact – and What to Do Instead&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pminsider/why-you-need-never-in-your-roadmaps-2476db12df20?source=linkShare-c74615cf75ab-1531852299&quot;&gt;Why you need “never” in your product roadmap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spotless.co.uk/insights/5-things-nathan-barley-taught-us-about-service-design/&quot;&gt;5 things Nathan Barley taught us about Service Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imcooking&quot;&gt;What I’m Cooking&lt;/h2&gt;
+
+&lt;p&gt;Should have made notes of these, I can’t remember everything we made. To those of you who asked for the aubergine recipe, I’ll put something together (though it was technically made by my gf!)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Texas BBQ chicken with chargrilled sweetcorn rice salad&lt;/li&gt;
+  &lt;li&gt;Marinated garlic courgetti with Dijon mustard dressing and rocquefort&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/07/23/The-Discovery/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/07/23/The-Discovery/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Reshuffle</title>
+        <description>&lt;p&gt;Reading people’s weeknotes was one of the main inspirations for me to join the Civil Service. It sounded like an exciting world, and on my first day at GDS I wrote some notes. I just never got around to publishing them…and I didn’t carry on writing notes. But when &lt;a href=&quot;https://medium.com/u/27dad6d7c304&quot;&gt;Jonathan&lt;/a&gt; joined our team a few weeks ago, he encouraged me to give it another go, so here I am.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you’d like to learn more about weeknotes, check out this &lt;a href=&quot;https://medium.com/@stamanfar/the-why-of-weeknotes-cf4d7e8ad4e5&quot;&gt;explainer&lt;/a&gt; from &lt;a href=&quot;https://medium.com/u/1914560770fb&quot;&gt;Sam&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;five-things-thathappened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We kicked off quarter two with a relatively unchanged team and a refreshed enthusiasm for the coming three months. I combed through our backlog to reprioritise cards and clear some clutter. It was a good start and needs more work, it’s important we manage the team’s scope this quarter. Context-switching is not healthy.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/live/uk-politics-44762836&quot;&gt;Monday’s news&lt;/a&gt; gave us some good perspective on the epics would could take on this quarter. Having already plumped for one option but been met with uncertainty, a later incident review gave us a good steer – and straight after that, another change to the machinery of government helped us reshuffle our priorities. There’s clear value for us to bring which aids stakeholders and end users, whilst building our knowledge of the platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Though my job title only says ‘associate product manager’, I’m leading the product thinking on a few workstreams this quarter. To make me a better leader, I’ve set myself some challenges.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be approachable but not constantly interruptible&lt;/li&gt;
+  &lt;li&gt;Speak more slowly, and think with purpose&lt;/li&gt;
+  &lt;li&gt;Help people spot opportunities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;General Assembly, where I did the &lt;a href=&quot;https://generalassemb.ly/education/product-management&quot;&gt;product management course&lt;/a&gt; in 2016, have taken me on as a teaching assistant! 🙌 This is really exciting for a number of reasons. The TA on my course was helpful in explaining points which the class didn’t fully understand, and he brought a lot of experience to the table. Our tutor was running his own startup but the TA worked Product in a bank, and it was beneficial to hear stories from that perspective. Can’t wait to share my experiences from &lt;a href=&quot;https://porism.com/&quot;&gt;Porism&lt;/a&gt; and &lt;a href=&quot;https://gds.blog.gov.uk/&quot;&gt;GDS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mainly I’m grateful to have a little refresher on their current curriculum. It’s always iterating based on the nature of this ever-evolving practice, and I’m keen to see how they see the role developing.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Had some good 1-on-1s with the more seasoned members of the team. Kim Scott says that ‘the hardest part of building trust is inviting people to challenge you’, but given my relative greenness on the programme, I asked them to provide critical challenge when they felt it necessary.&lt;/p&gt;
+
+&lt;p&gt;No one person knows the perfect path for achieving our goals. It’s why we have a retrospective, to reflect on what happened and how to improve next time.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;We’ve started planning our major proactive health epic for the quarter. Since there’s a range of experiences on the team and the problem space isn’t super clear, I’m kicking things off with a discovery to build our knowledge of how applications tie together. We’ll then map out the problem space for the health epic, allowing us to start validating (or invalidating) our riskiest assumptions and making improvements to the behemoth that is GOV.UK.&lt;/p&gt;
+
+&lt;p&gt;This is really invigorating as our team can be seen as having a support or WebOps role, when really we own a product that is the beating heart of the website. We’ll be viewing the work through the lens of exiting the EU, when responsiveness will be key to communicating changes to the nation effectively. And though no one jumps at the chance to record metrics, taking a lean approach to product improvement is essential to ensure you’re working on the right things. Build, measure, learn.&lt;/p&gt;
+
+&lt;p&gt;Oh, and someone asked me to make a presentation about the history of the Web and how it works (for non-techies) 😍&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It was good to take stock and reflect on what we actually do at GOV.UK, what our purpose is&lt;/li&gt;
+  &lt;li&gt;It’s my job to create more joy and less misery in the team&lt;/li&gt;
+  &lt;li&gt;You’re never done learning&lt;/li&gt;
+  &lt;li&gt;Humanity is essential to building the so-called soft skills of product management&lt;/li&gt;
+  &lt;li&gt;Evangelism is inspiring and helps propagate trust&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;what-imreading&quot;&gt;What I’m Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/futurehuman/the-cognition-crisis-a1482e889fcb&quot;&gt;The Cognition Crisis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wyattearp/making-the-shift-to-platform-product-management-15e1ee061b6a&quot;&gt;Making the Shift to Platform Product Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/revenge-of-the-pmo/&quot;&gt;Revenge of the PMO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/21st-century-mindset/so-you-want-to-do-more-facilitation-53af9870f1e1&quot;&gt;So you want to do more facilitation?&lt;/a&gt; – (big thank you for the tip on the &lt;a href=&quot;https://www.post-it.com/3M/en_US/post-it/ideas/plus-app/&quot;&gt;Post-it® Plus app&lt;/a&gt;!)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f&quot;&gt;The principles that make me a better product manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-imcooking&quot;&gt;What I’m Cooking&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Smoked herring, Dijon mustard and dill pasta salad&lt;/li&gt;
+  &lt;li&gt;Courgette and chilli spaghetti – from homegrown courges!&lt;/li&gt;
+  &lt;li&gt;Oven-roasted aubergines with sun-dried tomatoes and cheeeeeeese&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2018/07/14/The-Reshuffle/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/07/14/The-Reshuffle/</guid>
         
         <category>Weeknotes</category>
         
