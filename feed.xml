@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Jan 2019 09:17:55 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Jan 2019 09:17:55 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jan 2019 09:20:54 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jan 2019 09:20:54 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -88,16 +88,7 @@
 &lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Signposting and evidence&lt;/td&gt;
-          &lt;td&gt;Weeknotes S01E01](https://weeknot.es/signposting-and-evidence-weeknotes-s01e01-7e6a44920f67), 4 mins&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weeknot.es/signposting-and-evidence-weeknotes-s01e01-7e6a44920f67&quot;&gt;Signposting and evidence - Weeknotes S01E01&lt;/a&gt;, 4 mins&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/01/how-retail-changes-when-algorithms-curate-everything-we-buy&quot;&gt;How Retail Changes When Algorithms Curate Everything We Buy&lt;/a&gt;, 6 mins&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@davehouse_80809/the-amen-break-is-the-ultimate-design-pattern-53701e79e461&quot;&gt;The ‘Amen break’ is the ultimate design pattern&lt;/a&gt;, 4 mins&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/612753/we-could-still-prevent-15-c-of-warming-but-we-almost-certainly-wont/&quot;&gt;We could still prevent 1.5 ˚C of warming—but we almost certainly won’t&lt;/a&gt;, 3 mins&lt;/li&gt;
