@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Jan 2019 14:44:12 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Jan 2019 14:44:12 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 19:06:56 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 19:06:56 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -43,7 +43,7 @@
 
 &lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
 
-&lt;p&gt;Met with people from the Food Standards Agency (FSA) to see their new service to &lt;a href=&quot;https://register.food.gov.uk&quot;&gt;register a food business&lt;/a&gt; and its overlap with GOV.UK Licensing’s &lt;a href=&quot;https://www.gov.uk/food-business-registration&quot;&gt;food business registration&lt;/a&gt;. It’s a better user experience than the journey on GOV.UK, and it ties into local authority backend systems through an API (if needed) which is a huge improvement for councils. They were quick to place blame on us for broken journeys though, which made things more tense than they needed to be.&lt;/p&gt;
+&lt;p&gt;Met with people from the Food Standards Agency (FSA) to see their new service to register a food business (currently in private beta) and its overlap with GOV.UK Licensing’s &lt;a href=&quot;https://www.gov.uk/food-business-registration&quot;&gt;food business registration&lt;/a&gt;. It’s a better user experience than the journey on GOV.UK, and it ties into local authority backend systems through an API (if needed) which is a huge improvement for councils. They were quick to place blame on us for broken journeys though, which made things more tense than they needed to be.&lt;/p&gt;
 
 &lt;p&gt;I wanted to understand how their service would improve on our shortcomings and they explained how the service worked. I identified that the switching cost for councils would be low, as the hand-off to councils was identical to GOV.UK Licensing – and improved if a council used the FSA service’s API. As a result, I suggested we work together to explain this to councils and encourage more to move to the FSA’s service. The details need to be worked out and journeys for all parties considered, but the main thing is that we make it better for users.&lt;/p&gt;
 
