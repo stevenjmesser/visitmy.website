@@ -5,9 +5,70 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Feb 2019 08:08:09 +0000</pubDate>
-    <lastBuildDate>Sat, 16 Feb 2019 08:08:09 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Feb 2019 18:04:43 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 18:04:43 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>How we use OKRs on GOV.UK</title>
+        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we use OKRs on GOV.UK, the UK government’s website. Teams are trusted to deliver value for users, and this framework reduces tension between agile delivery professionals and senior management.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-an-objective&quot;&gt;What is an objective?&lt;/h2&gt;
+
+&lt;p&gt;An objective is a bold and qualitative goal that the company or organisation wants to achieve. For example, ‘Prepare the GOV.UK platform for the scale demands of Brexit’ or ‘Make it easier for users to start using our product’. It’s best that they’re ambitious, not easy to achieve or audacious in nature; they are not sales targets.&lt;/p&gt;
+
+&lt;p&gt;Objectives are usually set by the CEO or Head of Product and set the direction for the company or programme. Objectives shouldn’t be dictatorial goals, they should be missions that people can buy in to and get behind. Because they’re ambitious, it’s not healthy to set deadlines for when a product team should achieve an objective. Since CEOs aren’t on the frontlines, they can’t accurately say how long it will take a team to reach a goal.&lt;/p&gt;
+
+&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’ strategy for getting nearer to its vision.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-key-result&quot;&gt;What is a key result?&lt;/h2&gt;
+
+&lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
+
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accompolishing a key result by a deadline or by a certain amount; they are not quotas or key deliverables. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+
+&lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-okrs-look-like&quot;&gt;What do OKRs look like?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/okr-template.png&quot; alt=&quot;A template OKR slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We use the template above to set OKRs on GOV.UK product teams. You can copy this &lt;a href=&quot;https://docs.google.com/presentation/d/1M_k6LATfoNBkaAPLSV5ayrSo5weGD095H50gIW2d00M/&quot;&gt;open slide deck&lt;/a&gt; to use with your team.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-okrs-in-practice&quot;&gt;How to use OKRs in practice&lt;/h2&gt;
+
+&lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals to be reached, which usually shape our key results. Since the key results have been produced and agreed by the team as a unit, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
+
+&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+
+&lt;h3 id=&quot;reporting-confidence-and-progress&quot;&gt;Reporting confidence and progress&lt;/h3&gt;
+
+&lt;p&gt;Product teams will report how confident they feel in being able to achieve the objective, and teams will also report their progress in the discovery or delivery threads of their work. It’s a ‘finger in the air’ score to give the programme team a sense of how well they’re progressing. By taking this reading fortnightly, the programme team can see when confidence drops or progress halts, which is an opportunity for them to help the team remove blockers.&lt;/p&gt;
+
+&lt;p&gt;It’s a good idea to check the team’s confidence during a sprint retrospective. You can work out the team’s progress by counting how many cards on the sprint board have been done and how many are left to do. It’s a simple method, and it’s OK for you to create more cards after some discovery work – that’s agile!&lt;/p&gt;
+
+&lt;h2 id=&quot;why-use-okrs&quot;&gt;Why use OKRs?&lt;/h2&gt;
+
+&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
+
+&lt;p&gt;Setting OKRs can expose some discomfort and issues you might not have encountered before. But that’s a good thing, and working through problems brings people closer together.&lt;/p&gt;
+
+&lt;p&gt;OKRs are not an instant solution, nor are they designed to create perfect unity. Instead, they give space for leadership to set ambitious goals that teams can buy into, and the framework gives space for product teams to solve problems in creative ways.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        
+        <category>Agile delivery</category>
+        
+        
+      </item>
     
       <item>
         <title>The Shock to the System</title>
