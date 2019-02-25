@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Feb 2019 18:04:43 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Feb 2019 18:04:43 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Feb 2019 20:34:30 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Feb 2019 20:34:30 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -21,13 +21,13 @@
 
 &lt;p&gt;Objectives are usually set by the CEO or Head of Product and set the direction for the company or programme. Objectives shouldn’t be dictatorial goals, they should be missions that people can buy in to and get behind. Because they’re ambitious, it’s not healthy to set deadlines for when a product team should achieve an objective. Since CEOs aren’t on the frontlines, they can’t accurately say how long it will take a team to reach a goal.&lt;/p&gt;
 
-&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’ strategy for getting nearer to its vision.&lt;/p&gt;
+&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’s strategy for getting nearer to its vision.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-is-a-key-result&quot;&gt;What is a key result?&lt;/h2&gt;
 
 &lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
 
-&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accompolishing a key result by a deadline or by a certain amount; they are not quotas or key deliverables. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas or key deliverables. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
 
 &lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
 
@@ -42,6 +42,8 @@
 &lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals to be reached, which usually shape our key results. Since the key results have been produced and agreed by the team as a unit, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
 
 &lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK programme team may take the opportunity to set new objectives each quarter. It’s sensible to take a temperature check of work underway at regular intervals, in case there are new priorities. This also gives product teams a chance to play back to management their findings from a discovery, which means that some times the objective set is based entirely on the team’s work.&lt;/p&gt;
 
 &lt;h3 id=&quot;reporting-confidence-and-progress&quot;&gt;Reporting confidence and progress&lt;/h3&gt;
 
