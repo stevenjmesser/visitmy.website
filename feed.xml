@@ -5,9 +5,64 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 19:30:06 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 19:30:06 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2019 11:18:45 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 11:18:45 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Threads</title>
+        <description>&lt;h2 id=&quot;four-things-that-happened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Fascinating chat with Corinne Cordes who worked on &lt;a href=&quot;https://www.ict.govt.nz/programmes-and-initiatives/government-service-innovation/result-10/research-exec-intro-methodology-concl/&quot;&gt;Results 10&lt;/a&gt;, the New Zealand government’s early research into government transformation a few years ago. The interesting point was that they felt picking out life events as a solution was midjudged, but then hindsight is 20/20 vision – it’s easy to say that. Mind you, they’ve gone on to look into legislation-as-code which was &lt;a href=&quot;https://apolitical.co/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government/&quot;&gt;covered by Apolitical&lt;/a&gt; the same day, coincidentally. I’d like to pick up that thread with them and explore the area more.&lt;/p&gt;
+
+&lt;p&gt;I chatted with people from the Netherlands and Germany governments too.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Check-in with the programme team went well, not much to report beyond the fact that no other government provides personalised, customised homepages, etc. One of our key results is to prototype and test our riskiest hypotheses, and they questioned whether there was enough time left to do that. It’s hard when your team has been taken away and put on other missions, but I don’t think we can justly arrive at a conclusion without some hard evidence.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;We put together a roadmap for upgrading to Elasticsearch (ES) 6 in the near future. EU Exit on 29 March means we’ll possibly not be able to switch over to our new ES 5.6 clusters as soon as we’d liked, because it’s better to leave all systems stable and operational that week instead of introducing new complexity to the stack. But it’s good to have clarity for how long it will likely take us to jump to ES 6 next quarter.&lt;/p&gt;
+
+&lt;p&gt;Thinking about continued search performance during the Brexit period raised an old idea to repurpose Search Performance Explorer to ensure that search results rankings persist during the upgrade. We may need to spin up something quickly.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Eventually got the opportunity to present our work on the cache clearing service, front-end resilience and load-testing the publishing pipeline, which we were originally billed to do in October (see &lt;a href=&quot;/2018/10/21/The-Unconference/&quot;&gt;S02E02&lt;/a&gt;). It seemed to be received well and it was good to show the work we’d done on securing the operations of the platform for Brexity busy-ness.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;The registry-up vs services-down models of government transformation come up against issues of siloed departments.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;A few strands of work across the programme started to converge in my head this week, but I’ve not given much time towards planning out the work for next quarter to bring those together. I’ll need to prepare before my meeting with Ganesh next week.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://policyoptions.irpp.org/magazines/january-2019/for-e-government-to-flourish-policy-making-must-change/&quot;&gt;For e-government to flourish, policy-making must change&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/philosophy/the-incoherence-of-evidence-based-policy-making&quot;&gt;The incoherence of “evidence-based policy-making”&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fs.blog/2013/10/inversion/&quot;&gt;Inversion and The Power of Avoiding Stupidity&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/teradata/2016/11/14/digital-is-not-the-only-channel/&quot;&gt;“Digital” Is Not The Only Channel&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2019/3/3/18246868/attention-economy-fortnite-advertising-user-engagement&quot;&gt;The attention economy is dead&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/03/10/the-threads/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/03/10/the-threads/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Reflection</title>
