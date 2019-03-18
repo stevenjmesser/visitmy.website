@@ -5,9 +5,71 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Mar 2019 11:18:45 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2019 11:18:45 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2019 22:59:54 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 22:59:54 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Key Findings</title>
+        <description>&lt;p&gt;For the first time, I started to see the end of the tunnel for the personalisation mission. That doesn’t mean we’ve figured it all out, rather that we know it’ll take longer to answer this question – but we’ve noticed the first stage. It’s going to require all my dexterity of character and strategic skills to carry the rest through, so it’s time to take another step up…probably.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Regrouped the Explore Personalisation team to run through the results of our research. It’s been mainly myself and Paola interviewing people, with the occasional bit of help from Tim and Kate, while Mark has been focussing on the desk research. This session meant everyone was able to spend time writing up the findings from interviews with senior stakeholders and international governments, observing where the research might converge.&lt;/p&gt;
+
+&lt;p&gt;We drew out some key themes from the findings and started to think about risks and opportunities. There’s some tidbits of value in there which need exploring, but many of our assumptions were confirmed.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;The product managers got together to review our 2019–20 roadmap for GOV.UK. It’s a tough time to be ambitious, what with Brexit and all, so we ranked missions based on immediate priority. If it turns out that Brexit doesn’t demand too much of our time, we’ll be able to open up some exciting missions.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/allan-donald-72b543b/&quot;&gt;Allan Donald&lt;/a&gt; came in to talk about metadata and content at the BBC. It was hugely enjoyable and I picked up some presentation tips, alongside all the good chatter about semantics, structure and tagging content intelligently.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;The Explore Personalisation team grouped again, this time to assess the signals we were seeing in the research. Some scenarios were put together in which a particular feature idea might have been useful. However, we were uncomfortable with the solutionising and the main problem was that all the ideas had such a range of personalisation at play. From simple reminders to consent control, from tailored navigation to fully integrated cross-department data layers, there was a ton to process.&lt;/p&gt;
+
+&lt;p&gt;We’ve decided to put together a ‘scale of personalisation’ mapping the value a user might get against the level of personal data they’d need to hand over. It’s all theory but should form the basis for some design principles around using personal data. The &lt;a href=&quot;https://catalogue.projectsbyif.com&quot;&gt;Data Permissions Catalogue&lt;/a&gt; by Projects by IF and the Open Data Institute’s &lt;a href=&quot;https://theodi.org/article/data-ethics-canvas/&quot;&gt;Data Ethics Canvas&lt;/a&gt; have been useful in guiding our thinking.&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;We had an enjoyable time talking to our Director of Delivery &amp;amp; Support, David Lewis, whose experience in digital transformation is quite impressive. He offered his time as a sounding board for our queries, which I’d like to take him up on. It was also helpful to speak with Kevin Cunnington, our Director General, this week and hear what he’s up to on his own frontlines for the organisation.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;p&gt;Even the most senior of stakeholders can be approachable, and actually it’s time to step my game up.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-could-do-better&quot;&gt;What I Could Do Better&lt;/h3&gt;
+
+&lt;p&gt;Public speaking and confidence in presentations. I often get butterflies and have a few techniques to deal with those, but I’d like to do better. I’ve signed up to a &lt;a href=&quot;https://generalassemb.ly/education/present-for-success-public-speaking-bootcamp&quot;&gt;public speaking bootcamp at General Assembly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thesnipermind.com/blog/unicorns-ontologies-and-how-the-mind-organizes-the-world.html&quot;&gt;Unicorns, Ontologies and How the Mind Organizes the World&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webfoundation.org/2019/03/web-birthday-30/&quot;&gt;30 years on, what’s next #ForTheWeb?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theodi.org/article/furman-review-access-to-data-is-a-new-tool-against-monopoly/&quot;&gt;Furman Review: Access to data is a new tool against monopoly&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.publicstrategist.com/2014/05/making-connections/&quot;&gt;Making connections&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/storythings-ltd/we-re-not-leaving-this-bar-until-we-ve-come-up-with-such-a-great-idea-that-i-can-t-sack-you-b12ddfd53fa8&quot;&gt;“We’re not leaving this bar until we’ve come up with such a great idea that I can’t sack you”&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.producttalk.org/2019/02/prioritize-opportunities/&quot;&gt;Prioritize Opportunities, Not Solutions&lt;/a&gt;, 9 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/03/18/the-key-findings/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/03/18/the-key-findings/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Threads</title>
