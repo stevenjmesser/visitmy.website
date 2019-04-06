@@ -5,9 +5,144 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Apr 2019 18:10:26 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2019 18:10:26 +0100</lastBuildDate>
+    <pubDate>Sat, 06 Apr 2019 09:39:22 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2019 09:39:22 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Relief</title>
+        <description>&lt;p&gt;We launched a thing and saved taxpayers money, found out the missions for next quarter, and I’ve prepped a presentation on blogging and working in the open. A decent week considering I spent all of it at home, working in the lounge, with a rotten cold and many sniffles.&lt;/p&gt;
+
+&lt;h2 id=&quot;four-things-that-happened&quot;&gt;Four Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We completed the search migration! 🎉 All applications are now using &lt;a href=&quot;https://github.com/alphagov/search-api&quot;&gt;Search API&lt;/a&gt; in all environments, meaning better search latency, an improved architecture for resilience, and we can start exploiting the new features in Elasticsearch 5.6 (and beyond). It’s saving taxpayers around £35,000 per year too, which is a Good Thing.&lt;/p&gt;
+
+&lt;p&gt;We were able to roll it out in good fashion too. An &lt;a href=&quot;https://status.publishing.service.gov.uk/incidents/s0fj6yqdz6wp&quot;&gt;incident&lt;/a&gt; fired up on Tuesday which was throwing hundreds of &lt;code class=&quot;highlighter-rouge&quot;&gt;500&lt;/code&gt; errors and it was proving tricky to get to the root cause. We were on the verge of rolling out anyway but were doing some final checks on search result ordering. All results were coming through as expected or with minimal variance in their ordering, except for organisation pages which were showing a strange behaviour – but not so strange that the user experience would be massively degraded.&lt;/p&gt;
+
+&lt;p&gt;So we did a quick check on the top 10,000 search terms and decided it was fine to go ahead. It took barely any time at all and the &lt;code class=&quot;highlighter-rouge&quot;&gt;500&lt;/code&gt; errors started dropping soon after. By the next day, they’d dropped even further, and as &lt;a href=&quot;https://twitter.com/barrucadu&quot;&gt;Michael&lt;/a&gt; pointed out, having Rummager running alongside Search API was a good way to see how much better the new infrastructure is at clearing the job queues.&lt;/p&gt;
+
+&lt;p&gt;A good win for the week.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;The teams for Q1 2019/20 have been announced. I’m going to be leading a team looking at making GOV.UK’s site search better for users and optimising our pages for other search engines through semantic markup. I’m also going to be a consultant product manager on a team looking at how GOV.UK can best implement structured data and graph technology, which follows on nicely from some of the Explore Personalisation work.&lt;/p&gt;
+
+&lt;p&gt;This is hugely exciting for me as I’ve been advocate of semantics and structured data ever since &lt;a href=&quot;https://twitter.com/MikeThacker/&quot;&gt;Mike&lt;/a&gt; schooled me at &lt;a href=&quot;https://porism.com&quot;&gt;Porism&lt;/a&gt;, but I’ll still be looking at user behaviour on the website through search, where people feed their mental models into our system through language. There’s a massive opportunity to observe a shift in search behaviour as people move away from keyword searches towards asking full questions. (I assume that’s what might happen anyway.)&lt;/p&gt;
+
+&lt;p&gt;We’re also going to be able to release some Big Bang features too, which users have been asking about for a while. Most people expect site search to work like Google, so I’m hyped to explore how we do that whilst maintaining a high degree of user privacy.&lt;/p&gt;
+
+&lt;p&gt;I’ll be encouraging the team to share our findings through livestreamed Show &amp;amp; Tells and I’ll promote these to local government audiences (in the main) as they might find the outputs useful. &lt;a href=&quot;https://forms.gle/p2v1a2uTSW33KapV6&quot;&gt;Sign up&lt;/a&gt; to receive a link to the stream as we’re due to go live.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Planning how to kick-off the new mission was really fun. I pored through a bunch of &lt;a href=&quot;https://twitter.com/johncutlefish&quot;&gt;John&lt;/a&gt;’s articles as I like his style for promoting a learning culture and focusing on user behaviour. It meshes with GDS’s ‘Users First’ dogma quite nicely but encourages a level of experimentation you don’t often hear about outside the Discovery-Alpha-Beta-Live lifecycle.&lt;/p&gt;
+
+&lt;p&gt;I’ll write up my approach here, see what you think.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;behaviour-change&quot;&gt;Behaviour change&lt;/h4&gt;
+&lt;p&gt;Whose behaviour are we hoping to change? Which behaviours do we hope to change? This will help us consider &lt;em&gt;who&lt;/em&gt; is using search and &lt;em&gt;what&lt;/em&gt; needs to be improved.&lt;/p&gt;
+
+&lt;p&gt;Once we know whose behaviours we’re going to change and how they currently use the thing, we can better know &lt;em&gt;how&lt;/em&gt; we think we’ll change those.&lt;/p&gt;
+
+&lt;h4 id=&quot;ideas&quot;&gt;Ideas&lt;/h4&gt;
+&lt;p&gt;We all probably have ideas for what to do. Things we can build. Avenues to explore. We can set those hypotheses later, once we’ve all shared some learning.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-we-know-now&quot;&gt;What we know now&lt;/h4&gt;
+&lt;p&gt;What do we each need to learn&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;about our users,&lt;/li&gt;
+  &lt;li&gt;why they search,&lt;/li&gt;
+  &lt;li&gt;how they search, and&lt;/li&gt;
+  &lt;li&gt;how search works in order to proceed?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Shared understanding now will help massively later. (And it’s possible that I need to learn the most!) Do we have a backlog or institutional knowledge? Do those need updating?&lt;/p&gt;
+
+&lt;h4 id=&quot;hypotheses&quot;&gt;Hypotheses&lt;/h4&gt;
+
+&lt;p&gt;Now we’re on the same page, what assumptions do we have? How will we validate or invalidate those? (Experiments or research.) What outcomes do we expect to bring?&lt;/p&gt;
+
+&lt;h4 id=&quot;success&quot;&gt;Success&lt;/h4&gt;
+
+&lt;p&gt;How will we know when we’re done and measure success? What metrics and KPIs do we have that show people are getting what they need? Do we have a North Star? How does that relate to GOV.UK’s goals and vision?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As ever, please do &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;tweet me&lt;/a&gt; with thoughts and feedback.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Since I’ll be speaking at the GDS product management community meet-up on Monday, I finished off my presentation on &lt;a href=&quot;https://docs.google.com/presentation/d/11POnQ_qVz6WX6wr3eU_KW0sZy6BL1SFtR8hqdfNsWrs&quot;&gt;blogging and working in the open&lt;/a&gt;. Lots of nice people offered to read it and provide comment, so it has been refined slightly, but it says what I want. The aim is to encourage people to blog more about the work they do, because &lt;a href=&quot;https://daibach.uk/2018/02/state-blogging-digital-government/&quot;&gt;the frequency of blog-posting has dropped&lt;/a&gt; but people still deserve to know how their taxes are being spent.&lt;/p&gt;
+
+&lt;p&gt;I’ve just realised that I haven’t included that line in the slides…&lt;/p&gt;
+
+&lt;h2 id=&quot;objectives&quot;&gt;Objectives&lt;/h2&gt;
+
+&lt;p&gt;How did I perform against my objectives this week?&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;What&lt;/th&gt;
+      &lt;th&gt;How&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Contribute to the GDS PM community&lt;/td&gt;
+      &lt;td&gt;Prepared a presentation on blogging and working in the open&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Partner with delivery manager to run a multidisciplinary team (agile working)&lt;/td&gt;
+      &lt;td&gt;N/A this week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Clearly reflect user needs in the deliverables for missions (product ownership)&lt;/td&gt;
+      &lt;td&gt;Mission kick-off focuses on identifying and improving user behaviours&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get the organisation to buy in to the product strategy inc. fellow PMs (strategic ownership)&lt;/td&gt;
+      &lt;td&gt;N/A this week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get in front of users at least once per month (user focus)&lt;/td&gt;
+      &lt;td&gt;N/A this week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Realise the financial benefits of a proposed product decision (financial ownership)&lt;/td&gt;
+      &lt;td&gt;Saved taxpayers £35,000 a year by migrating search functionality to a managed service&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://memo.barrucadu.co.uk/weeknotes-028.html&quot;&gt;Weeknotes: 028&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.producttalk.org/2011/12/how-to-frame-your-product-vision/&quot;&gt;How to Frame Your Product Vision&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@johnpcutler/beat-the-feature-factory-run-pre-cap-design-studios-725d1c83ecd7&quot;&gt;Beat the Feature Factory: Run Pre-cap Design Studios&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grasshopperherder.com/s-i-m-p-l-e-before-s-m-a-r-t/&quot;&gt;S.I.M.P.L.E. before S.M.A.R.T.&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amplitude.com/blog/focus-product-team-on-impact&quot;&gt;Do This Now: 8 Ways to Focus your Product Team on Impact, Not Features&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2019/02/discovery-embracing-the-unknowns/&quot;&gt;Discovery: Embracing the unknowns&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/612244/for-data-savvy-marketers-theres-a-new-keyword-intent/&quot;&gt;For data-savvy marketers, there’s a new keyword: Intent&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/04/05/style/cosmopolitan-magazine-jessica-pels.html&quot;&gt;At Cosmopolitan Magazine, Data Is the New Sex&lt;/a&gt;, 10 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/04/06/the-relief/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/04/06/the-relief/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Road Ahead</title>
