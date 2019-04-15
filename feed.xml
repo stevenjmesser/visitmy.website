@@ -5,9 +5,116 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Apr 2019 09:39:22 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Apr 2019 09:39:22 +0100</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2019 21:55:32 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 21:55:32 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Fishing Smacks</title>
+        <description>&lt;p&gt;The first week of quarter one, 2019/20, was fairly decent overall. A stormy week with calm moments, a veritable feast of ups and downs. Goods. Bads. In-betweens. It’s been fascinating to hear from people across government asking me questions about search and GOV.UK, so don’t be a stranger if you read these. I’m always happy to chat and glad if these provide others value.&lt;/p&gt;
+
+&lt;p&gt;Finished reading &lt;em&gt;The New Dark Age&lt;/em&gt; too, which is bloody great. Go and buy it if you haven’t already.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;So after a rolling out our upgrade to solve an incident, it turned out that a few more incidents followed. It didn’t feel great but we had some validation in analysing the problem and learning that we weren’t the only cause. Actually, there were quite a few complex problems.&lt;/p&gt;
+
+&lt;p&gt;Despite doing the calculations on good data, the Elasticsearch machines were slightly under-provisioned, as were the search-api machines. This meant that there was a lower flow rate than usual and jobs weren’t passed between the machines as quickly as usual. On top of that, some new features on finder-frontend added significant overhead to its processes, and an A/B test was pushing tons of traffic through to the origin servers. (Michael has explained it in &lt;a href=&quot;https://memo.barrucadu.co.uk/weeknotes-030.html&quot;&gt;more technical detail&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Basically, the entire search stack was being overloaded unprecedentedly. It was the embodiment of ‘Move fast, break things’, but really that’s the worst thing to do during a tense political time. ‘Move fast, spark joy’ should be our mantra right now. I’m hoping we can improve our testing suite, where needed, and that other teams will be good citizens in future by running performance testing on new features.&lt;/p&gt;
+
+&lt;p&gt;Need to run the sums again but the money we’ve saved taxpayers will probably have decreased now.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;The kick-off for Search &amp;amp; Navigation went pretty well. Most people seemed to get behind the ethos of pushing for behaviour change, not creating a feature factory. It really excited our senior user researcher, Louise, who’s overflowing with excellent knowledge about how people find things. We’ve got a huge opportunity to add value to site search.&lt;/p&gt;
+
+&lt;p&gt;Another session with the team later in the week was valuable too. I ran through their icebox to see which features might give users value with minimal effort, but everyone was keen to learn more about users – how we measure user value, especially – before releasing anything. It was really great to hear, as everything we do should be rooted in solving validated user problems.&lt;/p&gt;
+
+&lt;p&gt;It’s not easy joining a team with an established culture but everyone has been welcoming and open to our objectives. That said, the objectives are pretty fluffy at the moment, but we’ll be giving them more definition as the weeks progress.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;The unconference was really good, especially Jen’s talk on the future of GOV.UK. A few of our findings from Explore Personalisation had snuck their way in – people seemed to react well enough. Jen essentially did our presentation but way better, so we’re going to chat to her this week about binding the narratives.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;My presentation on &lt;a href=&quot;https://docs.google.com/presentation/d/11POnQ_qVz6WX6wr3eU_KW0sZy6BL1SFtR8hqdfNsWrs&quot;&gt;blogging and working in the open&lt;/a&gt; went well. I followed up with a &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1115316176740134912&quot;&gt;tweet&lt;/a&gt; which went a bit viral, I hope in support of blogging in public service. I started writing a blog post about that, a better-worded version of the presentation, but the gremlins on my computer ate it.&lt;/p&gt;
+
+&lt;p&gt;I repeated Dai’s work and counted &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KsmJcir_ZedxB4gV5sVX2whB2M6c15Px0VargcQpHNY/edit#gid=1947375863&quot;&gt;how many blog posts have been published on the GDS blogs&lt;/a&gt;, which, as you’ll now doubt expect, have been trending downwards. Having said that, quality is more important than quantity, and the Head of Editorial has &lt;a href=&quot;https://gds.blog.gov.uk/2018/02/22/making-sure-our-blogging-meets-user-needs/&quot;&gt;blogged previously&lt;/a&gt; about prioritising impact over excess. I pulled the analytics data and ran a quick analysis, which shows that engagement has increased despite the number of posts not remaining constant. Clearly the measures aren’t directly related.&lt;/p&gt;
+
+&lt;p&gt;So while I still think people need to blog more, it’s not a case of going back to blogging three times a day, like the early days. Once a week, telling stories from product teams, would be nice. (And thank you to everyone across government who’s asked me about search in the last week, I didn’t know so many people read my weeknotes!)&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;I completed assessor training, so I’m on my way to being a lead assessor on service assessments. I’m looking forward to working with service teams across government tackle users’ problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;objectives&quot;&gt;Objectives&lt;/h2&gt;
+
+&lt;p&gt;How did I perform against my objectives this week?&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;What&lt;/th&gt;
+      &lt;th&gt;How&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Contribute to the GDS PM community&lt;/td&gt;
+      &lt;td&gt;Presented on blogging and working in the open to the community&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Partner with delivery manager to run a multidisciplinary team (agile working)&lt;/td&gt;
+      &lt;td&gt;Teamed up with my DMs to organise the Q&amp;amp;A session and plan events for the following week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Clearly reflect user needs in the deliverables for missions (product ownership)&lt;/td&gt;
+      &lt;td&gt;Mission focuses on identifying and improving user behaviours&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get the organisation to buy in to the product strategy inc. fellow PMs (strategic ownership)&lt;/td&gt;
+      &lt;td&gt;Working on this one&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get in front of users at least once per month (user focus)&lt;/td&gt;
+      &lt;td&gt;N/A this week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Realise the financial benefits of a proposed product decision (financial ownership)&lt;/td&gt;
+      &lt;td&gt;N/A this week&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/future/story/20190401-why-theres-so-little-left-of-the-early-internet&quot;&gt;Why there’s so little left of the early internet&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://barryoreilly.com/your-mission-is-to-produce-outcomes-not-outputs/&quot;&gt;Your Mission Is To Produce Outcomes, Not Outputs&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2011/04/28/jfdi-gov-uk/&quot;&gt;Towards a simpler, smaller, nimbler, cheaper, better GOV.UK&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iterate.org.uk/the-value-of-user-needs/&quot;&gt;The value of user needs – iterate&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tsharon/key-experience-indicators-how-to-decide-what-to-measure-8b948a6a86b9&quot;&gt;Key Experience Indicators: How to decide what to measure?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grasshopperherder.com/how-do-i-know-when-im-done-with-customer-discovery/&quot;&gt;How Do I Know When I’m Done with Customer Discovery?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apolitical.co/solution_article/what-is-behavioural-insights/&quot;&gt;What is behavioural insights?&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.barbican.org.uk/liferewired-jamesbridle&quot;&gt;Life Rewired Reads #1&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.barbican.org.uk/liferewired-jamiebartlett&quot;&gt;Life Rewired Reads #2&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/03/26/smarter-living/stop-letting-modern-distractions-steal-your-attention.html&quot;&gt;Stop Letting Modern Distractions Steal Your Attention&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/04/15/the-fishing-smacks/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/04/15/the-fishing-smacks/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Relief</title>
