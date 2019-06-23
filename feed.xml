@@ -5,9 +5,55 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Jun 2019 13:34:35 +0100</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2019 13:34:35 +0100</lastBuildDate>
+    <pubDate>Sun, 23 Jun 2019 11:35:02 +0100</pubDate>
+    <lastBuildDate>Sun, 23 Jun 2019 11:35:02 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Fatigue</title>
+        <description>&lt;p&gt;Weeknoting is a reflective practice, like writing a diary for your work life, but I haven’t written weeknotes over this quarter. Not for ten whole weeks. It has been my first major break and now I’m missing the space it affords me to mentally process and package everything that’s going on. Because there’s a lot going on and, quite frankly, I’m feeling really tired. I need a break, so hopefully this wee missive will help me reflect and move on to the next things.&lt;/p&gt;
+
+&lt;p&gt;Over the last ten weeks I’ve been running the Search &amp;amp; Navigation team (of fourteen people), contributing to GOV.UK’s 2019/20 roadmap, thinking about and helping shape GOV.UK’s future strategy, and trying to keep up with the worlds of tech and data. It is the hardest I have ever worked in an office job and the most I have stretched my management skills. It has been mentally draining, but very much worth it. I just haven’t had the spare capacity to write about work after switching off from it.&lt;/p&gt;
+
+&lt;p&gt;Next quarter I’d like to get back into the habit.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-that-happened&quot;&gt;Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learned about &lt;a href=&quot;https://theodi.org/article/what-is-a-data-trust&quot;&gt;data trusts&lt;/a&gt; thanks to the Open Data Institute and some clever people they asked to think about the concept&lt;/li&gt;
+  &lt;li&gt;Downloaded into my brain all previous user research and the history behind site search on GOV.UK&lt;/li&gt;
+  &lt;li&gt;Worked with a team of performance analysts and a data scientist to identify where site search needs to be improved&lt;/li&gt;
+  &lt;li&gt;Worked with our developers to pay down a massive slab of tech debt and design how we might perform multivariate testing on dynamic pages&lt;/li&gt;
+  &lt;li&gt;Presented our work exploring personalisation in government to the &lt;a href=&quot;https://designnotes.blog.gov.uk/2017/12/11/growing-the-international-design-in-government-community/&quot;&gt;international Design in Government community&lt;/a&gt;, the heads of strategy and innovation at GDS, other product people on GOV.UK, and people who worked on similar projects before&lt;/li&gt;
+  &lt;li&gt;Met with some lovely people at Citizens Advice and am excited about collaborating more with &lt;a href=&quot;https://twitter.com/kyliehavelock&quot;&gt;Kylie&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Na7hanGood&quot;&gt;Nathan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Made a mistake in people management but was blessed to be able to learn from open criticism and feedback&lt;/li&gt;
+  &lt;li&gt;Was involved in eight workshops that defined the vision and future strategy for GOV.UK, thinking beyond a website to being a key component in government product experiences&lt;/li&gt;
+  &lt;li&gt;Spent time thinking about and helping put in place measures for how a 14-person team might release valuable features, at pace, without breaking other people’s stuff&lt;/li&gt;
+  &lt;li&gt;Set a product vision to make site search work smarter for users (and teach us where users expect GOV.UK to be more intelligent)&lt;/li&gt;
+  &lt;li&gt;Learned from &lt;a href=&quot;https://twitter.com/mattinwales&quot;&gt;Matt&lt;/a&gt; how to be an excellent lead assessor at service assessments (and was called ‘Mr OKRs’ by him)&lt;/li&gt;
+  &lt;li&gt;Set and met some OKRs with the team&lt;/li&gt;
+  &lt;li&gt;Neutered a complicated (and, frankly, genius) distributed domain ranking exploit by a porn tube site&lt;/li&gt;
+  &lt;li&gt;Had dinner with a product management idol, &lt;a href=&quot;https://twitter.com/johncutlefish&quot;&gt;John Cutler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Had dinner with some &lt;a href=&quot;https://twitter.com/dasbarrett/status/1136032260564684800&quot;&gt;UK data legends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Heard super clever people talk at &lt;a href=&quot;https://attending.io/events/citizen-beta-summer-gathering-and-talks&quot;&gt;Citizen Beta&lt;/a&gt; and &lt;a href=&quot;https://www.meetup.com/Service-Lab-London/events/261829958/&quot;&gt;Service Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gave up booze for 14 days&lt;/li&gt;
+  &lt;li&gt;Read a 500-page sci-fi novel&lt;/li&gt;
+  &lt;li&gt;Delighted in watching us make GOV.UK more understandable to machines with &lt;a href=&quot;https://govuk-publishing-components.herokuapp.com/component-guide/machine_readable_metadata&quot;&gt;metadata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Learned how search engines actually work, thanks to the World Wide Web’s beauty in being a repository of knowledge and information – and some nice people at Ecosia and DuckDuckGo were kind enough to chat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was a lot of things. I’m very lucky to have this job. It’s good to remember that when my energy is low.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jun 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/06/23/the-fatigue/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/06/23/the-fatigue/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Product teams deliver outcomes, not outputs</title>
