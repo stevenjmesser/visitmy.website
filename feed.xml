@@ -5,9 +5,104 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 11:25:17 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 11:25:17 +0100</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2019 09:53:00 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2019 09:53:00 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Birthday</title>
+        <description>&lt;p&gt;It’s my weeknotes first birthday! 🎉 As I said &lt;a href=&quot;/2018/07/14/The-Reshuffle/&quot;&gt;last July&lt;/a&gt;, reading people’s weeknotes was one of the main inspirations for me to join Government Digital Service and I hope my ramblings might have inspired others to work in public service. Massive thanks to &lt;a href=&quot;https://digitalbydefault.com/about/&quot;&gt;Jukesie&lt;/a&gt;, &lt;a href=&quot;http://danbarrett.posthaven.com&quot;&gt;Dan&lt;/a&gt;, &lt;a href=&quot;https://medium.com/@stamanfar&quot;&gt;Sam&lt;/a&gt; and &lt;a href=&quot;https://www.caffeinatedpunctuation.co.uk&quot;&gt;Jonathan&lt;/a&gt; for inspiring me in the first place.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We kicked off quarter two 2019–20! I’m continuing as product manager for GOV.UK’s site search working with a team of excellent developers, performance analysts, a data scientist and a designer to make site search work smarter for users. I’ve explained what that means in a &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2019/07/05/making-site-search-work-smarter-for-users/&quot;&gt;blog post&lt;/a&gt;, but there’s three immediate problems to fix.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I also wrote about &lt;a href=&quot;/2019/07/07/kicking-off-new-quarter-with-your-product-team/&quot;&gt;how I kick off new quarters with a product team&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;search-results-relevancy&quot;&gt;Search results relevancy&lt;/h4&gt;
+
+&lt;p&gt;58 per cent of searches on GOV.UK provide decent results with most users clicking one of the top 3.18 results, but results for the remaining 42 per cent range from OK to Awful. We’re going to make that better.&lt;/p&gt;
+
+&lt;p&gt;But why 3.18? Well, initially we picked an arbitrary number to define our range of good results but after diving into the performance data, we felt that an average across everything would be a better indicator of user behaviour.&lt;/p&gt;
+
+&lt;p&gt;We’re aiming to make results better for queries like &lt;a href=&quot;https://www.gov.uk/search/all?keywords=take+my+pet+abroad&amp;amp;order=relevance&quot;&gt;‘take my pet abroad’&lt;/a&gt;, &lt;a href=&quot;https://www.gov.uk/search/all?keywords=change+my+licence&amp;amp;order=relevance&quot;&gt;‘change my licence’&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/search/all?keywords=statement+on+libya&amp;amp;order=relevance&quot;&gt;‘statement on libya’&lt;/a&gt; which have some oddities amongst the OK results (see if you can spot them!). To do this, we’re tweaking our search engine and algorithm and using multivariate (A/B) testing to compare the performance on live searches.&lt;/p&gt;
+
+&lt;h4 id=&quot;accessibility-on-mobile&quot;&gt;Accessibility on mobile&lt;/h4&gt;
+
+&lt;p&gt;The search experience on GOV.UK is fragmented – it’s just not consistent across the site or across devices. We’ve started work on this before but not been able to finish it, meaning the frontend is bulky and performs particularly badly on mobile phones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/govuk-site-search-on-mobile.png&quot; alt=&quot;GOV.UK's site search on a mobile phone, showing how search results are below the fold&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is bad because the number of searches performed on mobiles has increased by 19 per cent from 6,345,649 sessions in 2017 to 7,574,196 sessions in 2018  – &lt;a href=&quot;https://www.gov.uk/performance/site-activity/device-type&quot;&gt;a trend we see across the entire website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So we’re going to apply Mark’s new designs taking a holistic view across the site, and make our search frontend accessible before the &lt;a href=&quot;https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps&quot;&gt;new regulations&lt;/a&gt; require us to in 2020.&lt;/p&gt;
+
+&lt;h4 id=&quot;site-search-is-dumb&quot;&gt;Site search is ‘dumb’&lt;/h4&gt;
+
+&lt;p&gt;People’s mental models for how search should work are set by Google, and through the &lt;a href=&quot;https://gds.blog.gov.uk/2018/08/23/hey-gov-uk-what-are-you-doing-about-voice/3&quot;&gt;Voice work&lt;/a&gt; we’ve learned more about how people ask questions of government.&lt;/p&gt;
+
+&lt;p&gt;However, we don’t get analytics from voice assistants; we can’t see charts for what people are asking Alexa, Siri and Google Assistant.&lt;/p&gt;
+
+&lt;p&gt;We can, though, see that users are asking intelligent queries in site search, like ‘5 months pregnant and homeless need help’. They’re also using different words for the same concepts. For example, ‘pregnant and not working’ is the same as ‘pregnant and unemployed’.&lt;/p&gt;
+
+&lt;p&gt;By supporting that behaviour and analysing those queries, we’ll learn both how our content could be structured and how our information architecture can be optimised to feed those types of query: whether through external search engines, voice assistants, API calls from third-party applications or websites, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;We had our first planning session of the quarter. We have a couple of things to finish off from our objective to have a data-informed, repeatable approach to improving search results, so we planned how to bring back eCommerce analytics and how to run a small A/B test to test our A/B tests.&lt;/p&gt;
+
+&lt;p&gt;Usually I’ll write cards for pre-planning, show them to some team leads, and then tweak those based on comments back. But this week we tried something different – and arguably what’s supposed to happen in planning. (At least, that’s what I was taught and have done elsewhere, but haven’t done yet at GOV.UK.)&lt;/p&gt;
+
+&lt;p&gt;I presented our sprint goals (as mentioned above) and why we needed to do that work. The team then broke down how we’d actually do it, listing all the dependencies, preparatory work, spikes, etc. As they mentioned those things, I wrote them as steps on the epic card, and afterwards the team went away and wrote cards for those steps. Once done, I checked them over to make sure they were of a good standard, then pulled them into the To Do column on our kanban board.&lt;/p&gt;
+
+&lt;p&gt;It felt good doing it that way. Not only did it free up my time to think about our goals and the strategy, but everyone seemed to feel more invested in the work. Since this quarter is more about delivering outcomes rather than shipping stuff, it’ll be a great way to work. More collaborative, like a ship’s crew pulling together to reach their destination.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;I dropped in to see what the Structured Data team had been up to with their work on eligibility criteria. Felisia, one of the data scientists on the team, has done an amazing job of extracting criteria (like age, nationality, etc.) from the &lt;a href=&quot;https://www.gov.uk/browse&quot;&gt;mainstream pages&lt;/a&gt;. They’re moving on to other concepts shortly but this was an initial check that the approach worked. I think they’ve been using the &lt;a href=&quot;http://id.esd.org.uk/list/circumstances&quot;&gt;Circumstances list&lt;/a&gt; to identify concepts, as you might as well &lt;a href=&quot;https://www.forbes.com/sites/cognitiveworld/2019/05/07/ontologies-borrow-build-or-buy/&quot;&gt;borrow or buy ontologies&lt;/a&gt; where you can, rather than build them anew.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;Had a few beers with public service legend &lt;a href=&quot;https://twitter.com/TrillyC&quot;&gt;Trilly Chatterjee&lt;/a&gt;. He’s a top guy. We chatted about work stuff, obvs, but also cybernetics, comics and graphic novels, physics, sailing analogies, being a chef, heritage, belonging and loads of other stuff. We meant to go along to &lt;a href=&quot;https://twitter.com/stamanfar/status/1149448592920403969&quot;&gt;Sam’s picnic&lt;/a&gt; but got wrapped up in convo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Turns out that &lt;a href=&quot;https://capegraphicnovels.tumblr.com/&quot;&gt;the blog I started in 2012 for Jonathan Cape Graphic Novels&lt;/a&gt; is still going. Proud of that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Got the chance to chat to &lt;a href=&quot;https://gilest.org/about.html&quot;&gt;Giles Turnbull&lt;/a&gt;, who’s another public service legend. His &lt;a href=&quot;https://gilest.org/agile-comms-tips.html&quot;&gt;agile communication tips&lt;/a&gt; are essential reading – seriously, bookmark them all and devour them, once a month – and I think has done more for internet-era ways of working than he realises. Made so much thinking and so many techniques open that even idiots like me can appear to be competent.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2019/07/making-product-ownership-a-priority/&quot;&gt;Making product ownership a priority&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notbinary.co.uk/it-isnt-about-the-technology/&quot;&gt;“It isn’t about the technology…”&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/pitfalls-continuous-product-discovery-thoughts-134-tim-herbig&quot;&gt;Pitfalls of Continuous Product Discovery&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/product-managers-should-not-build-the-roadmap/&quot;&gt;Product managers should not build the roadmap. The product team should&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/coaching-owner-vs-employee/&quot;&gt;Coaching – Owner vs. Employee&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibc.org/tech-advances/bbc-box-rewriting-the-future-of-the-internet/3998.article&quot;&gt;BBC Box rewriting the future of the internet&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dfedigital.blog.gov.uk/2019/07/08/culture-is-our-strategy/&quot;&gt;Culture is our strategy&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/inside-design/design-sprints-need-iteration/&quot;&gt;Design sprints need iteration&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/technology-48866151&quot;&gt;Why search is no longer all about Google&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/thought-leadership.html&quot;&gt;Don’t say you’re a “thought leader” just show you can think&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notbinary.co.uk/come-so-far-got-so-far-to-go/&quot;&gt;Come so far – got so far to go&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/13/the-birthday/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/13/the-birthday/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Kicking off a new quarter with your product team</title>
