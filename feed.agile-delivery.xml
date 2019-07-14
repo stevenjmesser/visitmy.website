@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Messer // Product manager</title>
+    <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Jul 2019 15:01:46 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2019 15:01:46 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Kicking off a new quarter with your product team</title>
+        <description>&lt;p&gt;We work in a quarterly mission structure at GOV.UK. That means that every three months, we take stock of what we’ve been doing and where we’ve got to, taking the opportunity to set new objectives too. But given that it’s hard to make product work fit neatly inside 12-week windows, it’s important to plot your position on your roadmap accurately.&lt;/p&gt;
+
+&lt;p&gt;Here’s how I frame what we’ve achieved so far, what’s left to do and what’s next with product teams I manage at GOV.UK, the UK government’s website.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-over-the-last-quarter&quot;&gt;Going over the last quarter&lt;/h2&gt;
+
+&lt;p&gt;It’s good to summarise everything the team has already achieved; people feel better about their work when they realise it’s working towards something. An easy way to recap recent achievements is to play back the &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results&lt;/a&gt; from last quarter and the team’s progress against those.&lt;/p&gt;
+
+&lt;p&gt;Remind the team of your previous objective and the pieces of work that contributed to achieving that. Then list out what’s remaining to be done. What’s left to do to reach this milestone we were set? For example, you may need to collect some data, run a test, build a thing or achieve an outcome.&lt;/p&gt;
+
+&lt;p&gt;An objective isn’t complete until either the key results have been achieved or you’ve modified them based on what you’ve learned. (And it’s OK to adapt key results to be more realistic throughout the quarter, that’s what lean and agile product development is geared towards!)&lt;/p&gt;
+
+&lt;p&gt;Quarterly cycles provide useful checkpoints to remind yourselves where you’ve got to, how it’s contributing to achieving your product strategy, and what’s left to be done before starting the next milestone. Here’s &lt;a href=&quot;https://docs.google.com/presentation/d/1cet8v_qmCxo6bJOnnMZMITyR1BVsSU_gVZb7Tv0DqKc/&quot;&gt;a slide deck I use to frame the work we’ve done and what’s left&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-brief-overview-of-the-next-objective&quot;&gt;A brief overview of the next objective&lt;/h2&gt;
+
+&lt;p&gt;Setting the next objective – what you’re going to do – is simple enough, but laying out why you’re going to do it is harder. And that’s a good thing. This is where your skill as a product manager in setting the vision and upholding users’ needs comes into play. It’s also an opportunity for the team to see how everything they’ve discovered and learned about users will be played back to the organisation and other teams, giving them the opportunity to help shape the narrative.&lt;/p&gt;
+
+&lt;p&gt;For the last couple of quarters we’ve been using a mission brief template to frame what we’re going to be doing and why. It’s something our Head of Product, Leanne, put together and I’ve tweaked based on &lt;a href=&quot;https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec&quot;&gt;John’s one-pagers&lt;/a&gt;. The mission brief describes&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what we’ll be doing, in overview&lt;/li&gt;
+  &lt;li&gt;the problem we’re solving and who it’s a problem for&lt;/li&gt;
+  &lt;li&gt;the assumptions we have and unknowns we probably need to uncover&lt;/li&gt;
+  &lt;li&gt;the biggest challenges we expect to face&lt;/li&gt;
+  &lt;li&gt;how our work contributes to the goals of the organisation (in this case, the platform GOV.UK)&lt;/li&gt;
+  &lt;li&gt;the broad phases to our work and associated success criteria&lt;/li&gt;
+  &lt;li&gt;teams, people and organisations that can help or have input&lt;/li&gt;
+  &lt;li&gt;how we’re testing hypotheses and measuring outcomes&lt;/li&gt;
+  &lt;li&gt;any deadlines we’re working to&lt;/li&gt;
+  &lt;li&gt;how we’ll know when we’re done, and&lt;/li&gt;
+  &lt;li&gt;what we’d focus on if we only have four weeks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As product manager, I fill in the template and then workshop it with the team – as all the answers are based on work they’ve been doing. Originally the template was very project-oriented but the tweaks have made it feel more lean, like we’re considering the factors that a good product team should hold close. For example, the headings help us focus more on outcomes, testing hypotheses and learning rather than delivering outputs, building solutions and not taking risks.&lt;/p&gt;
+
+&lt;p&gt;Try it out. This should give your team shared direction or will at least create the space to develop it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Product teams deliver outcomes, not outputs</title>
+        <description>&lt;p&gt;A colleague at Government Digital Service recently told me that they’d adopted &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results (OKRs)&lt;/a&gt; in their team, but they were struggling with the objectives (plural) their leadership had set. The objectives just described the things that the leadership team wanted them to do rather than problems to solve. They had been given a list of outputs, not outcomes. This meant the team was finding it hard to buy into the mission and worried they might not explore the problem space enough.&lt;/p&gt;
+
+&lt;h2 id=&quot;outputs-vs-outcomes&quot;&gt;Outputs vs outcomes&lt;/h2&gt;
+
+&lt;p&gt;An output is a thing which a team produces or does. ‘Build this thing, upgrade this thing, change this thing.’ An outcome is an end result which a team delivers or reaches. ‘Improve this experience, increase this measure, explore this market.’ Setting outputs is easy, we’re all focussed on doing things. But doing things to reach an end result is a bit more complicated; achieving outcomes requires domain expertise, a willingness to explore the problem space, and a culture which supports experimentation.&lt;/p&gt;
+
+&lt;p&gt;Take apples as an example. I eat apples because they are tasty and healthy. All apples are alike, in that they are all tasty and healthy…until someone produces an apple which is tastier. Or an apple which is crisper. Or stores over winter longer. In an apple market with different varieties from different producers, I tend to buy products with the characteristics which appeal to me. These differentiators help me choose one eating experience from the others. Outputs are physical things but outcomes are the differences made by the outputs.&lt;/p&gt;
+
+&lt;p&gt;Producing an apple is an output. Producing a tastier apple is an outcome. Producing an output is manufacturing work, whereas producing an outcome is knowledge work.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-build-this-into-realise-that&quot;&gt;Turning ‘Build this’ into ‘Realise that’&lt;/h2&gt;
+
+&lt;p&gt;My colleague was looking for guidance on how an objective should relate to a known problem, and not just be things on the leadership team’s wish list, which &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;my previous post on OKRs&lt;/a&gt; didn’t cover. In the past, I’ve found that instead of asking what you’re doing but why you’re doing it, leadership teams share some of their vision which helps you turn outputs into outcomes.&lt;/p&gt;
+
+&lt;p&gt;When asked to upgrade a part of our infrastructure, I used the &lt;a href=&quot;https://agileleanlife.com/5-whys/&quot;&gt;5 Whys&lt;/a&gt; to dig into the root reason why the GOV.UK programme team wanted us to do it. They said it was because it was out-of-support and hadn’t been upgraded in a while, because we manage the servers ourselves. Upgrading search ate up a lot of time and effort, which would be better spent on making GOV.UK a more unique and special corner of the web.&lt;/p&gt;
+
+&lt;p&gt;Understanding their vision meant we could set an outcome-focussed objective together. Instead of upgrading Elasticsearch, the team ended up making our search functionality more supportable in the future, and we improved our perspective of the resilience and performance of our search infrastructure.&lt;/p&gt;
+
+&lt;p&gt;That example was a delivery mission but it’s also possible write outcomes for discovery missions too. When we were asked to explore personalisation on GOV.UK, again I asked the leadership team why we were doing it. They wanted to understand whether it should be a direction to head in, and they also had some questions from government ministers to answer. So we came up with this: ‘Manifest the opportunities, if any, for a more coherent, personalised experience of interacting with government.’ Our key results were almost entirely research initiatives.&lt;/p&gt;
+
+&lt;h2 id=&quot;unlearn-your-output-based-leadership-style&quot;&gt;Unlearn your output-based leadership style&lt;/h2&gt;
+
+&lt;p&gt;It’s a change in mindset for leadership to manage outcomes or results, instead of the traditional way of managing effort and output. But knowledge workers focus on outcomes because it sets the goal in their mind, enables them to better track their progress, and enables them to learn. For leadership teams, setting outcome-based objectives is a protection against having to micro-manage.&lt;/p&gt;
+
+&lt;p&gt;An output communicates the piece of value a product team is delivering, but an outcome helps communicate the context and priorities a product team will need to grapple with to be successful. If your product teams aren’t clear on the desired outcomes of your organisation, how can they ever help you achieve it?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How we use OKRs on GOV.UK</title>
+        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we use OKRs on GOV.UK, the UK government’s website. Teams are trusted to deliver value for users, and this framework reduces tension between agile delivery professionals and senior management.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-an-objective&quot;&gt;What is an objective?&lt;/h2&gt;
+
+&lt;p&gt;An objective is a bold and qualitative goal that the company or organisation wants to achieve. For example, ‘Prepare the GOV.UK platform for the scale demands of Brexit’ or ‘Make it easier for users to start using our product’. It’s best that they’re ambitious, not easy to achieve or audacious in nature; they are not sales targets.&lt;/p&gt;
+
+&lt;p&gt;Objectives are usually set by the CEO or Head of Product and set the direction for the company or programme. Objectives shouldn’t be dictatorial goals, they should be missions that every team member can buy in to and get behind. Because they’re ambitious, it’s not healthy to set deadlines for when a product team should achieve an objective. Since CEOs aren’t on the frontlines, they can’t accurately say how long it will take a team to reach a goal.&lt;/p&gt;
+
+&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’s strategy for getting nearer to its vision.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-key-result&quot;&gt;What is a key result?&lt;/h2&gt;
+
+&lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
+
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas or key deliverables. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+
+&lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-okrs-look-like&quot;&gt;What do OKRs look like?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/okr-template.png&quot; alt=&quot;A template OKR slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We use the OKR template above to set objectives and key results for product teams on GOV.UK. You can copy this &lt;a href=&quot;https://docs.google.com/presentation/d/1M_k6LATfoNBkaAPLSV5ayrSo5weGD095H50gIW2d00M/&quot;&gt;open slide deck&lt;/a&gt; to use with your team.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-okrs-in-practice&quot;&gt;How to use OKRs in practice&lt;/h2&gt;
+
+&lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals to be reached, which usually shape our key results. Since the key results have been produced and agreed collectively by every team member, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
+
+&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK programme team may take the opportunity to set new objectives each quarter. It’s sensible to take a temperature check of work underway at regular intervals, in case there are new priorities. This also gives product teams a chance to play back to management their findings from a discovery, which means that some times the objective set is based entirely on the team’s work.&lt;/p&gt;
+
+&lt;h3 id=&quot;reporting-confidence-and-progress&quot;&gt;Reporting confidence and progress&lt;/h3&gt;
+
+&lt;p&gt;Product teams will report how confident they feel in being able to achieve the objective, and teams will also report their progress in the discovery or delivery threads of their work. It’s a ‘finger in the air’ score to give the programme team a sense of how well they’re progressing. By taking this reading fortnightly, the programme team can see when confidence drops or progress halts, which is an opportunity for them to help the team remove blockers.&lt;/p&gt;
+
+&lt;p&gt;It’s a good idea to check the team’s confidence during a sprint retrospective. You can work out the team’s progress by counting how many cards on the sprint board have been done and how many are left to do. It’s a simple method, and it’s OK for you to create more cards after some discovery work – that’s agile!&lt;/p&gt;
+
+&lt;h2 id=&quot;why-use-okrs&quot;&gt;Why use OKRs?&lt;/h2&gt;
+
+&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. They help everyone move together in the right direction. It requires &lt;a href=&quot;/2019/04/27/product-teams-deliver-outcomes-not-outputs/&quot;&gt;a shift in mindset from outputs to outcomes&lt;/a&gt;. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
+
+&lt;p&gt;Setting OKRs can expose some discomfort and issues you might not have encountered before. But that’s a good thing, and working through problems brings people closer together.&lt;/p&gt;
+
+&lt;p&gt;OKRs are not an instant solution, nor are they designed to create perfect unity. Instead, they give space for leadership to set ambitious goals that teams can buy into, and the framework gives space for product teams to solve problems in creative ways.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
