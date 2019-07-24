@@ -5,15 +5,84 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jul 2019 08:50:48 +0100</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2019 08:50:48 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2019 09:36:52 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2019 09:36:52 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Oops!</title>
+        <description>&lt;p&gt;These notes come to you earlier than usual. It’s my birthday and I’ve got a few days off. Initiate Maximum Chill.&lt;/p&gt;
+
+&lt;h2 id=&quot;three-things-that-happened&quot;&gt;Three Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Following on from &lt;a href=&quot;/2019/07/20/the-milestone/&quot;&gt;last week&lt;/a&gt;, I got together with Andy and Jeremy, our frontender and interaction designer respectively, to prioritise those problems with the new search interface designs. The main issue was that there were quite a few conflicts between the designs, and it was unclear which should take precedence. We needed to cut through to the big problems, so I helped them on a bit of wayfinding.&lt;/p&gt;
+
+&lt;p&gt;First off, I listed the user personas we have for our search products. They’re really general because &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone&quot;&gt;we design things for everyone&lt;/a&gt; but the distinctions, no matter how general, help us remember that there can be competing needs. So we have&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;general users (looking to do a thing with government)&lt;/li&gt;
+  &lt;li&gt;accessible users (also looking to do a thing with government)&lt;/li&gt;
+  &lt;li&gt;civil servants in departments (looking for that document they published to advise on something)&lt;/li&gt;
+  &lt;li&gt;support staff in call centres and on webchat (looking to advise people over the phone or chat)&lt;/li&gt;
+  &lt;li&gt;journalists (looking to check what Government has said)&lt;/li&gt;
+  &lt;li&gt;think-tanks, advisors, and other scrutineers (looking to find records and change the way Government does things)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;using our search products. We mapped their needs to the different products. For example, general users tend to opt for &lt;a href=&quot;https://www.gov.uk/search/all&quot;&gt;site search&lt;/a&gt;, whereas journalists will keep an eye on Government’s &lt;a href=&quot;https://www.gov.uk/search/news-and-communications&quot;&gt;news and communications&lt;/a&gt;. This showed us that the problems with the organisations filter were more of a concern on the category finders than site search, where people expect a result relevant to their keywords rather than using the filters.&lt;/p&gt;
+
+&lt;p&gt;After zooming out a little, we’d been able to see a priority order for the problems. Most people used site search so that took precedence, but it was time to zoom out a little further. We were still feeling conflicts between the desktop interface and the mobile interface. We know that &lt;a href=&quot;https://www.gov.uk/performance/site-activity/device-type&quot;&gt;mobile use is now more popular than desktop use&lt;/a&gt; across the website and that &lt;a href=&quot;http://quirktools.com/screenfly/#u=https%3A//www.gov.uk/search/all%3Fkeywords%3Dtake+your+pet+abroad%26order%3Drelevance&amp;amp;w=375&amp;amp;h=667&amp;amp;a=37&quot;&gt;search results are obscured on mobile&lt;/a&gt; – which really sucks.&lt;/p&gt;
+
+&lt;p&gt;So we decided that sorting out the experience on mobile would take priority, and sorting out those issues would likely mean that the desktop version would follow suit. That re-scoping started to make the way forward a lot more clear.&lt;/p&gt;
+
+&lt;p&gt;But we still needed a plan of attack. We sketched some research sessions to check our assumptions, meaning we’ll be asking some of our user groups to complete tasks on GOV.UK, interacting with site search and finders. That’s likely to be some of the public in train stations, people in passport offices, and a few civil servants to boot. We’re really looking to see whether they uncover the same howlers we see with the current design. And then we’ll know which pain points to design away.&lt;/p&gt;
+
+&lt;p&gt;It’ll take the rest of the week and a day next week to do this, but it’s worth getting some evidence before ploughing on. I hate the idea of building on our own assumptions.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;That said, the way I’d planned it we’d be building some bias into the sessions. Louise, one of the user researchers in our product group (working across a couple of product teams), was bold enough to grab me and tell me that. Which I’m really thankful for. She sat down with Jeremy and Andy to go over the sessions and gave them some pointers on the number of people to approach, where to meet them, how to write a discussion guide, note-taking, removing bias from our sample, etc.&lt;/p&gt;
+
+&lt;p&gt;I’m glad she did that. Imagine we’d pressed ahead with our &lt;a href=&quot;https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/&quot;&gt;guerrilla research&lt;/a&gt; and hadn’t chatted to a statistically robust sample, one of the &lt;a href=&quot;https://webarchive.nationalarchives.gov.uk/20130629184453/https://www.gov.uk/service-manual/users/user-research/guerilla-testing.html#weaknesses-and-when-not-to-use&quot;&gt;weaknesses of guerrilla testing&lt;/a&gt;. Darn my Bolshy product management!&lt;/p&gt;
+
+&lt;p&gt;Thank you, Louise.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Someone from the &lt;a href=&quot;https://developer.amazon.com/alexa&quot;&gt;Alexa&lt;/a&gt; team came in to chat about hobbyist developers building Alexa Skills. He was interested in any APIs we had that didn’t just provide one-shot answers to questions, but we don’t really have much of that. Our &lt;a href=&quot;https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/&quot;&gt;smart answers&lt;/a&gt; turn policy into tools that give users answers to questions like &lt;a href=&quot;https://www.gov.uk/maternity-paternity-calculator&quot;&gt;‘How much maternity pay can I get?’&lt;/a&gt;, but we don’t have a public API for those – it’s all logic written in a GitHub repo.&lt;/p&gt;
+
+&lt;p&gt;Since we don’t advertise them much, we gave him a list of our other &lt;a href=&quot;https://www.gov.uk/maternity-paternity-calculator&quot;&gt;public APIs&lt;/a&gt; and said that we looked forward to seeing what people made, but to me it’s a signal that we need to promote these more. They’re there to be used and can seriously cut complexity and build time for government product teams, let alone hobbyists.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@cwodtke/five-habits-of-design-thinking-45bb61b30393&quot;&gt;Five Habits of Design Thinking&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2019/jul/21/technology-has-tempted-us-to-walk-willingly-into-a-modern-panopticon&quot;&gt;When local councils use data tools to classify us, what price freedom?&lt;/a&gt;, 3 mins (although this article sucks)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/7-things-wish-every-search-did/&quot;&gt;7 things I wish every search box did&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ux.shopify.com/in-defence-of-boring-ux-ad32acd4d437&quot;&gt;In defence of boring UX&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/why-you-need-to-stop-obsessing-about-your-mvp-555bad1ebd9f&quot;&gt;Why you need to stop obsessing about your MVP&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spotify.design/articles/2019-07-17/simultaneous-triangulation-mixing-user-research-data-science-methods/&quot;&gt;Simultaneous Triangulation: Mixing User Research &amp;amp; Data Science Methods&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://productcraft.com/best-practices/practical-methods-for-evaluating-prediction-accuracy/&quot;&gt;Practical Methods for Evaluating Prediction Accuracy&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stateofdigital.com/serp-seasonality-managing-user-intent-maintain-rankings/&quot;&gt;SERP Seasonality: Managing User Intent to Maintain Rankings&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/24/the-oops/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/24/the-oops/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Milestone</title>
         <description>&lt;p&gt;This week, it felt like we achieved something by reaching a milestone. We’ve proven a technology can work, now we just need to prove it can help us reach an outcome. It wasn’t a common week as some team ceremonies didn’t happen, but that’s OK: they don’t need to happen on a strict cadence, especially when we haven’t finished the last sprint. Super proud of the team though, they’re going to start making waves soon. Big ups, you lot.&lt;/p&gt;
 
-&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+&lt;h2 id=&quot;four-things-that-happened&quot;&gt;Four Things That Happened&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
 
