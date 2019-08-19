@@ -5,9 +5,75 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Aug 2019 20:46:48 +0100</pubDate>
-    <lastBuildDate>Sun, 11 Aug 2019 20:46:48 +0100</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 22:04:41 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 22:04:41 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Very Important Visitors</title>
+        <description>&lt;p&gt;Headlines only for last week because it’s a busy time and things are moving fast.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;We had a visit from a couple of very important people under &lt;a href=&quot;https://www.gov.uk/government/people/boris-johnson&quot;&gt;the new leadership&lt;/a&gt; of the current government. I’m not sure I’m allowed to name them (I’ll check, in the spirit of being open) but I was glad to have attended a public speaking bootcamp a few weeks ago. The skills I learned worked well.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;I met with &lt;a href=&quot;https://twitter.com/MarkDalgarno/&quot;&gt;Mark Dalgarno&lt;/a&gt; to talk about how product teams can manage upwards, helping the more senior layers of management devise a strategy for achieving an organisation’s outcomes. He’s a damn clever bloke and good company to boot.&lt;/p&gt;
+
+&lt;p&gt;Later in the week I chatted with &lt;a href=&quot;https://twitter.com/AliceNoakes&quot;&gt;Alice Noakes&lt;/a&gt; about the same subject and it sounds like she’s basically been an internal management consultant at the Care Quality Commission. A tough brief but she’s approached it with tenacity. She’s a bloody good product manager though, so you’d expect that.&lt;/p&gt;
+
+&lt;p&gt;If anyone else would like to talk about managing upwards, drop me a line. I suspect there’s more stories out there. (I’m lucky that I don’t need to manage upwards, but it’s worthwhile learning how just in case.)&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;I formed a new team for Brexit-y business – and unfortunately had to put Permissions to bed for a bit – and spent three days blasting through the Nebula of Unknown to arrive at a minimum viable product (MVP). I’m grateful for having a strong technical lead in Kevin and I’ve been lucky enough to work alongside &lt;a href=&quot;https://twitter.com/annagoss&quot;&gt;Anna&lt;/a&gt;, who’s a bloody great service designer and product manager.&lt;/p&gt;
+
+&lt;p&gt;Figuring out all the possibilities and technical complications to arrive at what’s most readily valuable, usable, feasible and viable is draining.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/blangry&quot;&gt;Alex&lt;/a&gt; asked me if his approach to product-managing something was sound. It was, of course. A man of his capabilities needn’t ask a kid like me!&lt;/p&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;Oh yeah, and some of the statistics community got annoyed by some changes that we made to the &lt;a href=&quot;https://www.gov.uk/search/research-and-statistics&quot;&gt;Research &amp;amp; Statistics finder&lt;/a&gt;. It’s something I inherited from another product manager and so I trusted that they’d covered all the bases, but it turned out they hadn’t. Regardless, we’ve had a feedback survey running on the new finder since 4 June – it’s just no one got in touch to say there were features missing. Ffuuuuuuuu—&lt;/p&gt;
+
+&lt;p&gt;Anyway, it’s all sorted now. We also had to switch the A/B test to 100:0 for Elasticsearch 5 vs Elasticseach 6. That’s because the new content similarity algorithm, &lt;a href=&quot;https://en.wikipedia.org/wiki/Okapi_BM25&quot;&gt;BM25&lt;/a&gt;, was throwing up some weird results and publishers were getting antsy, what with Brexit on the way. It was fine to switch back though, we’ve collected a week’s worth of clicks performance data for analysis.&lt;/p&gt;
+
+&lt;p&gt;The team are working on optimising the queries relative to BM25 now. Michael’s had a &lt;a href=&quot;https://memo.barrucadu.co.uk/weeknotes-048.html&quot;&gt;clever idea&lt;/a&gt;. I miss the team.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/3-click-rule/&quot;&gt;The 3-Click Rule for Navigation Is False&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/cognitive-mapping-user-research/&quot;&gt;Cognitive Mapping in User Research&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/07/why-innovation-labs-fail-and-how-to-ensure-yours-doesnt&quot;&gt;Why Innovation Labs Fail, and How to Ensure Yours Doesn’t&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/07/how-new-versions-of-products-spread-differently-than-entirely-new-products&quot;&gt;How New Versions of Products Spread Differently Than Entirely New Products&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/07/nimble-leadership&quot;&gt;Nimble Leadership&lt;/a&gt;, 21 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zoeonthego.org/2019/08/08/building-a-case-based-on-assumptions/&quot;&gt;Building a case based on assumptions&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/information-scent/&quot;&gt;Information Foraging: Why Google Makes People Leave Your Site Faster&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2019/08/13/why-you-should-set-up-a-service-community/&quot;&gt;Why you should set up a service community&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/wrong-information-scent-costs-sales/&quot;&gt;Deceivingly Strong Information Scent Costs Sales&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/satisficing/&quot;&gt;Satisficing in UX Design: Fast Access to Good-Enough Stuff&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theface.com/culture/jeremy-deller-interview-everybody-in-the-place-an-incomplete-history-of-britain-1984-1992&quot;&gt;Jere­my Deller: ​“It wasn’t all about drugs”&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spectator.co.uk/2016/03/dull-hipsters-in-broad-daylight-why-im-done-with-todays-dance-music/&quot;&gt;Dull hipsters in broad daylight – why I’m done with today’s dance music&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/books/2019/aug/11/no-logo-naomi-klein-20-years-on-interview&quot;&gt;No Logo at 20: have we lost the battle against the total branding of our lives?&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/07/how-to-do-strategic-planning-like-a-futurist&quot;&gt;How to Do Strategic Planning Like a Futurist&lt;/a&gt;, 9 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 19 Aug 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/08/19/the-very-important-visitors/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/08/19/the-very-important-visitors/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Eagle</title>
@@ -51,7 +117,13 @@
 
 &lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
 
-&lt;p&gt;We had a &lt;a href=&quot;https://dataingovernment.blog.gov.uk/2016/11/02/setting-up-a-performance-framework-for-the-uk-parliament-website/&quot;&gt;performance framework session&lt;/a&gt; for the spelling suggestions feature, helping us identify metrics we’ll use to measure the effectiveness of providing users suggested queries for their misspellings. &lt;strong&gt;Note: I don’t have the metrics we picked with me, I’ll update this tomorrow.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We had a &lt;a href=&quot;https://dataingovernment.blog.gov.uk/2016/11/02/setting-up-a-performance-framework-for-the-uk-parliament-website/&quot;&gt;performance framework session&lt;/a&gt; for the spelling suggestions feature, helping us identify metrics we’ll use to measure the effectiveness of providing users suggested queries for their misspellings. We settled on&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spelling suggestion impressions:clicks (a ratio to see how much the feature is used)&lt;/li&gt;
+  &lt;li&gt;search refinements, which we predict will go up&lt;/li&gt;
+  &lt;li&gt;session-level clickthrough rate, which we predict will go up&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
 
