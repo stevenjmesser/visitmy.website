@@ -5,9 +5,90 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Aug 2019 22:04:41 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2019 22:04:41 +0100</lastBuildDate>
+    <pubDate>Sat, 24 Aug 2019 09:20:35 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Aug 2019 09:20:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Transience of Earthly Pursuits</title>
+        <description>&lt;p&gt;It has been a very tough week, working at pace on a complex problem. I’ve also felt like I was a poor product manager this week or not as good as I could be. Everyone knows what we’re doing, the vision and the value we’re trying to create, but not having a hugely detailed backlog has made me nervous. Not having other documentation and specifications has made me nervous. Not because we need it, but perhaps just because I suppose it’s expected of us.&lt;/p&gt;
+
+&lt;p&gt;But we’re working lean, not full-fat agile with your 3-month discovery and time to think things over. We’re racing towards a finish line with a limited number of ideas to validate (or invalidate), and we’re learning new things daily, tweaking our designs to those responses.&lt;/p&gt;
+
+&lt;p&gt;This week I took solace in sound. If you’d also like to meditate on bassweight, please listen to mixes &lt;a href=&quot;https://www.mixcloud.com/MaryAnneHobbs/malas-final-mix-for-my-bbc-radio1-show/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.mixcloud.com/madpro/mala-boiler-room-mix-london-27-10-15/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://www.mixcloud.com/getdarker/digital-mystikz-john-peel-tribute-show-radio-1-16122004/&quot;&gt;3&lt;/a&gt;, &lt;a href=&quot;https://www.mixcloud.com/MaryAnneHobbs/dubstep-warz/&quot;&gt;4&lt;/a&gt;, and &lt;a href=&quot;https://www.mixcloud.com/getdarker/digital-mystikz-bbc-radio-1-essential-mix-120206/&quot;&gt;5&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;three-things-that-happened&quot;&gt;Three Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Lots more work on the Brexit-y business. We refined the designs off the back of some user research, held a planning session, started work on the technical aspects, and linked up with another team where dependencies are shared. The content and language is the last thing to nail down, to make sure it all hangs together.&lt;/p&gt;
+
+&lt;p&gt;I really need to push for certain questions to be asked in next week’s user research too. Alternative solutions are where you find the basis for innovation: how do people solve that problem already? Having those answers will be useful if the time comes to pivot.&lt;/p&gt;
+
+&lt;p&gt;We were grateful to get a good response to the prototype from the rest of the programme during Jen’s Wednesday morning update. It’s also good to make some of the thinking from Explore Personalisation real. Testing some of those ideas on what some people feel is ‘the single biggest task for the UK’s civil service since the second world war’&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; is definitely something for the CV.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Jeremy presented his new designs for the search UI on mobiles. The main problems are&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;not being able to see any results without scrolling&lt;/li&gt;
+  &lt;li&gt;poor use of limited screen estate on mobile, and&lt;/li&gt;
+  &lt;li&gt;some infrequently used features being given prominence&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The aim is to remove some of that clutter and give people better access to their results, meaning they can start acting on results right away. He held a design crit with the team and there were only a few questions, on the whole the new designs look great. Ian’s been prototyping the new design, ready for us to put a clickable prototype in front of users.&lt;/p&gt;
+
+&lt;p&gt;We’ll see how those designs test and then move on to the slightly harder problem: what to name filters. We’re also making room for spelling suggestions and autocomplete suggestions, as those are standard features in a search product these days. You can see people making really broad searches too, so suggesting more nuanced queries should help people get to what they need sooner.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Travelled to Southampton to visit the &lt;a href=&quot;https://www.gov.uk/government/organisations/maritime-and-coastguard-agency&quot;&gt;Maritime &amp;amp; Coastguard Agency&lt;/a&gt; to chat about improvements to their &lt;a href=&quot;https://www.gov.uk/topic/ships-cargoes/m-notices&quot;&gt;marine notices&lt;/a&gt;. According to the UK Ship Register,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;M Notices publicise to the shippping industry important safety, pollution prevention and other relevant information.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Merchant Shipping Notices (MSNs) often contain details of UK law and are legally enforceable when referred to by a Statutory Instrument.&lt;/li&gt;
+    &lt;li&gt;Marine Guidance Notes (MGNs) gives guidance and recommendations about best practice to industry on interpretation of law and general safety advice.&lt;/li&gt;
+    &lt;li&gt;Marine Information Notes (MINs) provide less important time limited information.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;They’re like little official bulletins that are highly standardised and plain-English legalese where appropriate, and the notices help ships and their crew stay safe, basically. It’s important that these things are delivered to people, because the content can help them save lives, but the current implementation on GOV.UK isn’t working.&lt;/p&gt;
+
+&lt;p&gt;We spent a few hours going over the context, the problems, and how we might mitigate those. We concluded that a specialist finder – like the &lt;a href=&quot;https://www.gov.uk/maib-reports&quot;&gt;Marine Accident Investigation Branch reports&lt;/a&gt; – would be better suited as it’s easier to search within the collection of documents, allows for some specialist tagging, and is a much more robust application overall.&lt;/p&gt;
+
+&lt;p&gt;Even though it’s a busy time, I had to visit as their original request came in last October and no one had done anything with it. That’s really poor. How can you run a website hosting hundreds of organisations without doing some account management? They’ll just go elsewhere and start their own sites, and then we’ll have destroyed the value of the single domain. That’s not on.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html&quot;&gt;The 1619 Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/817cd3d6-b921-11e9-8a88-aa6628ac896c&quot;&gt;Artificial intelligence is no silver bullet for governance&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nypost.com/2019/08/17/how-google-has-destroyed-the-lives-of-revenge-porn-victims/&quot;&gt;How Google has destroyed the lives of revenge porn victims&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.spectator.co.uk/2017/01/dominic-cummings-brexit-referendum-won/&quot;&gt;Coffee House&lt;/a&gt;, 89 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/theguardian/2000/nov/01/features11.g22&quot;&gt;The real-life Ali G&lt;/a&gt;, 6 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2016/nov/15/brexit-civil-service-facing-its-largest-task-since-wwii-says-union&quot;&gt;Brexit: civil service facing its largest task since WWII, says union&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 24 Aug 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Very Important Visitors</title>
@@ -20,6 +101,8 @@
 &lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
 
 &lt;p&gt;We had a visit from a couple of very important people under &lt;a href=&quot;https://www.gov.uk/government/people/boris-johnson&quot;&gt;the new leadership&lt;/a&gt; of the current government. I’m not sure I’m allowed to name them (I’ll check, in the spirit of being open) but I was glad to have attended a public speaking bootcamp a few weeks ago. The skills I learned worked well.&lt;/p&gt;
+
+&lt;p&gt;_Edit: No, I’m not. Not now, anyway.&lt;/p&gt;
 
 &lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
 
