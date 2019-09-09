@@ -5,9 +5,61 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Aug 2019 09:20:35 +0100</pubDate>
-    <lastBuildDate>Sat, 24 Aug 2019 09:20:35 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2019 16:50:56 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2019 16:50:56 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Big Stuff</title>
+        <description>&lt;p&gt;These notes cover 27–30 August briefly. I didn’t write anything before I went on holiday to Vancouver last week, so they’re lacking in detail because I can’t remember much of it. Nevertheless, it was a big week and big stuff happened, so I should record it.&lt;/p&gt;
+
+&lt;h2 id=&quot;two-things-that-happened&quot;&gt;Two Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Much of the week was spent on getting the &lt;a href=&quot;https://www.gov.uk/brexit&quot;&gt;Get ready for Brexit checker&lt;/a&gt; out the door. It’s a huge information campaign and was &lt;a href=&quot;https://www.bbc.co.uk/news/uk-49545743&quot;&gt;trending on Twitter last weekend and last Monday&lt;/a&gt;. As I’ve not been back into the office after my holiday yet, I’ve no information right now about how it’s doing and whether the product is delivering value. Can’t wait to hear the outputs of other user research sessions.&lt;/p&gt;
+
+&lt;p&gt;It had mixed reviews from both the public and ex-GDS folk, but Paul was correct in saying that we were (and remain) &lt;a href=&quot;https://twitter.com/boffbowsh/status/1168067229541437440&quot;&gt;‘real humans work[ing] on the site and are just following ministerial direction’&lt;/a&gt;. As technologists working on GOV.UK, we can’t address the policy but we can help people get information about how to live their lives as affected by policy. Indeed, we worked long hours, into the night and over the weekend, to put that information in people’s hands and allow them to stay up-to-date with any changes.&lt;/p&gt;
+
+&lt;p&gt;So I’d like to thank everyone who put their effort in to make that happen – it was a rarely needed burst of urgent effort and everyone acted with true professionalism.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;We spent the morning with Google’s Civics team who came to chat about schema.org mark-up. They’d like to consult us on government-related schemas and it’s an honour to be involved in &lt;a href=&quot;https://standards.porism.com&quot;&gt;open standards&lt;/a&gt; work.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://corporate-rebels.com/distribute-decision-making/&quot;&gt;5 Best Practices To Distribute Decision-Making&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://memo.barrucadu.co.uk/weeknotes-049.html&quot;&gt;Weeknotes: 049&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.computerweekly.com/blog/Computer-Weekly-Editors-Blog/Why-Govuk-Verify-faces-a-critical-few-months-again&quot;&gt;Why Gov.uk Verify faces a critical few months - again&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindtheproduct.com/2019/08/good-product-management-is-the-key-to-organisational-happiness/&quot;&gt;Good Product Management is the key to Organisational Happiness&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.loudandquiet.com/interview/jimothy-lacoste-preaches-the-positives-of-aspiration-acceptance-and-convincing-the-world-that-hes-a-spoilt-rich-kid/&quot;&gt;Jimothy Lacoste preaches the positives of aspiration, acceptance and convincing the world that he’s a spoilt rich kid&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/07/how-to-give-your-team-the-right-amount-of-autonomy&quot;&gt;How to Give Your Team the Right Amount of Autonomy&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://intarchboard.github.io/for-the-users/draft-iab-for-the-users.html&quot;&gt;The Internet is for End Users&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://contentinsights.com/blog/from-data-driven-to-data-informed-why-the-distinction-matters/&quot;&gt;From data-driven to data-informed: why the distinction matters&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wired.co.uk/article/conte-italy-italia-new-government-prime-minister-technopopulism&quot;&gt;Italy’s weird technopopulism could be the new normal&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bi.team/blogs/nudge-2-0/&quot;&gt;Nudge 2.0&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/a317c302-aa2b-11e9-984c-fac8325aaa04&quot;&gt;Richard Thaler: ‘If you want people to do something, make it easy’&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2019/aug/31/mps-no-deal-civil-servants-brexiters-whitehall&quot;&gt;MPs can push no deal, but it’s civil servants who will have to make it work&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/6da72060-cfd2-11e9-99a4-b5ded7a7fe3f&quot;&gt;The UK’s failing economic model demands such bold ideas&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2019/sep/04/plastic-pollution-fossil-record&quot;&gt;After bronze and iron, welcome to the plastic age, say scientists&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thecut.com/2019/09/kara-swisher-on-ambition.html&quot;&gt;Kara Swisher on Ambition, Bragging, and Having a Baby at 56&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newyorker.com/news/news-desk/how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein&quot;&gt;How an Élite University Research Center Concealed Its Relationship with Jeffrey Epstein&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/vb5vx8/history-of-the-fleshlight-future-of-sex&quot;&gt;The Fleshlight Is a Portal to the Future of Sex&lt;/a&gt;, 22 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theglobeandmail.com/opinion/article-does-brexit-spell-the-end-for-the-mother-of-parliaments/&quot;&gt;Does Brexit spell the end for the Mother of Parliaments?&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 09 Sep 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/09/09/the-big-stuff/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/09/09/the-big-stuff/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Transience of Earthly Pursuits</title>
