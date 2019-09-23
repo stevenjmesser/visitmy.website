@@ -5,9 +5,94 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Sep 2019 08:25:30 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 08:25:30 +0100</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2019 18:21:04 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2019 18:21:04 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Love</title>
+        <description>&lt;p&gt;A really good week. I missed working on the Search team over the past few weeks, it’s such an interesting problem space. You get the almost continual gratification of seeing changes in metrics from tests too, validating or invalidating your hypotheses.&lt;/p&gt;
+
+&lt;p&gt;Tempted to try another style of writing weeknotes, these feel a bit dry now.&lt;/p&gt;
+
+&lt;h2 id=&quot;five-things-that-happened&quot;&gt;Five Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Much of the week was spent getting my head back into the Search team’s work and the whole problem space. By the end of the week, I was able to write this in the GOV.UK internal weeknote.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Search have brought back &lt;a href=&quot;https://www.gov.uk/search/all?keywords=highlighted&amp;amp;order=relevance&quot;&gt;highlighted search terms&lt;/a&gt; to site search. They added it to finders and prototyped and built &lt;a href=&quot;https://github.com/alphagov/finder-frontend/pull/1554&quot;&gt;spelling suggestions&lt;/a&gt; ready for release soon. They also drafted a build-and-release plan for the improved mobile search UI, stopped last week’s A/B test and started another – they’re inches close to switching to ES6 entirely! The team continued refactoring Finder Frontend and rewrote some of its queries to perform 50x faster, as well as adding support for &lt;a href=&quot;https://www.gov.uk/search/all?keywords=office+%22banter%22&amp;amp;order=relevance&quot;&gt;mixing quoted and unquoted query fragments&lt;/a&gt;, upgrading Golang apps and improving sitemaps so that Google crawls us more often.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So that’s what the team did. But what did &lt;em&gt;I&lt;/em&gt; do?! Mostly I spent the week thinking about our objectives, milestones in the strategy, how we measure success/know when we’re done, and the different activities the team go through to reach those goals. It’s important to be thinking about this because, as a programme, GOV.UK is moving away from how quarterly planning has become established in GDS to something else.&lt;/p&gt;
+
+&lt;p&gt;The problem with quarterly planning is that it made everyone think in terms of quarters and it caused some people to be shifted around every three months. That’s process over people, the antithesis of agile development, and isn’t helpful. I’ve always told the Search team not to think in terms of quarters – the work is only ever done when value is delivered to users. So in our case, the work will probably never be done because site search can always be improved.&lt;/p&gt;
+
+&lt;p&gt;Lean methods feel more comfortable to me, and I also find thinking in terms of OKRs helpful, so I’ve always tried to frame the team’s work using vision, objectives, key results and milestones. Sprints have goals which play into these, but we don’t have a traditional roadmap of things to deliver, it’s all about outcomes.&lt;/p&gt;
+
+&lt;p&gt;Having checked on everything we’re doing and the way we’re doing it, I feel comfortable that the framework is laid down. There’s more work to be done on helping the team find its ideal Build, Measure, Learn process and tools, however.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;Since we’d like to introduce &lt;a href=&quot;https://www.nngroup.com/articles/site-search-suggestions/&quot;&gt;site search suggestions&lt;/a&gt; to GOV.UK’s site search, I planned out a design sprint for the team. This starts with some fun (well, hopefully it’s fun) homework to collect up examples of search and autocomplete suggestions in other products. We’ll then pick apart&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what we’re looking for (search intent) when entering a query,&lt;/li&gt;
+  &lt;li&gt;what results are returned,&lt;/li&gt;
+  &lt;li&gt;how it looks,&lt;/li&gt;
+  &lt;li&gt;the onwards journey, and&lt;/li&gt;
+  &lt;li&gt;the problems this style of search suggestions solves&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;to see how the features work in different products. It’s entirely probable that the best ideas already exist so we should look at &lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/phase3-sketch/warm-up-comparable-problems&quot;&gt;comparable problems&lt;/a&gt;, but also this background thinking will help the team think about what’s different in the user’s context when visiting GOV.UK to look through our content set.&lt;/p&gt;
+
+&lt;p&gt;The rest of the sprint will very much follow &lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/overview&quot;&gt;sections 3–6 of Google’s Design Sprint kit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;I started drafting a mini-discovery for searching inside manuals, e.g. the &lt;a href=&quot;https://www.gov.uk/guidance/the-highway-code&quot;&gt;Highway Code&lt;/a&gt; and the &lt;a href=&quot;https://www.gov.uk/guidance/content-design&quot;&gt;content design manual&lt;/a&gt;, because the experience and results returned have changed since the migration to Finder Frontend. A couple of months back I emailed a heap of manuals publishers, asking if they had direct contact with their users so that we can perform some research. Having checked through user-submitted feedback for all manuals, there’s nothing to go on, so we’ll need to do some research.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four&lt;/h3&gt;
+
+&lt;p&gt;We had a retro for last week’s remote sprint. I’ll share the team’s thinking once Nicole’s written a blog post on it. I’ve been eager to have an entirely remote sprint with a team for a while but unfortunately only caught two days of this one. Still learned some things though.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Working remotely helps me focus and prevents me getting distracted by other people’s demands.&lt;/li&gt;
+  &lt;li&gt;Since I already block out two days for focussed work, working out of the office on those two days doesn’t disrupt meetings and face-to-face time.&lt;/li&gt;
+  &lt;li&gt;Team meetings can be hard when run remotely. Collecting opinion or asking the team for their thoughts is tough because it’s hard to stop people talking over each other.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;five&quot;&gt;Five&lt;/h3&gt;
+
+&lt;p&gt;I’ve taken on a mentee, which is the first time I’ve ever mentored anyone. They want help in reaching their performance objectives, someone to bounce thoughts off who isn’t their line manager, which is good as I’ll be offering ways of thinking rather than my own solutions when I’ve experienced those same problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@andyjones_1981/using-hypothesis-driven-design-and-user-research-to-validate-design-decisions-91acae07fe3&quot;&gt;Using hypothesis driven design and user research to validate design decisions&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/idea-validation-condensed-guide-itamar-gilad&quot;&gt;Idea Validation - Much More Than A/B Experiments&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@itamargilad/why-i-stopped-using-product-roadmaps-and-switched-to-gist-planning-3b7f54e271d1&quot;&gt;Why you should stop using product roadmaps and try GIST Planning&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://onezero.medium.com/how-much-is-your-privacy-really-worth-421796dd9220&quot;&gt;How Much Is Your Privacy Really Worth?&lt;/a&gt;, 14 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theodi.org/article/why-should-we-care-about-data-ethics/&quot;&gt;Why should we care about data ethics?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thersa.org/discover/publications-and-articles/reports/data-about-us&quot;&gt;Data About Us&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/hellobrink-co/behavioural-innovation-embracing-behavioural-science-for-lasting-impact-85d1d78688f4&quot;&gt;Behavioural Innovation: embracing behavioural science for lasting impact&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/09/14/opinion/sunday/margaret-atwood-the-testaments-handmaids-tale.html&quot;&gt;Margaret Atwood’s Dystopia, and Ours&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/09/07/opinion/sunday/dominic-cummings-brexit.html&quot;&gt;The ‘Political Anarchist’ Behind Britain’s Chaos&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insidegovuk.blog.gov.uk/2019/09/18/being-a-user-researcher-for-a-day/&quot;&gt;Being a user researcher for a day&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/porism/not-another-directory-of-services-a24bb08c6343&quot;&gt;Not another directory of services!&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Sep 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/09/23/the-love/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/09/23/the-love/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Times and the Customs</title>
