@@ -5,9 +5,67 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Sep 2019 07:57:47 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Sep 2019 07:57:47 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2019 08:57:49 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2019 08:57:49 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Team Things</title>
+        <description>&lt;h2 id=&quot;three-things-that-happened&quot;&gt;Three Things That Happened&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;We did more things than this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One&lt;/h3&gt;
+
+&lt;p&gt;Highlight of the week was the mini design sprint for autocomplete suggestions. I mostly followed &lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/overview&quot;&gt;Google’s Design Sprint kit&lt;/a&gt; to plan the session but used some of our own workshops rather than theirs. We only had 3 hours to think about this feature so couldn’t spend ages explaining new workshop techniques.&lt;/p&gt;
+
+&lt;p&gt;We’re thinking of introducing autocomplete suggestions because it helps users get to a more relevant query or the results they’re looking for faster, reducing the interaction cost. For example, someone may search for ‘tax’, need a very specific piece of guidance about vehicle tax and is forced to refine their search until they hit the right results. This costs the user time (and patience), and we can reduce the interaction cost by suggesting queries or content to users before their query is submitted.&lt;/p&gt;
+
+&lt;p&gt;The team did an excellent job of researching how autocomplete is implemented on other sites’ search. Particularly surprising was &lt;a href=&quot;https://www.ikea.com/gb/en/&quot;&gt;IKEA&lt;/a&gt;, which suggests completed queries, actual products, site categories and additional content when you search for something like ‘light’. They’ve clearly thought about the different jobs-to-be-done and how the navigational journeys for those interplay, whereas most places will just complete your query or take you to a particular section of the site, leaving you as a user to figure the rest out.&lt;/p&gt;
+
+&lt;p&gt;The team scoped out some great hypotheses, affinity-mapped the useful aspects to each implementation, wrote some good user stories and had a think about which assumptions we needed to validate with our own implementation of such a feature. They used &lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights&quot;&gt;Crazy-8s&lt;/a&gt; to think about the different ways it could be designed on GOV.UK.&lt;/p&gt;
+
+&lt;p&gt;Jeremy, our interaction designer, is taking it all away to design a few prototypes which will help us validate our assumptions. We think that autocomplete should be contextual to where you are, as currently the site search bar works the same everywhere (except for searching inside manuals). We also think that query suggestions are useful but oftentimes a service or piece of guidance would be a better suggestion&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://theodi.org/person/peter-wells/&quot;&gt;Peter&lt;/a&gt; and &lt;a href=&quot;https://theodi.org/person/jared-keller/&quot;&gt;Jared&lt;/a&gt; came in to chat about &lt;a href=&quot;https://theodi.org/project/the-data-access-map/&quot;&gt;data access models&lt;/a&gt; and a designerly approach to exploring data-sharing methods. I set up the event several weeks ago and did have some big names attending, but they unfortunately had to drop out. That was fine because the people who did turn up – delivery teams – certainly found it more engaging.&lt;/p&gt;
+
+&lt;p&gt;I was really pleased that people from the innovation technology programme came along and provided some of their insight to update the map. It doesn’t include current paper-based methods of data-sharing and so departments might not see themselves on the map, but it’s good to point that out.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
+
+&lt;p&gt;Spent about three hours filling in a skills assessment form, marking my performance and things I’ve done against the &lt;a href=&quot;https://www.gov.uk/government/publications/product-manager-roles-skill-levels/product-manager-roles-skill-levels&quot;&gt;skill levels for product managers&lt;/a&gt;. Me and my line manager thought that I was operating above the &lt;a href=&quot;https://www.gov.uk/government/publications/product-manager-skills-they-need/product-manager-skills-they-need&quot;&gt;required levels for a product manager&lt;/a&gt; for some skills, effectively as a senior product manager, but it’d be good to know how that would be assessed by our Head of Product and the Head of Product Community!&lt;/p&gt;
+
+&lt;p&gt;It’s worth saying that filling in that assessment and my monthly professional objectives would have been much, much harder had I not been writing weeknotes the whole time.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/filters-vs-facets/&quot;&gt;Filters vs. Facets: Definitions&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.elasticspace.com/2013/03/no-to-no-ui&quot;&gt;No to NoUI&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@teropsv/mapping-health-care-4e8681b6b64d&quot;&gt;Mapping health &amp;amp; care&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.epicpeople.org/livable-relations-with-metrics/&quot;&gt;Livable Relations with Metrics&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.projectsbyif.com/blog/how-to-earn-trust-through-digital-design&quot;&gt;How to earn trust through digital design&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theblog.adobe.com/building-trust-through-user-experience-design/&quot;&gt;How UX Design Creates Trust&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bi.team/blogs/terms-conditions-apply/&quot;&gt;Terms &amp;amp; Conditions Apply&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/centre-for-public-impact/the-future-of-government-is-in-your-hands-which-cards-will-you-play-8ec6f00a39ef&quot;&gt;The future of government is in your hands&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597&quot;&gt;So you want to reform democracy&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vox.com/technology/2019/4/2/18256419/technology-team-human-douglas-rushkoff&quot;&gt;How digital technology is destroying our freedom&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-service-gazette/the-same-but-different-9981416e0905&quot;&gt;The same but different&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slate.com/technology/2019/08/consent-facial-recognition-data-privacy-technology.html&quot;&gt;Consent Is Not an Ethical Rubber Stamp&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/&quot;&gt;It’s time for a Bill of Data Rights&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newstatesman.com/politics/uk/2019/09/dominic-cummings-machiavel-downing-street&quot;&gt;Dominic Cummings: The Machiavel in Downing Street&lt;/a&gt;, 27 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/09/30/the-team-things/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/09/30/the-team-things/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Love</title>
