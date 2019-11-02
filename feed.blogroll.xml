@@ -5,9 +5,172 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Oct 2019 12:01:47 +0100</pubDate>
-    <lastBuildDate>Sat, 12 Oct 2019 12:01:47 +0100</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 09:23:00 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 09:23:00 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Jam London 2019</title>
+        <description>&lt;p&gt;For the past few years I’ve been going to &lt;a href=&quot;https://www.jamlondon.io/events/&quot;&gt;Jam London&lt;/a&gt;, a product and design conference sharing the stories behind great products. It’s great to hear from product and design leaders from across the world, and I’ve always learned a thing or two that I take back to my practice.&lt;/p&gt;
+
+&lt;p&gt;Here’s some rough notes I made on my phone during the talks, in case it’s helpful for others. The full line-up is &lt;a href=&quot;https://www.jamlondon.io/events/jam-london-2019&quot;&gt;here&lt;/a&gt;. The talks from Jamie Nicholson, Chelsea Bullock and Susana Lopes were best for me that day. Lots about navigating uncertainty, trust, empathy and failure.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;building-with-stories&quot;&gt;Building with Stories&lt;/h2&gt;
+&lt;h3 id=&quot;jeff-gardner-intercom&quot;&gt;Jeff Gardner, Intercom&lt;/h3&gt;
+&lt;p&gt;Stories the best way to organise people around a single idea. But why do we think we’re not capable of building stories? Here’s some tips on building better stories.&lt;/p&gt;
+
+&lt;p&gt;The type of story we’re telling is a business parable, driving someone’s behaviour to reach an outcome.&lt;/p&gt;
+
+&lt;p&gt;Good stories must have&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a clear message&lt;/li&gt;
+  &lt;li&gt;emotionally engaging&lt;/li&gt;
+  &lt;li&gt;simple enough to be retold&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A story is an idea virus, and good stories are contagious. It can be easy to make a story short, quicker to tell, retell and understand. Make stories short.&lt;/p&gt;
+
+&lt;p&gt;Focus on feelings, rather than details. How do you want the audience to feel?&lt;/p&gt;
+
+&lt;p&gt;Adapt to your audience. Comedians spend lots of time seeing jokes bomb to understand which will work. You need to try to be good. Saying ‘Anyway, it’s a long story’ can help you understand whether anyone wants to hear it.&lt;/p&gt;
+
+&lt;p&gt;Make storytelling a practice, learn from what doesn’t work.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start with the point&lt;/li&gt;
+  &lt;li&gt;Set the scene, quickly&lt;/li&gt;
+  &lt;li&gt;Use dialogue&lt;/li&gt;
+  &lt;li&gt;Surprise!&lt;/li&gt;
+  &lt;li&gt;Restate the point&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of all the animals, we’re the only ones that live in a dual reality: the world in front of us and the world in our heads.&lt;/p&gt;
+
+&lt;h2 id=&quot;building-trust-with-research-teams&quot;&gt;Building trust with research teams&lt;/h2&gt;
+&lt;h3 id=&quot;chelsea-bullock-mailchimp&quot;&gt;Chelsea Bullock, Mailchimp&lt;/h3&gt;
+&lt;p&gt;Team dynamics are different when teams have trust between the members. New teams have lower trust; teams with trust move fast.&lt;/p&gt;
+
+&lt;p&gt;Worked on a project based on a VP’s idea with a team that had high trust. Tried to reframe the feature proposal but kept running into dead ends, it wasn’t going to work. They were asked how to do it, not whether to do it or not. Users didn’t fundamentally see the problem so the feature didn’t need it. High trust team only spiralled for a while and they quickly pivoted to saying ‘This won’t work’ and the company was grateful, saved money and time.&lt;/p&gt;
+
+&lt;p&gt;Mutual trust meant they could move from discovery to validation to learning very quickly.&lt;/p&gt;
+
+&lt;p&gt;How do you know if you’re working in a trust vacuum?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No one knows what you’re doing there&lt;/li&gt;
+  &lt;li&gt;Deliverables feel safer than learnings&lt;/li&gt;
+  &lt;li&gt;Doubts and suspicions about motivations and goals of team-mates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trust gap can cause problems. Build empathy and trust to move forward together.&lt;/p&gt;
+
+&lt;p&gt;Stage Zero collaboration: or, where to start when you don’t know how to begin. First step in building trust between research partners is asking ‘What decision will these findings enable you to make?’ Gives you&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;clarity of mission&lt;/li&gt;
+  &lt;li&gt;buy-in on the stakes&lt;/li&gt;
+  &lt;li&gt;alignment in prioritisation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Successfully answering that requires&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;curiosity&lt;/li&gt;
+  &lt;li&gt;vulnerability &amp;amp; compassion&lt;/li&gt;
+  &lt;li&gt;clear vision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stories clarify our expectations of each other and acknowledge the value we all bring to the work. It energises teams and renews trust.&lt;/p&gt;
+
+&lt;p&gt;It’s really easy to keep our heads down and deliver, but we should turn these into collective stories. Show &amp;amp; tell often.&lt;/p&gt;
+
+&lt;p&gt;Trust over tools. Tools and frameworks are easy, but understanding and communication is most useful. Empathy.
+￼
+Trust is better for team health. If there’s low trust, establish clarity of mission and get leadership involved.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1836.png&quot; alt=&quot;Building trust with your research team&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-research-inspires-new-products&quot;&gt;How research inspires new products&lt;/h2&gt;
+&lt;h3 id=&quot;jamie-nicholson-instagram&quot;&gt;Jamie Nicholson, Instagram&lt;/h3&gt;
+&lt;p&gt;Design for and with people. Understand needs, desires and wants. Do research early, not after building.&lt;/p&gt;
+
+&lt;p&gt;Testing ideas and getting feedback is very important, but it’s easy to get lost and not move the needle (meet business objectives). What’s the problem you’re solving? How is that part of people’s lives?&lt;/p&gt;
+
+&lt;p&gt;Moved from ‘Why do you use Instagram?’ to ‘How do you make friends?’&lt;/p&gt;
+
+&lt;p&gt;Looked at how the different features fit into making friendships. You might like an acquaintance’s photo, but you’ll send a DM to a best friend.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ask big questions. (How do they want to feel? Uncover behaviours and mental models, to see how this things sits in someone’s life.)&lt;/li&gt;
+  &lt;li&gt;Get beneath the surface of what is said, people don’t know what they want. Go deep to find the magic they need.&lt;/li&gt;
+  &lt;li&gt;Talk to extremes. Start at the edges and move inwards. Don’t go for average behaviours.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Personas are hard, you can’t design for the average with millions of users. Instead tell the stories of people you find that represent a broader group of people. It drives empathy in the team.&lt;/p&gt;
+
+&lt;h2 id=&quot;agile-for-everybody-everybody-hates-agile&quot;&gt;Agile for Everybody, Everybody Hates Agile&lt;/h2&gt;
+&lt;h3 id=&quot;matt-lemay-sudden-compass&quot;&gt;Matt LeMay, Sudden Compass&lt;/h3&gt;
+&lt;p&gt;Agile is a completely made-up thing that 17 people dreamed up on a ski weekend, so &lt;code class=&quot;highlighter-rouge&quot;&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Agile methods ask people to think and, frankly, that’s a hard sell. So be brave, get started and change the way you’re working until it works.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-scale-globally&quot;&gt;How to scale globally&lt;/h2&gt;
+&lt;h3 id=&quot;kaarel-kuddu-transferwise&quot;&gt;Kaarel Kuddu, Transferwise&lt;/h3&gt;
+&lt;p&gt;Launched in a country based on World Bank data. Didn’t work because they didn’t know their customers and how TransferWise fit into their lives.&lt;/p&gt;
+
+&lt;p&gt;Ran an experiment to see if people would choose currencies to send. Got some data, saw demand for currencies, launched those and tracked uptake. No correlation between demand and uptake because product experience wasn’t approached in the same way in different countries.&lt;/p&gt;
+
+&lt;h2 id=&quot;failure&quot;&gt;Failure&lt;/h2&gt;
+&lt;h3 id=&quot;maryam-mazraei-autopsy&quot;&gt;Maryam Mazraei, Autopsy&lt;/h3&gt;
+&lt;p&gt;4 years of work ended in failure, which got her interested in taking lessons from failure. Survivor bias creates problems for people who follow the ‘playbook’.&lt;/p&gt;
+
+&lt;p&gt;Looking at the common components of failure help you to spot patterns.&lt;/p&gt;
+
+&lt;p&gt;Data from Crunchbase, OpenCorporates, Companies House, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;keep-pace-master-product-at-bmw-100-years-old&quot;&gt;Keep pace, master product at BMW (100 years old)&lt;/h2&gt;
+&lt;h3 id=&quot;sabrina-rzepka-bmw&quot;&gt;Sabrina Rzepka, BMW&lt;/h3&gt;
+&lt;p&gt;Working with cars different: no feature flags, no Build-Measure-Learn, no fail fast. Features have many dependencies.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make a vision visible&lt;/li&gt;
+  &lt;li&gt;Gain speed with a co-pilot&lt;/li&gt;
+  &lt;li&gt;Focus on the essentials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;you-didnt-fail-your-product-did&quot;&gt;You didn’t fail, your product did&lt;/h2&gt;
+&lt;h3 id=&quot;susana-lopes-onfido&quot;&gt;Susana Lopes, Onfido&lt;/h3&gt;
+&lt;p&gt;Behind pristine LinkedIn profiles are our bruised egos and failed projects. They’re lurking there and we never talk about our shadow careers.&lt;/p&gt;
+
+&lt;p&gt;Grew up with the ‘Failure is not an option’ mantra but it turned her into a dictator. Worked at Huddle, they had quarterly commitments for sales people, things they’d deliver on time that didn’t exist yet. Made her think that success = shipping on time. Efficiency theatre.&lt;/p&gt;
+
+&lt;p&gt;By thinking that failure was not an option, she chose the easiest route to success - instead of actually delivering value to customers.&lt;/p&gt;
+
+&lt;p&gt;Fear of failure creates high pressure and clouded judgement. You need to release that pressure to succeed.&lt;/p&gt;
+
+&lt;p&gt;Swapped ‘Failure is not an option’ for ‘Fail fast, fail early’, de-risking aspects of the product.&lt;/p&gt;
+
+&lt;p&gt;Spoke to customers using web product on Android to collect problems, hoping to rebuild the Android app and convert those people. De-risked problem and value.&lt;/p&gt;
+
+&lt;p&gt;De-risked usability. De-risked feasibility. Kept shipping and growing, de-risking beforehand…until the numbers stalled. Value plateaued.&lt;/p&gt;
+
+&lt;p&gt;Didn’t validate that the problem existed for enough people, enough of the time. But blamed herself. Emotional resilience held her back.&lt;/p&gt;
+
+&lt;p&gt;But she didn’t fail, the product did. And she learned and can do better next time. Separate self-worth from product-worth, maybe by creating product success metrics and personal success metrics. Creates emotional distance by being product’s worst critic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>Reading List Picks of 2018</title>
