@@ -5,9 +5,101 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 09:23:00 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 09:23:00 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2019 14:26:43 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2019 14:26:43 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Quiet</title>
+        <description>&lt;p&gt;The UK has entered a pre-election period before an election on 12 December, which means that I have to follow &lt;a href=&quot;https://www.gov.uk/government/publications/election-guidance-for-civil-servants&quot;&gt;election guidance for civil servants&lt;/a&gt; and not talk about work otherwise it might influence people’s voting.&lt;/p&gt;
+
+&lt;p&gt;So I’ll just talk about some personal things and reflect on product management, design and some of that stuff instead. It’s probably what I’m supposed to have been doing all along, so apologies in advance if it gets a bit LiveJournal and you’re here for Red Hot Digital-On-Government Action.&lt;/p&gt;
+
+&lt;p&gt;These are meditations on user-centred design practice, not my usual weeknotes.&lt;/p&gt;
+
+&lt;h2 id=&quot;exercise&quot;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Between 2015 and 2017, there were very few weeks when I didn’t spend time on a bicycle. I covered 5,216 miles by bike, mostly commuting to work and back, and burned a fair few calories. It was a happy time. One lunchtime I even &lt;a href=&quot;https://www.strava.com/activities/552355228&quot;&gt;rode out to Clerkenwell to grab some artichokes&lt;/a&gt;, from a bloke who brought them back from his nonna’s garden in Italy.&lt;/p&gt;
+
+&lt;p&gt;But last year I spent less time on my bike (460 miles) and this year has been spent mostly on buses.&lt;/p&gt;
+
+&lt;p&gt;My mood hit a low point this week. After doing a bit of moaning, my partner suggested taking up cycling again, to get a few endorphins coursing through my body. Mornings have been chilly this week, &lt;em&gt;very&lt;/em&gt; chilly, but surprisingly it didn’t deter me from cycling in to work.&lt;/p&gt;
+
+&lt;p&gt;Rather than choke to death riding up the Old Kent Road, I take a route by the river: from New Cross down to Deptford, along the waterfront to Greenwich, through the foot tunnel, and up the Isle of Dogs on the other side. Watching the sun rise over the Thames of a morning is regenerative, as the golden light plays on the ripples. (It’s why so many of my weeknotes have paintings of south-east London’s maritime history.)&lt;/p&gt;
+
+&lt;p&gt;And, you know what, it really helped me gain clarity this week. I felt energised and happy and more confident in being able to tackle our thorny work. It was just what was needed. So thanks, Mali, and thank you, bike!&lt;/p&gt;
+
+&lt;h2 id=&quot;strategy-credits-and-tax&quot;&gt;Strategy credits and tax&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/tcordrey&quot;&gt;Tanya&lt;/a&gt; mentioned the &lt;a href=&quot;https://exponent.fm/episode-176-the-second-estate-era/&quot;&gt;Exponent podcast episode about Facebook and the Second Estate&lt;/a&gt; the other week and, besides the well-rounded thinking on power and information technology, they mentioned a couple of concepts new to me: strategy credits and strategy tax.&lt;/p&gt;
+
+&lt;p&gt;As Ben Thompson writes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A strategy tax is anything that makes a product less likely to succeed, yet is included to further larger corporate goals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Strategy Credit: An uncomplicated decision that makes a company look good relative to other companies who face much more significant trade-offs. For example, Android being open source.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;They’re useful concepts to bear in mind when having to make trade-offs in your everyday work, as they show how some decisions can force you down certain paths. It’s useful to step back every once in a while and think ‘OK, how does this contribute to the overall direction and getting closer to our vision?’ Is the endgame you’ll now reach the one that everyone is working towards?&lt;/p&gt;
+
+&lt;h2 id=&quot;exploration-discovery-and-uncertain-futures&quot;&gt;Exploration, discovery and uncertain futures&lt;/h2&gt;
+
+&lt;p&gt;Will Myddleton has written some really good stuff about &lt;a href=&quot;https://www.myddelton.co.uk/blog/three-ways-to-run-better-discoveries&quot;&gt;running discoveries&lt;/a&gt; and how they’re scary as we’re &lt;a href=&quot;https://www.myddelton.co.uk/blog/better-discoveries&quot;&gt;exploring uncertain futures&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One bit that struck a chord with me was about creating a safe space for discovery:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If discovery scares people (it does) then we need to find ways to make a safe space for discoveries to happen. People produce better work when they are not scared. We need to stop putting pressure on discovery teams to validate pre-existing decisions. We need advocates for discovery at a senior level – not people that do the work but the people that set the right conditions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s all too easy to rush towards the all-hallowed solution, trying to pick up the threads of problems, contexts, motivations, behaviours, and all the other elements, weaving together a picture of the problem space. People are often worried about doing it all wrong, which can cause a bit of inertia.&lt;/p&gt;
+
+&lt;p&gt;What you want to avoid is wondering whether you’re asking the right question first: that causes you to circle over your own practice, making little progress.&lt;/p&gt;
+
+&lt;p&gt;That feels necessary when exploring a future system state. As Jamer Hunt writes:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Whereas the traditional products of design are configurations of matter in a state of being (finished, bounded, and knowable), the design for systems must instead open up a space of becoming – partial, indeterminate, and open. The aim is not to resolve a system – to fix it into a forever-ideal state – but to model the possibilities that system interventions might provoke.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So perhaps the only question you definitely need an answer to before starting is one of scope: are we looking to set predetermined actions through a product? are we looking to bound a set of possible actions with a service? or are we looking to understand the wider system?&lt;/p&gt;
+
+&lt;p&gt;Having vision is important, but alone it’s not enough. Scope is also important. If one does not know to which port one is sailing, no wind is favorable.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;p&gt;Some bits and pieces I read this week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jamesyu.org/hyperliterature.html&quot;&gt;Hyperliterature&lt;/a&gt;, 1 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420&quot;&gt;50 years ago today, the internet was born in Room 3420&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webfoundation.org/2019/10/as-the-internet-turns-50-we-must-protect-it-as-a-force-for-good/&quot;&gt;As the internet turns 50, we must protect it as a force for good&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.parliament.uk/business/committees/committees-a-z/joint-select/human-rights-committee/news-parliament-2017/privacy-report-published-19-20/&quot;&gt;Right to privacy “may exist on paper” – but not in online “Wild West”, says JCHR&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2013/strategy-credit/&quot;&gt;Strategy Credit&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2013/hangouts-requires-a-google-account/&quot;&gt;Hangouts requires a Google+ account&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2019/11/05/transforming-gov-uk-the-future-of-digital-public-services/&quot;&gt;Transforming GOV.UK: the future of digital public services&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterate.org.uk/product-managing-beyond-products/&quot;&gt;Product managing beyond products – iterate&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.myddelton.co.uk/blog/better-discoveries&quot;&gt;Better discoveries&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindtheproduct.com/rediscover-the-forgotten-art-of-product-strategy/&quot;&gt;Rediscover the Forgotten Art of Product Strategy&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@SimonFParker/strategy-in-the-hour-of-chaos-118d75d4e887&quot;&gt;Public service in the hour of chaos&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doteveryone.org.uk/2019/10/just-enough-internet/&quot;&gt;Just enough Internet: Why public service Internet should be a model of restraint&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jfsdigital.org/articles-and-essays/vol-23-no-3-march-2019/anticipating-future-system-states/&quot;&gt;Anticipating Future System States&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/speculative-design-for-the-real-world-551130b22827&quot;&gt;Speculative design for the real world&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://speculativeedu.eu/approaches-methods-and-tools-for-speculative-design/&quot;&gt;Approaches, methods and tools for Speculative Design&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/how-to-work-in-the-open-in-government-30993d84a47c&quot;&gt;How to work in the open in government&lt;/a&gt;, 6 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/11/09/the-quiet/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/11/09/the-quiet/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Timebox 3–5</title>
