@@ -3,10 +3,10 @@
   <channel>
     <title>Steve Messer // Product manager</title>
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 14:26:43 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 14:26:43 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.product-management.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Dec 2019 19:23:27 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Dec 2019 19:23:27 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -54,8 +54,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -109,8 +109,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        <link>http://localhost:4000/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/02/product-strategy-video-games/</guid>
         
         <category>Product management</category>
         
@@ -150,8 +150,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -215,8 +215,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         

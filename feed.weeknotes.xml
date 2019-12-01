@@ -3,10 +3,10 @@
   <channel>
     <title>Steve Messer // Product manager</title>
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 14:26:43 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 14:26:43 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Dec 2019 19:23:27 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Dec 2019 19:23:27 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -93,8 +93,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/09/the-quiet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/09/the-quiet/</guid>
+        <link>http://localhost:4000/2019/11/09/the-quiet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/09/the-quiet/</guid>
         
         <category>Weeknotes</category>
         
@@ -136,8 +136,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/the-timebox-3-4-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/the-timebox-3-4-5/</guid>
+        <link>http://localhost:4000/2019/11/02/the-timebox-3-4-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/the-timebox-3-4-5/</guid>
         
         <category>Weeknotes</category>
         
@@ -193,8 +193,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/12/the-timebox-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/12/the-timebox-2/</guid>
+        <link>http://localhost:4000/2019/10/12/the-timebox-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/12/the-timebox-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -252,8 +252,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/04/the-timebox/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/04/the-timebox/</guid>
+        <link>http://localhost:4000/2019/10/04/the-timebox/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/04/the-timebox/</guid>
         
         <category>Weeknotes</category>
         
@@ -310,8 +310,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/30/the-team-things/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/30/the-team-things/</guid>
+        <link>http://localhost:4000/2019/09/30/the-team-things/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/30/the-team-things/</guid>
         
         <category>Weeknotes</category>
         
@@ -395,8 +395,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/23/the-love/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/23/the-love/</guid>
+        <link>http://localhost:4000/2019/09/23/the-love/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/23/the-love/</guid>
         
         <category>Weeknotes</category>
         
@@ -456,8 +456,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/14/the-times-and-the-customs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/14/the-times-and-the-customs/</guid>
+        <link>http://localhost:4000/2019/09/14/the-times-and-the-customs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/14/the-times-and-the-customs/</guid>
         
         <category>Weeknotes</category>
         
@@ -508,8 +508,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 09 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/09/the-big-stuff/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/09/the-big-stuff/</guid>
+        <link>http://localhost:4000/2019/09/09/the-big-stuff/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/09/the-big-stuff/</guid>
         
         <category>Weeknotes</category>
         
@@ -589,8 +589,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</guid>
+        <link>http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</guid>
         
         <category>Weeknotes</category>
         
@@ -657,8 +657,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 19 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/19/the-very-important-visitors/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/19/the-very-important-visitors/</guid>
+        <link>http://localhost:4000/2019/08/19/the-very-important-visitors/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/19/the-very-important-visitors/</guid>
         
         <category>Weeknotes</category>
         
@@ -730,8 +730,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/11/the-eagle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/11/the-eagle/</guid>
+        <link>http://localhost:4000/2019/08/11/the-eagle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/11/the-eagle/</guid>
         
         <category>Weeknotes</category>
         
@@ -843,8 +843,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/03/the-buzz/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/03/the-buzz/</guid>
+        <link>http://localhost:4000/2019/08/03/the-buzz/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/03/the-buzz/</guid>
         
         <category>Weeknotes</category>
         
@@ -912,8 +912,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/24/the-oops/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/24/the-oops/</guid>
+        <link>http://localhost:4000/2019/07/24/the-oops/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/24/the-oops/</guid>
         
         <category>Weeknotes</category>
         
@@ -986,8 +986,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/20/the-milestone/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/20/the-milestone/</guid>
+        <link>http://localhost:4000/2019/07/20/the-milestone/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/20/the-milestone/</guid>
         
         <category>Weeknotes</category>
         
@@ -1081,8 +1081,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/13/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/13/the-birthday/</guid>
+        <link>http://localhost:4000/2019/07/13/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/13/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -1153,8 +1153,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 29 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/29/the-high/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/29/the-high/</guid>
+        <link>http://localhost:4000/2019/06/29/the-high/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/29/the-high/</guid>
         
         <category>Weeknotes</category>
         
@@ -1199,8 +1199,8 @@
 &lt;p&gt;It was a lot of things. I’m very lucky to have this job. It’s good to remember that when my energy is low.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/23/the-fatigue/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/23/the-fatigue/</guid>
+        <link>http://localhost:4000/2019/06/23/the-fatigue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/23/the-fatigue/</guid>
         
         <category>Weeknotes</category>
         
@@ -1306,8 +1306,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/15/the-fishing-smacks/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/15/the-fishing-smacks/</guid>
+        <link>http://localhost:4000/2019/04/15/the-fishing-smacks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/15/the-fishing-smacks/</guid>
         
         <category>Weeknotes</category>
         
@@ -1441,8 +1441,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/06/the-relief/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/06/the-relief/</guid>
+        <link>http://localhost:4000/2019/04/06/the-relief/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/06/the-relief/</guid>
         
         <category>Weeknotes</category>
         
@@ -1517,8 +1517,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/30/the-road-ahead/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/30/the-road-ahead/</guid>
+        <link>http://localhost:4000/2019/03/30/the-road-ahead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/30/the-road-ahead/</guid>
         
         <category>Weeknotes</category>
         
@@ -1570,8 +1570,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/23/the-workshop/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/23/the-workshop/</guid>
+        <link>http://localhost:4000/2019/03/23/the-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/23/the-workshop/</guid>
         
         <category>Weeknotes</category>
         
@@ -1632,8 +1632,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/18/the-key-findings/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/18/the-key-findings/</guid>
+        <link>http://localhost:4000/2019/03/18/the-key-findings/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/18/the-key-findings/</guid>
         
         <category>Weeknotes</category>
         
@@ -1687,8 +1687,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/10/the-threads/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/10/the-threads/</guid>
+        <link>http://localhost:4000/2019/03/10/the-threads/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/10/the-threads/</guid>
         
         <category>Weeknotes</category>
         
@@ -1764,8 +1764,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/02/the-reflection/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/02/the-reflection/</guid>
+        <link>http://localhost:4000/2019/03/02/the-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/02/the-reflection/</guid>
         
         <category>Weeknotes</category>
         
@@ -1841,8 +1841,8 @@
 &lt;p&gt;&lt;em&gt;These weeknotes took me 1.5 hours to write on a Monday evening and I added some final tweaks on Tuesday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/26/the-syndication/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/26/the-syndication/</guid>
+        <link>http://localhost:4000/2019/02/26/the-syndication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/26/the-syndication/</guid>
         
         <category>Weeknotes</category>
         
@@ -1909,8 +1909,8 @@
 &lt;p&gt;&lt;em&gt;These weeknotes took me twenty-five minutes to write on a Saturday morning. It usually takes me much longer, but I’m feeling ill and haven’t gone into much detail or reflection. I often write these on a Saturday morning though.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/16/the-shock-to-the-system/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/16/the-shock-to-the-system/</guid>
+        <link>http://localhost:4000/2019/02/16/the-shock-to-the-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/16/the-shock-to-the-system/</guid>
         
         <category>Weeknotes</category>
         
@@ -2002,8 +2002,8 @@
 &lt;p&gt;&lt;em&gt;These weeknotes took me two and a half hours to write on a Saturday morning. It always takes me that long, and I often do it on a Saturday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/02/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/02/the-birthday/</guid>
+        <link>http://localhost:4000/2019/02/02/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/02/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -2120,8 +2120,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/26/the-reminder/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/26/the-reminder/</guid>
+        <link>http://localhost:4000/2019/01/26/the-reminder/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/26/the-reminder/</guid>
         
         <category>Weeknotes</category>
         
@@ -2200,8 +2200,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/19/the-navigation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/19/the-navigation/</guid>
+        <link>http://localhost:4000/2019/01/19/the-navigation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/19/the-navigation/</guid>
         
         <category>Weeknotes</category>
         
@@ -2270,8 +2270,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/12/the-new-cross/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/12/the-new-cross/</guid>
+        <link>http://localhost:4000/2019/01/12/the-new-cross/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/12/the-new-cross/</guid>
         
         <category>Weeknotes</category>
         
@@ -2330,8 +2330,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/04/the-limbo-continues/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/04/the-limbo-continues/</guid>
+        <link>http://localhost:4000/2019/01/04/the-limbo-continues/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/04/the-limbo-continues/</guid>
         
         <category>Weeknotes</category>
         
@@ -2384,8 +2384,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/31/the-fallow-period/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/31/the-fallow-period/</guid>
+        <link>http://localhost:4000/2018/12/31/the-fallow-period/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/31/the-fallow-period/</guid>
         
         <category>Weeknotes</category>
         
@@ -2455,8 +2455,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/21/the-winter-solstice/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/21/the-winter-solstice/</guid>
+        <link>http://localhost:4000/2018/12/21/the-winter-solstice/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/21/the-winter-solstice/</guid>
         
         <category>Weeknotes</category>
         
@@ -2520,8 +2520,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/14/the-gift/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/14/the-gift/</guid>
+        <link>http://localhost:4000/2018/12/14/the-gift/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/14/the-gift/</guid>
         
         <category>Weeknotes</category>
         
@@ -2588,8 +2588,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/07/the-spin-up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/07/the-spin-up/</guid>
+        <link>http://localhost:4000/2018/12/07/the-spin-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/07/the-spin-up/</guid>
         
         <category>Weeknotes</category>
         
@@ -2649,8 +2649,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/the-wind-down/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/the-wind-down/</guid>
+        <link>http://localhost:4000/2018/11/17/the-wind-down/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/the-wind-down/</guid>
         
         <category>Weeknotes</category>
         
@@ -2745,8 +2745,8 @@
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/10/the-staying-of-the-course/</guid>
+        <link>http://localhost:4000/2018/11/10/the-staying-of-the-course/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/the-staying-of-the-course/</guid>
         
         <category>Weeknotes</category>
         
@@ -2811,8 +2811,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/03/The-Comfort-of-Company/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/03/The-Comfort-of-Company/</guid>
+        <link>http://localhost:4000/2018/11/03/The-Comfort-of-Company/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/03/The-Comfort-of-Company/</guid>
         
         <category>Weeknotes</category>
         
@@ -2891,8 +2891,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 27 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/27/The-Delivery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/27/The-Delivery/</guid>
+        <link>http://localhost:4000/2018/10/27/The-Delivery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/27/The-Delivery/</guid>
         
         <category>Weeknotes</category>
         
@@ -2977,8 +2977,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/21/The-Unconference/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/21/The-Unconference/</guid>
+        <link>http://localhost:4000/2018/10/21/The-Unconference/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/21/The-Unconference/</guid>
         
         <category>Weeknotes</category>
         
@@ -3057,8 +3057,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 14 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</guid>
+        <link>http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</guid>
         
         <category>Weeknotes</category>
         
@@ -3141,8 +3141,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 22 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/22/The-Finale/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/22/The-Finale/</guid>
+        <link>http://localhost:4000/2018/09/22/The-Finale/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/22/The-Finale/</guid>
         
         <category>Weeknotes</category>
         
@@ -3205,8 +3205,8 @@
 &lt;p&gt;After Ellie taught me about &lt;a href=&quot;https://twitter.com/Ellayanor/status/1037756853579599881&quot;&gt;low spoons&lt;/a&gt;, I’ve looked at my own mental capacity in a different light. The past couple weeks have been a bit busy, so I’ve avoided stuffing my head with more information this week.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/16/The-Successful-Experiment/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/16/The-Successful-Experiment/</guid>
+        <link>http://localhost:4000/2018/09/16/The-Successful-Experiment/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/16/The-Successful-Experiment/</guid>
         
         <category>Weeknotes</category>
         
@@ -3279,8 +3279,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/07/The-Cusp/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/07/The-Cusp/</guid>
+        <link>http://localhost:4000/2018/09/07/The-Cusp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/07/The-Cusp/</guid>
         
         <category>Weeknotes</category>
         
@@ -3342,8 +3342,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/01/The-Snorlax/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/01/The-Snorlax/</guid>
+        <link>http://localhost:4000/2018/09/01/The-Snorlax/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/The-Snorlax/</guid>
         
         <category>Weeknotes</category>
         
@@ -3435,8 +3435,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/25/The-Unity/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/25/The-Unity/</guid>
+        <link>http://localhost:4000/2018/08/25/The-Unity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/25/The-Unity/</guid>
         
         <category>Weeknotes</category>
         
@@ -3524,8 +3524,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/18/The-Boost/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/18/The-Boost/</guid>
+        <link>http://localhost:4000/2018/08/18/The-Boost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/18/The-Boost/</guid>
         
         <category>Weeknotes</category>
         
@@ -3598,8 +3598,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 11 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/11/The-Farewell/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/11/The-Farewell/</guid>
+        <link>http://localhost:4000/2018/08/11/The-Farewell/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/11/The-Farewell/</guid>
         
         <category>Weeknotes</category>
         
@@ -3694,8 +3694,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/04/The-Step-Up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/04/The-Step-Up/</guid>
+        <link>http://localhost:4000/2018/08/04/The-Step-Up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/04/The-Step-Up/</guid>
         
         <category>Weeknotes</category>
         
@@ -3770,8 +3770,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/23/The-Discovery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/23/The-Discovery/</guid>
+        <link>http://localhost:4000/2018/07/23/The-Discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/23/The-Discovery/</guid>
         
         <category>Weeknotes</category>
         
@@ -3853,8 +3853,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/14/The-Reshuffle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/14/The-Reshuffle/</guid>
+        <link>http://localhost:4000/2018/07/14/The-Reshuffle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/14/The-Reshuffle/</guid>
         
         <category>Weeknotes</category>
         

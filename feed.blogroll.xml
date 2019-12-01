@@ -3,11 +3,259 @@
   <channel>
     <title>Steve Messer // Product manager</title>
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 14:26:43 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 14:26:43 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Dec 2019 19:23:27 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Dec 2019 19:23:27 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Revivalist aesthetic: musical discoveries from 2019</title>
+        <description>&lt;p&gt;If it ain’t broke, don’t fix it.&lt;/p&gt;
+
+&lt;p&gt;Last year I put together &lt;a href=&quot;https://open.spotify.com/user/renegatus/playlist/7kFVj9Y23ABBFZKpho2kTb?si=TRb7A_7tS26LV8yLESGqjg&quot;&gt;a playlist of music I’d loved or first listened to in 2018&lt;/a&gt; and, genre-wise, it was relatively varied. Beats, jazz-funk, rock, club heaters, hip-hop and some essential bass music. This year’s list, however, is quite different to that. It’s a playlist of songs that are mostly all the same, to be honest.&lt;/p&gt;
+
+&lt;p&gt;2019 has been the year of the revivalist sound, with young producers harkening back to the days of 1990s rave with pumping modern tributes. The stand-out release for me has been Soundbwoy Killah’s &lt;em&gt;Halcyon Daze&lt;/em&gt;, an LP ‘suffused…with the heady fug of rave memories and long nights in the dance’ (&lt;a href=&quot;https://bleep.com/release/140146-soundbwoy-killah-halcyon-daze&quot;&gt;as told by Bleep&lt;/a&gt;). They’re tunes that make you want to go raving again, even if your own halcyon days were 2006–2013, not the decade previous.&lt;/p&gt;
+
+&lt;p&gt;In a way, it’s a mournful playlist. Going out these days isn’t like what it used to be. In reviving the warehouse rave, clubs like Printworks have mass-marketed and stripped away the original appeal: underground folklore. It’s something Burial touches on in &lt;a href=&quot;https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript&quot;&gt;this interview&lt;/a&gt; with &lt;em&gt;Wire&lt;/em&gt; magazine.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The UK was changing in a different direction, away from us. Maybe the feeling of the UK in clubs and stuff back then, it wasn’t as artificial, self-aware or created by the internet. It was more rumour, underground folklore. No mobile phones back then. Anyone could go into the night and they had to seek it out. Because you could see it in people, you could see it in their eyes. Those ravers were at the edge at their lives, they weren’t running ahead or falling behind, they were just right there and the tunes meant everything.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But then again, maybe it’s an optimistic playlist. Music has always meant a lot to me, but recently I realised I’d abandoned it. The music I’ve listened to and loved in 2019 seems to sounds of a remembered era, and I’m really keen to go out and hear music again. I miss it: the swaying, the lights, the sweat, the laughs. So 41 tracks remembering all that has sparked my keenness to get dancing again.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that’s enough blabbering. Here’s &lt;a href=&quot;https://open.spotify.com/user/renegatus/playlist/38zfJWixkV78IKP7glwFyK?si=xmdXYJcsT4qo-3CiVwusBQ&quot;&gt;the playlist of tracks I discovered or loved in 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And here’s to getting back out there. See you in the dance, front-left.&lt;/p&gt;
+
+&lt;h2 id=&quot;tracklist&quot;&gt;Tracklist&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Artist&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Halcyon Daze&lt;/td&gt;
+      &lt;td&gt;Soundbwoy Killah&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Dream&lt;/td&gt;
+      &lt;td&gt;Robohands&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Rufige&lt;/td&gt;
+      &lt;td&gt;Lee Gamble&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Dreaming&lt;/td&gt;
+      &lt;td&gt;Jon Hassell&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Nu Spring&lt;/td&gt;
+      &lt;td&gt;30/70&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Ai Paint&lt;/td&gt;
+      &lt;td&gt;Young Paint&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Crux&lt;/td&gt;
+      &lt;td&gt;Sporting Life&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Jazterpiece&lt;/td&gt;
+      &lt;td&gt;Dennis Bovell&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Op&lt;/td&gt;
+      &lt;td&gt;Bremer/McCoy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;BROWN PAPER BAG&lt;/td&gt;
+      &lt;td&gt;TOSHIO MATSUURA GROUP&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;Audi A3&lt;/td&gt;
+      &lt;td&gt;L U C Y&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;Dilla Mix 1&lt;/td&gt;
+      &lt;td&gt;Abstract Orchestra&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;Suite Haus&lt;/td&gt;
+      &lt;td&gt;Makaya McCraven&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;ザ・ワードII - Remixed by 鳥居真道 (トリプルファイヤー)&lt;/td&gt;
+      &lt;td&gt;セキトオ・シゲオ&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;I’m ready for dancing&lt;/td&gt;
+      &lt;td&gt;Ronald Langestraat&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;Mumma Don’t Tell&lt;/td&gt;
+      &lt;td&gt;Leifur James&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;Sète&lt;/td&gt;
+      &lt;td&gt;Souleance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;Ball&lt;/td&gt;
+      &lt;td&gt;Duval Timothy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;Film Score&lt;/td&gt;
+      &lt;td&gt;Smith &amp;amp; Mighty&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;Walworth Waltz&lt;/td&gt;
+      &lt;td&gt;Joy Orbison&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;Tumblin’ (Death March)&lt;/td&gt;
+      &lt;td&gt;Smith &amp;amp; Mighty&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;Flyby Vfr&lt;/td&gt;
+      &lt;td&gt;Skee Mask&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;Dial 274&lt;/td&gt;
+      &lt;td&gt;Skee Mask&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;Black Balloons Reprise&lt;/td&gt;
+      &lt;td&gt;Flying Lotus&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;Loiner Dub&lt;/td&gt;
+      &lt;td&gt;Soundbwoy Killah&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;Be Ya Girl&lt;/td&gt;
+      &lt;td&gt;KW Griff&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;RZZ&lt;/td&gt;
+      &lt;td&gt;Skee Mask&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;Controlled Energy Release&lt;/td&gt;
+      &lt;td&gt;THUGWIDOW&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;Chiseler’s Rush&lt;/td&gt;
+      &lt;td&gt;Call Super&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;I Hate When People Make Tracks Like This&lt;/td&gt;
+      &lt;td&gt;Jimmy Edgar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;31&lt;/td&gt;
+      &lt;td&gt;Olbass All Bass 004 (140 BPM)&lt;/td&gt;
+      &lt;td&gt;Vegyn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;iii’s Front&lt;/td&gt;
+      &lt;td&gt;Overmono&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;02-52-03&lt;/td&gt;
+      &lt;td&gt;RP Boo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;34&lt;/td&gt;
+      &lt;td&gt;Under the Influence&lt;/td&gt;
+      &lt;td&gt;Soundbwoy Killah&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;35&lt;/td&gt;
+      &lt;td&gt;Kotos&lt;/td&gt;
+      &lt;td&gt;Mala&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;36&lt;/td&gt;
+      &lt;td&gt;Do it Again&lt;/td&gt;
+      &lt;td&gt;Shinichiro Yokota&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;37&lt;/td&gt;
+      &lt;td&gt;Foxxy&lt;/td&gt;
+      &lt;td&gt;Cassius&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;38&lt;/td&gt;
+      &lt;td&gt;Glass Eye&lt;/td&gt;
+      &lt;td&gt;Pearson Sound&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;39&lt;/td&gt;
+      &lt;td&gt;My Future&lt;/td&gt;
+      &lt;td&gt;Loraine James&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;Bullseye&lt;/td&gt;
+      &lt;td&gt;Sully&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;41&lt;/td&gt;
+      &lt;td&gt;It Ain’t Love&lt;/td&gt;
+      &lt;td&gt;Rahsaan Patterson&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>Jam London 2019</title>
@@ -164,8 +412,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
+        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -273,8 +521,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;If you’d like to receive articles like this in your inbox every week, sign up to my &lt;a href=&quot;https://tinyletter.com/stevenjmesser&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -368,8 +616,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
