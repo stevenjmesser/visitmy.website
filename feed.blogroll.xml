@@ -5,9 +5,186 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Dec 2019 12:22:46 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Dec 2019 12:22:46 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Dec 2019 13:01:48 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Dec 2019 13:01:48 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Reading List Picks of 2019</title>
+        <description>&lt;p&gt;Here’s a bunch of articles and blog posts that got me thinking about digital government, product management, design thinking, the World Wide Web and data this year. There’s also a couple of nice stories I enjoyed thrown in. Oh, and some stuff about attention too, because this list is full of useful distractions.&lt;/p&gt;
+
+&lt;p&gt;I’ve not included anything about privacy, which I should have, but I think that probably deserves its own post.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-government&quot;&gt;Digital government&lt;/h2&gt;
+
+&lt;h3 id=&quot;just-enough-internet-why-public-service-internet-should-be-a-model-of-restraint&quot;&gt;Just enough Internet: Why public service Internet should be a model of restraint&lt;/h3&gt;
+
+&lt;p&gt;Heavyweight thinking on good, responsible technology in public service from Rachel Coldicutt, which has been this year’s hot topic alongside privacy. Rachel’s piece does well to bring together thinking from across the public service space, including sessions from MozFest 2018, viewing it through a lens of sustainability.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.doteveryone.org.uk/2019/10/just-enough-internet/&quot;&gt;Just enough Internet: Why public service Internet should be a model of restraint&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;there-is-no-such-thing-as-the-government&quot;&gt;There is no such thing as the government&lt;/h3&gt;
+
+&lt;p&gt;This was posted in 2010, around the time &lt;a href=&quot;https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox&quot;&gt;Martha Lane Fox’s report on Directgov&lt;/a&gt; was published, leading to the creation of Government Digital Service and GOV.UK. In it Stefan Czerniawski talks about how the dream for joined-up government services has been around for years, and it’s a key historical text for anyone working in the current era of transformation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. (There’s bonus archived blog posts from &lt;a href=&quot;https://twitter.com/tomskitomski&quot;&gt;Tom&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/neillyneil&quot;&gt;Neil&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.publicstrategist.com/2010/11/there-is-no-such-thing-as-the-government/&quot;&gt;There is no such thing as the government&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-problem-with-the-service-lifecycle&quot;&gt;The problem with the service lifecycle&lt;/h3&gt;
+
+&lt;p&gt;The service design lifecycle in government has four stages: discovery, alpha, beta, live. It’s an agile technique from the world of software development, and its aim is to help teams and organisations create new things while reducing waste. But it’s a linear strategy with a resolute end, it doesn’t set you up for what’s next. Sanjay put forward the idea of the lifecycle as a spiral, which I really like as it helps you think about step-changes. You might have digitised a bunch of paper forms, but how might you discover the bigger problem to solve?&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@sanjaypoyzer/the-problem-with-the-service-lifecycle-5efe278f5119&quot;&gt;The problem with the service lifecycle&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;data-sharing-in-government-why-its-time-for-a-new-approach&quot;&gt;Data-sharing in government: why it’s time for a new approach&lt;/h3&gt;
+
+&lt;p&gt;If bits of government start using more data to design and deliver things, what will people think about government and will they trust it? This is one of many pieces Richard has written in his &lt;a href=&quot;https://www.fastcompany.com/3066631/software-is-politics&quot;&gt;&lt;em&gt;software is politics&lt;/em&gt;&lt;/a&gt; genre, but it’s a good one for considering how the social contract plays into trust models and data re-use. Essentially: there should be clear lines of accountability and responsibility for citizens to have recourse.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/digitalhks/data-sharing-in-government-why-democracies-must-change-direction-badfaa2463ec&quot;&gt;Data-sharing in government: why it’s time for a new approach&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;product-management--design-thinking&quot;&gt;Product management &amp;amp; design thinking&lt;/h2&gt;
+
+&lt;h3 id=&quot;right-question-wrong-answer-agile-stakeholder-management&quot;&gt;Right question, wrong answer: agile stakeholder management&lt;/h3&gt;
+
+&lt;p&gt;Most product teams will know about HiPPOs – the highest paid person in the organisation – and their opinions. Sometimes senior people will ask why a team hasn’t produced a particular output, and Matt puts forward a helpful mindset for breaking that down. It’s easy to get dismayed or irked in those situations but this piece sets a principled approach.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.iterate.org.uk/right-question-wrong-answer-agile-stakeholder-management/&quot;&gt;Right question, wrong answer: agile stakeholder management&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-for-applying-a-systems-lens-to-your-work&quot;&gt;Resources for applying a systems lens to your work&lt;/h3&gt;
+
+&lt;p&gt;I spent a lot of time looking at the bigger picture in work this year and came across this post in the summer. It has a a bunch of great resources for how to address root causes, not symptoms of problems – systems-thinking. Even reading the first book on the list, Dan Hill’s &lt;em&gt;Dark Matter and Trojan Horses&lt;/em&gt;, changed the way I work. Make your way through the list, it’s great. Shout-out to Aly (and Will, of course).&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@alyblenkin/resources-for-applying-a-systems-lens-to-your-work-8ebee73227bd&quot;&gt;Resources for applying a systems lens to your work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-new-social-contract&quot;&gt;A New Social Contract&lt;/h3&gt;
+
+&lt;p&gt;The first post in a four-part series on redesigning democracy from Alastair Parvin. He’s done incredibly well to set the problems and proposed solutions within their context, making it all relatable. An expert use of storytelling and systems-thinking to propose new futures, with a nod to &lt;a href=&quot;https://public.digital/2018/09/25/making-government-as-a-platform-real/&quot;&gt;government as a platform&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@AlastairParvin/a-new-social-contract-359c426e0f61&quot;&gt;A New Social Contract&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-you-should-stop-using-product-roadmaps-and-try-gist-planning&quot;&gt;Why you should stop using product roadmaps and try GIST planning&lt;/h3&gt;
+
+&lt;p&gt;A decent framework from Itamar Gilad that wraps in Lean Startup methods, OKRs, and a pipeline for testing ideas, all sat beneath the organisation’s shared goals and strategy. I tried it out on the Search team and we made some good progress. A good way to avoid the agile build trap, do more prototyping, and empower product teams to deliver outcomes.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@itamargilad/why-i-stopped-using-product-roadmaps-and-switched-to-gist-planning-3b7f54e271d1&quot;&gt;Why you should stop using product roadmaps and try GIST planning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-read-about-design-for-trust-so-you-dont-have-to&quot;&gt;I Read About “Design For Trust” So You Don’t Have To&lt;/h3&gt;
+
+&lt;p&gt;Does what it says on the tin. A compendium of links to and a summary of many ‘design for trust’ posts from across the Web. (It’s worth reading all the content the author draws on though!)&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://simplysecure.org/blog/design-trust&quot;&gt;I Read About “Design For Trust” So You Don’t Have To&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-world-is-distracted&quot;&gt;The world is distracted&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-machine-stops&quot;&gt;The Machine Stops&lt;/h3&gt;
+
+&lt;p&gt;Either peak smartphone isn’t far off or we’ve reached it already. The late neurologist Oliver Sacks writes about the disappearence of old civilities, where people have replaced talking to their neighbours with talking to their phones. But there’s hope in this piece too, that people will realise the need to sustain the richness of human cultures. And since more of us are putting our phones down, I’m hopeful too.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.newyorker.com/magazine/2019/02/11/the-machine-stops&quot;&gt;The Machine Stops&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-attention-economy&quot;&gt;The attention economy&lt;/h3&gt;
+
+&lt;p&gt;Owen Williams puts forward the idea that most products are competing for the space in front of your eyeballs. Attention is now a commodity as much as technology, and the only limit is the population and the number of waking hours.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://char.gd/recharged/daily/the-attention-economy&quot;&gt;The attention economy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-case-for-doing-nothing&quot;&gt;The Case for Doing Nothing&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Niksen&lt;/em&gt; is the Dutch concept of embracing boredom to stop ourselves being so busy. It’s a bit like mindfulness, only you don’t need to pay Headspace a subscription fee to learn how to do it. This piece makes the case for doing nothing with purpose.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html&quot;&gt;The Case for Doing Nothing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-web-and-data&quot;&gt;The Web and data&lt;/h2&gt;
+
+&lt;h3 id=&quot;30-years-on-whats-next-fortheweb&quot;&gt;30 years on, what’s next #ForTheWeb?&lt;/h3&gt;
+
+&lt;p&gt;The World Wide Web is 30 years old, so I couldn’t not include this. Since you’re using the Web, please read it!&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://webfoundation.org/2019/03/web-birthday-30/&quot;&gt;30 years on, what’s next #ForTheWeb?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-internets-back-to-the-land-movement&quot;&gt;The Internet’s Back-to-the-Land Movement&lt;/h3&gt;
+
+&lt;p&gt;Following on from the piece by &lt;em&gt;Lowtech&lt;/em&gt; magazine in &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;last year’s picks&lt;/a&gt;, this piece by Becca Abbe talks about moving off-grid in a digital sense: opting out of mainstream internet providers and building independent mesh networks or a peer-to-peer Web. Whatever the solution, making things more sustainable is a critical consideration for the next few decades.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.are.na/blog/the-internet's-back-to-the-land-movement&quot;&gt;The Internet’s Back-to-the-Land Movement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-rise-and-demise-of-rss&quot;&gt;The Rise and Demise of RSS&lt;/h3&gt;
+
+&lt;p&gt;RSS is one of those wonderful Web technologies, meaning you can follow updates from anyone across the world. In simple terms, it’s a bit like tweets without Twitter. But depsite getting off to a good start, RSS has all but disappeared as people have moved to centralised silos like Twitter. The reason? Too many competing standards. The story of RSS teaches us that a better, more open Web will come from getting better at working together.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss&quot;&gt;The Rise and Demise of RSS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-semantic-web-identity-crisis-in-search-of-the-trivialities-that-never-were&quot;&gt;The Semantic Web identity crisis: in search of the trivialities that never were&lt;/h3&gt;
+
+&lt;p&gt;In a similar vein to the story of RSS, Ruben Verborgh talks about the last two decades of research into the Semantic Web – and how it hasn’t really changed the world much. The dream was big, the vision was crystal clear, but through lack of &lt;a href=&quot;https://en.wikipedia.org/wiki/Eating_your_own_dog_food&quot;&gt;dogfooding&lt;/a&gt; the dream hasn’t been delivered. But if semantic technologies can be brough out of the research space and into the world of product development…who knows?&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://ruben.verborgh.org/articles/the-semantic-web-identity-crisis/&quot;&gt;The Semantic Web identity crisis: in search of the trivialities that never were&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-data-is-never-raw&quot;&gt;Why Data Is Never Raw&lt;/h3&gt;
+
+&lt;p&gt;I don’t believe we should aim for data-driven futures because it renders human decisions as useless. Instead we should be data-informed, reading metrics and measures to inform our decisions. But it’s worth remembering that data is never raw: the schema by which you collect and read data goes some way to defining how you’ll interpret it. In &lt;em&gt;The New Atlantis&lt;/em&gt;, Nick Barrowman talks about the seductive myth of information free of human judgment.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.thenewatlantis.com/publications/why-data-is-never-raw&quot;&gt;Why Data Is Never Raw&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;unicorns-ontologies-and-how-the-mind-organizes-the-world&quot;&gt;Unicorns, Ontologies and How the Mind Organizes the World&lt;/h3&gt;
+
+&lt;p&gt;The world of structured data was a right headf**k when I first joined Porism. Since there’s much chatter about ontologies, taxonomies, registers and other aspects of semantic technologies at work now, I always send this article to anyone starting out. Who knew a story about Marco Polo would help frame it so well?!&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://thesnipermind.com/blog/unicorns-ontologies-and-how-the-mind-organizes-the-world.html&quot;&gt;Unicorns, Ontologies and How the Mind Organizes the World&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;just-good-stories&quot;&gt;Just good stories&lt;/h2&gt;
+
+&lt;h3 id=&quot;were-not-leaving-this-bar-until-weve-come-up-with-such-a-great-idea-that-i-cant-sack-you&quot;&gt;“We’re not leaving this bar until we’ve come up with such a great idea that I can’t sack you”&lt;/h3&gt;
+
+&lt;p&gt;The story of how BBC iPlayer came about because of a drunken brainstorm as told by Tony Ageh, who was the project director for the thing. It’s funny and uplifting and wonderfully down-to-earth.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/storythings-ltd/we-re-not-leaving-this-bar-until-we-ve-come-up-with-such-a-great-idea-that-i-can-t-sack-you-b12ddfd53fa8&quot;&gt;“We’re not leaving this bar until we’ve come up with such a great idea that I can’t sack you”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-william-gibson-keeps-his-science-fiction-real&quot;&gt;How William Gibson Keeps His Science Fiction Real&lt;/h3&gt;
+
+&lt;p&gt;William Gibson invented the word ‘cyberspace’ and, along with it, the cyberpunk movement and everything that inspired. I grew up on &lt;em&gt;The Matrix&lt;/em&gt;, &lt;em&gt;Blade Runner&lt;/em&gt;, &lt;em&gt;Johnny Mnemonic&lt;/em&gt; and the video game &lt;em&gt;Deus Ex&lt;/em&gt;, so it’s pleasing to hear how the books that inspired those worlds – beginning with Gibson’s debut &lt;em&gt;Neuromancer&lt;/em&gt; – came together.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.newyorker.com/magazine/2019/12/16/how-william-gibson-keeps-his-science-fiction-real&quot;&gt;How William Gibson Keeps His Science Fiction Real&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;it-wasnt-all-about-drugs&quot;&gt;“It wasn’t all about drugs”&lt;/h3&gt;
+
+&lt;p&gt;By talking to teenagers about the acid house movement of the 1980s, Jeremy Deller managed to explore the period and what it was really all about, without falling on the obvious answer of drugs. This is a good interview about his documentary, &lt;em&gt;Everybody in the Place: an Incomplete History of Britain 1984–92&lt;/em&gt;, but you should definitely also &lt;a href=&quot;https://www.bbc.co.uk/programmes/m000777d&quot;&gt;watch the doc&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://theface.com/culture/jeremy-deller-interview-everybody-in-the-place-an-incomplete-history-of-britain-1984-1992&quot;&gt;“It wasn’t all about drugs”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-brexit-warnings-to-be-found-in-sheep-grazing-in-a-london-park&quot;&gt;The Brexit Warnings to Be Found in Sheep Grazing in a London Park&lt;/h3&gt;
+
+&lt;p&gt;An overlapping of stories about the commons, Boudica, Hampstead Heath, and thoughts on Brexit back in September. (I mostly like it for the agricultural experiment and the archeology, but there’s something in there for politicos too.)&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;link&quot;&gt;The Brexit Warnings to Be Found in Sheep Grazing in a London Park&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-real-life-ali-g&quot;&gt;The real-life Ali G&lt;/h3&gt;
+
+&lt;p&gt;Can’t remember why I came across this story about Tim Westwood but it’s absolutely cracking.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.theguardian.com/theguardian/2000/nov/01/features11.g22&quot;&gt;The real-life Ali G&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-1968-computers-got-personal&quot;&gt;In 1968, computers got personal&lt;/h3&gt;
+
+&lt;p&gt;The story of how ‘the mother of all demos’ changed the world, moving computing from the research space to the commercial space. By helping people imagine a future in which everyone had a computer, we now do.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654&quot;&gt;In 1968, computers got personal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;If anyone has stratified the eras of government transformation, digital and beyond, please do let me know! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>Revivalist aesthetic: musical discoveries from 2019</title>
