@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Dec 2019 20:13:06 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Dec 2019 20:13:06 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Dec 2019 22:02:08 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Dec 2019 22:02:08 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -177,6 +177,12 @@
 &lt;p&gt;In a similar vein to the story of RSS, Ruben Verborgh talks about the last two decades of research into the Semantic Web – and how it hasn’t really changed the world much. The dream was big, the vision was crystal clear, but through lack of &lt;a href=&quot;https://en.wikipedia.org/wiki/Eating_your_own_dog_food&quot;&gt;dogfooding&lt;/a&gt; the dream hasn’t been delivered. But if semantic technologies can be brough out of the research space and into the world of product development…who knows?&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://ruben.verborgh.org/articles/the-semantic-web-identity-crisis/&quot;&gt;The Semantic Web identity crisis: in search of the trivialities that never were&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;data-as-institutional-memory&quot;&gt;Data as institutional memory&lt;/h3&gt;
+
+&lt;p&gt;Another excellent post about standards, from Adam, plumping for collaboratively developed standards as part of a system, not just a by-product of policy and legislation. ‘Fix the plumbing by identifying the leaks’ rang in my head for a couple of days after reading this, it’s a great analogy. Great stuff on designing data as infrastructure in the 21st century. (Adam running his mouth in the pub is something I enjoy being around, it produces gems like this.)&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@chairlord/data-as-institutional-memory-ad5367da2194&quot;&gt;Data as institutional memory&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;why-data-is-never-raw&quot;&gt;Why Data Is Never Raw&lt;/h3&gt;
 
