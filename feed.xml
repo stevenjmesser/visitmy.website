@@ -5,9 +5,44 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Jan 2020 17:59:44 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Jan 2020 17:59:44 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2020 20:15:30 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2020 20:15:30 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Boring magic</title>
+        <description>&lt;p&gt;Recently I’ve been working on a team thinking about what digital government services might be like in the near future. Conor, our interaction designer, summed up &lt;a href=&quot;https://gds.blog.gov.uk/story/&quot;&gt;the last 9 years&lt;/a&gt; rather well.&lt;/p&gt;
+
+&lt;p&gt;‘We essentially create boring magic.’&lt;/p&gt;
+
+&lt;p&gt;It just rolls off the tongue.&lt;/p&gt;
+
+&lt;p&gt;There are things that people have to do – like pay tax, register a vehicle, &lt;a href=&quot;https://www.gov.uk/guidance/fallen-stock&quot;&gt;work out what to do with dead farm animals&lt;/a&gt;, etc. – which are boring. These things only exist because of government. Our job is to make those tedious experiences a bit magical: simple, clear and fast. All the hallmarks of convenience, that works the first time.&lt;/p&gt;
+
+&lt;p&gt;Other (more clever) people have written about &lt;a href=&quot;https://www.doteveryone.org.uk/2019/10/just-enough-internet/&quot;&gt;using the word ‘magical’&lt;/a&gt; in association with digital public services. That, in the early days, making ‘new kinds of irresistible content felt magical’. But that because some digital public services are actually really important parts of people’s lives, particularly in government, things are much more serious – because &lt;a href=&quot;https://www.fastcompany.com/3066631/software-is-politics&quot;&gt;what we design is inherently political&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I agree with those people completely. But with this term – boring magic – we stumbled upon a way of describing the experience we should provide, in a humble way.&lt;/p&gt;
+
+&lt;p&gt;There’s a barber I occasionally visit in Deptford. He often forgets that I’ve been in before and will usually ask me what I do for a living. ‘I work on GOV.UK, you know, the government website?’&lt;/p&gt;
+
+&lt;p&gt;‘Ah yes! Do you know, we had to apply for our daughter’s passport recently and it was good. All done within 10 minutes. Took the picture on her phone. Got straight back to watching telly, there was none of that faff in going to the Post Office, a photographer, all of that.’&lt;/p&gt;
+
+&lt;p&gt;He has no idea of the relative complexity of what he’s done. All the gubbins happening behind the curtain. He’s just done what he needs to do, and moved on with his life.&lt;/p&gt;
+
+&lt;p&gt;That’s magic. It’s pleasing, but boring enough to move on from. Completely pedestrian, no exaltations; he was just pleased it did what he needed it to do.&lt;/p&gt;
+
+&lt;p&gt;We make these boring things as magical as possible, within the limits of how magical tedium should be. Things don’t have to be whizzy, they just have to work well enough. Because magic isn’t the end goal.&lt;/p&gt;
+
+&lt;p&gt;When we’re thinking about digital public services of the future, we can temper our ambitions and &lt;a href=&quot;https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/&quot;&gt;look to the past for lessons&lt;/a&gt;. ‘Technology alone will not create a better world.’&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/01/08/boring-magic/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/01/08/boring-magic/</guid>
+        
+        <category>Digital government</category>
+        
+        
+      </item>
     
       <item>
         <title>The Helping Hand</title>
