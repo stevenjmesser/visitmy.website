@@ -5,9 +5,80 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Feb 2020 10:01:09 +0000</pubDate>
-    <lastBuildDate>Sat, 01 Feb 2020 10:01:09 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2020 19:48:30 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2020 19:48:30 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Public Service Velodrome</title>
+        <description>&lt;p&gt;The majority of my week was taken up by preparing a presentation/sales pitch for a Very Important Person, so I didn’t get much time to spend with the team. Here’s some bullet points on what I did anyway.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-things&quot;&gt;Good things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduced a new product manager to the community by becoming their buddy.&lt;/li&gt;
+  &lt;li&gt;Offered to help out an associate product manager by having them shadow me.&lt;/li&gt;
+  &lt;li&gt;Had some productive chats with the team.&lt;/li&gt;
+  &lt;li&gt;Another session with Rob and the other PMs was helpful in breaking down the future strategy.&lt;/li&gt;
+  &lt;li&gt;Had a good coffee with &lt;a href=&quot;https://twitter.com/Na7hanGood&quot;&gt;Nathan&lt;/a&gt;, and a great response to the &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1224765502771355651&quot;&gt;hackathon idea&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learned-things&quot;&gt;Learned things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://www.citizensadvice.org.uk/about-us/future-of-advice-our-strategic-framework-2019-22/&quot;&gt;Citizens Advice strategic framework for 2019–22&lt;/a&gt; is pretty similar to &lt;a href=&quot;https://gds.blog.gov.uk/2019/11/05/transforming-gov-uk-the-future-of-digital-public-services/&quot;&gt;GOV.UK’s ambition&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;not-work-things&quot;&gt;Not-work things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://www.royalacademy.org.uk/exhibition/picasso-and-paper&quot;&gt;Picasso and Paper&lt;/a&gt; exhibition at the Royal Academy of Arts is worth your time. Don’t balk attending because of the entrance fee: there’s 11 rooms of stuff, it’s a huuuuuuge exhibition.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sakamaka.co.uk&quot;&gt;Saka Maka&lt;/a&gt; is cute. If you leave having had a good meal, there’s a bell to ring next to the door. We sent up a generous applause for anyone ringing it, good vibes.&lt;/li&gt;
+  &lt;li&gt;Shame about the Wales result on Saturday though, eh.&lt;/li&gt;
+  &lt;li&gt;Had a play with Webmentions again and can’t quite get it right. A feature to add comments to blog posts would be good but I don’t want to turn to Disqus. Maybe Twitter is fine for now.&lt;/li&gt;
+  &lt;li&gt;Saw Joe Armon-Jones play Electric Brixton. Decent venue! &lt;a href=&quot;https://www.unit137.com/2020/01/14/sound-system-culture-meets-uk-jazz/&quot;&gt;Unit 137 soundsystem&lt;/a&gt; was a nice addition too, though they could have used the subs a bit more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;difficulties&quot;&gt;Difficulties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Still trying to wrangle how best to proceed on the mission. Not having a decent framework for product governance is making it hard. Also, not being able to collect insights through analytics (because we don’t have the expertise on our team, they’re all on other teams) is frustrating.&lt;/li&gt;
+  &lt;li&gt;And if we’re refining the immediate strategy now, surely it makes more sense for our team to stop for a bit?&lt;/li&gt;
+  &lt;li&gt;Although some people want to plough ahead and learn through playing, which is fine until you have to prove whether an experiment worked or not and you don’t have the right indicators.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spent a lot of the week preparing a presentation for another Very Important Person, but it went down really well!&lt;/li&gt;
+  &lt;li&gt;The team got the prototype released so we can play with it!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webdevlaw.uk/2020/02/01/were-out-what-now/&quot;&gt;We’re out. What now?&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248&quot;&gt;Full Circle Leadership&lt;/a&gt;, 14 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/ideachain/is-it-a-prototype-or-an-mvp-well-its-a-proof-of-concept-f8df5bb8940a&quot;&gt;Is this a prototype or an MVP? Well actually, it’s a proof of concept.&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adamlocker.github.io/my-wee-blog/monthnotes/nonsense/2020/02/04/january.html&quot;&gt;January 2020&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vickytnz/so-youve-been-put-on-a-challenging-project-now-what-396bc0ca03e9&quot;&gt;So you’ve been put on a ‘challenging project’. Now what?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@kcollingwood/why-civil-servants-should-become-experts-in-empathy-59c30507b3f6&quot;&gt;Why civil servants should become experts in empathy&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/615094/why-private-micro-networks-could-be-the-future-of-how-we-connect/&quot;&gt;Why private micro-networks could be the future of how we connect&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/&quot;&gt;Great PMs don’t spend their time on solutions&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/02/01/world/europe/brexit-britain.html&quot;&gt;What if Brexit Works?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gemmarogers1/four-principles-to-deliver-services-6adc94dd9443&quot;&gt;Four principles to deliver services&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/&quot;&gt;Why psychological safety matters and what to do about it&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/02/10/the-public-service-velodrome/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/02/10/the-public-service-velodrome/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Innovation Dogtrack</title>
@@ -288,6 +359,8 @@
   &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2019/08/27/podcast-on-writing/&quot;&gt;On writing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9&quot;&gt;The importance of being open&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/&quot;&gt;Let’s write more blog posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomcritchlow.com/2018/02/23/small-b-blogging/&quot;&gt;Small b blogging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20061128082434/http://dig.csail.mit.edu/breadcrumbs/node/170&quot;&gt;Blogging is great&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
