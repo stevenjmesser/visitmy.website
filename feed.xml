@@ -5,9 +5,63 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Feb 2020 20:42:46 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Feb 2020 20:42:46 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Feb 2020 09:51:33 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Feb 2020 09:51:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>How we use clinics for product problems at GOV.UK</title>
+        <description>&lt;p&gt;Being a product manager can often feel like being a lone wolf. Despite working closely with a team of designers, developers and other digital specialists, you’re usually the only member of the group representing the product discipline. So who can you turn to for advice or help solving a product problem?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.infoq.com/articles/communities-of-practice-agile-organisation/&quot;&gt;Communities of practice&lt;/a&gt; are a good remedy, loose structures that support people doing the same job to come together and help each other. The product community at GOV.UK, where I work, meet every Tuesday to talk about our practice, and a little while ago we ran a workshop to look at better ways to support our fellow product managers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;One idea that came out was the product clinic: a safe place to bring forward your product problems and receive knowledge, experience, emotional, social or practical help from your peers.&lt;/p&gt;
+
+&lt;p&gt;It works like this.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A product manager has a problem (or a few)&lt;/li&gt;
+  &lt;li&gt;They raise it with a panel of 2–4 product managers they work with&lt;/li&gt;
+  &lt;li&gt;The panel steps into the PM’s shoes, responding on how they’d approach the situation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s pretty simple, there’s not that much structure. Topics can range from soft skills to strategy to tools, anything related to &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#introduction-to-the-role-of-product-manager&quot;&gt;a product manager’s role&lt;/a&gt;. All you need is a time and place to meet, some problems to solve, and a group of empathetic peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The only caveat:&lt;/strong&gt; you need a culture of &lt;a href=&quot;https://conradfrancis.com/vulnerability-and-openness-to-grow/&quot;&gt;openness and vulnerability&lt;/a&gt; in which people are comfortable opening up. (But if your community are willing to support each other, it likely already exists.)&lt;/p&gt;
+
+&lt;p&gt;I take notes during my clinic sessions, so that I can refer back to them later. I’ll keep a list of those here because other people might find my colleagues’ suggestions helpful too.&lt;/p&gt;
+
+&lt;p&gt;It’s better to get things out of your head rather than suffer in silence. If you’re struggling with a product problem at work, why not consider starting a clinic with your fellow product managers?&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-from-clinic-sessions&quot;&gt;Notes from clinic sessions&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;I’m in the process of writing these up, check back later or subscribe to my &lt;a href=&quot;https://visitmy.website/feed.xml&quot;&gt;RSS&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How do you deal with disputes with your boss? (Soft skills)&lt;/li&gt;
+  &lt;li&gt;What if the strategy seems confused and unclear? (Product strategy)&lt;/li&gt;
+  &lt;li&gt;How do you frame assumptions to be validated or invalidated? (Teams)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Blog post coming soon on &lt;a href=&quot;https://insidegovuk.blog.gov.uk&quot;&gt;Inside GOV.UK&lt;/a&gt;, thanks to Laura ran the workshop. Here’s the &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1214618166183153664&quot;&gt;output of the workshop&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I reckon all digital practitioners could benefit from clinics, not only product managers. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
     
       <item>
         <title>The Black Dog and the Storm</title>
