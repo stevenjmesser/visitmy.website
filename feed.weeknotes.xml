@@ -5,9 +5,92 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Mar 2020 06:24:44 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2020 06:24:44 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2020 12:51:11 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2020 12:51:11 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Renovation</title>
+        <description>&lt;p&gt;Reducing the amount of time I spend thinking about work outside of work is having its benefits, so I’m only gonna chat about ‘personal things’. My mental health is improving by working on it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Parasite&lt;/em&gt; is a bit good, eh? The way Bong Joon Ho seamlessly stitched together different genres and moods throughout the story was masterful. After chatting to a friend who lived in South Korea for a while, I learned that it’s a fairly common storytelling technique in their culture: extraordinary stories in common settings. I think that’s why it worked so well. (I preferred &lt;a href=&quot;https://www.nytimes.com/2019/10/10/movies/parasite-review.html&quot;&gt;the NY Times review&lt;/a&gt; to the Guardian’s.)&lt;/li&gt;
+  &lt;li&gt;Went to see &lt;em&gt;1917&lt;/em&gt; the following week too, which is emotive and gut-wrenching and shocking all in one. People who’ve played &lt;em&gt;Call of Duty&lt;/em&gt; will get it immediately. Maybe avoid it if you’re stressed out though, it’ll have your veins pumped full of cortisol in no time.&lt;/li&gt;
+  &lt;li&gt;The only other single-track film I’ve seen is &lt;a href=&quot;https://www.imdb.com/title/tt4226388/&quot;&gt;&lt;em&gt;Victoria&lt;/em&gt;&lt;/a&gt;, which I caught a trailer for a few years ago and saw on a whim. It turned out to be one of the best films I’ve ever seen, possibly knocking &lt;a href=&quot;https://www.imdb.com/title/tt0117407/&quot;&gt;&lt;em&gt;Pusher&lt;/em&gt;&lt;/a&gt; off the top spot.&lt;/li&gt;
+  &lt;li&gt;If you’re a GDS person, watch this documentary about &lt;a href=&quot;https://www.bbc.co.uk/iplayer/episode/p00t3f42/ours-to-keep-incomers&quot;&gt;Spitalfields’ decaying Georgian houses&lt;/a&gt; and the 1980s effort to restore them.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Bass, Mids, Tops&lt;/em&gt; continues to deliver on providing me with new sounds to listen to. I’ve been enjoying Adrian Sherwood’s repertoire and his &lt;a href=&quot;http://on-usound.com&quot;&gt;On-U Sound label&lt;/a&gt;. Dubby, playful with music tech, celebratory of soundsystem culture. The &lt;a href=&quot;https://onusound.bleepstores.com/artist/45578-doctor-pablo-the-dub-syndicate&quot;&gt;Doctor Pablo&lt;/a&gt; stuff is cracking.&lt;/li&gt;
+  &lt;li&gt;As a result, there’s a few dub tracks in my &lt;a href=&quot;https://open.spotify.com/playlist/1In4kMSguQDCi7UVam8J88?si=Bh_MqGZHQ4mV3NfJFv151g&amp;amp;_php=1&quot;&gt;February playlist&lt;/a&gt;, alongside new British jazz supremo Moses Boyd, a new Legowelt, Ashley Henry and a fuzzy, blues number.&lt;/li&gt;
+  &lt;li&gt;I’ve been re-reading &lt;a href=&quot;http://leanuxbook.com&quot;&gt;&lt;em&gt;Lean UX&lt;/em&gt;&lt;/a&gt; to give me a boost at work, and that’s been really helpful.&lt;/li&gt;
+  &lt;li&gt;Started the &lt;a href=&quot;https://www.ideou.com/products/designing-strategy&quot;&gt;designing strategy course&lt;/a&gt; from IDEO last week, it’s so good. Not too dissimilar to Lean methods, to be honest, but I slightly different framework to suit any business context, not just digital products. Loving it so far.&lt;/li&gt;
+  &lt;li&gt;Ordered &lt;a href=&quot;http://www.krksys.com&quot;&gt;KRKs&lt;/a&gt;, which I’ve been meaning to do for like 12 years. Can’t wait to hear tunes through those speakers!&lt;/li&gt;
+  &lt;li&gt;Thinking about the below quote from Andrew Weatherall, maybe weeknotes are good for sharing but not for active thinking.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We live in a world where every minute is documented, so there’s not so much room to mythologise anything.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Despite that, and in response to the quote below, I am going to say that the resurgence of rave culture is more about fashion than an actual backlash against the times we live in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After years of fragmentation and polarisation, the joyful militancy of early rave feels poignant; the kind of unified response to political strife that this era is yet to produce.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’m going to redesign this website soon: get rid of the Javascript, make it accessible, learn Sass so that I can actually tweak the frontend. I’m using &lt;a href=&quot;https://github.com/samesies/barber-jekyll&quot;&gt;Barber&lt;/a&gt; as the theme currently but feel like making my own.&lt;/li&gt;
+  &lt;li&gt;Since we’re on the cusp of an epidemic and I’ve got a bad cold, I’m isolating myself at home. Prevents other people catching it, but also tension and paranoia abounds on public transport. The slightest sniffle and people are alarmed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2020/02/how-to-mend-a-work-relationship&quot;&gt;How to Mend a Work Relationship&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mythoslogos.org/2014/12/21/what-is-mythos-and-logos/&quot;&gt;What is “Mythos” and “Logos”?&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://productcoalition.com/calm-product-manager-stressed-product-manager-da9957bbb741&quot;&gt;Calm Product Manager / Stressed Product Manager&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2019/02/how-leaders-can-open-up-to-their-teams-without-oversharing&quot;&gt;How Leaders Can Open Up to Their Teams Without Oversharing&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civilservice.blog.gov.uk/2019/12/20/anger-awareness-7-tips-for-keeping-your-cool/&quot;&gt;Anger awareness - 7 tips for ‘keeping your cool’&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/article/us-google-privacy-eu-exclusive-idUSKBN20D2M3&quot;&gt;Exclusive: Google users in UK to lose EU data protection - sources&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lisakoeman.nl/blog/when-user-research-doesnt-matter/&quot;&gt;When user research doesn’t matter – Lisa Koeman – blog&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/sport/football/51539821&quot;&gt;Wolves: Where next for Nuno Espirito Santo’s side after rapid rise?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blangry.github.io/thedoctorate/civicnaming.html&quot;&gt;When is civic tech not civic tech?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@loft27design/learning-how-to-lead-or-whatever-that-means-24af8993e007&quot;&gt;Learning how to lead (or whatever that means)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2020/feb/21/what-i-learned-from-doorstepping-dominic-cummings&quot;&gt;What I learned from doorstepping Dominic Cummings&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.psychologicalscience.org/news/the-limits-of-nudging-why-cant-california-get-people-to-take-free-money.html&quot;&gt;The Limits Of Nudging: Why Can’t California Get People to Take Free Money?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/newco/the-organizational-lag-leading-your-team-through-change-2c6cb162ed54&quot;&gt;The Organizational Lag: Leading Your Team Through Change&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/feb/23/street-food-swindle-fake-diversity-privatised-space-small-portions#Echobox=1582542937&quot;&gt;The ‘street food’ swindle: fake diversity, privatised space – and such small portions!&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2020/feb/22/this-much-i-know-don-letts-punk-music-dj-windrush&quot;&gt;Don Letts: ‘Punk was a refuge from racism’&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@adaptivestate/adaptive-state-a-podcast-about-public-service-in-the-21st-century-21d2a9ba4c74&quot;&gt;Adaptive State&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/02/16/words-to-live-by/&quot;&gt;Words to live by..&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/02/29/monkey-first/&quot;&gt;Monkey first&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.memespring.co.uk/2017/04/16/a-gds-retrospective-knowing-when-to-run/&quot;&gt;GDS Retrospective #1: knowing when to run&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/2020/stickers-rss-massive/&quot;&gt;Stickers for the RSS massive&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/02/12/multi-hyphenates/&quot;&gt;Multi-hyphenates&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/artanddesign/gallery/2020/feb/20/glaciers-anthropocene-in-pictures-peter-funch-the-imperfect-atlas-rgb-tbw-books&quot;&gt;Ghost glaciers: the transcendent Anthropocene – in pictures&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/music/2019/nov/26/saatchi-exhibits-and-bbc-four-docs-why-is-2019-so-nostalgic-for-80s-rave&quot;&gt;Saatchi exhibits and BBC Four docs: why is 2019 so nostalgic for 80s rave?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/rd/blog/2020-01-audience-choices-data-personalised-media&quot;&gt;Audience Data and Storytelling - What Do People Choose in Interactive Experiences?&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.uncut.co.uk/features/blogs/an-audience-with-andrew-weatherall-123307/&quot;&gt;An Audience With Andrew Weatherall&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/music/2019/nov/26/saatchi-exhibits-and-bbc-four-docs-why-is-2019-so-nostalgic-for-80s-rave&quot;&gt;Saatchi exhibits and BBC Four docs: why is 2019 so nostalgic for 80s rave?&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/03/05/the-renovation/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/03/05/the-renovation/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Black Dog and the Storm</title>
