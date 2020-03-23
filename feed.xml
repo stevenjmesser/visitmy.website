@@ -5,9 +5,66 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Mar 2020 21:25:20 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2020 21:25:20 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2020 18:16:43 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2020 18:16:43 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Isolation 2</title>
+        <description>&lt;p&gt;Work-related notes have returned! That should excite some of you.&lt;/p&gt;
+
+&lt;p&gt;Uncommon times we’re living in, but extraordinary efforts are being undertaken. Shout-out to all the public service heroes working on coronavirus projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Missions have been paused so that we can work on urgent projects related to coronavirus. My colleagues have already delivered some excellent products and services, all delivered quickly to an emerging need. You can see most of them at &lt;a href=&quot;https://www.gov.uk/coronavirus&quot;&gt;www.gov.uk/coronavirus&lt;/a&gt; (which is very good in itself).&lt;/li&gt;
+  &lt;li&gt;I’ve been lending support to Public Health England and NHSX on a new version of their &lt;a href=&quot;https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases&quot;&gt;public-facing dashboard and open data&lt;/a&gt; tracking coronavirus in the UK. They’ve created some &lt;a href=&quot;https://digital.nhs.uk/data-and-information/national-indicator-library&quot;&gt;national indicators&lt;/a&gt; in a very short space of time which deserves credit. But as with all statistics, there’s &lt;em&gt;so much&lt;/em&gt; going on behind the scenes to ensure the numbers are up-to-date, accurate, and reliable. It makes your head spin to think of it all.&lt;/li&gt;
+  &lt;li&gt;I’ve been using much of the knowledge on statistics and data I picked up at &lt;a href=&quot;https://porism.com&quot;&gt;Porism&lt;/a&gt; working on LG Inform and LG Inform Plus, which has helped me get up-to-speed on things.&lt;/li&gt;
+  &lt;li&gt;However, it’s a &lt;a href=&quot;https://devblogs.microsoft.com/oldnewthing/20121211-00/?p=5863&quot;&gt;v-team&lt;/a&gt; effort with team members distributed across different organisations with different priorities, so I’ve found it tough being their delivery manager who’s not close to the decision-makers and senior stakeholders. It has really made me think about how much &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1242056957755830272&quot;&gt;we take agile ways of working for granted&lt;/a&gt; at GDS – encouraging others to work that way and see the value is so tough.&lt;/li&gt;
+  &lt;li&gt;And while I was typing these notes, I was asked to start working on something else, so I’m switching back into product mode…NOW!&lt;/li&gt;
+  &lt;li&gt;Any spare time I had from coordinating the dashboard team was used to work on the strategy course I’m doing through IDEO U, which I’m still loving. I’d like to apply what I’m learning to GOV.UK’s current and future strategies, but we’re hiring a Strategy Lead so it’s possibly not considered a product responsibility any more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reinstalled &lt;a href=&quot;https://retropie.org.uk&quot;&gt;Retropie&lt;/a&gt; on Saturday and started playing &lt;em&gt;Metal Gear Solid&lt;/em&gt;, which used to make me super nervous as a kid, but I’m really enjoying playing as an adult. Don’t know if it’s the glow of nostalgia around the game but the story cocoons you, like watching &lt;em&gt;GoldenEye&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;I watched hours of &lt;a href=&quot;https://www.bbc.com/programmes/b0667qf6&quot;&gt;Rick Stein on iPlayer&lt;/a&gt;, whom I love. He might actually be my hero. Travel, culture, and food all wrapped up. It’s the perfect escapism right now.&lt;/li&gt;
+  &lt;li&gt;The sun came out on Sunday and looks set to be about all week, so the hammock is set-up in the garden. I got a sun burn. HELLO, SPRING.&lt;/li&gt;
+  &lt;li&gt;Looking forward to spring vegetables making an appearance at the market. Living on carrots, parsnips, celeriac, kale, broccoli, potatoes, beetroot, jerusalem artichokes and other winter veg for the last 3–4 months has really pushed our creative talents.&lt;/li&gt;
+  &lt;li&gt;Which reminds me, I need to finish that piece about seasonal British produce I started writing.&lt;/li&gt;
+  &lt;li&gt;Only one more week of isolation to go.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://trentwalton.com/2013/08/12/human-interest/&quot;&gt;Human Interest&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reallifemag.com/new-feelings-involuntary-lurking/&quot;&gt;New Feelings: Involuntary Lurking&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anildash.com/2019/12/23/the-peoples-web/&quot;&gt;The People’s Web&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.residentadvisor.net/news/72256&quot;&gt;Resident Advisor statement on cancelled events and refunds&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://london.eater.com/2020/3/16/21181466/coronavirus-uk-latest-london-restaurant-bar-closures-measures&quot;&gt;A Running List of London Restaurants Taking Coronavirus Precautions&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gamefaqs.gamespot.com/ps/197909-metal-gear-solid/faqs/37940&quot;&gt;Metal Gear Solid – FAQ/Walkthrough&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eff.org/deeplinks/2020/03/protecting-civil-liberties-during-public-health-crisis&quot;&gt;Protecting Civil Liberties During a Public Health Crisis&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/02/18/t-magazine/traveling-workouts-hotel-room.html&quot;&gt;How to Work Out in Any Hotel Room&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.exponentialview.co/p/-democracy-trust-and-the-virus&quot;&gt;Democracy, trust and the virus&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/mar/22/uk-could-face-italy-style-lockdown-warns-boris-johnson&quot;&gt;UK could face Italy-style lockdown, warns Boris Johnson&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/884ew5/covid-19-could-provide-cover-for-domestic-surveillance-expansion&quot;&gt;COVID-19 Could Provide Cover for Domestic Surveillance Expansion&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.politics.co.uk/blogs/2020/03/18/coronavirus-bill-the-biggest-expansion-in-executive-power-we&quot;&gt;Coronavirus bill: The biggest expansion in executive power we’ve seen in our lifetime&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.politico.com/news/2020/03/18/big-tech-coronavirus-134523&quot;&gt;Big Tech faces a ‘Big Brother’ trap on coronavirus&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://societycentered.design/&quot;&gt;Society Centered Design&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rachelcoldicutt/open-letter-contract-tracking-and-nhsx-e503325b2703&quot;&gt;Open Letter: Contact Tracking and NHSX&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/03/23/the-isolation-2/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/03/23/the-isolation-2/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Isolation</title>
