@@ -5,9 +5,62 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Mar 2020 18:16:43 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2020 18:16:43 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2020 10:20:20 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2020 10:20:20 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Isolation 3</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This week I’ve been working with an incredible team of people, who spent an entire weekend building a service to deliver food to people who need it most during the coronavirus pandemic. It’s part of &lt;a href=&quot;https://www.bbc.co.uk/news/health-51997151&quot;&gt;shielding&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Even though they spent long hours spinning up a service that would have otherwise taken weeks to design and build (including the logistics side), everyone put their back into ensuring the service was reliable, available and meeting user needs all week.&lt;/li&gt;
+  &lt;li&gt;And when user feedback started flooding in (over 10,000 items in 4 days), they reviewed it and spotted an opportunity to pivot to solving a &lt;a href=&quot;https://www.gov.uk/service-manual/design/map-a-users-whole-problem&quot;&gt;whole problem&lt;/a&gt;. I work with some fucking heroes.&lt;/li&gt;
+  &lt;li&gt;It’s my job to be the shit umbrella, giving them the space to do that. So this week has mostly been about stakeholder management, concise communication, joining the organisational dots, and pitching in on performance analysis and user support.&lt;/li&gt;
+  &lt;li&gt;We’ve learned a lot – as I’m sure many people have – about what happens when &lt;a href=&quot;https://www.flickr.com/photos/psd/8451589322&quot;&gt;the nucleus of work&lt;/a&gt; is distributed, what happens when the senior responsible owner is a network not an individual, and what viable systems of organisation in joined-up digital government might be.&lt;/li&gt;
+  &lt;li&gt;It’s probably a good time to check notes on &lt;a href=&quot;https://gds.blog.gov.uk/2012/10/26/what-weve-learnt-about-scaling-agile/&quot;&gt;scaling agile&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Yesterday I left the house for the first time in two weeks. We went to Sainsbury’s for supplies and it was very weird. Some shelves were empty, products I hadn’t seen before replaced the usual brands, and the tannoy kept addressing us to take only three of any item. It felt like the apocalypse was happening slowly – which it is, of course.&lt;/li&gt;
+  &lt;li&gt;Anyway, I haven’t really done anything this week except work. Downtime has been watching telly or reading, which isn’t sustainable.&lt;/li&gt;
+  &lt;li&gt;Oh wait, I did defrost the freezer for something to do. And started a sourdough culture, like everyone else.&lt;/li&gt;
+  &lt;li&gt;I’d like to write about coronavirus’s effect on the food supply chain. It feels like there could be a tipping point soon, where it’s more viable for supermarkets to meet home-delivery demand by sourcing local suppliers. Not only will international suppliers become more expensive, their output will likely drop too, pushing prices up and making local suppliers more competitive. But even &lt;a href=&quot;https://www.farmdrop.com/blog/were-all-in-this-together/&quot;&gt;Farmdrop is operating at capacity&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;We had a Zoom birthday party for a friend. It felt like being inside and outside Hogarth’s Britain, simultaneously being involved in and observing each painting all at once.&lt;/li&gt;
+  &lt;li&gt;Going to play more Metal Gear Solid this weekend.&lt;/li&gt;
+  &lt;li&gt;I was getting sad about not being able to eat wild garlic this year, but we managed to pilfer a hefty bag of the stuff for dinner. CAN’T WAIT!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2020/03/23/world/coronavirus-great-empty.html&quot;&gt;The Great Empty&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2020/mar/23/coronavirus-pandemic-leading-to-huge-drop-in-air-pollution#Echobox=1584965563&quot;&gt;Coronavirus pandemic leading to huge drop in air pollution&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/23/world/europe/coronavirus-uk-boris-johnson.html&quot;&gt;Britain Placed Under a Virtual Lockdown by Boris Johnson&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://watirmelon.blog/2016/07/22/how-we-communicate-at-automattic/&quot;&gt;How we Communicate at Automattic&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/mar/24/an-unreal-city-coronavirus-lockdown-in-london&quot;&gt;An unreal city: lockdown in London&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/22/business/coronavirus-beans-sales.html&quot;&gt;A Boom Time for the Bean Industry&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/25/dining/victory-gardens-coronavirus.html&quot;&gt;Food Supply Anxiety Brings Back Victory Gardens&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/24/dining/restaurant-suppliers-coronavirus.html&quot;&gt;Restaurant Closings Inflict Collateral Damage on Other Businesses&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vanityfair.com/style/2020/03/how-kinfolk-magazine-defined-the-millennial-aesthetic-and-unraveled-behind-the-scenes&quot;&gt;How Kinfolk Magazine Defined the Millennial Aesthetic…and Unraveled Behind the Scenes&lt;/a&gt;, 23 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/26/world/europe/milk-coronavirus-milkman.html&quot;&gt;Onetime Relic, Then Hipster Fad, Milkmen Embrace Flood of Clients&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/technology-52053565&quot;&gt;Coronavirus: NHS uses tech giants to plan crisis response&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.economist.com/britain/2020/03/26/palantir-a-data-firm-loved-by-spooks-teams-up-with-britains-health-service&quot;&gt;Palantir, a data firm loved by spooks, teams up with Britain’s health service&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vittles.substack.com/p/vittles-31&quot;&gt;Vittles 3.1&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/c78be2cf-a1a1-40b1-8ab7-904d7095e0f2&quot;&gt;China and Huawei propose reinvention of the internet&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/03/28/the-isolation-3/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/03/28/the-isolation-3/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Isolation 2</title>
