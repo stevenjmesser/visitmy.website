@@ -63,29 +63,6 @@
       </item>
     
       <item>
-        <title>For the RSS massive</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://mhurrell.co.uk/prospects/weeknote-23-25/&quot;&gt;Mark’s latest note&lt;/a&gt; includes a hidden section of the post, reserved for the ‘RSS faithful’. It’s a neat little Easter Egg, like that &lt;a href=&quot;https://youtu.be/NNRrRP69P6k?t=331&quot;&gt;hidden room in Max Payne 2&lt;/a&gt; dedicated to a developer who passed away. It got me thinking about how you can hide in plain sight on the open web: leaving dead drops in unloved formats, an underground communication network (if you’ll permit me going all Abbie Hoffman about it.&lt;/p&gt;
-
-&lt;p&gt;After spending about 10 minutes looking to see whether anyone had implemented anything similar for Jekyll-generated sites, I figured using &lt;code class=&quot;highlighter-rouge&quot;&gt;hidden: true&lt;/code&gt; on a post would get me part of the way there. A page is generated but hidden from pagination, RSS feeds and the sitemap updated too. That’s not exactly hiding though, anything could crawl the sitemap, index the page and your cover is blown.&lt;/p&gt;
-
-&lt;p&gt;Anyway, it’s not that I’ve particularly got anything I want to hide, it’s just been fun thinking about it this morning. I’ve been hyper-online the last three weeks – outdoing &lt;a href=&quot;https://web.archive.org/web/20030413124224/http://www.renegatus.com/&quot;&gt;my 14-year-old self&lt;/a&gt; with the number of hours spent on the internet – and so has everyone else. Internet communities used to feel special to me, a place you could be yourself or create your own world, all the way from personal websites hosted on BT Internet’s free webspace through to conversations happening in the marginalia of TXT files of GameFAQs. But, now, everyone’s on the internet and there’s bits of it I didn’t even know existed.&lt;/p&gt;
-
-&lt;p&gt;And that’s the beauty of an open and free internet, really. None of it’s special. It’s all for everyone. Which makes &lt;a href=&quot;https://www.google.com/search?q=%22https%3A%2F%2Fwww.ft.com%2Fcontent%2Fc78be2cf-a1a1-40b1-8ab7-904d7095e0f2%22&amp;amp;&quot;&gt;China’s proposal for a reinvention of the internet&lt;/a&gt;, a controlled internet, laid down through their widespread communications infrastructure, a galling and terrifying future.&lt;/p&gt;
-
-&lt;p&gt;So, a toast. Here’s to communication as we know it. Here’s to freedom of the press. Here’s to &lt;a href=&quot;https://qaul.net/tutorials/about/&quot;&gt;spontaneous networks&lt;/a&gt; and little nooks of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Docuverse&quot;&gt;docuverse&lt;/a&gt;, hidden from plain sight.&lt;/p&gt;
-
-&lt;p&gt;And thanks for catching this flicker of a signal.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This post will self-destruct after a week, living on only in RSS readers and the Internet Archive Wayback Machine.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/28/rss-massive/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/28/rss-massive/</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>The Isolation 2</title>
         <description>&lt;p&gt;Work-related notes have returned! That should excite some of you.&lt;/p&gt;
 
