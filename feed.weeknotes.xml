@@ -5,9 +5,653 @@
     <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Mar 2020 12:48:48 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2020 12:48:48 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2020 20:02:14 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2020 20:02:14 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Commute Must Die</title>
+        <description>&lt;p&gt;It’s firebreak week! Haven’t had a firebreak since January 2019, if you can believe it. (Check out &lt;a href=&quot;/2019/01/12/the-new-cross/&quot;&gt;S02E12&lt;/a&gt; to see what I did then. And you can &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2015/02/06/gov-uks-firebreak-why-and-how-we-spent-a-month-working-differently/&quot;&gt;find out what a firebreak is&lt;/a&gt; on the GOV.UK blog.)&lt;/p&gt;
+
+&lt;p&gt;But what if firebreak never ended? What if teams were empowered to work on what they were passionate about all the time? Chuck that on the thoughtasbord and let’s snack on it…&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;After catching up on emails, I joined the firebreak kick-off. Though I missed the pitching last week, Xander had written up a pilot for &lt;a href=&quot;https://alisterbscott.com/2016/07/22/how-we-communicate-at-automattic/&quot;&gt;asynchronous communication&lt;/a&gt;, which I’d suggested we could try out, so I got involved with that. It’s fairly simple: we’ll avoid using email, opt for more long-form communication where needed, and try a more flexible working pattern outside of core hours (10 a.m. to 4 p.m.). We give it a go, have a retro, and see whether we want to stop or continue and iterate things. When we had a remote working week on the GOV.UK Search team, it was really helpful to trial it out before committing, to expose things that needed ironing out. And that’s agile working, right?&lt;/p&gt;
+
+&lt;p&gt;Most of my week will be spent getting ready for next quarter, probably, but I decided to work on updating &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;GOV.UK Pay’s roadmap&lt;/a&gt;, and exploring options for making it more collaborative. There’s a good history of making roadmaps openly available at GDS – &lt;a href=&quot;https://bulb.co.uk/blog/shape-bulb-open-roadmap&quot;&gt;we inspired Bulb to make their roadmap open&lt;/a&gt; – but I’ve previously found it useful to involve users in prioritising items on a roadmap. Collaborating with users on your roadmap helps you figure out &lt;a href=&quot;https://www.intercom.com/blog/where-do-you-suck-where-does-it-matter/&quot;&gt;where your product sucks and where it matters&lt;/a&gt;. I’ll write a separate blog post on our findings.&lt;/p&gt;
+
+&lt;p&gt;I chatted with Faith Reynolds, the independent consumer representative for Open Banking, about how we can make things better for users. There’s been a huge push to make money out of Open Banking but it’s only right that we stick up for the users, encouraging the banks to make things usable, accessible and trustworthy.&lt;/p&gt;
+
+&lt;p&gt;In a product managers’ meeting, &lt;a href=&quot;https://twitter.com/yahoo_pete&quot;&gt;Pete&lt;/a&gt; said that we should proudly bring the Government as a Platform name back into being, and FUCKIN’ A. 🙌 It’s used in digital government circles, in academia, in all sorts of places &lt;em&gt;except&lt;/em&gt; the programme names in GDS. So bun that, we’re bringing it back. (I’ve been using it on my Twitter and LinkedIn because it’s something I believe in.)&lt;/p&gt;
+
+&lt;p&gt;Based on John Cutler’s ideas on framing product opportunities as bets, creating value and flow over time, and doing the learning upfront (discovery, not constant delivery), I put together &lt;a href=&quot;https://trello.com/b/18auwW8U&quot;&gt;a Trello board to help us frame our product strategy&lt;/a&gt;. It’s a draft right now but the idea is to add our possible work on this board, categorise and label it, and have conversations about how we’d start realising some of the outcomes. It helps us think about what we need to do next to learn about an opportunity and frames big bets against small bets. The hope is that it will make strategy and roadmap planning easier. Let me know what you think.&lt;/p&gt;
+
+&lt;p&gt;There’s been loads of chatter on Twitter about this new &lt;a href=&quot;https://www.gov.uk/guidance/digital-data-and-technology-functional-standard-version-1&quot;&gt;functional standard&lt;/a&gt; that GDS has published. I don’t really know what it is or what it’s for, so I’m going to read &lt;a href=&quot;https://gds.blog.gov.uk/2020/07/02/launching-the-digital-data-and-technology-functional-standard/&quot;&gt;the blog post about it&lt;/a&gt;. Simon raised a good point that &lt;a href=&quot;https://twitter.com/simoneverest/status/1278980459117019136&quot;&gt;the pile-on from the old guard was a bit snarky&lt;/a&gt;, so I’m hoping they’ll add more detailed responses as comments on the blog post. The Strategy team did say they would review feedback, after all.&lt;/p&gt;
+
+&lt;p&gt;The Reforge post in the reading list below is 🧨 by the way.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;We’re heading back to London this weekend, so moods are up and down. Not just at the prospect of having to spend 6 hours in the car, but also because, well, we’ve grown to love it here. And though I do love where we are in New Cross, there have been numerous benefits to living here.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No commute&lt;/li&gt;
+  &lt;li&gt;Not woken up by sirens, ever&lt;/li&gt;
+  &lt;li&gt;Don’t need to wear earplugs at night&lt;/li&gt;
+  &lt;li&gt;Mountains to walk in are right there! &lt;em&gt;points&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Some mornings I can smell the sea on the air&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not being close to friends has been a bummer, but like most other folk we’ve filled in that social gap with video calls and virtual pubs and tabletop RPGs. In a way, we’ve just been nudged towards things we could have been mostly doing anyway.&lt;/p&gt;
+
+&lt;p&gt;Can’t wait to get back and have a mix though. Good thing about lockdown: I’ve started buying records&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; again. Mad to think that I would gladly spend £20 a week on records in 2007–10 but in recent years I’ve been like, ‘Hmm, is £2 on that digital single sensible?’ No more of that. Getting back into mixing and splashing out on music. Making more time to enjoy music without Spotify. Roll da bass!&lt;/p&gt;
+
+&lt;p&gt;I’ll actually be able to update my website too. Because I left my main machine at home I’ve been writing these weeknotes on a Google Doc, so expect a flurry of posts when I get back.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://builtformars.co.uk/banks/open-banking/&quot;&gt;How could the experience of Open Banking be improved?&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capwatkins.com/blog/the-boring-designer&quot;&gt;The Boring Designer&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/oneteamgov/framing-leadership-for-the-unknowable-21st-century-921f10085ee8&quot;&gt;For learners, by learners: “Framing leadership for the ‘unknowable’ 21st century”&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalblog.coop.co.uk/2020/06/08/were-using-behaviour-modes-to-keep-users-at-the-centre-of-decisions/&quot;&gt;We’re using ‘behaviour modes’ to keep users at the centre of decisions&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eleanormollett.com/posts/radarban-roadmap/&quot;&gt;Radarban Roadmap&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crackmagazine.net/article/long-reads/music-michaela-coel-i-may-destroy-you/&quot;&gt;How music underscores the nuanced depth of Michaela Coel’s I May Destroy You&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rybakov.com/blog/open_tabs_are_cognitive_spaces/&quot;&gt;Open tabs are cognitive spaces · Michail Rybakov&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/coronavirus-work-office-habits&quot;&gt;Coronavirus could finally fix some of our most toxic work habits&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/music/2020/jun/30/off-their-heads-the-shocking-return-of-the-rave&quot;&gt;Off their heads: the shocking return of the rave&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/53236921&quot;&gt;Boris Johnson: Economy speech fact-checked&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ny.eater.com/2020/7/1/21310249/against-dining-out-bars-coronavirus-nyc-restaurants&quot;&gt;Why This Restaurant Critic Isn’t Dining Out Right Now&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.the-fence.com/online-only/lockdown-london-what-next-for-the-restaurant-world&quot;&gt;Lockdown London : What Next for the Restaurant World?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vittles.substack.com/p/vittles-65-delivery-apps&quot;&gt;Vittles 6.5 - Delivery Apps&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/06/22/managing-from-a-distance/&quot;&gt;Managing from a distance&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-1653-the-boring-bits&quot;&gt;TBM 16/53: The Boring Bits&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-753-learning-backlogs&quot;&gt;TBM 7/53: Learning Backlogs&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reforge.com/blog/product-work-beyond-product-market-fit&quot;&gt;Product Work Beyond Product-Market Fit — Reforge&lt;/a&gt;, 24 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;OK, files off Bandcamp, but that’s fine. Not sure a vinyl habit is OK in the climate crisis? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/03/the-commute-must-die/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/03/the-commute-must-die/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Emancipation</title>
+        <description>&lt;p&gt;Took a week off work, as we’ve spent the majority of the year inside, working for The Man. I did attend one work-related thing, a webinar on Open Banking and other open innovation opportunities, but for most of the week I just did what I wanted.&lt;/p&gt;
+
+&lt;p&gt;So here’s some notes of joy from my week off. Mostly about food, to be honest.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;I gathered fronds of gutweed – a common seaweed – and gobbled it up.&lt;/p&gt;
+
+&lt;p&gt;A silky Caesar salad, minus the chicken, was just enough for dinner on Tuesday.&lt;/p&gt;
+
+&lt;p&gt;After finishing &lt;em&gt;Mona Lisa Overdrive&lt;/em&gt; and needing a break from cyberspace, I started reading Raymond Williams’s &lt;em&gt;Border Country&lt;/em&gt;, a story about class, social mobility, and a London academic moving back to live in rural Wales. It’s delightfully pastoral.&lt;/p&gt;
+
+&lt;p&gt;The fish shop had mussels, so lunch on Wednesday was &lt;em&gt;moules marinière&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;We went swimming in the sea and two dolphins crested the waves in front of us. Then we drank red as the sun set on the beach. And, back home, we ate Buffalo wings sloppily.&lt;/p&gt;
+
+&lt;p&gt;In Thursday’s scorching heat, we went walking near Nant Gwrtheryn. Down a steep valley beneath Yr Eifl to a pebbled beach with cool, azure sea. We then traipsed back to the car up a steep-sided hill, through an ancient oak woodland called &lt;a href=&quot;https://getoutside.ordnancesurvey.co.uk/local/gallt-y-bwlch-gwynedd&quot;&gt;Gallt y Bwlch&lt;/a&gt;, where I saw a gnarled oak. There was still some wild garlic clinging to the mountain stream, which we collected for dinner (barbecued mackerel).&lt;/p&gt;
+
+&lt;p&gt;And the rest of the week we just chilled. :)&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/06/13/technology/facebook-amazon-apple-google-microsoft-tech-pandemic-opportunity.html&quot;&gt;The Economy Is Reeling. The Tech Giants Spy Opportunity.&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.salisburyjournal.co.uk/news/14766968.king-arthur-sues-council-police-and-english-heritage-over-pay-to-pray-scheme/&quot;&gt;King Arthur sues council, police and English Heritage over ‘pay to pray’ scheme&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apnews.com/126dffbb05b92c79642008b8426e1826&quot;&gt;Civil rights groups call for ‘pause’ on Facebook ads&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_uk/article/7kp8n9/drug-dealer-gentrification-london-history&quot;&gt;How London Has Changed Over 25 Years, Through the Eyes of a Drug Dealer&lt;/a&gt;, 18 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tomshardware.com/news/nvidia-engineer-vulkan-driver-raspberry-pi-quake-iii-100-fps&quot;&gt;Nvidia Engineer’s Vulkan Driver For Raspberry Pi Runs Quake III Over 100 FPS at 720p&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2020/jun/22/vast-neolithic-circle-of-deep-shafts-found-near-stonehenge&quot;&gt;Vast neolithic circle of deep shafts found near Stonehenge&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mojdigital.blog.gov.uk/2020/06/11/exploration-over-pre-discovery/&quot;&gt;Exploration over pre-discovery&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.com/opinion-google-apple-contact-tracing-app-troubling-governments-2020-6&quot;&gt;Google and Apple’s diktat to governments on coronavirus contact-tracing apps is a troubling display of unaccountable power&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/06/19/1004190/uk-covid-contact-tracing-app-fiasco/&quot;&gt;The UK’s contact tracing app fiasco is a master class in mismanagement&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thesocietypages.org/cyborgology/2017/08/07/reading-cyberpunk-as-a-guide-to-surviving-hyper-consumerism/&quot;&gt;Reading cyberpunk as a guide to surviving hyper consumerism&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newyorker.com/magazine/2020/06/29/the-lockdown-lessons-of-crime-and-punishment&quot;&gt;The Lockdown Lessons of “Crime and Punishment”&lt;/a&gt;, 19 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/06/28/the-emancipation/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/06/28/the-emancipation/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 11</title>
+        <description>&lt;p&gt;This is going to be a short series, as I usually keep series tied to the start of a quarter but quarters didn’t really happen on GOV.UK over the last 6 months. We didn’t have &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2015/02/06/gov-uks-firebreak-why-and-how-we-spent-a-month-working-differently/&quot;&gt;firebreaks&lt;/a&gt;, we didn’t take breathers really. There’s more structure to working on GOV.UK Pay, however.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;On Tuesday, I met with the other leads to talk about how our roadmap is shaping up for Q2. Last week, the teams scored possible work based on our confidence in delivering it, how long we suspected it would take, and whether we knew it was valuable for users. We came out with two big unknowns that needed discovery, a big push on one particular payment type, a cluster of middle-value work, and four month-long improvements to a domain of the platform. The aim in Tuesday’s meeting was to pick some work to take forward.&lt;/p&gt;
+
+&lt;p&gt;At the start of the year, the team had worked on developing a &lt;a href=&quot;https://amplitude.com/north-star&quot;&gt;North Star metric&lt;/a&gt; and accompanying indicators, but they hadn’t yet had chance to use it to influence roadmapping and planning. After a lengthy conversation over the framework and its purpose, I asked whether we could put numbers against any of the measures, but we hadn’t yet taken readings. That’s understandable, everyone has been really busy, so now is a good time to take those readings and embed the framework in our day-to-day work.&lt;/p&gt;
+
+&lt;p&gt;We also chatted about finding out what our users need. That’s worked out really well for me in the past, and I used Intercom’s &lt;a href=&quot;https://www.intercom.com/blog/where-do-you-suck-where-does-it-matter/&quot;&gt;Where do we suck? Where does it matter?&lt;/a&gt; framework to take readings of what users need. And that’s why we work in product: we’re guided by users’ needs, not the project we can do now with this many people for this amount of time. It’s not about using your roadmap like a Tetris board, slotting things in perfectly to suit your resources, it’s about delivering incremental value over time and reaching goals.&lt;/p&gt;
+
+&lt;p&gt;We regrouped on Thursday and decided that we’d split into two multidisciplinary teams: one focusing on paying users, the other looking at service teams. They’re plenty of opportunities around our admin tools and the team is in a good flow state, meaning the paying users team can ramp up as we onboard new team members. (I’m assuming I’m going to be looking after the paying users team!)&lt;/p&gt;
+
+&lt;p&gt;The meeting on Tuesday felt tense but by Thursday we were laughing and joking as we chatted through the next quarter. That shows we’re gelling as a unit, and proves how &lt;em&gt;hard&lt;/em&gt; it is to pick up on vibe when working remote. It’s not damaging us though, which is great!&lt;/p&gt;
+
+&lt;p&gt;On Wednesday, &lt;a href=&quot;https://twitter.com/dgheath21&quot;&gt;David&lt;/a&gt;, our lead developer, chatted with me about making operational improvements to the platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Side note: David’s actually a bit of a legend and I’m &lt;strong&gt;so&lt;/strong&gt; glad I get to work with him.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems like there’s a heap of good practices already, just that some improvement work hasn’t made it through a team’s kanban board. I wonder whether we’re trying to map enterprise processes onto a small product team. Not sure on that one, will need to reach out to some 20-person SaaS businesses, ask how they handle tech debt and operational things. (It feels like this falls between &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#product-manager&quot;&gt;operational management expected of product managers&lt;/a&gt; and the &lt;a href=&quot;https://www.gov.uk/guidance/software-developer#lead-developer&quot;&gt;availability and capacity management of lead developers&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Possibly like others, I’m really doing very little outside of work! Welsh lessons are progressing and I’m finding it easier to read and speak Welsh words, my mouth is learning the shapes it has to take to make the sounds.&lt;/p&gt;
+
+&lt;p&gt;Couch to 5K is fun, I do enjoy getting out and expending a bit of energy. I will need orthotics for my incredibly flat feet, however.&lt;/p&gt;
+
+&lt;p&gt;I’m taking the next week off, to read and have time away from my computer. It’s meant to be glorious so we might have a day at the beach, before the tourists come flooding back.&lt;/p&gt;
+
+&lt;p&gt;And just as they arrive, we’ll be making our way back to London. We need to head back to the Big Smoke and pack up our flat, cancel our tenancy. Going to live in North Wales from September onwards, save some cash, avoid the pollution.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.resy.com/2020/06/in-the-food-industry-the-odds-have-always-been-stacked-against-black-people/&quot;&gt;In The Food Industry, The Odds Have Always Been Stacked Against Black People&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackpast.org/african-american-history/1857-frederick-douglass-if-there-no-struggle-there-no-progress/&quot;&gt;(1857) Frederick Douglass, “If There Is No Struggle, There Is No Progress”&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackpast.org/global-african-history/brixton-riots-april-10-12-1981/&quot;&gt;Brixton Riots (April 10-12, 1981)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackpast.org/global-african-history/olive-elaine-morris-1952-1979/&quot;&gt;Olive Elaine Morris (1952-1979)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackpast.org/global-african-history/zong-massacre-1781/&quot;&gt;The Zong Massacre (1781)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_uk/article/4ayw8j/white-privilege-examples&quot;&gt;50 Examples of White Privilege to Show Family Members Who Still Don’t Get It&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aliciakennedy.substack.com/p/6152020-on-media&quot;&gt;6/15/2020: On Media&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theface.com/life/cicada-3301-the-codebreakers-still-working-on-the-internets-strangest-mystery&quot;&gt;Cicada 3301: the codebreakers still working on the internet’s strangest mystery&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nikhilshah/end-of-an-era-stepping-back-from-mixcloud-bc6454e7cdcc&quot;&gt;END OF AN ERA: STEPPING BACK FROM MIXCLOUD&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shaunrussell.me/writing/words-matter&quot;&gt;Words Matter&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html&quot;&gt;TikTok Teens and K-Pop Stans Say They Sank Trump Rally&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 20 Jun 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/06/20/the-isolation-11/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/06/20/the-isolation-11/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 10</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;There was an all-team retro this week in which we talked about remote working, team dynamics and how often we’d like to be in the office when we return. I’ve always wanted to try full-on remote working, so coronavirus has provided that opportunity. But it has shown me that my product management style is one that is energised and sustained on a proximity to people.&lt;/p&gt;
+
+&lt;p&gt;Not so much a leader, maybe more of a hypeman. A workplace Bez.&lt;/p&gt;
+
+&lt;p&gt;Having said that, I am working on teams that don’t need a product manager, in my opinion, and I’ll say now that I don’t think you should have product teams solely dedicated to technical improvement work. And because they’re related, I don’t think you can have a constant morass of mission teams working hecticly on building things for the sake of building things.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, working on GOV.UK’s &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2019/03/27/why-we-created-a-platform-health-team-on-gov-uk/&quot;&gt;Platform Health&lt;/a&gt; team was really fun and I think we did well to engage people in maintenance work – which is often uncelebrated and not very well respected compared to user-facing work – but it means that people throw work over the fence, expecting someone else to sort it out. A better model, I feel, is one that causes teams to take ownership of maintenance. We did that on the &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2019/07/05/making-site-search-work-smarter-for-users/&quot;&gt;Search team&lt;/a&gt;, committing 20 per cent of sprint work to platform health and technical debt, improving the technical stack and making user-facing feature work more sustainable. Product work and delivering outcomes, not project work and delivering outputs.&lt;/p&gt;
+
+&lt;p&gt;Which takes me back to being a product hypeman. You can more effectively plaudit unsexy technical work when it’s shown to unblock the sexy feature work. Calling for teams to devote themselves to technical work isn’t a product manager’s job though, that’s the role that &lt;a href=&quot;https://www.gov.uk/guidance/software-developer#lead-developer&quot;&gt;technical leaders&lt;/a&gt; fulfil. A PM’s domain ropes together tech, design and the business, we can’t exist in only one of those.&lt;/p&gt;
+
+&lt;p&gt;Anyway…&lt;/p&gt;
+
+&lt;p&gt;Rosie, a content designer and anti-racist, ran a session on how to talk about race. The workshop was aimed mostly at white people to help us be better allies. Two hundred people attended, which is awesome! We covered&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what whiteness is, and&lt;/li&gt;
+  &lt;li&gt;how to be anti-racist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was, quite frankly, an incredible display of leadership, leading people through a situation collaboratively, and a much stronger display of leadership than we’ve seen from the executive team on the subject of racism. She didn’t pay lip service to a problem, she created an environment in which we could all confront it, head-on. What a legend.&lt;/p&gt;
+
+&lt;p&gt;A note I made:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Taking for granted or denying your white privilege is an act of oppression. You can’t turn it off, but you can leverage it. You can be white without signing on to whiteness. Calling for white culture to be the norm in Western culture, because it always has been, is whiteness. It’s white supremacy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I spoke some more to the MPA students from UCL who are looking at personalisation. I was surprised to learn that they hadn’t had much engagement with GOV.UK’s senior management team or anyone else at GDS, they’d only had access to two policy managers and the Accounts team. They were also struggling to know what to do next, so I told them to focus on the unique view they can bring to the project: thinking through public value and how to be strategic with personalisation. It’s not about making things easier to find, it’s about making sure that users reach the outcomes they need to. Boring magic, not shiny things.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-things&quot;&gt;Not-work things&lt;/h2&gt;
+
+&lt;p&gt;Running has been going well. Dare I say it, I looked forward to it one morning this week. That’s probably due to the endorphins and how my body is a slave to stimuli, as I’m reducing my alcohol intake at the same time as exercising more. I’m toking on health.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.co.uk/iplayer/episodes/p087gj19/devs&quot;&gt;DEVS&lt;/a&gt; is a decent show, you should watch it. Alex Garland, the bloke who wrote the excellent &lt;em&gt;The Beach&lt;/em&gt;, has created a scintillating thriller about multiple universe theory, quantum computing and simulated reality. It’s v cool. Though a couple of the characters are quite flat, the plot carries it along and the story is a redeeming one. The soundtrack is fantastic too. Bingeable.&lt;/p&gt;
+
+&lt;p&gt;That’s it, I haven’t really done anything else, apart from continue to learn Welsh and play our Fate RPG. Might need to find an online community to be part of…&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poems/43290/the-second-coming&quot;&gt;The Second Coming&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07&quot;&gt;Aubade&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/jun/11/i-shared-my-home-with-edward-colston-for-more-than-20-years-good-riddance&quot;&gt;I shared my home with Edward Colston for more than 20 years. Good riddance&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomcritchlow.com/2020/06/09/quotebacks/&quot;&gt;Introducing: Quotebacks&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://financeinnovationlab.org/is-open-finance-enough/&quot;&gt;Is ‘open’ finance enough?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://financeinnovationlab.org/events/open-finance-open-x-whats-use/&quot;&gt;Open finance, ‘open X’: What’s the use?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.the-tls.co.uk/articles/statue-wars-blog-post-mary-beard/&quot;&gt;Statue wars&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://novaramedia.com/2020/06/09/all-work-no-sex-boris-johnsons-road-map-for-leaving-lockdown-is-driven-by-ideology-not-science/&quot;&gt;All Work, No Sex: Boris Johnson’s ‘Road Map’ for Leaving Lockdown Is Driven by Ideology Not Science&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lg.substack.com/p/managing-remotely&quot;&gt;Managing Remotely&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designforimpact.substack.com/p/principles-for-better-remote-facilitation&quot;&gt;Principles for better remote facilitation&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thequietus.com/articles/28396-chris-morris-blue-jam&quot;&gt;Low Culture: Chris Morris And The Legacy Of Blue Jam&lt;/a&gt;, 20 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/06/13/the-isolation-10/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/06/13/the-isolation-10/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 9</title>
+        <description>&lt;p&gt;The Isolation 9
+Weeknotes S08E05
+06/06/2020&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;We took an uneasy decision this week to pause the Direct Debit pilot on GOV.UK Pay. As a payment type we don’t yet offer a few of the features which make switching to Pay a viable option for service teams. And building out those features would eat up time and people we don’t have spare at the moment. So we’ll need to take stock and look at how we make it MVP in future.&lt;/p&gt;
+
+&lt;p&gt;That’s why they call it minimum &lt;em&gt;viable&lt;/em&gt; product. You can’t just offer a small feature set, it needs to be good enough to work for users too. So, all in all, I think it was the right decision. We also met with our economist to work out whether Pay could survive by not offering Direct Debit, and we’re good for the next year, so we have some runway at least.&lt;/p&gt;
+
+&lt;p&gt;Highlight of the week was the Game Day, a chance to practice your response to incidents. Using tabletop roleplaying as the game mechanic, we split off into teams of ~6 people and were given a scenario. For example, there’s a new XSS vulnerability that can be invoked with the 💩 emoji. Then we start investigating, assigning roles according to our incident response procedure, and we work through the problem. When a developer needs to check something, like looking at logs, they message the game-master describing their action and the GM responds with the outcome.&lt;/p&gt;
+
+&lt;p&gt;It was really, really fun and gave me a chance to play the comms lead and escalation point roles, which I’m more likely to need to do at Pay. Turns out that apart from not really knowing exactly what to do, I did keep calm so that’s a plus. Really want to practice a few more times though, work up the muscle memory.&lt;/p&gt;
+
+&lt;p&gt;One thing I must be better at next week is planning out my daily work. I’ve got a Trello board full of actions I need to take, describing my work, and I haven’t been moving things through the board this week. I’m worried there’s stuff I’m saying I’ll do but haven’t recorded, so it goes undone.&lt;/p&gt;
+
+&lt;p&gt;I’m still learning how things work and answering enquiries from users is helping with that. I thought about this when I joined GOV.UK but it seems sensible for all new PM recruits to spend time on user support in their first few months, to learn how everything works.&lt;/p&gt;
+
+&lt;p&gt;I presented my work on personalisation to the &lt;a href=&quot;https://www.ucl.ac.uk/bartlett/public-purpose/study/master-public-administration-mpa-innovation-public-policy-and-public-value&quot;&gt;UCL MPA for Innovation&lt;/a&gt; students that have joined GOV.UK to research personalisation. Coincidentally, some students from the course were talking to Pay in December/January and Katie passed me their details, so I dropped them a line to see if they were interested. GOV.UK SMT invited them in a few weeks ago, which is really good – this work needs academic rigour! They’re taking the angle of how personalisation can generate public value too, which is glorious to see.&lt;/p&gt;
+
+&lt;p&gt;They were really inspired by the work, which was validating, and we’ve put in some more time to chat things through. I’m really interested in their course too, I do wonder what it could offer me. Moving to Pay is helping me get properly involved in disruptive innovation, I’m so happy about it! Maybe the course is a good place to continue that enthusiasm.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Lockdown life has taken its toll and my waistband is growing bigger. That ain’t good, so this week I started using the &lt;a href=&quot;https://apps.apple.com/gb/app/one-you-couch-to-5k/id1082307672&quot;&gt;Couch to 5K&lt;/a&gt; from Public Health England (others exist but, come on, I’m a civil servant! I need to use that one). I’ve got flat feet so I overpronate when I run, and I’m a little worried about my joints and ankles, but there hasn’t been a problem so far. It’s a really good programme, so simple and I’m sleeping better as a result of the exercise. Let’s see if I’m ever able to run 5 kilometres non-stop!&lt;/p&gt;
+
+&lt;p&gt;Been using a high-intensity interval training app too, doing upper body strength exercises on the rest days from running. It gets your heart rate up but doesn’t burn too many calories, so I may need to combine upper body workouts with some full body sessions.&lt;/p&gt;
+
+&lt;p&gt;All of that has been a good distraction from the fact the world is on fire. But it’s really hard to miss what’s happening in North Amerikkka. And to not acknowledge that the USA is structurally racist because of Britain would be ignoring the obvious.&lt;/p&gt;
+
+&lt;p&gt;I grew up in a working class family, in the Industrial heartlands of the West Midlands, yet I’ve never had to struggle because of the colour of my skin. I’ve known racism but I’ve never been subject to it. My ascendancy hasn’t been as smooth as those more privileged than me, but it has been relatively easy compared to non-whites.&lt;/p&gt;
+
+&lt;p&gt;I’ve also spent much of my life enjoying the products of West Indian and Afro-Caribbean cultures, specifically the branches that grew in Britain amid the din of racial hatred. Jungle, drum ‘n’ bass, house, garage, 2-step, grime, dubstep: British bass music is a direct descendant of Caribbean soundsystem culture, an arm of the Afrofuturist diaspora with a mission to overcome oppression.&lt;/p&gt;
+
+&lt;p&gt;And so I owe a debt to the black community, having profited emotionally on the outputs of black culture. It is an indelible part of my identity. It is necessary for me to read the books and articles being suggested, I’ll increase my anti-racist efforts, and work out what more I need to do to support my peers.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/jun/02/cannabis-residue-found-in-ancient-jewish-temple-links-hallucinogens-with-religion&quot;&gt;Cannabis residue found in ancient Jewish temple links hallucinogens with religion&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2020/jun/02/ai-firm-that-worked-with-vote-leave-wins-new-coronavirus-contract&quot;&gt;AI firm that worked with Vote Leave wins new coronavirus contract&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lexmakesthings/resilience-resistance-the-power-of-the-black-british-community-fda1fe8da284&quot;&gt;Resilience &amp;amp; Resistance: The Power of the Black British Community&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/ico-data-protection-coronavirus&quot;&gt;It looks like the UK’s data regulator has given up, blaming coronavirus&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/apr/28/lithuanian-capital-to-be-turned-into-vast-open-air-cafe-vilnius&quot;&gt;Lithuanian capital to be turned into vast open-air cafe&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sojo.net/articles/our-white-friends-desiring-be-allies&quot;&gt;For Our White Friends Desiring to Be Allies&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thecatalyst.org.uk/blog/why-were-calling-for-a-data-collective&quot;&gt;Why we’re calling for a data collective&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plutobooks.com/blog/social-reproduction-theory-ferguson/&quot;&gt;Social Reproduction: What’s the big idea?&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://djmag.com/longreads/how-much-uk-dance-music-history-real&quot;&gt;How much of UK dance music history is real?&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jointhefuture.net/2020/06/04/structural-racism/&quot;&gt;STRUCTURAL RACISM IN UK DANCE MUSIC: TIME FOR ACTION&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thequietus.com/articles/28302-housekeeping-faces-review&quot;&gt;Black Sky Thinking&lt;/a&gt;, 12 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 06 Jun 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/06/06/the-isolation-9/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/06/06/the-isolation-9/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 8</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Much more work on Direct Debit this week. I don’t think you can spend 1.5 weeks on something and make a big strategic decision, so I broke the work down into&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;decisions we’d need to make immediately&lt;/li&gt;
+  &lt;li&gt;evidence we’d need to collect to support long-term decisions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Last week’s strategy session also pointed to questions about GOV.UK Pay’s wider strategy too, which requires its own time to think through. I guess strategy is a living, breathing thing that you can’t think about at interspersed moments: you need to keep your eye on the strategy and whether you’re reaching your vision.&lt;/p&gt;
+
+&lt;p&gt;I’m feeling bad that I haven’t had much time to dedicate to the Kaizen and Migration teams too, though needs must. I’m going to make sure that David and I chat about the operational running of GOV.UK Pay in detail over the next few weeks, so that we’re approaching Q2 with some clearly articulated objectives.&lt;/p&gt;
+
+&lt;p&gt;It’s likely that our team shapes will change, from one multidisciplinary team plus two tech teams to two multidisciplinary teams plus one migration team. Miriam has been trying out &lt;a href=&quot;https://svpg.com/dual-track-agile/&quot;&gt;dual-track agile&lt;/a&gt;, which I proposed for the Personalisation team, though we struggled to shift fully into build mode: most likely because we were finding our feet throughout the project.&lt;/p&gt;
+
+&lt;p&gt;And I’m heartened to see that much of the vision we stoked into the personalisation project has survived in &lt;a href=&quot;https://gds.blog.gov.uk/2020/05/28/update-on-the-future-of-gov-uk/&quot;&gt;Jen’s latest blog post&lt;/a&gt;. It’s not about increasing engagement, it’s about ensuring success the first time someone tries to do, find or know something. We’re not in the business of clocking up eyeball minutes, we want to help you get the thing you need so you can get on with your life. Boring magic.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can read more about &lt;a href=&quot;https://duckduckgo.com/?q=%22personalisation%22+site%3Avisitmy.website&quot;&gt;my time kicking off the exploration of personalising government&lt;/a&gt; on my blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Really don’t have the same energy for weeknotes at the moment, so I’m going to read through my early notes to pick up some enthusiasm. Maybe it’s just that writing about work feels like a chore. There was a point earlier in the year when a friend asked how I separated my work self from myself – and we realised I didn’t, I invested my whole person in The Job. Adding more personal reflections has caused a useful separation though. That’s good.&lt;/p&gt;
+
+&lt;p&gt;Finished reading &lt;em&gt;Count Zero&lt;/em&gt;. Found it preferable to &lt;em&gt;Neuromancer&lt;/em&gt;, the prequel, as there’s much less shifting about scenes at a rapid pace, instead spending time building moods and tension. The intertwining of the stories is done well, though I did lose track of Turner (one of the characters). And this book really shows you how much Gibson’s Sprawl trilogy had an influence on &lt;em&gt;The Matrix&lt;/em&gt;, the Wachowskis took plenty of inspiration from these books. Looking forward to starting &lt;em&gt;Mona Lisa Overdrive&lt;/em&gt; next.&lt;/p&gt;
+
+&lt;p&gt;The riots in the US are worrying, uncomfortably similar to the 2011 riots in the UK. Seems like as good a time as any to check your privilege. This &lt;a href=&quot;https://www.reddit.com/r/videos/comments/gt6myh/killer_mike_addresses_the_people_of_atlanta/&quot;&gt;address to the people of Atlanta by Killer Mike&lt;/a&gt; is so moving, metered and on-the-money.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spectator.co.uk/article/why-dominic-cummings-must-go&quot;&gt;Why Dominic Cummings must go&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2020/04/location-location-location-part-1-communication-and-working-effectively-in-remote-teams/&quot;&gt;Location, location, location part 1: communication and working effectively in remote teams&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2020/04/delivering-public-and-voluntary-sector-projects-in-a-remote-world/&quot;&gt;Delivering public and voluntary sector projects in a remote world&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2020/04/location-location-location-part-2-establishing-communication-patterns-and-working-rhythms/&quot;&gt;Location, location, location part 2: establishing communication patterns and working rhythms&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilserviceworld.com/articles/news/year-working-home-home-offices-post-coronavirus-lockdown-plan-revealed&quot;&gt;A year of working from home: Home Office’s post-coronavirus lockdown plan revealed&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dxw.com/2020/04/location-location-location-part-3-understanding-that-your-team-is-bigger-than-the-people-building-stuff/&quot;&gt;Location, location, location part 3: understanding that your team is bigger than the people building stuff&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/23/world/europe/dominic-cummings-lockdown.html&quot;&gt;Outrage Grows Over Boris Johnson Aide’s 260-Mile Trip During Lockdown&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/25/world/europe/dominic-cummings-boris-johnson-coronavirus.html&quot;&gt;Dominic Cummings Offers a Sorry-Not-Sorry for U.K. Lockdown Breach&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/26/world/europe/outcry-over-cummings-turns-public-against-johnson-for-1st-time.html&quot;&gt;Outcry Over Dominic Cummings Turns Public Against Boris Johnson for 1st Time&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/28/us/politics/trump-twitter-explained.html&quot;&gt;Trump’s Order Targeting Social Media Sites, Explained&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/26/technology/twitter-trump-mail-in-ballots.html&quot;&gt;Twitter Refutes Inaccuracies in Trump’s Tweets About Mail-In Voting&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.project-syndicate.org/commentary/small-governments-big-failure-covid19-by-mariana-mazzucato-and-giulio-quaggiotto-2020-05&quot;&gt;The Big Failure of Small Government&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2020/may/28/george-floyd-protests-what-we-know-so-far&quot;&gt;George Floyd protests: what we know so far&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tatianamac.com/posts/white-guyde/&quot;&gt;White Guyde To The Galaxy&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thebureauinvestigates.com/stories/2020-05-22/thurrock-council-borrowed-1bn-from-taxpayers-to-bet-on-british-sunshine&quot;&gt;Council borrowed £1bn from taxpayers to bet on British sunshine&lt;/a&gt;, 18 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 30 May 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/05/30/the-isolation-8/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/05/30/the-isolation-8/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 7</title>
+        <description>&lt;h1 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h1&gt;
+
+&lt;p&gt;A lot of my focus this week was spent on Direct Debit. GOV.UK Pay has planned to develop and launch Direct Debit as a payment type for some time, and there’s a pilot version being used by one service now. However, due to a complication with issuing service user numbers to central government departments and arms-length bodies, we’re having to rethink the strategy a little.&lt;/p&gt;
+
+&lt;p&gt;As part of the work, I had to estimate how many heavy goods vehicles might pass through a city zone each year, and it &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1263824177330610177&quot;&gt;took some digging to find the numbers&lt;/a&gt;. In the end though, I was able to estimate that about 50,000 HGVs pass through a Clean Air Zone in Leeds each year, which was helpful for the strategy piece.&lt;/p&gt;
+
+&lt;p&gt;I also ran a 2-hour strategy workshop using some techniques and tools I picked up from the IDEO course. Ideally you should spend a week working through the exercises with a team, but I condensed it down into a couple of hours. I think the session was helpful in working through the problem, but 2 hours definitely wasn’t long enough as you didn’t have a chance to step back and consider things holistically.&lt;/p&gt;
+
+&lt;p&gt;Next week I’ll be drumming up some evidence to help us make a decision on what to do about Direct Debit.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;The Muslim network at GDS held a fast-a-thon, encouraging non-Muslims to join in with Ramadan by fasting for a day. Since I’ve always been around classmates and colleagues who are fasting but have never given it a go, I figured I’d try it. Though I was tired in the afternoon, the pangs of hunger I was expecting didn’t hit me. But I found myself appreciating my evening meal even more. There’s a blog post about it on the &lt;a href=&quot;URL&quot;&gt;Digital People blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m quickly finishing these notes off on the bank holiday Monday and the weekend has been filled with &lt;a href=&quot;https://www.bbc.co.uk/news/uk-politics-52779356&quot;&gt;a particular news story&lt;/a&gt;. For the record, we weren’t symptomatic when we arrived in North Wales and we quarantined ourselves for two weeks on arrival. We’re here to help others, not be helped. And we definitely didn’t visit a local tourist spot during that time.&lt;/p&gt;
+
+&lt;p&gt;Saw some porpoises and seals in the bay yesterday, it was wonderful!&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.walesonline.co.uk/news/politics/drakeford-wales-lockdown-rules-parks-18278418&quot;&gt;The man leading Wales’ coronavirus lockdown strategy on what the future holds&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coeval-magazine.com/coeval/yona&quot;&gt;Yona&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://interconnected.org/home/2020/05/02/masks&quot;&gt;So I went outside and we’re all wearing masks now&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 May 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/05/25/the-isolation-7/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/05/25/the-isolation-7/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 6</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/dgheath21&quot;&gt;David&lt;/a&gt;, our lead developer, gave me an overview of the technical architecture for GOV.UK Pay, which is really handy. It’s such an interesting platform, really makes it easy for teams and organisations to start taking payments (in 60 seconds flat!).&lt;/p&gt;
+
+&lt;p&gt;Tuesday was spent preparing a session to work out some strategic problems and plot some possibilities for overcoming those barriers, using techniques I learned in the IDEO course. And, you know what, I even started to enjoy my job again.&lt;/p&gt;
+
+&lt;p&gt;Yeah, it’s sad to admit it, but I really lost the spark and enthusiasm for my job in September last year. I used to jump out of bed in the morning, ready for the day, as dorky as that sounds. So I’m glad that feeling is starting to come back!&lt;/p&gt;
+
+&lt;p&gt;We’re using the &lt;a href=&quot;https://amplitude.com/blog/introducing-north-star-playbook&quot;&gt;North Star framework&lt;/a&gt; put together by John Cutler at Amplitude. Our North Star is ‘Number of healthy integrations’ which is a clear measure and aims for sustainable growth. The KPIs that make up the North Star are good too, decent key results for the teams for focus on.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Finished reading &lt;em&gt;Ghost Hardware&lt;/em&gt;, though it is quite short. Three chapters, distinctly 2011 in feeling: a raid on a sports shop organised over social media, digital art, and toxic wastelands. Heading back to start &lt;em&gt;Count Zero&lt;/em&gt; now.&lt;/p&gt;
+
+&lt;p&gt;Played our first game of Fate, the first tabletop RPG I’ve ever played, and it was great! Took a few turns to get into the swing of things, to realise that we could lead the story as much as the gamemaster, but it’s super fun. Can’t believe we didn’t play this at uni when we were studying creative writing!&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.chao-xian.co.uk/monthnote-weeknotes15-19/&quot;&gt;Monthnotes - 20th Jan to 6th March 2020&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mcsweeneys.net/articles/sure-the-velociraptors-are-still-on-the-loose-but-thats-no-reason-not-to-reopen-jurassic-park&quot;&gt;Sure, the Velociraptors Are Still On the Loose, But That’s No Reason Not to Reopen Jurassic Park&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/10/health/coronavirus-plague-pandemic-history.html&quot;&gt;How Pandemics End&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/books/booksblog/2014/mar/11/philip-k-dick-ubik-reading-group&quot;&gt;Philip K Dick’s funny and peculiar near-futurology&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theneweuropean.co.uk/top-stories/met-drop-investigation-into-brexiteers-darren-grimes-and-alan-halsall-over-election-spend-1-6644831&quot;&gt;Met Police drop investigation into Vote Leave over EU referendum spend&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity&quot;&gt;Find Work-Life Focus: A Trello Insider’s Guide To Personal Productivity&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/05/11/world/europe/coronavirus-uk-boris-johnson.html&quot;&gt;Bafflement Greets Boris Johnson’s Plan for Reopening Britain&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.idler.co.uk/article/book-of-the-week-government-of-no-one/&quot;&gt;Book of the Week: Government of No One&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/desiderium-sciendi/whats-gds-ever-done-for-us-many-many-good-things-be5e3026018d&quot;&gt;What’s GDS ever done for us? Many, many good things.&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomcritchlow.com/2020/02/20/narrative-strategy/&quot;&gt;Narrative Strategy&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/may/13/boris-johnson-prime-minister-england-coronavirus&quot;&gt;Boris Johnson looks increasingly like the prime minister of England alone&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.idler.co.uk/article/epicurean-sympathies/&quot;&gt;Epicurean sympathies&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.timcasasola.com/blog/writing&quot;&gt;Why does writing matter in remote work?&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.sky.com/story/coronavirus-the-uks-top-civil-servant-had-covid-19-at-the-same-time-as-the-pm-the-public-werent-told-11988365&quot;&gt;Coronavirus: The UK’s top civil servant had COVID-19 at the same time as the PM. The public weren’t told&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subpixel.space/entries/premonition/&quot;&gt;Premonition&lt;/a&gt;, 9 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/05/17/the-isolation-6/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/05/17/the-isolation-6/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 5</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Got started on GOV.UK Pay this week. I met the teams and started settling into life as a product manager on the Government-as-a-Platform (GaaP) programme. Already I can see how much I’m going to enjoy it! Everyone’s really skilled and passionate about the product, which makes it easier, and they’ve put considerable effort into making everything understandable.&lt;/p&gt;
+
+&lt;p&gt;At first, I thought it would be tough engaging with the new team. You can’t rely on body language or sitting next to people, so you lose half the soft skills we frequently rely on in product management. But it hasn’t mattered one bit. I’ve found that 30-minute video calls have been polite and intimate, and I’ve had to focus on clear language.&lt;/p&gt;
+
+&lt;p&gt;One thing that really helped me start getting my feet under the table was the &lt;a href=&quot;https://twitter.com/rossferg/status/960974335002468353&quot;&gt;product manager induction Trello board that Ross created&lt;/a&gt; a couple of years ago. I iterated it slightly, which made it a little more effective so I’ll write a blog post about that.&lt;/p&gt;
+
+&lt;p&gt;I’m working on two teams: one focusing on migrating to &lt;a href=&quot;https://www.cloud.service.gov.uk&quot;&gt;Platform as a Service&lt;/a&gt;, and a &lt;a href=&quot;https://en.wikipedia.org/wiki/Kaizen&quot;&gt;kaizen&lt;/a&gt; team focusing on continually improving the product and our processes. For strategy work, I’m looking at Direct Debits.&lt;/p&gt;
+
+&lt;p&gt;Next week we’ll try some team sessions, to gather people’s thoughts and collaborate on setting objectives. It’ll be different, for sure, but with a &lt;a href=&quot;https://www.sparknotes.com/lit/flies'/quotes/symbol/the-conch/&quot;&gt;conch system&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=hVZPh8Zz8lw&amp;amp;feature=youtu.be&quot;&gt;jamboards&lt;/a&gt;, I reckon we’ll be fine.&lt;/p&gt;
+
+&lt;p&gt;Wednesday’s Show &amp;amp; Tell was so good, packed with really excellent work. Thinking back, I don’t think I’d ever read a weeknote from Pay, so I asked if we could put one together. It’s really important that GaaP products and their successes stay on the executive team’s radar, so that solving common problems across government remains the strategy.&lt;/p&gt;
+
+&lt;p&gt;My notebook is packed full of scribblings that I need to turn into sensible notes or things to do. Probably need to take a few hours on Sunday to work through it.&lt;/p&gt;
+
+&lt;p&gt;TfL and the BBC have released some virtual backgrounds for your Zoom calls, &lt;a href=&quot;https://londonblog.tfl.gov.uk/2020/05/01/video-conference-backgrounds/&quot;&gt;scenes on London transport&lt;/a&gt; and &lt;a href=&quot;https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382&quot;&gt;empty sets from TV shows&lt;/a&gt;. It’s a really neat touch from the public service orgs. I wondered what a GDS virtual background might be: maybe just a bunch of Post-its on the wall of some hallowed Cabinet Office room.&lt;/p&gt;
+
+&lt;p&gt;The contact tracing app has got everyone talking about privacy, interoperability and centralised vs decentralised data models, which is really good. Apple and Google proposed and built decentralised models distinctly because they’ve been criticised for their approach to privacy before, and I’m surprised that the government doesn’t just follow the tech giants – they’ve got way more resources to test these approaches out. So it makes me angry to read that money is being spent on creating a second contact tracing app with a decentralised model, ‘in case politicians decide to make a switch’. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Although it looks like &lt;a href=&quot;https://twitter.com/sarahtgold/status/1258676392620888067&quot;&gt;some of the data permissions patterns are being figured out by NHS&lt;/a&gt; rather than GDS, which is good to see.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Our world and the characters we’re creating in our Fate Core game are coming along really well, and I think we’ll play our first session this weekend. Perhaps predictably, we’ve come up with a dystopian cyberpunk future world with a hacker, a cybernetic prosthetics engineer and a cargo ship pilot. Who cares though, it’s just a bit of fun! Looking forward to hanging out in Axiom more often.&lt;/p&gt;
+
+&lt;p&gt;After finishing &lt;em&gt;Microserfs&lt;/em&gt;, I bought &lt;em&gt;Count Zero&lt;/em&gt; by William Gibson, the sequel to_Neuromancer_. Although I had to stop reading it two chapters in because my pre-order of &lt;em&gt;Ghost Hardware&lt;/em&gt; by Tim Maugham came through. So after a brief stint in Bristol, suffused with sub-bass, I’ll return to New Delhi.&lt;/p&gt;
+
+&lt;p&gt;I picked up some gems on &lt;a href=&quot;https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser&quot;&gt;Bandcamp Day&lt;/a&gt;, buying some of the albums I liked most from last year. &lt;a href=&quot;https://sneakersocialclub.bandcamp.com/album/halcyon-daze&quot;&gt;Soundbwoy Killah&lt;/a&gt;, &lt;a href=&quot;https://whities.bandcamp.com/album/whities-019&quot;&gt;Overmono&lt;/a&gt;, &lt;a href=&quot;https://iliantape.bandcamp.com/album/itlp04-skee-mask-compro&quot;&gt;Skee Mask&lt;/a&gt;, &lt;a href=&quot;https://punchdrunkrecords.bandcamp.com/album/ashley-road-sessions-88-94&quot;&gt;Smith &amp;amp; Mighty&lt;/a&gt; and &lt;a href=&quot;https://leegamble.bandcamp.com/album/diversions-1994-1996&quot;&gt;Lee Gamble&lt;/a&gt; all got some £££s. Bandcamp is one of the best ways to support the musicians you love, and right now the &lt;a href=&quot;https://www.residentadvisor.net/features/3640&quot;&gt;scene needs saving&lt;/a&gt;. Why not buy a record or two?&lt;/p&gt;
+
+&lt;p&gt;Our cat loves watching the swallows fly around in the morning. I’ve taken to watching them with him. Much better than watching the buses go to bed at New Cross bus garage.&lt;/p&gt;
+
+&lt;p&gt;They reckon No. 10 will announce changes to the lockdown on Sunday, although it’s worth mentioning that the changes will possibly only apply in England. I’m worried that the country will &lt;a href=&quot;https://www.theguardian.com/uk-news/2020/may/07/no-10-scrambles-to-control-amid-fierce-criticism-of-lockdown-mixed-messages&quot;&gt;misinterpret the message&lt;/a&gt; or only hear what they want to hear, meaning the R number could rise over the next two to three weeks. So we’ll stay in Wales for the rest of May. &lt;em&gt;EDIT: About 2 hours after I wrote this, &lt;a href=&quot;https://www.bbc.co.uk/news/uk-wales-52308604&quot;&gt;the First Minister extended the lockdown by 3 weeks&lt;/a&gt; anyway.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Started &lt;a href=&quot;https://learnwelsh.cymru&quot;&gt;learning Welsh&lt;/a&gt; on Wednesday, so that’s convenient.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/inspect-and-adapt/what-would-a-great-onboarding-experience-look-like-d8be8565631f&quot;&gt;What would a great onboarding experience look like?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.harryvos.com/posts/2020-w17-week-note/&quot;&gt;2020-W17 week note. First attempt at a week note&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.residentadvisor.net/features/3680&quot;&gt;Remembering Mike Huckaby: Ten Tracks And One Mix&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/05/06/it-takes-two/&quot;&gt;It takes two&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://naomistanford.com/2020/05/04/normal-or-not/&quot;&gt;Normal or not?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/politics/pandemic-panic-and-patient-data-tech-firms-and-the-nhs-in-a-time-of-crisis&quot;&gt;Pandemic, panic and patient data: tech firms and the NHS in a time of crisis&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leandroherrero.com/going-back-to-normal-when-normal-is-not-waiting-for-us/&quot;&gt;Going back to normal, when normal is not waiting for us&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future&quot;&gt;The Coronavirus Is Rewriting Our Imaginations&lt;/a&gt;, 13 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/446df516-4ec5-4c06-b39f-dd89ea5f6f0b&quot;&gt;UK starts to build second contact tracing app&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 08 May 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/05/08/the-isolation-5/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/05/08/the-isolation-5/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Isolation 4</title>
+        <description>&lt;p&gt;These notes cover a few weeks, rather than one week like usual. Writing weeknotes in the pandemic just didn’t feel necessary over the last few weeks, getting my head out of work was a higher priority. Having said that, there’s a few things worth noting from the last five weeks of lockdown.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-learned-working-on-end-to-end-services&quot;&gt;Things I learned working on end-to-end services&lt;/h2&gt;
+
+&lt;p&gt;I’ve spent 6 weeks working on the &lt;a href=&quot;https://www.gov.uk/coronavirus-extremely-vulnerable&quot;&gt;extremely vulnerable people service&lt;/a&gt;, a cross-government effort to get food and support to people with a specific medical condition or who have been told to &lt;a href=&quot;https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19#staying-at-home-and-shielding&quot;&gt;‘shield’&lt;/a&gt; by their GP. When the service is successful, pockets of the country will stay at home, therefore reducing the number of people who are likely to be infected, are likely to need hospital attention, and are likely to spread the virus.&lt;/p&gt;
+
+&lt;p&gt;The extremely vulnerable people service is an end-to-end service delivered by multiple departments and a few third-party organisations. For those that don’t know, end-to-end services begin from the point where the user starts trying to achieve a goal to the point when they’re finished. This includes website content, the transactional part of the service, the phone, post and face-to-face channels, as well as the digital elements. And it includes the internal processes that government needs to deliver an outcome.&lt;/p&gt;
+
+&lt;p&gt;Here’s a few things we noticed would be helpful in building and iterating those kinds of services.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Progress – even if it’s not perfect – is better than stasis&lt;/li&gt;
+  &lt;li&gt;Build consensus for solutions with evidence, and reduce risk together&lt;/li&gt;
+  &lt;li&gt;Define success criteria early: how you’ll know if you’re meeting users’ needs or not&lt;/li&gt;
+  &lt;li&gt;Outcomes are the glue that hold departments together&lt;/li&gt;
+  &lt;li&gt;A shared understanding of the problem is ideal, but shared sympathy for the impact is better&lt;/li&gt;
+  &lt;li&gt;A shared backlog makes interoperability possible for teams from different organisations&lt;/li&gt;
+  &lt;li&gt;Test the service, end-to-end, with a small group and iterate as it grows&lt;/li&gt;
+  &lt;li&gt;Operations and logistics processes are harder to change than websites&lt;/li&gt;
+  &lt;li&gt;Users sometimes don’t read things, so you can’t fix failure demand with a content change&lt;/li&gt;
+  &lt;li&gt;Speak up if you’re having a hard time, because someone else probably is too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-work-stuff&quot;&gt;Other work stuff&lt;/h2&gt;
+
+&lt;p&gt;After two-and-a-bit years working on GOV.UK, I’m moving over to work on &lt;a href=&quot;https://www.payments.service.gov.uk&quot;&gt;GOV.UK Pay&lt;/a&gt; and I’m super excited. After picking out a few skills to work on in my end-of-year conversation about professional development, it seems like GOV.UK Pay will be a really good place to double-down on user focus, strategic ownership and financial ownership.&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK product managers gave me a lovely send-off and Martin put together a Jamboard where people could share memories of working with me. It was really thoughtful and touching, I’m going to miss them lots. Being remote means there’s less chance of catching people in the hallway, so I must remember to drop in on them occasionally.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/pr0bablyfine&quot;&gt;Alex&lt;/a&gt; and I met with the Head of Comms to chat about weeknotes. They’re supportive of people writing about work provided they follow the Civil Service Code and don’t use personal channels as government outlets. That’s fair enough really. Anyway, they gave both our blogs the thumbs-up and said we neutered things well, so I’ll share the principles I follow.&lt;/p&gt;
+
+&lt;p&gt;When we wound-down the personalisation work, we wanted to focus on design principles for privacy, transparency and re-use of data. It would help make the personalisation proposition understandable, accountable and trustable for users. We were going to use primary and secondary research as a method for finding the edges. No one across government is looking at this (as far as we know) and as GOV.UK is the platform in the centre, we’re best-placed to represent users across the board. I’m looking forward to seeing someone pick up the baton and run with that.&lt;/p&gt;
+
+&lt;p&gt;The last 8 years of transforming public services digitally has been about the &lt;em&gt;interaction&lt;/em&gt; between citizen and state, but ‘personalising’ that means we need to invest in the &lt;em&gt;conversation&lt;/em&gt; between citizen and state too. That’s how you make it feel personalised. That’s where the innovation lies. Create &lt;a href=&quot;/2020/01/08/boring-magic/&quot;&gt;boring magic&lt;/a&gt;, not shiny things.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Public services, funded by public money, must be open to public scrutiny – especially in times of great upheaval when lots of decisions are being made very quickly.’ Rachel Coldicutt&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Being quarantined for long periods of time hasn’t bothered me much. I was hyper-online as a teenager, spending most evenings and weekends cooped-up in my bedroom on the computer. Coding websites, surfing the web, hacking, playing Counter-Strike. Sedentary and isolated. And now it’s mandated by the government! (Shout-out to all the parents merging home life with work life, though.)&lt;/p&gt;
+
+&lt;p&gt;I wrote a secret post and, as far as I know, no one read it. 👋 to the three people who read my second secret post.&lt;/p&gt;
+
+&lt;p&gt;Zoom pub quizzes are quite good, aren’t they? Highlights included bonus points when Danny Dyer popped up randomly, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Sound_clash&quot;&gt;sound clash&lt;/a&gt;, and imitating famous paintings. Actually, Zoom pub quizzes might be better than pub quizzes…though I do miss the pub.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;em&gt;Microserfs&lt;/em&gt; by Doug Coupland, which &lt;a href=&quot;https://twitter.com/mattinwales&quot;&gt;Matt&lt;/a&gt; recommended to me. First thought: wow, working in tech hasn’t changed much, has it?! It’s an enjoyable postmodern read, focusing on the growth of the characters as they transition from introverted code-monkeys to fully featured personalities. The comparison between Apple and Microsoft cultures was funny too, you could write that book now and make it about GDS and NHS X.&lt;/p&gt;
+
+&lt;p&gt;Carried on playing old PlayStation games. Tomb Raider is really quite good.&lt;/p&gt;
+
+&lt;p&gt;In other gaming news, I’m starting a &lt;a href=&quot;https://fate-srd.com/fate-core/basics&quot;&gt;Fate Core&lt;/a&gt; RPG with my best mates. I’ve never played a tabletop RPG before, I figured they all involved fantasy in some shape or form, but Fate allows you to design the world and characters any way you want. As two of the crew are in Montreal and Vancouver, the rest of us in Britain, we’re using Discord for text and voice chat. I might start writing notes on our games &lt;a href=&quot;https://memo.barrucadu.co.uk&quot;&gt;like Michael does&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’ve spent the last five weeks living in North Wales, helping my partner’s brother deliver food and supplies to elderly and infirm relatives. We’ve spent the entire time physically distancing from family, making sure that if any of us became infected we wouldn’t transmit it to each other.&lt;/p&gt;
+
+&lt;p&gt;It has given us a chance to road-test living here, as I don’t want to be in London for ever and it’s closer to my parents than Bristol or Cardiff. I’ve always wanted to live in Wales, ever since I was a boy, as we holidayed in Llandudno most years. I think we could make it work, as long as remote working will become part of the new normal.&lt;/p&gt;
+
+&lt;p&gt;We’ve been supporting to local economy wherever possible, buying excess beer from &lt;a href=&quot;https://cwrwllyn.cymru&quot;&gt;Cwrw Llŷn&lt;/a&gt;, coffee from &lt;a href=&quot;https://pobladocoffi.co.uk&quot;&gt;Poblado&lt;/a&gt;, vegetables and eggs from &lt;a href=&quot;https://treddafyddorganic.co.uk&quot;&gt;Treddafydd&lt;/a&gt;, pizza from &lt;a href=&quot;http://crust.wales&quot;&gt;Crust&lt;/a&gt;, cakes from &lt;a href=&quot;https://www.twoislandsicecream.co.uk&quot;&gt;Two Islands&lt;/a&gt;, fish from &lt;a href=&quot;http://llynseafoods.com&quot;&gt;Pysgod Llŷn&lt;/a&gt; and meat from the &lt;a href=&quot;http://pwllhelibutchers.cymru&quot;&gt;cigyddion&lt;/a&gt;. It’s been a delicious two weeks, the produce here is excellent. Though I do miss hauling seasonal produce back home from Brockley Market each week.&lt;/p&gt;
+
+&lt;p&gt;Worth saying though: we’re really privileged to be here and others don’t have this opportunity. So I’m taking nothing for granted. I hope you and your loved ones pull through this weird time.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;New York Times&lt;/em&gt;’s coverage of coronavirus has been so good, and their writing about the food industry is fantastic. Definitely worth the &lt;a href=&quot;nytimes.com/share/1jnA6Be&quot;&gt;50p per week subscription&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/technology-52052502&quot;&gt;Coronavirus: What if this had happened in 2005?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/27/business/economy/coronavirus-inequality.html&quot;&gt;‘White-Collar Quarantine’ Over Virus Spotlights Class Divide&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/ghost-ship-ireland-mv-alta&quot;&gt;The mysterious final voyage of the Alta, Ireland’s doomed ghost ship&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/mar/27/coronavirus-politics-lockdown-hobbes&quot;&gt;Coronavirus has not suspended politics – it has revealed the nature of power&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nfuonline.com:443/cross-sector/environment/climate-change/climate-change-news/mcdonalds-unveils-free-tool-to-help-farmers/&quot;&gt;McDonald’s unveils free tool to help farmers beef-up their bottom line&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/mar/30/the-tough-choices-democracies-now-face&quot;&gt;The tough choices democracies now face&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/03/30/opinion/coronavirus-worker-strike.html&quot;&gt;Is Your Grocery Delivery Worth a Worker’s Life?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amplitude.com/blog/stop-data-snacking&quot;&gt;Stop Data Snacking&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://outlandish.com/blog/co-operatives/how-sociocracy-might-benefit-your-organisation/&quot;&gt;How Sociocracy might benefit your organisation&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.louisedowne.com/2020/03/31/10-principles-for-design-in-a-crisis/&quot;&gt;10 principles for design in a crisis&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://outlandish.com/blog/democracy-is-dead-long-live-sociocracy/&quot;&gt;Outlandish&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notbinary.co.uk/public-service-digital-in-the-time-of-covid-19/&quot;&gt;Public Service Digital in the Time of COVID-19&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html&quot;&gt;Location Data Says It All: Staying at Home During Coronavirus Is a Luxury&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/1998/07/taking-on-lara-croft/&quot;&gt;Taking On Lara Croft&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/615442/why-does-it-suddenly-feel-like-1999-on-the-internet/&quot;&gt;Why does it suddenly feel like 1999 on the internet?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/travel/2020/apr/04/i-cultivated-a-joy-in-little-things-coping-with-isolation-in-the-wild&quot;&gt;‘I cultivated a joy in little things ’ - coping with isolation in the wild&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2020/apr/01/start-a-daily-routine-and-make-the-weekends-different-the-isolation-experts-guide-to-lockdown-living-coronavirus&quot;&gt;‘Start a daily routine – and make the weekends different’: the isolation experts’ guide to lockdown living&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/travel/2020/apr/04/i-live-alone-on-a-boat-at-sea-how-to-be-happy-in-isolation#Echobox=1585992889&quot;&gt;‘I live alone at sea. Here’s how to be happy in isolation’&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/08/books/review-notes-from-apocalypse-mark-oconnell.html&quot;&gt;‘Notes From an Apocalypse’ Is a Timely Tour of Preparing for the Worst&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/04/style/larry-david-curb-your-enthusiasm-coronavirus-psa.html&quot;&gt;Larry David, Master of His Quarantine&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2020/apr/16/farmers-union-optimistic-uk-workers-will-rescue-the-harvest-covid-19&quot;&gt;Farmers’ union ‘optimistic’ UK workers will rescue the harvest&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/16/world/europe/uk-coronavirus-lockdown-exit.html&quot;&gt;U.K. Extends Lockdown 3 Weeks, With No Clear Exit Strategy&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2020/apr/17/british-workers-reject-fruit-picking-jobs-as-romanians-flown-in-coronavirus&quot;&gt;British workers reject fruit-picking jobs as Romanians flown in&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/apr/17/laid-off-pick-fruit-seasonal-workers-special-skills&quot;&gt;Anyone who’s been laid off can pick fruit, right? It’s not that simple&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/10/dining/community-garden-coronavirus.html&quot;&gt;‘If All the Stores Close, We Need Food’: Community Gardens Adapt to the Pandemic&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/food/2020/apr/19/will-britains-restaurants-survive-coronavirus&quot;&gt;Will Britain’s restaurants survive coronavirus?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pitchfork.com/thepitch/dj-sets-livestreaming-economics-electronic-music-coronavirus/&quot;&gt;DJ Sets Are Going Online—But Is Anyone Getting Paid?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jeremiahlee.com/posts/failed-squad-goals/&quot;&gt;Failed #SquadGoals&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/20/books/idleness-lockdown-how-to-be-idle-tom-hodgkinson.html&quot;&gt;Celebrating Literature’s Slacker Heroes, Idlers and Liers-In&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/20/opinion/coronavirus-social-contract.html&quot;&gt;We Need a New Social Contract for the Coronavirus&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.projectsbyif.com/blog/collective-consent-for-collective-data/&quot;&gt;Collective consent for collective data&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/04/06/magazine/d-nice-has-coronavirus-made-the-internet-better.html&quot;&gt;Has Coronavirus Made the Internet Better?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/business/2020/apr/29/ten-reasons-why-greater-depression-for-the-2020s-is-inevitable-covid#Echobox=1588148788&quot;&gt;Ten reasons why a ‘Greater Depression’ for the 2020s is inevitable&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/politics/pandemic-panic-and-patient-data-tech-firms-and-the-nhs-in-a-time-of-crisis&quot;&gt;Pandemic, panic and patient data: tech firms and the NHS in a time of crisis&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 03 May 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/05/03/the-isolation-4/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/05/03/the-isolation-4/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Isolation 3</title>
