@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steve Messer // Product manager</title>
-    <description>Product person, GOV.UK, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
+    <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2020 20:02:14 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2020 20:02:14 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2020 08:06:10 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2020 08:06:10 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -171,6 +171,8 @@
         <category>Blogroll</category>
         
         <category>Digital government</category>
+        
+        <category>Popular</category>
         
         
       </item>
@@ -354,6 +356,8 @@
         <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
+        
+        <category>Popular</category>
         
         
       </item>
