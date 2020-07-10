@@ -5,9 +5,148 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jul 2020 07:52:43 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2020 07:52:43 +0100</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2020 18:15:48 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2020 18:15:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Shock of London</title>
+        <description>&lt;p&gt;We started Q2 2020–21 this week, so I was mostly doing kick-off things and writing OKRs.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Now that we’ve reformed our teams using Team Topologies, I’m product manager for Payments on GOV.UK Pay. I’m looking after the experience for paying users, considering payment types and payment channels we offer, PMing the microservices which run those, and other stuff that ensures you can pay government online. It’s bloody exciting work.&lt;/p&gt;
+
+&lt;p&gt;We released our &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;open roadmap&lt;/a&gt; on Tuesday and it has already garnered some interest from service teams. That means it’s working, which is great! As mentioned in &lt;a href=&quot;/2020/07/03/the-commute-must-die/&quot;&gt;last week’s post&lt;/a&gt;, I had been looking into open collaborative roadmaps and the value they provide, so I’ve written up a &lt;a href=&quot;/2020/07/10/open-collaborative-roadmaps/&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On Wednesday I spent time crafting our objective and key results for the quarter, based on some operational goals we’ve been set and the need to help GOV.UK Pay scale. You may have seen that &lt;a href=&quot;https://www.gov.uk/performance/govuk-pay/number-of-payments/number-of-payments-number-weekly&quot;&gt;the number of payments GOV.UK Pay takes each week&lt;/a&gt; has doubled in recent weeks, and since we’re scaling fast we’ll need to reduce bottlenecks and improve the experience for paying users. We’ve got two decent service level objectives as a guide but we’re at liberty to choose how we do it. It’s properly empowering to be working like this, it’s what I’ve always wanted!&lt;/p&gt;
+
+&lt;p&gt;Alongside the operational improvements and reducing errors, I’ll be doing some groundwork on UX for paying users, specifically on our Welsh language features and web performance (to reduce page weight and load times for people with low data allowances). There’s also accessibility improvements to keep ticking along.&lt;/p&gt;
+
+&lt;p&gt;And besides that, we’re also looking into Open Banking, more on Direct Debit, and how we might take recurring payments. That strategy work is mostly desk research and meeting with stakeholders, though there may be opportunity to build some prototypes.&lt;/p&gt;
+
+&lt;p&gt;I started using the &lt;a href=&quot;https://trello.com/b/18auwW8U&quot;&gt;Bets &amp;amp; Learning board&lt;/a&gt; to keep track of new features and opportunities, giving me a place to record learning over time. It’s provided a useful, actionable framework so far. Each feature or opportunity has a doc to record what we know, what we need to find out and next steps, so that we can keep a chronology of learning and evidence-building. I’ve already added snippets of emails to it, and I’ll invite people to comment on the doc next week. Asynchronous communication and &lt;a href=&quot;(https://tobiogunsina.com/creating-alignment-during-product-discovery/)&quot;&gt;creating alignment&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;London is a bit shit maybe? It’s a shock being back, of course, but there’s f’ all physical distancing going on and everything just seems normal. Having said that, I keep checking this &lt;a href=&quot;https://russss.github.io/covidtracker/map.html&quot;&gt;7-day hotspots map&lt;/a&gt; that someone called Russ built, and case rates in Lewisham and surrounding boroughs are low. Think it’s just all the ambient noise that’s bothering me.&lt;/p&gt;
+
+&lt;p&gt;Anyway, on a positive note, I had a mix for the first time in ages and it gave me a right rush. SPINE-TINGLING! Splashed out on some back-in-the-day beats on Bandcamp, subby-dubby numbers, and it took me back to 2007 when I got my first pair of decks. Will be doing more of this over the next few months. Check out my collection on &lt;a href=&quot;https://bandcamp.com/andmoretbc&quot;&gt;Bandcamp&lt;/a&gt;, if that’s your sort of thing.&lt;/p&gt;
+
+&lt;p&gt;The exercise regime is going well and having a noticeable impact on my waistline – &lt;em&gt;phew!&lt;/em&gt; There’s lots of people about at lunchtime and in the evenings, so I’m running in the mornings and doing HIIT at home. Means it’s all out of the way at the start of the day, and if I fancy a walk in the evening, I can have one.&lt;/p&gt;
+
+&lt;p&gt;Surprise of the week: non-alcholic beer is low calorie, who knew.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2020/07/02/launching-the-digital-data-and-technology-functional-standard/&quot;&gt;Launching the Digital, Data and Technology Functional Standard&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tobiogunsina.com/creating-alignment-during-product-discovery/&quot;&gt;Creating alignment during product discovery&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalblog.coop.co.uk/2018/01/11/making-product-decisions-requires-us-to-take-risks/&quot;&gt;Making product decisions requires us to take risks&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-2753-the-lure-of-new-features&quot;&gt;TBM 27/53: The Lure of New Features and Products&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html&quot;&gt;Facebook Fails to Appease Organizers of Ad Boycott&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2020/jul/04/reality-bites-how-the-pandemic-changed-the-way-we-eat&quot;&gt;Reality bites: how the pandemic changed the way we eat&lt;/a&gt;, 16 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/10/the-shock-of-london/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/10/the-shock-of-london/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open collaborative roadmaps</title>
+        <description>&lt;p&gt;At Government Digital Service (GDS), having an &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap#a-roadmap-should-be-open&quot;&gt;open roadmap&lt;/a&gt; is one of our principles for agile ways of working. Our &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;roadmap for GOV.UK Pay&lt;/a&gt; has always been open, but we wanted to explore how we might collaborate with users on prioritising things on the roadmap.&lt;/p&gt;
+
+&lt;p&gt;Making your roadmap openly available allows anyone to see what value you’ll be creating over time. As a communication tool, a roadmap is a great way to have conversations about priorities, for users and for stakeholders. By involving users in the creation of the roadmap, we want to see whether we can form a better bond with users.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-did&quot;&gt;What we did&lt;/h2&gt;
+
+&lt;p&gt;To find out how organisations were using roadmaps openly and collaboratively in the public and private sector, we asked some questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are the best open roadmaps you’ve come across? What made them good?&lt;/li&gt;
+  &lt;li&gt;What ways have your team or companies invited users to collaborate on your roadmap? What benefits did that have?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These questions were posed to the cross-government product management community, the local government digital community, and the wider product management community through Twitter, General Assembly and Mind the Product.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-found&quot;&gt;What we found&lt;/h2&gt;
+
+&lt;h3 id=&quot;microsoft-teams&quot;&gt;Microsoft Teams&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.microsoft.com/en-us/microsoft-365/roadmap?&amp;amp;filters=Microsoft%20Teams&quot;&gt;roadmap for Microsoft Teams&lt;/a&gt; shows recently launched features, things in development now and what they’ll be working on next.&lt;/p&gt;
+
+&lt;p&gt;It’s a high functioning roadmap giving users a detailed description of what’s happening, when it’s happening, allowing them to subscribe to updates or start a conversation on the community forum. It doesn’t show users what’s happening beyond the next quarter or what’s in the backlog.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Matt Knight for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;artfinder&quot;&gt;Artfinder&lt;/h3&gt;
+
+&lt;p&gt;Artfinder works quite closely with its community according to its &lt;a href=&quot;https://trello.com/b/TUuBHO78/community-roadmap&quot;&gt;roadmap&lt;/a&gt;. Users can see what’s in the backlog, what’s been prioritised, what they’re working on and what’s been released. They also suggestions that need further research, things they’ll work on later and things they will not do. One bug / operational improvement is listed, but that’s it. From the looks of it, Artfinder is making its full product pipeline openly available, which is great to see!&lt;/p&gt;
+
+&lt;p&gt;Artfinder use many of Trello’s features, such as commenting, voting and labels, to invite comment and collaboration from their users. They’re also good at adding reasons for why some roadmap items are in certain sections, e.g. won’t do.&lt;/p&gt;
+
+&lt;p&gt;It looks like the roadmap hasn’t been updated since August 2019, suggesting that they didn’t have the time or capacity to uphold this process (or maybe it was a one-off event).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Laurence Mallows for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;monzo-us&quot;&gt;Monzo US&lt;/h3&gt;
+
+&lt;p&gt;Monzo US use &lt;a href=&quot;https://trello.com/b/5vfbBl1a/monzo-us&quot;&gt;their roadmap&lt;/a&gt; quite actively. They show users what’s been launched, what they’re working on now, and what’s next. Everything else is described as ‘Ideas we might explore’. Operational work isn’t included, only features that appeal to users.&lt;/p&gt;
+
+&lt;p&gt;They’re using the range of Trello features to collaborate with users too, inviting comments and voting from users. They also link to their community form for conversation on features. And looking at the board’s activity, it’s kept up-to-date and users are invited to get involved often.&lt;/p&gt;
+
+&lt;p&gt;I wonder whether it’s easier for the Monzo US product people to keep their roadmap up-to-date as they might be able to port UK features over to the US market. Less time spent devising and developing features may mean there’s more time to focus on product ops – but that’s an assumption of mine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Paul O’Neill for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;buffer&quot;&gt;Buffer&lt;/h3&gt;
+
+&lt;p&gt;Another Trello &lt;a href=&quot;https://trello.com/b/PDIV7XW3/buffer-transparent-product-roadmap&quot;&gt;roadmap from Buffer&lt;/a&gt;, the social media management tool. It’s split up into ideas they’re exploring, work in progress, work they’ve shipped, things they’re leaving for now. Operational improvements such as optimising user journeys are included, but I couldn’t see anything about under-the-hood improvements.&lt;/p&gt;
+
+&lt;p&gt;Like Monzo and Artfinder, Buffer invite their users to comment on and vote for features. Buffer staff also invite users to have a chat over email (which might lead on to phone calls, video chats or user visits). It’s a really active board! Just yesterday, someone on Buffer’s product team added a card to the list of ideas to explore. And it’s been going for 4 years!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Chanel Can and Ben Unsworth for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-container-services&quot;&gt;AWS container services&lt;/h3&gt;
+
+&lt;p&gt;Amazon Web Services host the &lt;a href=&quot;https://github.com/aws/containers-roadmap/projects/1&quot;&gt;roadmap for container services&lt;/a&gt; on GitHub, similar to &lt;a href=&quot;https://github.com/orgs/alphagov/projects/5&quot;&gt;GDS’s Design System roadmap&lt;/a&gt;. It shows features they’re researching, stuff they’re working on, work that’s close to shipping, features in developer preview (private beta), and things they’ve shipped.&lt;/p&gt;
+
+&lt;p&gt;Roadmaps on GitHub require people to raise issues, giving a place for conversation to happen, in the open, and to be linked to code when it’s released (if you use GitHub to manage your code). It’s great for developer audiences but might be a barrier to anyone not using GitHub regularly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Dan Blundell for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-well-do-next&quot;&gt;What we’ll do next&lt;/h2&gt;
+
+&lt;p&gt;It’s been useful to see how other organisations approach roadmapping and the conversations they’re having with users, in the open. Miika Savela from the Mind the Product community shared an article from Shipright, a product feedback tool, on &lt;a href=&quot;https://www.shipright.co/post/feature-voting-board-messing-up-your-product&quot;&gt;why your feature voting board may be messing up your product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The article points out that you can’t rely solely on voting to help you set the roadmap, product teams should use many of the feedback signals coming in from the userbase to help set direction. So as long as a roadmap is used to start conversations with your users, one way to open up collaboration on prioritisation to show them the trade-offs you need to make, you’ll avoid relying on it as a Magic 8-Ball.&lt;/p&gt;
+
+&lt;p&gt;Since we’re looking at our engagement model and product pipeline right now, we’ll consider how we can fit an open roadmap into user group meetings and conversations over support channels.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-to-consider&quot;&gt;Things to consider&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How much time can we dedicate to keeping the open roadmap up-to-date?&lt;/li&gt;
+  &lt;li&gt;How will we encourage users to look at the roadmap? e.g. which support channels?&lt;/li&gt;
+  &lt;li&gt;What questions and concerns can the roadmap help us answer for users?&lt;/li&gt;
+  &lt;li&gt;Do users care about features only or is it useful to know about operational work?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Agile delivery</category>
+        
+        
+      </item>
     
       <item>
         <title>The Commute Must Die</title>
@@ -29,7 +168,7 @@
 
 &lt;p&gt;There’s been loads of chatter on Twitter about this new &lt;a href=&quot;https://www.gov.uk/guidance/digital-data-and-technology-functional-standard-version-1&quot;&gt;functional standard&lt;/a&gt; that GDS has published. I don’t really know what it is or what it’s for, so I’m going to read &lt;a href=&quot;https://gds.blog.gov.uk/2020/07/02/launching-the-digital-data-and-technology-functional-standard/&quot;&gt;the blog post about it&lt;/a&gt;. Simon raised a good point that &lt;a href=&quot;https://twitter.com/simoneverest/status/1278980459117019136&quot;&gt;the pile-on from the old guard was a bit snarky&lt;/a&gt;, so I’m hoping they’ll add more detailed responses as comments on the blog post. The Strategy team did say they would review feedback, after all.&lt;/p&gt;
 
-&lt;p&gt;The Reforge post in the reading list below is 🧨 by the way.&lt;/p&gt;
+&lt;p&gt;The Reforge post in the reading list below is 🔥 by the way.&lt;/p&gt;
 
 &lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
 

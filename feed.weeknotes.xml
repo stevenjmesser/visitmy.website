@@ -5,9 +5,57 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jul 2020 07:52:43 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2020 07:52:43 +0100</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2020 18:15:48 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2020 18:15:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Shock of London</title>
+        <description>&lt;p&gt;We started Q2 2020–21 this week, so I was mostly doing kick-off things and writing OKRs.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Now that we’ve reformed our teams using Team Topologies, I’m product manager for Payments on GOV.UK Pay. I’m looking after the experience for paying users, considering payment types and payment channels we offer, PMing the microservices which run those, and other stuff that ensures you can pay government online. It’s bloody exciting work.&lt;/p&gt;
+
+&lt;p&gt;We released our &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;open roadmap&lt;/a&gt; on Tuesday and it has already garnered some interest from service teams. That means it’s working, which is great! As mentioned in &lt;a href=&quot;/2020/07/03/the-commute-must-die/&quot;&gt;last week’s post&lt;/a&gt;, I had been looking into open collaborative roadmaps and the value they provide, so I’ve written up a &lt;a href=&quot;/2020/07/10/open-collaborative-roadmaps/&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On Wednesday I spent time crafting our objective and key results for the quarter, based on some operational goals we’ve been set and the need to help GOV.UK Pay scale. You may have seen that &lt;a href=&quot;https://www.gov.uk/performance/govuk-pay/number-of-payments/number-of-payments-number-weekly&quot;&gt;the number of payments GOV.UK Pay takes each week&lt;/a&gt; has doubled in recent weeks, and since we’re scaling fast we’ll need to reduce bottlenecks and improve the experience for paying users. We’ve got two decent service level objectives as a guide but we’re at liberty to choose how we do it. It’s properly empowering to be working like this, it’s what I’ve always wanted!&lt;/p&gt;
+
+&lt;p&gt;Alongside the operational improvements and reducing errors, I’ll be doing some groundwork on UX for paying users, specifically on our Welsh language features and web performance (to reduce page weight and load times for people with low data allowances). There’s also accessibility improvements to keep ticking along.&lt;/p&gt;
+
+&lt;p&gt;And besides that, we’re also looking into Open Banking, more on Direct Debit, and how we might take recurring payments. That strategy work is mostly desk research and meeting with stakeholders, though there may be opportunity to build some prototypes.&lt;/p&gt;
+
+&lt;p&gt;I started using the &lt;a href=&quot;https://trello.com/b/18auwW8U&quot;&gt;Bets &amp;amp; Learning board&lt;/a&gt; to keep track of new features and opportunities, giving me a place to record learning over time. It’s provided a useful, actionable framework so far. Each feature or opportunity has a doc to record what we know, what we need to find out and next steps, so that we can keep a chronology of learning and evidence-building. I’ve already added snippets of emails to it, and I’ll invite people to comment on the doc next week. Asynchronous communication and &lt;a href=&quot;(https://tobiogunsina.com/creating-alignment-during-product-discovery/)&quot;&gt;creating alignment&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;London is a bit shit maybe? It’s a shock being back, of course, but there’s f’ all physical distancing going on and everything just seems normal. Having said that, I keep checking this &lt;a href=&quot;https://russss.github.io/covidtracker/map.html&quot;&gt;7-day hotspots map&lt;/a&gt; that someone called Russ built, and case rates in Lewisham and surrounding boroughs are low. Think it’s just all the ambient noise that’s bothering me.&lt;/p&gt;
+
+&lt;p&gt;Anyway, on a positive note, I had a mix for the first time in ages and it gave me a right rush. SPINE-TINGLING! Splashed out on some back-in-the-day beats on Bandcamp, subby-dubby numbers, and it took me back to 2007 when I got my first pair of decks. Will be doing more of this over the next few months. Check out my collection on &lt;a href=&quot;https://bandcamp.com/andmoretbc&quot;&gt;Bandcamp&lt;/a&gt;, if that’s your sort of thing.&lt;/p&gt;
+
+&lt;p&gt;The exercise regime is going well and having a noticeable impact on my waistline – &lt;em&gt;phew!&lt;/em&gt; There’s lots of people about at lunchtime and in the evenings, so I’m running in the mornings and doing HIIT at home. Means it’s all out of the way at the start of the day, and if I fancy a walk in the evening, I can have one.&lt;/p&gt;
+
+&lt;p&gt;Surprise of the week: non-alcholic beer is low calorie, who knew.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2020/07/02/launching-the-digital-data-and-technology-functional-standard/&quot;&gt;Launching the Digital, Data and Technology Functional Standard&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tobiogunsina.com/creating-alignment-during-product-discovery/&quot;&gt;Creating alignment during product discovery&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalblog.coop.co.uk/2018/01/11/making-product-decisions-requires-us-to-take-risks/&quot;&gt;Making product decisions requires us to take risks&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-2753-the-lure-of-new-features&quot;&gt;TBM 27/53: The Lure of New Features and Products&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html&quot;&gt;Facebook Fails to Appease Organizers of Ad Boycott&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2020/jul/04/reality-bites-how-the-pandemic-changed-the-way-we-eat&quot;&gt;Reality bites: how the pandemic changed the way we eat&lt;/a&gt;, 16 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/10/the-shock-of-london/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/10/the-shock-of-london/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Commute Must Die</title>
@@ -29,7 +77,7 @@
 
 &lt;p&gt;There’s been loads of chatter on Twitter about this new &lt;a href=&quot;https://www.gov.uk/guidance/digital-data-and-technology-functional-standard-version-1&quot;&gt;functional standard&lt;/a&gt; that GDS has published. I don’t really know what it is or what it’s for, so I’m going to read &lt;a href=&quot;https://gds.blog.gov.uk/2020/07/02/launching-the-digital-data-and-technology-functional-standard/&quot;&gt;the blog post about it&lt;/a&gt;. Simon raised a good point that &lt;a href=&quot;https://twitter.com/simoneverest/status/1278980459117019136&quot;&gt;the pile-on from the old guard was a bit snarky&lt;/a&gt;, so I’m hoping they’ll add more detailed responses as comments on the blog post. The Strategy team did say they would review feedback, after all.&lt;/p&gt;
 
-&lt;p&gt;The Reforge post in the reading list below is 🧨 by the way.&lt;/p&gt;
+&lt;p&gt;The Reforge post in the reading list below is 🔥 by the way.&lt;/p&gt;
 
 &lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
 
