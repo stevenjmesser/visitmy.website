@@ -5,9 +5,9 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2020 19:46:54 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2020 19:46:54 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Mon, 13 Jul 2020 21:55:42 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 21:55:42 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>This website is killing the planet</title>
@@ -240,7 +240,7 @@
 
 &lt;h3 id=&quot;there-is-no-such-thing-as-the-government&quot;&gt;There is no such thing as the government&lt;/h3&gt;
 
-&lt;p&gt;This was posted in 2010, around the time &lt;a href=&quot;https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox&quot;&gt;Martha Lane Fox’s report on Directgov&lt;/a&gt; was published, leading to the creation of Government Digital Service and GOV.UK. In it Stefan Czerniawski talks about how the dream for joined-up government services has been around for years, and it’s a key historical text for anyone working in the current era of transformation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. (There’s bonus archived blog posts from &lt;a href=&quot;https://twitter.com/tomskitomski&quot;&gt;Tom&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/neillyneil&quot;&gt;Neil&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;This was posted in 2010, around the time &lt;a href=&quot;https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox&quot;&gt;Martha Lane Fox’s report on Directgov&lt;/a&gt; was published, leading to the creation of Government Digital Service and GOV.UK. In it Stefan Czerniawski talks about how the dream for joined-up government services has been around for years, and it’s a key historical text for anyone working in the current era of transformation&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. (There’s bonus archived blog posts from &lt;a href=&quot;https://twitter.com/tomskitomski&quot;&gt;Tom&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/neillyneil&quot;&gt;Neil&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://www.publicstrategist.com/2010/11/there-is-no-such-thing-as-the-government/&quot;&gt;There is no such thing as the government&lt;/a&gt;.&lt;/p&gt;
 
@@ -390,10 +390,10 @@
 
 &lt;p&gt;Read &lt;a href=&quot;http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654&quot;&gt;In 1968, computers got personal&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;If anyone has stratified the eras of government transformation, digital and beyond, please do let me know! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If anyone has stratified the eras of government transformation, digital and beyond, please do let me know! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -763,7 +763,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 
 &lt;h2 id=&quot;agile-for-everybody-everybody-hates-agile&quot;&gt;Agile for Everybody, Everybody Hates Agile&lt;/h2&gt;
 &lt;h3 id=&quot;matt-lemay-sudden-compass&quot;&gt;Matt LeMay, Sudden Compass&lt;/h3&gt;
-&lt;p&gt;Agile is a completely made-up thing that 17 people dreamed up on a ski weekend, so &lt;code class=&quot;highlighter-rouge&quot;&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Agile is a completely made-up thing that 17 people dreamed up on a ski weekend, so &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Agile methods ask people to think and, frankly, that’s a hard sell. So be brave, get started and change the way you’re working until it works.&lt;/p&gt;
 

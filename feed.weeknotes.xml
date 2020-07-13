@@ -5,9 +5,9 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2020 19:46:54 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2020 19:46:54 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Mon, 13 Jul 2020 21:55:42 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 21:55:42 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>The Shock of London</title>
@@ -93,7 +93,7 @@
 
 &lt;p&gt;Not being close to friends has been a bummer, but like most other folk we’ve filled in that social gap with video calls and virtual pubs and tabletop RPGs. In a way, we’ve just been nudged towards things we could have been mostly doing anyway.&lt;/p&gt;
 
-&lt;p&gt;Can’t wait to get back and have a mix though. Good thing about lockdown: I’ve started buying records&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; again. Mad to think that I would gladly spend £20 a week on records in 2007–10 but in recent years I’ve been like, ‘Hmm, is £2 on that digital single sensible?’ No more of that. Getting back into mixing and splashing out on music. Making more time to enjoy music without Spotify. Roll da bass!&lt;/p&gt;
+&lt;p&gt;Can’t wait to get back and have a mix though. Good thing about lockdown: I’ve started buying records&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; again. Mad to think that I would gladly spend £20 a week on records in 2007–10 but in recent years I’ve been like, ‘Hmm, is £2 on that digital single sensible?’ No more of that. Getting back into mixing and splashing out on music. Making more time to enjoy music without Spotify. Roll da bass!&lt;/p&gt;
 
 &lt;p&gt;I’ll actually be able to update my website too. Because I left my main machine at home I’ve been writing these weeknotes on a Google Doc, so expect a flurry of posts when I get back.&lt;/p&gt;
 
@@ -119,10 +119,10 @@
   &lt;li&gt;&lt;a href=&quot;https://www.reforge.com/blog/product-work-beyond-product-market-fit&quot;&gt;Product Work Beyond Product-Market Fit — Reforge&lt;/a&gt;, 24 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;OK, files off Bandcamp, but that’s fine. Not sure a vinyl habit is OK in the climate crisis? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;OK, files off Bandcamp, but that’s fine. Not sure a vinyl habit is OK in the climate crisis? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -533,7 +533,7 @@ Weeknotes S08E05
 
 &lt;p&gt;TfL and the BBC have released some virtual backgrounds for your Zoom calls, &lt;a href=&quot;https://londonblog.tfl.gov.uk/2020/05/01/video-conference-backgrounds/&quot;&gt;scenes on London transport&lt;/a&gt; and &lt;a href=&quot;https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382&quot;&gt;empty sets from TV shows&lt;/a&gt;. It’s a really neat touch from the public service orgs. I wondered what a GDS virtual background might be: maybe just a bunch of Post-its on the wall of some hallowed Cabinet Office room.&lt;/p&gt;
 
-&lt;p&gt;The contact tracing app has got everyone talking about privacy, interoperability and centralised vs decentralised data models, which is really good. Apple and Google proposed and built decentralised models distinctly because they’ve been criticised for their approach to privacy before, and I’m surprised that the government doesn’t just follow the tech giants – they’ve got way more resources to test these approaches out. So it makes me angry to read that money is being spent on creating a second contact tracing app with a decentralised model, ‘in case politicians decide to make a switch’. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The contact tracing app has got everyone talking about privacy, interoperability and centralised vs decentralised data models, which is really good. Apple and Google proposed and built decentralised models distinctly because they’ve been criticised for their approach to privacy before, and I’m surprised that the government doesn’t just follow the tech giants – they’ve got way more resources to test these approaches out. So it makes me angry to read that money is being spent on creating a second contact tracing app with a decentralised model, ‘in case politicians decide to make a switch’. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Although it looks like &lt;a href=&quot;https://twitter.com/sarahtgold/status/1258676392620888067&quot;&gt;some of the data permissions patterns are being figured out by NHS&lt;/a&gt; rather than GDS, which is good to see.&lt;/p&gt;
 
@@ -564,10 +564,10 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future&quot;&gt;The Coronavirus Is Rewriting Our Imaginations&lt;/a&gt;, 13 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/446df516-4ec5-4c06-b39f-dd89ea5f6f0b&quot;&gt;UK starts to build second contact tracing app&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ft.com/content/446df516-4ec5-4c06-b39f-dd89ea5f6f0b&quot;&gt;UK starts to build second contact tracing app&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -619,7 +619,7 @@ Weeknotes S08E05
 &lt;p&gt;The last 8 years of transforming public services digitally has been about the &lt;em&gt;interaction&lt;/em&gt; between citizen and state, but ‘personalising’ that means we need to invest in the &lt;em&gt;conversation&lt;/em&gt; between citizen and state too. That’s how you make it feel personalised. That’s where the innovation lies. Create &lt;a href=&quot;/2020/01/08/boring-magic/&quot;&gt;boring magic&lt;/a&gt;, not shiny things.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;‘Public services, funded by public money, must be open to public scrutiny – especially in times of great upheaval when lots of decisions are being made very quickly.’ Rachel Coldicutt&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;‘Public services, funded by public money, must be open to public scrutiny – especially in times of great upheaval when lots of decisions are being made very quickly.’ Rachel Coldicutt&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
@@ -684,10 +684,10 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/business/2020/apr/29/ten-reasons-why-greater-depression-for-the-2020s-is-inevitable-covid#Echobox=1588148788&quot;&gt;Ten reasons why a ‘Greater Depression’ for the 2020s is inevitable&lt;/a&gt;, 4 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/politics/pandemic-panic-and-patient-data-tech-firms-and-the-nhs-in-a-time-of-crisis&quot;&gt;Pandemic, panic and patient data: tech firms and the NHS in a time of crisis&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/politics/pandemic-panic-and-patient-data-tech-firms-and-the-nhs-in-a-time-of-crisis&quot;&gt;Pandemic, panic and patient data: tech firms and the NHS in a time of crisis&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -875,7 +875,7 @@ Weeknotes S08E05
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;We live in a world where every minute is documented, so there’s not so much room to mythologise anything.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;We live in a world where every minute is documented, so there’s not so much room to mythologise anything.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -883,7 +883,7 @@ Weeknotes S08E05
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;After years of fragmentation and polarisation, the joyful militancy of early rave feels poignant; the kind of unified response to political strife that this era is yet to produce.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;After years of fragmentation and polarisation, the joyful militancy of early rave feels poignant; the kind of unified response to political strife that this era is yet to produce.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -920,13 +920,13 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/rd/blog/2020-01-audience-choices-data-personalised-media&quot;&gt;Audience Data and Storytelling - What Do People Choose in Interactive Experiences?&lt;/a&gt;, 7 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.uncut.co.uk/features/blogs/an-audience-with-andrew-weatherall-123307/&quot;&gt;An Audience With Andrew Weatherall&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.uncut.co.uk/features/blogs/an-audience-with-andrew-weatherall-123307/&quot;&gt;An Audience With Andrew Weatherall&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/music/2019/nov/26/saatchi-exhibits-and-bbc-four-docs-why-is-2019-so-nostalgic-for-80s-rave&quot;&gt;Saatchi exhibits and BBC Four docs: why is 2019 so nostalgic for 80s rave?&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/music/2019/nov/26/saatchi-exhibits-and-bbc-four-docs-why-is-2019-so-nostalgic-for-80s-rave&quot;&gt;Saatchi exhibits and BBC Four docs: why is 2019 so nostalgic for 80s rave?&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -2039,7 +2039,7 @@ Weeknotes S08E05
 
 &lt;p&gt;I really need to push for certain questions to be asked in next week’s user research too. Alternative solutions are where you find the basis for innovation: how do people solve that problem already? Having those answers will be useful if the time comes to pivot.&lt;/p&gt;
 
-&lt;p&gt;We were grateful to get a good response to the prototype from the rest of the programme during Jen’s Wednesday morning update. It’s also good to make some of the thinking from Explore Personalisation real. Testing some of those ideas on what some people feel is ‘the single biggest task for the UK’s civil service since the second world war’&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; is definitely something for the CV.&lt;/p&gt;
+&lt;p&gt;We were grateful to get a good response to the prototype from the rest of the programme during Jen’s Wednesday morning update. It’s also good to make some of the thinking from Explore Personalisation real. Testing some of those ideas on what some people feel is ‘the single biggest task for the UK’s civil service since the second world war’&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; is definitely something for the CV.&lt;/p&gt;
 
 &lt;h3 id=&quot;two&quot;&gt;Two&lt;/h3&gt;
 
@@ -2085,10 +2085,10 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/theguardian/2000/nov/01/features11.g22&quot;&gt;The real-life Ali G&lt;/a&gt;, 6 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2016/nov/15/brexit-civil-service-facing-its-largest-task-since-wwii-says-union&quot;&gt;Brexit: civil service facing its largest task since WWII, says union&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2016/nov/15/brexit-civil-service-facing-its-largest-task-since-wwii-says-union&quot;&gt;Brexit: civil service facing its largest task since WWII, says union&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -2831,9 +2831,9 @@ Weeknotes S08E05
 
 &lt;p&gt;We completed the search migration! 🎉 All applications are now using &lt;a href=&quot;https://github.com/alphagov/search-api&quot;&gt;Search API&lt;/a&gt; in all environments, meaning better search latency, an improved architecture for resilience, and we can start exploiting the new features in Elasticsearch 5.6 (and beyond). It’s saving taxpayers around £35,000 per year too, which is a Good Thing.&lt;/p&gt;
 
-&lt;p&gt;We were able to roll it out in good fashion too. An &lt;a href=&quot;https://status.publishing.service.gov.uk/incidents/s0fj6yqdz6wp&quot;&gt;incident&lt;/a&gt; fired up on Tuesday which was throwing hundreds of &lt;code class=&quot;highlighter-rouge&quot;&gt;500&lt;/code&gt; errors and it was proving tricky to get to the root cause. We were on the verge of rolling out anyway but were doing some final checks on search result ordering. All results were coming through as expected or with minimal variance in their ordering, except for organisation pages which were showing a strange behaviour – but not so strange that the user experience would be massively degraded.&lt;/p&gt;
+&lt;p&gt;We were able to roll it out in good fashion too. An &lt;a href=&quot;https://status.publishing.service.gov.uk/incidents/s0fj6yqdz6wp&quot;&gt;incident&lt;/a&gt; fired up on Tuesday which was throwing hundreds of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;500&lt;/code&gt; errors and it was proving tricky to get to the root cause. We were on the verge of rolling out anyway but were doing some final checks on search result ordering. All results were coming through as expected or with minimal variance in their ordering, except for organisation pages which were showing a strange behaviour – but not so strange that the user experience would be massively degraded.&lt;/p&gt;
 
-&lt;p&gt;So we did a quick check on the top 10,000 search terms and decided it was fine to go ahead. It took barely any time at all and the &lt;code class=&quot;highlighter-rouge&quot;&gt;500&lt;/code&gt; errors started dropping soon after. By the next day, they’d dropped even further, and as &lt;a href=&quot;https://twitter.com/barrucadu&quot;&gt;Michael&lt;/a&gt; pointed out, having Rummager running alongside Search API was a good way to see how much better the new infrastructure is at clearing the job queues.&lt;/p&gt;
+&lt;p&gt;So we did a quick check on the top 10,000 search terms and decided it was fine to go ahead. It took barely any time at all and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;500&lt;/code&gt; errors started dropping soon after. By the next day, they’d dropped even further, and as &lt;a href=&quot;https://twitter.com/barrucadu&quot;&gt;Michael&lt;/a&gt; pointed out, having Rummager running alongside Search API was a good way to see how much better the new infrastructure is at clearing the job queues.&lt;/p&gt;
 
 &lt;p&gt;A good win for the week.&lt;/p&gt;
 
@@ -2968,7 +2968,7 @@ Weeknotes S08E05
 
 &lt;p&gt;Platform Health have managed to get concrete numbers on how much load the platform can put up with too, which means they can look at the architecture strategy going forward. Content Data have added reading time to their metrics, meaning you can find out how long it takes to read things like the &lt;a href=&quot;https://www.gov.uk/government/publications/budget-2018-documents/budget-2018&quot;&gt;Budget 2018&lt;/a&gt; (answer: 3h 26m). Filtered lists (we call those Finders) are more consistent, and a machine-learning algorithm has helped humans curate related links on pages, which other humans find useful.&lt;/p&gt;
 
-&lt;p&gt;I got to announce that we’re saving taxpayers £35,000 a year off the back of our Search Resilience &amp;amp; Performance mission, and I wrote it on the side of a bus. Then I showed how we might (I must stress, might) personalise the experience of interacting with government, based on what we’d found from speaking to international governments and senior stakeholders. Next we need to find a politician willing to spend the political capital required to make a natively digital nation a reality in the UK. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;I got to announce that we’re saving taxpayers £35,000 a year off the back of our Search Resilience &amp;amp; Performance mission, and I wrote it on the side of a bus. Then I showed how we might (I must stress, might) personalise the experience of interacting with government, based on what we’d found from speaking to international governments and senior stakeholders. Next we need to find a politician willing to spend the political capital required to make a natively digital nation a reality in the UK. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;And it was a boon to wrap up the quarter knowing that Government Communication Service and the &lt;a href=&quot;https://www.gov.uk/government/people/john-manzoni&quot;&gt;Chief Executive of the Civil Service&lt;/a&gt;, amongst others, think that GOV.UK is staffed by cool and capable people. That this digital thing might just be a better way of working.&lt;/p&gt;
 
@@ -3013,10 +3013,10 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.adalovelaceinstitute.org/public-deliberation-could-help-address-ais-legitimacy-problem-in-2019/&quot;&gt;Public deliberation could help address AI’s legitimacy problem in 2019&lt;/a&gt;, 5 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I copied these words from a post on how to &lt;a href=&quot;https://public.digital/2018/09/25/making-government-as-a-platform-real/&quot;&gt;make government as a platform real&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I copied these words from a post on how to &lt;a href=&quot;https://public.digital/2018/09/25/making-government-as-a-platform-real/&quot;&gt;make government as a platform real&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -3537,7 +3537,7 @@ Weeknotes S08E05
 
 &lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/C8CupnJmXXqSuxlPOX/giphy.gif&quot; alt=&quot;Jared Dunn pulls a SWOT analysis board from behind a cabinet. From HBO's Silicon Valley.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;For example, I asked her to start detailing the solution, what the thing was. She came up with four facets of the product: a tool to build and edit concept schemes and vocabularies, a tool to break up content and tag it, a contextual content API, and something else which I can’t remember. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Next I asked her to list the problems that would solve, and we jotted down a heap of ideas. We then worked through the rest of the canvas, finally settling on ‘Revenue streams’ which I changed to ‘Value for government’.&lt;/p&gt;
+&lt;p&gt;For example, I asked her to start detailing the solution, what the thing was. She came up with four facets of the product: a tool to build and edit concept schemes and vocabularies, a tool to break up content and tag it, a contextual content API, and something else which I can’t remember. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Next I asked her to list the problems that would solve, and we jotted down a heap of ideas. We then worked through the rest of the canvas, finally settling on ‘Revenue streams’ which I changed to ‘Value for government’.&lt;/p&gt;
 
 &lt;p&gt;We now have an understanding of what this thing might be, the problems it would solve, how it would solve those problems, the people who’d use it soonest and later, the cost to research and build this thing, etc. But everything we’ve listed is an assumption. The next step is to validate whether our assumptions are true or not. For example, we assumed that duplicating content was a problem this would solve. We need to dig into this problem area and collect evidence that a) it is a problem, b) it is a problem of unorganised and unfindable content, and b) it is a problem big enough to solve.&lt;/p&gt;
 
@@ -3567,14 +3567,14 @@ Weeknotes S08E05
   &lt;li&gt;Be wary of just being reactive to things – this is the biggest mistake you can make as a PM.&lt;/li&gt;
   &lt;li&gt;It’s an anti-pattern to be myopic on things. You can’t only focus on the detail of a problem area, you must also know its context and the landscape.&lt;/li&gt;
   &lt;li&gt;Get the reality in the room when stakeholders make grand assumptions about solutions, ask them to break down how the outcome could be reached.&lt;/li&gt;
-  &lt;li&gt;People nod their head at certain terms but might not share the same understanding. For example, MVP is thrown around at GDS (and the rest of government) but how many people &lt;em&gt;actually&lt;/em&gt; understand what it means? Get definitions on a poster and out in the open to spark conversation. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;People nod their head at certain terms but might not share the same understanding. For example, MVP is thrown around at GDS (and the rest of government) but how many people &lt;em&gt;actually&lt;/em&gt; understand what it means? Get definitions on a poster and out in the open to spark conversation. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;Helping is a power dynamic – be aware of that. In telling someone how to improve their ways of working, you’re also telling them that what they do now sucks.&lt;/li&gt;
   &lt;li&gt;Present thinking rather than gap thinking is probably better for organisational change. The latter is based on aiming for a massive far-off goal. The former is more about iterating within the present possibility space.&lt;/li&gt;
   &lt;li&gt;If you’re a new PM on an established product, create a learning backlog for yourself. Get a prioritised set of questions to help you learn about the product and its vision. Pull them into your team’s backlog so they can answer stuff for you, it builds trust. Be clear on why you’re asking the questions as well, to help people understand your strategic approach to discovery.&lt;/li&gt;
   &lt;li&gt;Sell the opportunity rather than the intervention.&lt;/li&gt;
   &lt;li&gt;Talk about uncertainty with certainty.&lt;/li&gt;
   &lt;li&gt;Get &lt;a href=&quot;https://www.forbes.com/sites/bernardmarr/2017/10/26/data-driven-decision-making-beware-of-the-hippo-effect/&quot;&gt;HiPPOs&lt;/a&gt; to frame their idea as a [testable] bet that you’ll hold them accountable to. Then reflect back when you see the outcomes.&lt;/li&gt;
-  &lt;li&gt;Start together. Open up the door to the haunted house together. &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Start together. Open up the door to the haunted house together. &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;One comment gave everyone in the room a good boost. He said, ‘You’re solving some of the hardest problems in the world, you know, you’re not delivering a burrito by drone – that’s just an optimisation problem! You guys are doing the coolest shit in the world.’&lt;/p&gt;
@@ -3608,16 +3608,16 @@ Weeknotes S08E05
   &lt;li&gt;&lt;a href=&quot;https://www.localwelcome.org/blog/2019/1/18/clarity-and-shared-direction&quot;&gt;Clarity and shared direction&lt;/a&gt;, 3 mins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Dagnabbit, I forgot to take a photo of the canvas. I’ll do that and update this on Monday. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Dagnabbit, I forgot to take a photo of the canvas. I’ll do that and update this on Monday. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Definitely going to do this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Definitely going to do this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;In horror movies, people being split up is the worst thing: they always die. People encountering scary stuff together is manageable. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;In horror movies, people being split up is the worst thing: they always die. People encountering scary stuff together is manageable. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -4326,7 +4326,7 @@ Weeknotes S08E05
 
 &lt;p&gt;We mapped the user journey for scheduling a page for publication, using a press release as an example. We drew out the steps horizontally, then noted beneath each step the applications and stack that powered that part of the journey. Next we listed the data points, or service level indicators (SLIs), between each step which verify the user can complete the job successfully. For example, the publishing application returns a 200, the publishing API has workers free to take the job, the content item is built and has an ID, etc. These SLIs in sequence form a pattern we can observe to know that users can successfuly schedule publications. We could monitor it constantly or only refer to it during an incident.&lt;/p&gt;
 
-&lt;p&gt;Finally, we needed to set an SLO: a measure of the performance of the service with a target for its performance. Each content item has a &lt;code class=&quot;highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; property which shows the time difference between when the user intended it to be published and when it was actually published. Over the last 3 months it has been 1–18 seconds on average during good spells, but if an incident occurs it has been known to max out at 3 days. Quite the delay! We decided that &lt;code class=&quot;highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; for each content item should be 1–59 seconds, meaning that our SLO is for pages to be published within the minute of schedulation.&lt;/p&gt;
+&lt;p&gt;Finally, we needed to set an SLO: a measure of the performance of the service with a target for its performance. Each content item has a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; property which shows the time difference between when the user intended it to be published and when it was actually published. Over the last 3 months it has been 1–18 seconds on average during good spells, but if an incident occurs it has been known to max out at 3 days. Quite the delay! We decided that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publishing_delay&lt;/code&gt; for each content item should be 1–59 seconds, meaning that our SLO is for pages to be published within the minute of schedulation.&lt;/p&gt;
 
 &lt;h3 id=&quot;three&quot;&gt;Three&lt;/h3&gt;
 
