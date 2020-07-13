@@ -5,9 +5,56 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jul 2020 18:15:48 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2020 18:15:48 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2020 19:10:51 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 19:10:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>This website is killing the planet</title>
+        <description>&lt;p&gt;For a while I’ve been intending to make my website more sustainable, but I succumbed, as I often do, to the human trait of sloth. But this morning after reading &lt;a href=&quot;https://alistapart.com/article/webwaste/&quot;&gt;Gerry McGovern’s post on webwaste&lt;/a&gt;, I thought I’d procrastinated long enough.&lt;/p&gt;
+
+&lt;p&gt;So I ran a web page performance test and got some &lt;a href=&quot;https://www.webpagetest.org/result/200713_XX_e2daed33a24cd8a099d930fc373b1083/&quot;&gt;grim results&lt;/a&gt;: my website takes over a minute to load on a Moto G4 on using 3G data networks. It’s just as bad &lt;a href=&quot;https://www.webpagetest.org/result/200713_6E_4e249b485a45882604420068caa21ae0/&quot;&gt;using a desktop PC in Nottingham on 1.5Mbps DSL&lt;/a&gt;. My website is bloated with large images and a bunch of JavaScript, which means it’s eating up lots of energy transmitting those bits and bytes.&lt;/p&gt;
+
+&lt;p&gt;But how much energy? I used the &lt;a href=&quot;https://www.websitecarbon.com&quot;&gt;Website Carbon Calculator&lt;/a&gt; to find out. Turns out that&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;6.90g of CO2 is produced every time someone visits the homepage&lt;/li&gt;
+  &lt;li&gt;it emits the amount of carbon that 4 trees absorb in a year, and&lt;/li&gt;
+  &lt;li&gt;it uses enough electricity to drive an electric car 1,116km&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eugh. That’s disgusting. For each year my website has been online, I should have planted 4 trees but, instead, my laziness has filled the atmosphere with more and more carbon.&lt;/p&gt;
+
+&lt;p&gt;I have to do something, this has gone on long enough, so I’m committing to some actions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I’ll move my site to a web hosting provider using renewable energy, one that’s listed on the &lt;a href=&quot;https://www.thegreenwebfoundation.org/directory/&quot;&gt;Green Web Foundation’s directory&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I’ll compress and optimise the images on my site using &lt;a href=&quot;https://imageoptim.com/mac&quot;&gt;ImageOptim&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I’ll get rid of &lt;a href=&quot;https://github.com/samesies/barber-jekyll&quot;&gt;my energy-guzzling site theme&lt;/a&gt; until I can introduce one that’s lightweight and accessible.&lt;/li&gt;
+  &lt;li&gt;Going forward, my website will enshrine the principles of the &lt;a href=&quot;https://www.sustainablewebmanifesto.com&quot;&gt;Sustainable Web Manifesto&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To show my committment to being a good web citizen, I’ll add the &lt;a href=&quot;https://www.websitecarbon.com/badge/&quot;&gt;Website Carbon Badge&lt;/a&gt; to all pages and the &lt;a href=&quot;https://www.thegreenwebfoundation.org/green-web-check/&quot;&gt;Green Web Foundation’s renewable hosting badge&lt;/a&gt;. Once I’ve improved things, I’ll add &lt;a href=&quot;https://carbontxt.org/&quot;&gt;carbon.txt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One day I’ll actually get around to building a solar-powered battery bank and run my site of my home connection, but until then I’m taking small steps to remove, minimise and clean-up my presence on the web.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/webwaste/&quot;&gt;Webwaste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/blog/bullshit-web/&quot;&gt;The bullshit web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wholegraindigital.com/blog/sustainable-web-design/&quot;&gt;3 steps to creating zero carbon websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&quot;&gt;How to build a low-tech website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>Blogging and working in the open</title>
