@@ -5,9 +5,75 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jul 2020 18:55:44 +0100</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2020 18:55:44 +0100</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2020 10:00:21 +0100</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2020 10:00:21 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Productivity Hack</title>
+        <description>&lt;p&gt;Managed to get heaps done this week, all thanks to one weird trick – wearing shoes. No idea if that’s true or not, but I certainly felt more productive.&lt;/p&gt;
+
+&lt;p&gt;The eagle-eyed amongst you will have noticed the aesthetic changes to this website. That’s because I noticed &lt;a href=&quot;/2020/07/13/this-website-is-killing-the-planet/&quot;&gt;my website had an awful carbon footprint&lt;/a&gt; and I took steps to improve it.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Where I had free moments, much of the week was spent doing discovery on a new feature to &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#define-the-problem&quot;&gt;define the problem&lt;/a&gt;. Some government services take payments over the phone, meaning users ring call centres and give their card details to an agent, who processes the payment using GOV.UK Pay or another payment service provider. The switch to working from home during the pandemic has meant that call agents are processing payments in their homes, whereas usually the call centre would provide most of the security needed to ensure users’ details aren’t stolen and defrauded. It’s an interesting problem!&lt;/p&gt;
+
+&lt;p&gt;I spoke to two departments and one local authority, and I’ve got chats with two more local authorities lined up for next week. It’s helpful to get the experiences of a few different parties and the value proposition is starting to become clearer. After discussing possible solutions with the team, it seems like a relatively easy and low-effort build, meaning we could deliver value quickly. That’s probably a good thing as we’re nearing autumn and a second wave is on people’s minds.&lt;/p&gt;
+
+&lt;p&gt;I also caught up with my old buddies on GOV.UK to talk about accounts (as mentioned in a &lt;a href=&quot;https://gds.blog.gov.uk/2020/05/28/update-on-the-future-of-gov-uk/&quot;&gt;recent blog post&lt;/a&gt;) and validated use cases for GOV.UK Pay. We’re in the early stages of exploring recurring payments, a new payment behaviour, as all transactions through Pay are one-off payments currently. We’re going to stay aligned as our explorations continue, so that we solve common problems instead of duplicating efforts.&lt;/p&gt;
+
+&lt;p&gt;There’s good buy-in for this quarter’s objective and the team has been buoyed by a new developer. The energy has changed a little and it feels like we’re going to make good progress. Having two developers on a team simply isn’t enough, so I’m glad we’ll have two pairs of developers come the end of July!&lt;/p&gt;
+
+&lt;p&gt;Xander ran an excellent session to help the Government as a Platform programme reflect on racism, and David designed the session using his &lt;a href=&quot;http://www.liberatingstructures.com&quot;&gt;Liberating Structures&lt;/a&gt; mastery. A lot of people were worried they weren’t doing enough to be anti-racist and were worried of doing the wrong things. It was good to show that vulnerability as a group, however. I’m not sure whether other programmes or teams are reflecting on racism together, but I was glad to be able to assemble with my peers and talk about it.&lt;/p&gt;
+
+&lt;p&gt;I’m going to be a lead educator for GDS’s new introduction to product management course, which is going live on &lt;a href=&quot;https://futurelearn.com/partners/government-digital-service&quot;&gt;FutureLearn&lt;/a&gt; soon. I met with Tobi, Arfah and Agnieszka to finish off some definitions for the glossary, then took a little tour of the course. It’s looking good!&lt;/p&gt;
+
+&lt;p&gt;We spent 45 minutes looking at how Pay talks to users and tells them about new features. Rebecca used a prototype as provocation, which was useful in helping us talk about the problem we were trying to solve. It has been framed as a problem of communication, whereas I think it’s a problem of feature adoption. It got me thinking about &lt;a href=&quot;https://www.youtube.com/watch?v=sfGtw2C95Ms&quot;&gt;milkshakes&lt;/a&gt; and growth loops. I’m going to add a ‘How might we encourage and monitor adoption of this feature?’ section to my product decision records&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;And we’re holding our first user group, please do &lt;a href=&quot;https://www.eventbrite.co.uk/e/govuk-pay-user-group-tickets-113322598944&quot;&gt;come along&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Fixing up my website to make it more ecofriendly was a good use of effort this week, and I’d encourage everyone to do the same. Optimise your images, choose a web-hosting company that runs on renewable energy, and reduce page weight.&lt;/p&gt;
+
+&lt;p&gt;I’ve had to switch from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push&lt;/code&gt;-ing my site to uploading via FTP, which is a bit of a drag. Definitely adds 10 minutes or so to the release process, so I’m going to look into SSH and Git features with my new host.&lt;/p&gt;
+
+&lt;p&gt;Somehow duffed up my knee last week and haven’t been able to run since last Friday, which means my weight is creeping up slightly despite doing HIIT at home. I’m hoping my knee will have recovered by Monday, but I’ll try and fit a bike ride in this weekend. I was doing so well!&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/webwaste/&quot;&gt;Webwaste&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wholegraindigital.com/blog/carbon-calculator-v2/&quot;&gt;Introducing the Website Carbon Calculator V2&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomjarrett.earth/Network-Responsive-Design&quot;&gt;Network Responsive Design — Tom Jarrett&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wholegraindigital.com/blog/introducing-the-sustainable-web-manifesto/&quot;&gt;Introducing the Sustainable Web Manifesto&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adamsilver.io/articles/the-trouble-with-mailto-email-links-and-what-to-do-instead/&quot;&gt;The trouble with mailto email links and what to do instead&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html&quot;&gt;How Sustainable is a Solar Powered Website?&lt;/a&gt;, 21 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/building-the-woke-web/&quot;&gt;Building the Woke Web: Web Accessibility, Inclusion &amp;amp; Social Justice&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2020/07/14/larger-better-faster-stronger-gov-uk-pays-progress-in-the-last-year/&quot;&gt;Larger, Better, Faster, Stronger: GOV.UK Pay’s progress in the last year&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thegreenwebfoundation.org/news/notes-for-greening-internet-governance-at-eurodig/&quot;&gt;Notes for Greening Internet governance at EURODig&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/07/01/1004725/redesign-internet-apps-no-one-controls-data-privacy-innovation-cloud/#Echobox=1594413823&quot;&gt;A plan to redesign the internet could make apps that no one controls&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.reforge.com/blog/growth-loops&quot;&gt;Growth Loops are the New Funnels — Reforge&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jonjalex/it-doesnt-have-to-be-like-this-22f0884fbaf&quot;&gt;It doesn’t have to be like this.&lt;/a&gt;, 11 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;There’s nothing fancy about these product decision records, I’m literally just writing down all our work, as it happens, in chronological form. Means we have a log of everything that happened, can refer to it later, but it also supports asynchronous communication now. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/18/the-productivity-hack/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/18/the-productivity-hack/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Shock of London</title>
