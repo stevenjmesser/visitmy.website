@@ -5,9 +5,82 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jul 2020 10:00:21 +0100</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2020 10:00:21 +0100</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2020 18:57:02 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 18:57:02 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Untiring Advocate of Summer Time</title>
+        <description>&lt;p&gt;Busy but short week in which we ran a user group session and chatted to Open Banking.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;I had a bad bout of insomnia over the weekend, which put me out of action on Monday. Turns out I missed all the fun as we had a couple of incidents, neither of which were our fault but did cause problems for many users. I joined the &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1285581678841397248&quot;&gt;incident reviews&lt;/a&gt; and I’m really proud of &lt;a href=&quot;https://payments.statuspage.io/incidents/9tbskz52y2q6&quot;&gt;the post-mortem we produced for the Worldpay outage&lt;/a&gt;, which balances the needs of service teams and our agency as a bundler of other services.&lt;/p&gt;
+
+&lt;p&gt;Nothing teaches you about Wardley mapping more than working on a Government-as-a-Platform product, let me tell you!&lt;/p&gt;
+
+&lt;p&gt;I met with our new interaction designer, Rebecca, who I’m excited to work with on prototyping some ideas for new features and their effect on the paying user journey. Using provoco-types as a way to think through a problem space appeals to my visual brain more than filling in a document ever does.&lt;/p&gt;
+
+&lt;p&gt;Julia, our Head of Product on GaaP, was really engaged in our chat about coaching. It’s always seemed odd to me that GDS doesn’t coach its product managers or actively develop its talent apart from on-the-job experience, as ‘good product organisations are continually investing in the ongoing development of their product managers’.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Whenever I listed to podcast about other product organisations, you tend to hear stories of coaching or principles they’ve written for their PMs to follow. It’s a gap that needs to be filled, I think. There’s plenty of product leaders around GDS who could help their more junior fellows, so Julia and I thought through a light way for encouraging those experiences to be shared.&lt;/p&gt;
+
+&lt;p&gt;More time was spent interviewing users and doing product discovery work on the feature for call centre agents I mentioned &lt;a href=&quot;/2020/07/18/the-productivity-hack/&quot;&gt;last week&lt;/a&gt;. Next week I’ll pull together the user stories and plan time to build and test the feature. I’ll need to write some hypotheses for that.&lt;/p&gt;
+
+&lt;p&gt;Check-in went well and we’re making progress on decommissioning Direct Debit functionality (temporarily).&lt;/p&gt;
+
+&lt;p&gt;It took me a couple of hours to pull together figures for a recurring payments feature. I’m trying to estimate how many transactions we might process per year through recurring payments and &lt;a href=&quot;https://www.gov.uk/performance&quot;&gt;Performance Platform&lt;/a&gt; has been so helpful in doing that. My dad mentioned that he’d love to have his fishing licence automatically renew, so I included figures for rod licences in the estimates. And then DEFRA Digital got in touch the next day to ask if anyone was exploring it! The universe is synchronised.&lt;/p&gt;
+
+&lt;p&gt;Our first user group session went well and we had good engagements with our users. It was good to give them the space to raise questions with us and share thoughts with each other. We had over 70 people on the call which I think is a big success for our first event! Looking forward to reading the feedback.&lt;/p&gt;
+
+&lt;p&gt;A call with Open Banking was positive too, they seemed really impressed by GOV.UK Pay’s successes and high growth.&lt;/p&gt;
+
+&lt;p&gt;And I joined the &lt;a href=&quot;https://www.canada.ca/en/treasury-board-secretariat/services/innovation/greening-government.html&quot;&gt;greening government&lt;/a&gt; working group for &lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_9&quot;&gt;Digital Nations&lt;/a&gt; (a.k.a. D9) so that we can try and reduce the carbon footprint of digital governments worldwide.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;We walked the second section of the London Loop last weekend, which is a beautiful walk along a brook, through some meadows to a pond, and finishing in the ancient Petts Wood. It’s an expected delight that this is all in London and reachable by train. If you get a chance to walk the route, it makes a welcome tonic to months of lockdown.&lt;/p&gt;
+
+&lt;p&gt;Having finished &lt;em&gt;Border Country&lt;/em&gt; by Raymond Williams, I started reading &lt;em&gt;Steal as much as you can&lt;/em&gt; by Nathalie Olah, and it’s fantastic. It probably speaks to me because I share affinities with the author. I’m from the ex-industrial West Midlands, from a working-class background, graduated during the 2008 financial crisis as the first person in my family to go to university, and spent a bit of time in the world of literary publishing. She helped me realise just how much I’ve been subject to the mediocrity of the middle classes first-hand, the monotonous output of culture in recent years, and how many changes I’ve had to make, to my appearance and myself as a person, to fit in.&lt;/p&gt;
+
+&lt;p&gt;Despite not being able to run, I’ve been continuing the HIIT workouts and reducing my calories, which has meant that the lockdown belly is going down. Quite amazing what you can do with prison workouts!&lt;/p&gt;
+
+&lt;p&gt;Went to the pub for a few pints and, wow, there’s no distancing and no one’s taking down your details! We sat outside but it was very cramped. Don’t think I’ll be doing that again any time soon, especially as &lt;a href=&quot;https://russss.github.io/covidtracker/index.html&quot;&gt;cases in London are rising&lt;/a&gt; slightly.&lt;/p&gt;
+
+&lt;p&gt;It was nice to get a mention in Wholegrain Digital’s &lt;a href=&quot;https://www.wholegraindigital.com/curiously-green/issue-10/&quot;&gt;Curiously Green newsletter&lt;/a&gt; too.&lt;/p&gt;
+
+&lt;p&gt;Anyway, it’s my birthday tomorrow so I’m going to chill and enjoy myself.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://servicetransformation.blog.essex.gov.uk/2020/07/17/digital-remote-working-research-findings/&quot;&gt;Digital remote working - research findings&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theatlantic.com/technology/archive/2014/01/88-or-how-telegraphers-coded-love-and-kisses/282850/&quot;&gt;88, Or How Telegraphers Coded ‘Love and Kisses’&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vittles.substack.com/p/vittles-620-pubs-and-community&quot;&gt;Vittles 6.20 - Pubs &amp;amp; Community&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html&quot;&gt;Hackers Tell the Story of the Twitter Attack From the Inside&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.com/it-is-what-it-is-eyemoutheye-emoji-mystery-app-twitter-2020-6&quot;&gt;A group of young techies is behind ‘👁👄👁,’ a mysterious meme that succeeded in getting Tech Twitter to donate to Black Lives Matter charities and clamor for invites to an app that doesn’t exist&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/21/technology/twitter-bans-qanon-accounts.html&quot;&gt;Twitter Takedown Targets QAnon Accounts&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reallifemag.com/the-apophenic-machine/&quot;&gt;The Apophenic Machine — Real Life&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilywebber.co.uk/quick-icebreakers-for-online-meetings-that-dont-suck/&quot;&gt;Quick icebreakers for online meetings, (that don’t suck)&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://peterkwells.com/2020/07/16/the-uk-address-mess-a-way-forward/&quot;&gt;The UK address mess: a way forward?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robbartlett.design/html/rob_bartlett_design_a_new_digital_vision.html&quot;&gt;RBD A New Digital Vision&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015&quot;&gt;Advocating for a Product Mindset within Platform Teams and How We Do It at HelloTech (Part 1)&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://svpg.com/coaching/&quot;&gt;https://svpg.com/coaching/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Productivity Hack</title>
