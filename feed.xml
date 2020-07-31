@@ -5,9 +5,91 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jul 2020 19:03:46 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2020 19:03:46 +0100</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2020 19:04:58 +0100</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2020 19:04:58 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Asynchronous Communication</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;I’m not going to write up everything I did this week, because it was filled with lots of little things and I was hoping it would be a week of deep things. But I did reflect on &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1289109258508947457&quot;&gt;why I moved from GOV.UK&lt;/a&gt; and I’m feeling happy about it. And anyway, we changed our ways of working this week.&lt;/p&gt;
+
+&lt;p&gt;This week we tried out &lt;a href=&quot;https://alisterbscott.com/2016/07/22/how-we-communicate-at-automattic/&quot;&gt;asynchronous communication&lt;/a&gt; to see whether it might become a feature of the new normal. Rather than everyone needing to be in the office at the same time, using meetings and emails as the main thoroughfare of information exchange, asynchronous communication uses the internet to facilitate distributed working.&lt;/p&gt;
+
+&lt;p&gt;In theory, it’s good for working parents who don’t have their regular access to childcare, and for people looking after vulnerable friends, partners and relatives. It’s also supposed to be ideal for anyone with an introverted sensibility that finds it hard to collaborate in face-to-face meetings. As a communication practice, it’s supposed to prevent managers and leaders from forcing their colleagues to pitch in on half-formed ideas, encouraging more background work and concise communication.&lt;/p&gt;
+
+&lt;p&gt;That’s the theory anyway. We tried it out for a week to see how it worked for us on GOV.UK Pay. Here’s my notes on what went well and what didn’t go well for me.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-went-well&quot;&gt;What went well&lt;/h3&gt;
+
+&lt;p&gt;There was more time in the mornings to process emails and plan my goals for the week.&lt;/p&gt;
+
+&lt;p&gt;I felt more conscious of how instant messages might distract or overload people, so I spent a little longer writing out a message to make sure it was understandable and actionable.&lt;/p&gt;
+
+&lt;p&gt;When I hit a slump in concentration after a big tranche of meetings, I stopped working and went for a run. I carried on working after dinner with renewed energy. This is &lt;a href=&quot;https://fs.blog/2019/10/focused-diffuse-thinking/&quot;&gt;diffuse mode thinking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-could-have-been-better&quot;&gt;What could have been better&lt;/h3&gt;
+
+&lt;p&gt;On Monday I had 2 hours of meetings with people outside the team, which meant I didn’t get a chance to get my head down as much as I’d have liked. I doubt that’s avoidable.&lt;/p&gt;
+
+&lt;p&gt;Though we’re still using Slack for conversation, I did find it caused unhelpful context-switching and created a distraction when someone @-ed me. I had my head deep in a set of discovery questions for a new payment behaviour and felt compelled to switch into thinking about technical operational management.&lt;/p&gt;
+
+&lt;p&gt;I still had to send emails with my colleagues cc’ed, but these were email threads to people outside our team. Not ideal, but to be expected when you’re running a service.&lt;/p&gt;
+
+&lt;p&gt;Asynchronous sprint planning felt a little clunky. We had planned some activities to be completed by a certain time, but we cut it quite close to the wire. It’s probably because we’ve never done it before but also perhaps because we’re still gelling as a team.&lt;/p&gt;
+
+&lt;p&gt;Communication is always hard but it’s much easier to misread a message when you only have text to go by. We probably should have co-created some communication principles, such as assuming good intent or taking time to explain yourself.&lt;/p&gt;
+
+&lt;p&gt;By Wednesday, I felt like I was living out of my inbox more than usual.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-ill-start-doing&quot;&gt;What I’ll start doing&lt;/h3&gt;
+
+&lt;p&gt;We work flexible hours, so I’ll start being more strict with caring for my concentration levels. For example, if I have a two-hour stretch of meetings, I’ll go do something else for a bit before returning to work some more.&lt;/p&gt;
+
+&lt;p&gt;Having my attention diverted by notifications on Slack is unhelpful, so I’ll start setting do-not-disturb periods when I’m trying to get my head down.&lt;/p&gt;
+
+&lt;p&gt;Pomodoro helps me break out of inbox- and Slack-surfing, so I’ll use that more next week.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;I had a dead good birthday. Not as raucous as most years, relatively tame in comparison, but still indulged – as one should.&lt;/p&gt;
+
+&lt;p&gt;Birthday lunch at Forza Wine was decent, and I’d really missed Italian food and wine. The staff were PPE’d up sufficiently and the tables were distanced, which surprisingly didn’t affect the atmosphere too much. Having said that, I’m not sure it’s OK to put waiting staff through the possibility of contracting coronavirus, so that’s probably the last time I’ll eat out this year.&lt;/p&gt;
+
+&lt;p&gt;We walked the third section of the London Loop last week, which was just as nice as the second section. I hadn’t realised that Bromley (the borough) was so green and rural. Gorgeous. We also got to see the &lt;a href=&quot;https://moremoth.blogspot.com/2016/05/wilberforce-oak_12.html&quot;&gt;Wilberforce Oak&lt;/a&gt; which I’m sure many of you would like to visit too. This weekend we’re walking sections four and five, I’m &lt;strong&gt;HYPED&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;After finishing &lt;em&gt;Steal as much as you can&lt;/em&gt; by Nathalie Olah, I’ve started reading &lt;em&gt;SPQR&lt;/em&gt; by Mary Beard. If you imagine she’s speaking it to you, it’s easier to read. Neat trick, that.&lt;/p&gt;
+
+&lt;p&gt;Started running again and my knee is holding out. So that plus continuing the prison workouts means weight loss is going well.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ma.tt/2020/04/five-levels-of-autonomy/&quot;&gt;Distributed Work’s Five Levels of Autonomy&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/how-do-i-know-my-team-is-productive-when-working-from-home/&quot;&gt;How do I know my team is productive when working from home?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/keeping-your-team-healthy-and-more-productive-using-remote-work/&quot;&gt;Keeping your team healthy and more productive using remote work&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-3053-healthy-forcing-functions&quot;&gt;TBM 30/53: Healthy Forcing Functions (and Paying Attention)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/remote-is-not-a-substitute/&quot;&gt;Remote is not a substitute&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vittles.substack.com/p/vittles-623-the-lunch-break&quot;&gt;Vittles 6.23 - The Lunch Break&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/the-top-struggles-of-remote-workers-collaboration-communication/&quot;&gt;The top struggles of remote workers (part 1) — Collaboration &amp;amp; communication&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/the-top-struggles-of-remote-workers-loneliness/&quot;&gt;The top struggles of remote workers (part 2) — Loneliness&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/the-top-struggles-of-remote-workers-not-being-able-to-unplug/&quot;&gt;The top struggles of remote workers (part 3) — Not being able to unplug&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madewithlove.com/the-top-struggles-of-remote-workers-distractions-at-home/&quot;&gt;The top struggles of remote workers (part 4) — Distractions at home&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.prospectmagazine.co.uk/politics/amol-rajan-break-into-elite-bbc2-documentary-social-mobility-class-uk&quot;&gt;Working-class people don’t need to “break into the elite”—we need to change it&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/sustainable-software-design-climate-change/&quot;&gt;How ‘Sustainable’ Web Design Can Help Fight Climate Change&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html&quot;&gt;Lawmakers, United in Their Ire, Lash Out at Big Tech’s Leaders&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/sport/football/53220377&quot;&gt;Wolverhampton Wanderers: The one-year-old season that is far from over&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 31 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/31/the-asynchronous-communication/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/31/the-asynchronous-communication/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Untiring Advocate of Summer Time</title>
