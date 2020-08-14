@@ -5,9 +5,91 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Aug 2020 09:38:34 +0100</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2020 09:38:34 +0100</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2020 18:55:05 +0100</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2020 18:55:05 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Success</title>
+        <description>&lt;p&gt;Open and honest conversations, building trust, purposeful retros and designing strategy. Belter of a week, to be fair. This is a long post, you may need a drink. Cheers! 🍻&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;My new goal last week was to follow through on objectives I set for myself in these weekly reflections, and I’m happy to say that I did that this week. I used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/dnd&lt;/code&gt; on Slack, I set up and facilitated meetings with colleagues to get greater certainty, and that made me feel good.&lt;/p&gt;
+
+&lt;p&gt;It turns out that we might not have the right skills to pull on that thread of observability yet though. We’ve done some simple work to make things much better, but we need to continue that SRE-type people have more time to focus on it. (They’re engaged on a migration right now.)&lt;/p&gt;
+
+&lt;p&gt;To get to that decision, I had some open and honest conversations with some of my colleagues. Heck, observability isn’t the thing that comes naturally to me either, so let’s wait until we’ve got a kernel of the right skills to really tackle it. Having those discussions was a real test of remote-working, I think, as you can read the room or sense people’s vibes: it’s all about communicating clearly, encouraging vulnerability, and building trust. People skills are &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1293262545873182726&quot;&gt;hard skills, not soft skills&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On Monday I had at least one-and-a-half hours catching up with users on a small feature I’m scoping and some product-market fit work. I’m really enjoying working on big things and little things in parallel, relying on documents, Trello boards and frameworks to make the context-switching easier. This is the essence of agile working, having deeper control over the priorities.&lt;/p&gt;
+
+&lt;p&gt;Chatting to someone at the Scottish Parliament about search strategy was really enjoyable. 30 minutes well spent.&lt;/p&gt;
+
+&lt;p&gt;I had a one-to-one with my line manager which was good, but I need to put together my performance objectives as we haven’t done that yet. I’ve been disciplined about that in the past, no point dropping the ball now.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/stevenjmesser/status/1292727545620832256&quot;&gt;Tobi and I opened up GDS’s ‘Introduction to product management’ pilot&lt;/a&gt; to its first cohort on FutureLearn. All the learners are really engaged and there’s plenty of comments to reply to. A mixture of experience on there; I think some of the learners actually know more about product management than they give themselves credit for.&lt;/p&gt;
+
+&lt;p&gt;In our leads meeting, where we usually get together to set a sprint goal for high-level management tasks, we weren’t really sure what had worked well in the previous sprint. So I span up a retro and we spent an hour talking about the work we’d tried to complete and how we work as a team of leads instead. It was really valuable, without that I don’t think we’d have made the decision to talk about the roadmap more frequently or break down big things into smaller tasks. It created some great cohesion amongst us as everyone was open and honest. There’s really good psychological safety in that group.&lt;/p&gt;
+
+&lt;p&gt;That helped me form an approach for having similarly open conversations with my team-mates (as mentioned above). A post on how &lt;a href=&quot;https://daverog.com/2020/07/15/mistrust-makes-technology-toxic/&quot;&gt;mistrust makes technology toxic&lt;/a&gt; from Dave Rogers laid down some important principles.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Teams inevitably manipulate information to navigate low trust cultures – finding ways to avoid being held to account for not meeting unreasonable expectations. Instead of providing honest, insightful information, they ‘feed the beast’ – meeting the demand for evidence of how money is spent and time used with generic, copy-and-pasted responses.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The quote above helped me realise that being able to provide honest, insightful information in our next check-in on why we weren’t making progress would be more valuable than muddling over the facts – so I arranged some hard conversations and had them. There’s many more smiles in stand-up now, and I’m certain we can still meet our team objective – just need to flex the key results is all.&lt;/p&gt;
+
+&lt;p&gt;When people talk about vulnerability, I think they’re just talking about pride not being a blocker to having conversations. Everyone’s genuinely trying to do their best. If you’re a manager or leader and people you work with can’t come to you for help, that is a failure you need to address. We’re all humans, not work-drones.&lt;/p&gt;
+
+&lt;p&gt;Some people suggested &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1293120302797512705&quot;&gt;good books managers could read&lt;/a&gt; on Twitter, thanks for your recommendations, folks. A &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1293849025570054144&quot;&gt;sub-tweet about agile&lt;/a&gt; went down well too.&lt;/p&gt;
+
+&lt;p&gt;On Friday, we started putting together a 3-year roadmap. We logged key milestones in the government payments landscape which prompted us to start some useful conversations. We also logged some dates by which we need to make tactical decisions, and that prompted us to get workshop dates in the diary for next week. I’m using skills I picked up in the course about designing strategy and I couldn’t be happier about it. Love this job.&lt;/p&gt;
+
+&lt;p&gt;The day ended on a high as I outlined some epics with my tech lead, one to improve logging of our interactions with payment gateways and another to retry sending emails whenever GOV.UK Notify (or its suppliers) have an outage. The thinking was flowing really easily and we shaped the work up well, but I was mentally exhausted after an hour!&lt;/p&gt;
+
+&lt;p&gt;What can I say, it’s been a big week. We took strides forward instead of taking steps.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;My partner headed back to her parents for a few days, so I’ve been home alone. Not much to report although it was lovely catching up with a friend last Saturday.&lt;/p&gt;
+
+&lt;p&gt;OK, so there is something to report. I have been testing one of those fitness food delivery services, turns out they’re not worth it. £28 for three meals a day supposedly tuned to your basal metabolic rate and weight loss goals, but they deffo calculated that I needed more calories than I actually do. Don’t get me wrong, the food is all right – the meat is really good, actually – but it’s damn expensive. And I’ve maintained my weight rather than lost anything, despite exercising the same amount. It’s been a fun novelty for a week but back to cooking next week.&lt;/p&gt;
+
+&lt;p&gt;Would love to go on a long walk this weekend but the weather might put shot to that. The &lt;a href=&quot;http://www.vanguardway.org.uk&quot;&gt;Vanguard Way&lt;/a&gt; from Croydon to Edenbridge might suffice though, we crossed it on the London Loop.&lt;/p&gt;
+
+&lt;p&gt;Finally, I’m bloody chuffed with &lt;a href=&quot;https://twitter.com/genmon/status/1294267756108492800&quot;&gt;this endorsement from a WWW legend&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://danhon.substack.com/p/qanon-looks-like-an-alternate-reality&quot;&gt;s08e18: QAnon looks like an alternate reality game&lt;/a&gt;, 27 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mssv.net/2020/08/02/what-args-can-teach-us-about-qanon/&quot;&gt;What ARGs Can Teach Us About QAnon&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/aug/10/britain-government-permanent-campaigning-machine-johnson-cummings&quot;&gt;Britain doesn’t have a government, it has a permanent campaigning machine&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3390-neoliberalism-is-dead&quot;&gt;Neoliberalism is Dead&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daverog.com/2020/07/15/mistrust-makes-technology-toxic/&quot;&gt;Mistrust makes technology toxic&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theoverlap.substack.com/p/strategy-vs-execution-is-not-a-helpful&quot;&gt;“Strategy vs Execution” is not a helpful distinction&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mojdigital.blog.gov.uk/2019/07/25/principles-for-digital-teams/&quot;&gt;Principles for digital teams&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://richard-towers.com/2020/08/02/little-boats-big-boats-little-teams-big-teams.html&quot;&gt;Little boats, big boats; little teams, big teams&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-overview/&quot;&gt;Team Objectives – Overview&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-empowerment/&quot;&gt;Team Objectives – Empowerment&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-ambition/&quot;&gt;Team Objectives – Ambition&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-action/&quot;&gt;Team Objectives – Action&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-collaboration/&quot;&gt;Team Objectives – Collaboration&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-commitments/&quot;&gt;Team Objectives – Commitments&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-management/&quot;&gt;Team Objectives – Management&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-accountability/&quot;&gt;Team Objectives – Accountability&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/team-objectives-summary/&quot;&gt;Team Objectives – Summary&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/nym-privacy-anonymity-internet&quot;&gt;This startup is working to bring full anonymity to the internet&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Aug 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/08/14/the-success/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/08/14/the-success/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Surprise Entry</title>
