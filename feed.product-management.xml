@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Aug 2020 09:48:16 +0100</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2020 09:48:16 +0100</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2020 06:46:11 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2020 06:46:11 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -24,7 +24,7 @@
 &lt;ul&gt;
   &lt;li&gt;What is the product or service?&lt;/li&gt;
   &lt;li&gt;What problem does it solve? Write that down in plain language.&lt;/li&gt;
-  &lt;li&gt;What is the outcome we want users to reach? What is the outcome we want users to avoid?&lt;/li&gt;
+  &lt;li&gt;What is the outcome we want users&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to reach? What is the outcome we want users to avoid?&lt;/li&gt;
   &lt;li&gt;What are the pain points preventing users reaching their outcome?&lt;/li&gt;
   &lt;li&gt;Which of those points is most painful and needs removing first? Which one next?&lt;/li&gt;
   &lt;li&gt;What are the unknowns (discovery)? What are the knowns (delivery)?&lt;/li&gt;
@@ -64,12 +64,22 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Do these resonate with you? What would you add or change? Let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, it’d be great to hear from people.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
         <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
         
         <category>Product management</category>
+        
+        <category>Popular</category>
         
         
       </item>
