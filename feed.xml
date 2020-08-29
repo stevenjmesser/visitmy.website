@@ -5,9 +5,94 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2020 19:25:15 +0100</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2020 19:25:15 +0100</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2020 07:28:45 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2020 07:28:45 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Ridgeway</title>
+        <description>&lt;p&gt;Every day I wake up around 5.30 a.m. This is not because I choose to, it just happens. Most of the time I’ll just lie in bed until my alarm goes off but every other day I go for a run. Except today it’s cold and wet outside and I don’t much feel like running in that. So I’ll write these weeknotes instead because that seems productive.&lt;/p&gt;
+
+&lt;p&gt;And after that, I can have an enjoyable bank holiday weekend of lazing around doing sweet F.A.!&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Mondays are always quiet and, frankly, the worst day to be dragging people into meetings. Instead, I favour getting my head down and focusing on deep work, which means the rest of the team can do the same. After checking my emails and getting some things in motion, I spent the day working on my professional development objectives. It’s pretty simple:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;look at the DDaT skills profiles (I chose &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#senior-product-manager&quot;&gt;senior product manager&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;note which areas you need to work on, and&lt;/li&gt;
+  &lt;li&gt;write down ways you’ll build those skills through your work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I wouldn’t have said this 3 months ago but I’m working at senior level now, I think. So I chose the following objectives.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Contribute to the GDS product management community:&lt;/strong&gt; a perennial objective&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Partner with delivery manager to run a multidisciplinary team (agile working):&lt;/strong&gt; I had this over the last year as I was working mostly with associate delivery managers, but now I’m partnered with a senior it might not be necessary&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Develop and deliver a strategy for Direct Debit and Open Banking on GOV.UK Pay (strategic ownership):&lt;/strong&gt; think it’s probably very important to be able to point to a thing and say in an interview how me and some other people made it happen&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Help adapt our approach to engagement (working with constraints):&lt;/strong&gt; we’re losing capacity from the Strategic Engagement team, so need to find ways to make our engagements efficient&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Apply strategic thinking in meeting users’ needs (user focus):&lt;/strong&gt; being able to demonstrate taking something through the agile phases&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ensure that products get used (financial ownership):&lt;/strong&gt; we solve common needs, we don’t create bespoke solutions for one organisation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each month I write up what work I’ve done to meet those objectives. I’ll need to define an end state for the last four with my line manager, but otherwise most of my work activities contribute to that stuff. I might switch out agile working for something about buy-in and stakeholders.&lt;/p&gt;
+
+&lt;p&gt;Just as I was about to sign off for the day, the alert we set up to tell us that suppliers were having an outage went off, so we rolled into incident mode. It was my first shift on out-of-hours escalation, making me a good person to be comms lead. We &lt;a href=&quot;https://payments.statuspage.io/incidents/b783chyng0y7&quot;&gt;announced the incident on our status page&lt;/a&gt; and then set about contacting suppliers and key service teams. None of them – not even the supplier – were aware of the outage, which was a good thing: when creating the alert, we set the hypothesis that it would allow us to react to supplier outages before service teams, meaning we could be on the front foot with sorting stuff out. We proved that hypothesis which was great!&lt;/p&gt;
+
+&lt;p&gt;Over the week I continued working on collecting evidence and validating/invalidating assumptions for our renewed Direct Debit strategy I mentioned &lt;a href=&quot;/2020/08/21/the-coal-tax-post/&quot;&gt;last week&lt;/a&gt;. I contacted potential suppliers to get more details on the technical aspects of their offerings, details not mentioned on Digital Marketplace, and started working out how we’d contract an external team, should we need one.&lt;/p&gt;
+
+&lt;p&gt;On Friday I reviewed the outline business case for Government as a Platform, including the sections for GOV.UK Pay, ready for submission as part of the &lt;a href=&quot;https://www.gov.uk/government/news/chancellor-launches-comprehensive-spending-review&quot;&gt;Comprehensive Spending Review&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the students I taught at General Assembly asked if I’d be their mentor, so we had our first chat on Wednesday. They’re a great product manager, I’m probably more of a buddy than a mentor, but I’ve been in moments where I wasn’t confident and would have appreciated someone to lean on, so it’s good to help them out.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Started reading &lt;a href=&quot;https://marianamazzucato.com/publications/books/value-of-everything/&quot;&gt;&lt;em&gt;The Value of Everything&lt;/em&gt;&lt;/a&gt; on the train on the way to Hassocks last weekend. Suspect this could set my mind racing so I’ll take notes. Public value, as defined in Mariana Mazzucato’s previous book, is being referred to a lot, so I suspect it could be as enlightening to me as reading &lt;em&gt;Dark Matter and Trojan Horses&lt;/em&gt; was.&lt;/p&gt;
+
+&lt;p&gt;We had people round to view the flat as we handed in our notice to our landlord and we’re moving out of London for the rest of the year. Neither of us will be back in the office this year, despite &lt;a href=&quot;https://www.telegraph.co.uk/news/2020/08/27/go-back-work-risk-losing-job-major-drive-launched-get-people/&quot;&gt;what’s being said in papers&lt;/a&gt;, so we’re moving back to North Wales for a few months. I’m very lucky to be in a position to do this so I’m going to take the opportunity to save thousands on rent, bills, etc. and build up the savings pot.&lt;/p&gt;
+
+&lt;p&gt;I genuinely think it’s a good thing for this to be happening too. There is way too much of a concentration of high-paying jobs and value-generating potential from that captive audience in London. Spreading it out across the UK is a good thing. Looking at it macroeconomically, you don’t want a sudden crash, of course, but there’s only so long you can prop up the market before returning it to its free radical conditions. (And I doubt this government want to step in and control the market, they’re not Cuba.)&lt;/p&gt;
+
+&lt;p&gt;I think there’s the potential to bring city-like businesses to towns. Take co-working spaces, for example, already springing up in towns with good rail connections. Those are likely to grow as people working from home seek an office-like space to separate their home environment from their work environment. With that as a hub for an audience, what other businesses or communities might spring up around it?&lt;/p&gt;
+
+&lt;p&gt;We can distribute the wealth through our purchasing choices in places that aren’t London&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, so fuck Pret A Manger. Let it die. The coffee is shit anyway.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ffcc.co.uk/conversations/the-uk-needs-a-land-use-framework&quot;&gt;The UK needs a land use framework&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ffcc.co.uk/conversations/lets-grow-our-own&quot;&gt;Let’s grow our own, pt. 1&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ffcc.co.uk/conversations/lets-grow-our-own-1&quot;&gt;Let’s grow our own, pt. 2&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ffcc.co.uk/conversations/lets-grow-our-own-2&quot;&gt;Let’s grow our own, pt. 3&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macwright.com/2020/08/22/clean-starts-for-the-web.html&quot;&gt;A clean start for the web&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://builtplace.com/market-commentary-august-2020/&quot;&gt;Market Commentary – August 2020&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gerrymcgovern.com/calculating-the-pollution-cost-of-website-analytics-part-1/&quot;&gt;Calculating the pollution cost of website analytics (Part 1)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gerrymcgovern.com/calculating-the-pollution-cost-of-website-analytics-part-2/&quot;&gt;Calculating the pollution cost of website analytics (Part 2)&lt;/a&gt;, 3mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digital.nhs.uk/blog/transformation-blog/2018/winding-down-register-with-a-gp&quot;&gt;Winding down Register with a GP - NHS Digital&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2020/aug/25/boris-johnson-will-quit-dominic-cummings-father-in-law-reportedly-says&quot;&gt;Boris Johnson will quit in six months, Dominic Cummings’ father-in-law reportedly says&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2020/08/26/testing-my-top-10-tips-against-the-government-chief-digital-officer-job-description/&quot;&gt;Testing my top 10 tips against the Government Chief Digital Officer job description&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.teachingpublicservice.digital/news/week-notes-1&quot;&gt;Week notes #1&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/xg8k5d/what-if-technology-belonged-to-the-people&quot;&gt;What If Technology Belonged to the People?&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pitchfork.com/reviews/albums/rage-against-the-machine-the-battle-of-los-angeles/&quot;&gt;The Battle of Los Angeles&lt;/a&gt;, 14 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;lol, who am I &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 29 Aug 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/08/29/the-ridgeway/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/08/29/the-ridgeway/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Coal-Tax Post</title>
