@@ -5,9 +5,107 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Aug 2020 07:28:45 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2020 07:28:45 +0100</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2020 10:11:36 +0100</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2020 10:11:36 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Beach Below Sea Level</title>
+        <description>&lt;p&gt;Stiffkey saltmarsh is a vast muddy creek on the Norfolk coast, exposed as the tide retreats to the North Sea. It’s a haven for wildlife, a lovely little spot. Where the marsh meets a sand bank, you dip below sea level and the horizon is above your head, waves crashing against the beach. Anxiety is in the air, like sea spray. The tide could come rushing in at any moment, cutting you off from the land, leaving you stranded amid the foaming torment.&lt;/p&gt;
+
+&lt;p&gt;This week felt a little like being on that beach. Except when you check the tide tables, you know that, realistically, you’re not going to be drowned if you leave in the next 40 minutes. So there’s time to enjoy the place and move on to other things.&lt;/p&gt;
+
+&lt;p&gt;And we can always come back another time.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;I learned a lot about getting buy-in this week: from immediate stakeholders, from your team, maybe even from myself. We presented stakeholder risks to our senior management team, talked about capitalising on opportunities, and tried to get our strategies across. But I don’t think I’d done enough work on communicating those previously, and our delivery manager rightly said that now might not be the best time after all.&lt;/p&gt;
+
+&lt;p&gt;Trying to commit to strategy work, beyond the product–market fit of card payments, is really tough when we’re all waiting the outcome of the Comprehensive Spending Review. It’s frustrating, and I found myself in the square of despair&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Despite having a proven model for creating public value, we genuinely don’t know whether we’ll be funded going forward. We have to wait and see. And so we may miss out on opportunities.&lt;/p&gt;
+
+&lt;p&gt;But like being on that beach, I suppose we can come back and revisit things. User needs don’t drift away on the tide.&lt;/p&gt;
+
+&lt;p&gt;Shout-out to our delivery manager, head of product, head of delivery and head of technology this week: you’ve all been fab.&lt;/p&gt;
+
+&lt;p&gt;And some fun stuff happened this week, it wasn’t all so intense!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I presented GOV.UK Pay to the government of Bermuda&lt;/li&gt;
+  &lt;li&gt;We chatted to the Local Digital &lt;a href=&quot;https://www.ripa.digital&quot;&gt;Reducing Invalid Planning Applications&lt;/a&gt; crew&lt;/li&gt;
+  &lt;li&gt;I presented a lightning talk at the all-staff huddle&lt;/li&gt;
+  &lt;li&gt;We had a retro for the Introduction to Product Management course&lt;/li&gt;
+  &lt;li&gt;We reviewed the accessibility audit from the Digital Accessibility Centre, and&lt;/li&gt;
+  &lt;li&gt;We thought about the implications of centralised contracts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That was a lot to fit into four days!&lt;/p&gt;
+
+&lt;h3 id=&quot;things-on-my-mind&quot;&gt;Things on my mind&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Culture and cohesion: establishing and maintaining spirit and the capacity of an organisation to reach its goals through leadership&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Pioneers, settlers and town planners&lt;/li&gt;
+  &lt;li&gt;Mentorship in the UK public sector product community&lt;/li&gt;
+  &lt;li&gt;Working in the open and the Civil Service Code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If any of those interest you, send me a message on Twitter or x-gov Slack.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Continued reading &lt;a href=&quot;https://marianamazzucato.com/publications/books/value-of-everything/&quot;&gt;&lt;em&gt;The Value of Everything&lt;/em&gt;&lt;/a&gt; which, as suspected, has set my mind racing on a few things. Really good book. My Economics A-level came flooding back, I think I’d like to go over my workbooks again (pretty sure I kept them) to revisit some of the concepts.&lt;/p&gt;
+
+&lt;p&gt;Isn’t packing awful? I hate moving house.&lt;/p&gt;
+
+&lt;p&gt;Read lots this week, probably because I got trial subscriptions to &lt;em&gt;The Times&lt;/em&gt; and the &lt;em&gt;Financial Times&lt;/em&gt;. I prefer the latter.&lt;/p&gt;
+
+&lt;p&gt;I’ve taken a week off the exercise to give my knees and shoulders a rest. Can’t wait to finish Couch to 5K next week, and it’s such a great public service. Well done to Public Health England and the BBC for taking that beginners’ running programme and making it distributable and digestible.&lt;/p&gt;
+
+&lt;p&gt;Is the second wave here? &lt;a href=&quot;https://web.archive.org/web/20200905090551/http://web.archive.org/screenshot/https://coronavirus.data.gov.uk/&quot;&gt;Cases&lt;/a&gt; are rising and there’s more people moving through &lt;a href=&quot;https://web.archive.org/web/20200905090836/http://web.archive.org/screenshot/https://russss.github.io/covidtracker/index.html&quot;&gt;online triage&lt;/a&gt;. The &lt;a href=&quot;https://web.archive.org/web/20200905090910/http://web.archive.org/screenshot/https://russss.github.io/covidtracker/map.html&quot;&gt;localised outbreaks&lt;/a&gt; are starting to join up with places nearby too.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.dtic.mil/dtic/tr/fulltext/u2/a156114.pdf&quot;&gt;Analysis of the military strategies and warfare principles of Che Guevara and Fidel Castro during the Cuban Revolution&lt;/a&gt;, 67 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/how-to-concentrate-pomodoro-wfh&quot;&gt;How to hack your concentration when you’re working from home&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://100greatblackbritons.com/bios/harold_moody.html&quot;&gt;100 Great Black Britons: Harold Moody&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kislayverma.com/organizations/a-case-against-platform-teams/&quot;&gt;A case against “Platform Teams”&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://interconnected.org/home/2020/08/26/adaptive_design&quot;&gt;Revisiting Adaptive Design, a lost design movement&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paulshetler.com/pauls-blog1/2017/7/9/transformation-moving-beyond-the-rhetoric&quot;&gt;Transformation - moving beyond the rhetoric&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/&quot;&gt;Digital gardens let you cultivate your own little bit of the internet&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/d8eb62ef-a1cb-4597-867b-15a79dbdcd5d&quot;&gt;Goodbye to the ‘Pret economy’ and good luck to whatever replaces it&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/32OK5ea&quot;&gt;New civil service chief will be central to Johnson’s reform agenda&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetimes.co.uk/article/ground-control-to-major-dom-x5khj3qx5&quot;&gt;Ground control to Major Dom&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diff.substack.com/p/amazon-sees-like-a-state&quot;&gt;Amazon Sees Like a State&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3jwT5eN&quot;&gt;Future of work: how managers are harnessing employees’ hidden skills &lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/8dd71dc3-4566-48e0-a1d9-3e8bd2b3f60f&quot;&gt;The 300,000-year case for the 15-hour week&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetimes.co.uk/article/bullying-claims-by-quarter-of-cabinet-office-staff-trigger-review-rs7t062jl&quot;&gt;Bullying claims by quarter of Cabinet Office staff trigger review&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2020/sep/02/cummings-recruit-sacked-after-suggesting-police-use-live-rounds-on-blm-protesters&quot;&gt;Cummings recruit sacked after suggesting police use ‘live rounds’ on BLM protesters&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2020/sep/02/how-civil-servants-concerns-about-racism-led-them-to-cummings-recruits-tweet&quot;&gt;How civil servants’ concerns about racism led them to Cummings recruit’s tweet&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetimes.co.uk/article/digital-id-cards-lead-the-dominic-cummings-data-revolution-v750fn3kt&quot;&gt;Digital ‘ID cards’ lead the Dominic Cummings data revolution&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/digital-id-cards-uk&quot;&gt;No, Dominic Cummings isn’t plotting to bring back ID cards&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/consultations/digital-identity/outcome/digital-identity-call-for-evidence-response&quot;&gt;Digital Identity: Call for Evidence Response&lt;/a&gt;, 23 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Read the piece on moving beyond the rhetoric of transformation above, it’ll explain all. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I’ve been thinking about this since January and written two blog posts on the subject, neither of which I’ve published yet. Reading about the Cuban Revolution was oddly related, and then organisation-wide events at work brought it all to the fore again. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 05 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/05/the-beach-below-sea-level/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/05/the-beach-below-sea-level/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Ridgeway</title>
