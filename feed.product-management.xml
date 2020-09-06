@@ -5,13 +5,56 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2020 10:11:36 +0100</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2020 10:11:36 +0100</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2020 13:28:34 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2020 13:28:34 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
+        <title>Things to do as a new product manager joining a team</title>
+        <description>&lt;p&gt;Your first 30 days joining a new team or organisation as a product manager are really exciting, and there’s an easy way to set yourself up for success.&lt;/p&gt;
+
+&lt;p&gt;The aim is to get your feet under the table, becoming confident and comfortable in your new position. Your job is going to be &lt;a href=&quot;https://digitalbydefault.com/2020/05/06/it-takes-two/&quot;&gt;deciding what to do and why&lt;/a&gt;, with the help of your team, and that needs evidence, intelligence and ideas.&lt;/p&gt;
+
+&lt;p&gt;At Government Digital Service (GDS), we use a Trello board to help new product managers gather that context. It builds understanding of what the product is, why it exists, how it got to this point and which direction it’s headed in.&lt;/p&gt;
+
+&lt;p&gt;The Trello board gives product managers a set of tasks to do in their first 30 days joining a new team. It was put together by Ross Ferguson around 2018&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and I remember using it in my first month at GDS. It was a good tool for gathering the information I needed to start making decisions, and I decided to iterate it when joining my new team on &lt;a href=&quot;https://www.payments.service.gov.uk&quot;&gt;GOV.UK Pay&lt;/a&gt; recently.&lt;/p&gt;
+
+&lt;p&gt;I split the tasks into three groups:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn the product&lt;/li&gt;
+  &lt;li&gt;Meet the team&lt;/li&gt;
+  &lt;li&gt;Learn the mission&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://trello.com/b/UjAn4OBa&quot;&gt;board&lt;/a&gt; now has lists for things to do in your first 7 days, tasks you can prioritise to learn the most about a product soonest. There’s also a set of questions you can ask in chats with your team, making sure you collect the most essential bits of information.&lt;/p&gt;
+
+&lt;p&gt;Open the &lt;a href=&quot;https://trello.com/b/UjAn4OBa&quot;&gt;Trello board&lt;/a&gt;, make a copy and put it to use in your first 30 days joining a product team. It complements the &lt;a href=&quot;/2020/08/15/essentials-for-starting-and-joining-product-teams/&quot;&gt;must-haves and key things to remember which help me start or join a product team&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Do these tasks resonate with you? What would you add or change? Let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, it’d be great to hear from people.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/rossferg/status/960974335002468353&quot;&gt;https://twitter.com/rossferg/status/960974335002468353&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/06/things-to-do-as-a-new-product-manager/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-as-a-new-product-manager/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Must-haves when starting or joining a product team</title>
-        <description>&lt;p&gt;Over the years I’ve managed several product teams, always from first principles, and as I’ve matured as a product manager I’ve written a few memos to myself. Things that got us over a hump or feedback I received from colleagues. Every so often I’ll glance back at these memos to remind myself how to do things well. These are the must-haves and key things to remember which help me start or join a product team and hit the ground running.&lt;/p&gt;
+        <description>&lt;p&gt;Over the years I’ve managed several product teams, always from first principles, and as I’ve matured as a product manager I’ve written a few memos to myself. Things that got us over a hump or feedback I received from colleagues. Every so often I’ll glance back at these memos to remind myself how to do things well. These are the must-haves and key things to remember which help me start or join a product team and hit the ground running, which I use in conjunction with this list of &lt;a href=&quot;/2020/09/06/things-to-do-as-a-new-product-manager/&quot;&gt;things to do as a new product manager&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is a living list, so it might change. Check back every now and then.&lt;/em&gt;&lt;/p&gt;
 
@@ -59,6 +102,7 @@
   &lt;li&gt;Be open about how the team expects to achieve its objective. Be open about not yet knowing how to achieve that too.&lt;/li&gt;
   &lt;li&gt;Don’t give senior stakeholders a problem, give them a solution or how you expect to move forward.&lt;/li&gt;
   &lt;li&gt;Use senior people to twist arms when you need something from another party – you can’t do it all yourself.&lt;/li&gt;
+  &lt;li&gt;Present the risks and show your working to get buy-in.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
