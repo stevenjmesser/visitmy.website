@@ -5,9 +5,77 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2020 20:06:07 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 20:06:07 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 17:15:18 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 17:15:18 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Notes on areas of responsibility</title>
+        <description>&lt;p&gt;Areas of responsibility are assigned to people so that when someone asks ‘Can anyone tell me what X is supposed to do?’, there is someone who can give a clear answer.&lt;/p&gt;
+
+&lt;p&gt;It enforces accountability. As product people, we control the horizontal and the vertical.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The accountability mindset extends down the ranks. At Apple there is never any confusion as to who is responsible for what. Internal Applespeak even has a name for it, the “DRI,” or directly responsible individual. Often the DRI’s name will appear on an agenda for a meeting, so everybody knows who is responsible. “Any effective meeting at Apple will have an action list,” says a former employee. “Next to each action item will be the DRI.” A common phrase heard around Apple when someone is trying to learn the right contact on a project: “Who’s the DRI on that?”&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;By designating accountability across the product organisation, we ensure the things that need to happen do happen – and only what needs to be done. If we have a gap, we hire for it.&lt;/p&gt;
+
+&lt;p&gt;As people develop deep knowledge around an important area, they also become the best person to triage those problems. When someone else needs to take over, we encourage transparent distribution of knowledge.&lt;/p&gt;
+
+&lt;p&gt;Product people should be empowered to delegate and decrease operational work and change aspects of the process or environment.&lt;/p&gt;
+
+&lt;p&gt;Typically, each AoR comes with reactive responsibilities and proactive improvements.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-areas&quot;&gt;Example areas&lt;/h2&gt;
+
+&lt;p&gt;An incomplete list, to give an idea of areas of responsibility.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Branding &amp;amp; positioning&lt;/li&gt;
+  &lt;li&gt;Costs &amp;amp; benefits model&lt;/li&gt;
+  &lt;li&gt;Customer development and partnerships&lt;/li&gt;
+  &lt;li&gt;Customer success&lt;/li&gt;
+  &lt;li&gt;Account management&lt;/li&gt;
+  &lt;li&gt;Growth&lt;/li&gt;
+  &lt;li&gt;Developer operations&lt;/li&gt;
+  &lt;li&gt;Roadmapping&lt;/li&gt;
+  &lt;li&gt;Accessibility and web performance&lt;/li&gt;
+  &lt;li&gt;Innovation&lt;/li&gt;
+  &lt;li&gt;Payments landscape and competition&lt;/li&gt;
+  &lt;li&gt;Payments regulation&lt;/li&gt;
+  &lt;li&gt;Contracts and cost-efficiencies&lt;/li&gt;
+  &lt;li&gt;Quality of integrations with suppliers&lt;/li&gt;
+  &lt;li&gt;Onboarding&lt;/li&gt;
+  &lt;li&gt;Direct Debit&lt;/li&gt;
+  &lt;li&gt;Strong Customer Authentication&lt;/li&gt;
+  &lt;li&gt;Open Banking&lt;/li&gt;
+  &lt;li&gt;Enterprise resource planning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chemjobber.blogspot.com/2011/10/apples-corporate-innovation-directly.html&quot;&gt;Apple’s corporate innovation? The ‘directly responsible individual’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wavelength.asana.com/workstyle-aors/&quot;&gt;Rethinking the org chart: Areas of Responsibility (AoRs)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://chemjobber.blogspot.com/2011/10/apples-corporate-innovation-directly.html&quot;&gt;Apple’s corporate innovation? The ‘directly responsible individual’&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
     
       <item>
         <title>Things to do as a new product manager joining a team</title>

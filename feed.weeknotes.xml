@@ -5,9 +5,118 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2020 20:06:07 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 20:06:07 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 17:15:18 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 17:15:18 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Bushy Park</title>
+        <description>&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Bit of a meh week finishing up Q2. It’s always good to have a new start to look forward to but I wish we’d achieved more this quarter. The main problem was that we work on tiddly bits that don’t build up to a successful narrative or coherent outcome, it’s just little things that need doing. We also spent the majority of our time on unplanned but necessary work, which took us away from achieving the goals we’d planned to hit. Having said that, the unplanned work was valuable and puts us in good stead for future quarters.&lt;/p&gt;
+
+&lt;p&gt;We spent a fair amount of time addressing accessibility issues raised in a recent audit by the Digital Accessibility Centre, and I prepared &lt;a href=&quot;https://www.payments.service.gov.uk/accessibility-statement/&quot;&gt;the accessibility statement for GOV.UK Pay&lt;/a&gt; ready to publish on the evening of 22 September. We’re planning on doing another round of accessibility research next quarter which will be valuable, as part of Pay’s value proposition is taking care of accessibility on behalf of service teams.&lt;/p&gt;
+
+&lt;p&gt;We’re also keen to explore barriers to making payments. For example, if you don’t have access to a smartphone or computer, can you still pay government for things? This got me thinking, so &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1309148247768870919&quot;&gt;I tried making a payment using a Kindle&lt;/a&gt;, which worked! There’s more to be done though, particularly around &lt;a href=&quot;https://www.fca.org.uk/consumers/strong-customer-authentication&quot;&gt;Strong Customer Authentication&lt;/a&gt;, which may disproportionately exclude older people from completing a successful transaction online. Might be good to partner with the &lt;a href=&quot;https://www.goodthingsfoundation.org&quot;&gt;Good Things Foundation&lt;/a&gt; on some research.&lt;/p&gt;
+
+&lt;p&gt;I planned to demo the new feature we built to hide sensitive card details from call agents working from home, but was hampered by technical problems. I’ve upgraded my work Macbook to macOS Catalina which has a raft of new privacy features. These are great, but I hadn’t presented my whole screen before – only Chrome tabs – so I was asked to give permission for the screen to be broadcast…which requires a Chrome reset afterwards. Darn. Anyway, it was hilariously ironic because I said I hadn’t done a rehearsal but that didn’t matter. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;We started defining our &lt;a href=&quot;https://wavelength.asana.com/workstyle-aors/&quot;&gt;areas of responsibility&lt;/a&gt; on Pay, to be distributed amongst the team. I came across this in a podcast with a Product Lead from Asana and it sounded like a great idea. The main aim is to give an individual responsibility for a few areas, so that they’re the most knowledgable person on that subject. We have areas tacitly assigned to people at the moment but it’d be good to share things evenly and make it more formal. I made some &lt;a href=&quot;/2020/09/26/notes-on-areas-of-responsibility/&quot;&gt;notes on areas of responsibility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Xander and I finished writing our blog post about asynchronous communication, keep an eye on the GDS blog for it. You can receive updates by &lt;a href=&quot;https://gds.blog.gov.uk/subscribe/&quot;&gt;email&lt;/a&gt; or &lt;a href=&quot;https://gds.blog.gov.uk/feed/&quot;&gt;RSS&lt;/a&gt;! There’s a couple more experiments we want to run to determine our approach to free-range working, how we use the office and meeting our team members’ needs.&lt;/p&gt;
+
+&lt;p&gt;Really excited to have a user researcher, interaction designer and new delivery manager join us next quarter, as well as another developer. Good to finally have a properly-staffed multidisciplinary team.&lt;/p&gt;
+
+&lt;p&gt;Sad to be missing firebreak next week, but it’ll be fun teaching at General Assembly again.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;Woah, Bushy Park is a bit nice, innit? It’s at the start of London Loop section nine, which we walked last weekend, and it’s bloody glorious. We saw deer, birds, fish, pretty trees, and a couple of stags chanting that guttural rutting croak. A stark contrast to the end of section nine which spends the last 2 miles in Heathrow’s flight path.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://www.bbc.co.uk/sounds/play/m000kmkc&quot;&gt;Radio 4 Analysis programme&lt;/a&gt; about how governments can help societies abandon rampant short-termism and adopt a more long-term approach was really good, particularly considering the epoch we’re in. It also meshed nicely with &lt;em&gt;The Value of Everything&lt;/em&gt; book by Mariana Mazzucato that I’m reading. In essence, because everyone’s focused on making short-term gains / profits / political successes, very few people consider what we want to happen in the long term. We’re told ‘Everything is variable in the long term’ which is true, but it doesn’t mean we can’t develop and iterate strategies for reaching a brighter future. For example, GOV.UK and (hopefully) GOV.UK Pay are likely to be around forever – tech isn’t going away – so how might that alter what we put forward in business cases and the Comprehensive Spending Review? &lt;em&gt;It’s starting to get rather work-based now, so I’ll stop…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a little under three weeks until I move house, so packing and arranging things continues. I got rid of a bunch of stuff and left some unwanted tech on the street, which got taken quickly. Hope people enjoy that Xbox 360, I barely used it. Can’t wait to be near the sea again!&lt;/p&gt;
+
+&lt;p&gt;I need to get better at keeping notes.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wavelength.asana.com/workstyle-aors/&quot;&gt;Rethinking the org chart: Areas of Responsibility (AoRs)&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chemjobber.blogspot.com/2011/10/apples-corporate-innovation-directly.html&quot;&gt;Apple’s corporate innovation? The ‘directly responsible individual’&lt;/a&gt;, mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/26/the-bushy-park/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/26/the-bushy-park/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Nonsuch Palace</title>
+        <description>&lt;p&gt;These are brief notes, only the things of note, because I’ve not written anything in the last two weeks, but it’s useful to have stuff written down that I can refer back to. Grateful to buy back some brain space.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-stuff&quot;&gt;Work stuff&lt;/h2&gt;
+
+&lt;p&gt;Working on strategy stuff has been great, and we made a decision on whether to partner with a service team on delivering a new payment type. In short: yes, but not now.&lt;/p&gt;
+
+&lt;p&gt;We mobbed on getting the accessibility work over the line ready for today. It went well but maybe we could organise things better in future.&lt;/p&gt;
+
+&lt;p&gt;There’s big changes at work and the shape of the organisation is shifting. They’re moving around the Duplo blocks. Meh. But an all-staff conference had some excellent, exciting stories put forward. Good product stuff, and considerations of what makes product work.&lt;/p&gt;
+
+&lt;p&gt;It feels like our team has a better flow now than we did a few months ago, which is ideal. I’m looking forward to exploring new value-generating opportunities for Pay next quarter.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-work-stuff&quot;&gt;Not-work stuff&lt;/h2&gt;
+
+&lt;p&gt;I finished Couch to 5K! It’s bloody awesome, you should do it too.&lt;/p&gt;
+
+&lt;p&gt;And we’ve done 10 out of 24 sections of the London Loop, which I’m also proselytising about.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2020/09/05/the-beach-below-sea-level/&quot;&gt;Last episode&lt;/a&gt; I asked ‘Is the second wave here?’ and I think we can safely say it is.&lt;/p&gt;
+
+&lt;p&gt;Anyway, we’ve been enjoying our final weeks in London, it has been quite indulgent.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetimes.co.uk/article/warnings-from-a-whitewashed-room-as-dominic-cummings-launches-new-mission-mg6zjrp7c&quot;&gt;Warnings from a whitewashed room as Dominic Cummings launches new mission&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetimes.co.uk/article/boris-johnsons-troubleshooting-trio-plot-to-transform-whitehall-with-a-big-bang-8zdksb70h&quot;&gt;Boris Johnson’s troubleshooting trio plot to transform Whitehall with a big bang&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://caffeinatedpunctuation.co.uk/2020/09/05/s06e19-pens/&quot;&gt;S06E19: Pens&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/politics/2020/sep/05/mark-sedwill-urges-more-civil-servants-to-return-to-offices-in-england&quot;&gt;Civil servants’ union will consider strike action over back-to-office plans&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thedigitalgood.com/2020/08/28/what-about-a-squiggly-product-career/&quot;&gt;What about a squiggly product career?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/2FaBbiY&quot;&gt;An agile UK civil service needs more than ‘Star Trek’ screens&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/the-product-scorecard/&quot;&gt;The Product Scorecard&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/3c3f5f1e-8402-4331-8591-e2b667873605&quot;&gt;This is our big chance to create better workplaces&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/08/19/1006365/if-then-lepore-review-simulmatics/&quot;&gt;The long, complicated history of “people analytics”&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/08/19/1006441/china-data-privacy-hong-yanqing-gdpr/#Echobox=1599262893&quot;&gt;Inside China’s unexpected quest to protect data privacy&lt;/a&gt;, 14 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2020/08/19/1007094/brazil-bolsonaro-data-privacy-cadastro-base/#Echobox=1599422983&quot;&gt;Brazil is sliding into techno-authoritarianism&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://davidgcohen.com/2011/08/28/the-mentor-manifesto/&quot;&gt;The Mentor Manifesto&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@abisola/relationship-between-a-product-manager-and-a-delivery-manager-9e5138b587b6&quot;&gt;Relationship between a Product Manager and a Delivery Manager&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3iilkxF&quot;&gt;UK sets out controversial plans for internal market after Brexit&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.com/dominic-cummings-brexit-tech-giant-critics-2020-9&quot;&gt;Inside Dominic Cummings’ wild scheme to build a British Google via a no-deal Brexit: ‘It’s a bit of a simplistic way of thinking about technology’&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ukcivilservant.wordpress.com/2020/09/08/picking-winners-and-state-aids/&quot;&gt;Picking Winners – and State Aids&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://provocations.darkmatterlabs.org/civic-indigenous-7-0-459436b6f60&quot;&gt;Civic-Indigenous 7.0&lt;/a&gt;, 21 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://melmagazine.com/en-us/story/nsfw-tiktok-bree-louise-porn-kittenwithdabs-reddit-onlyfans&quot;&gt;How the TikTok Aesthetic Is Changing the Face (And Body) of Porn&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/2020/tips-for-writing-good-weeknotes/&quot;&gt;Tips for writing good weeknotes – gilest.org&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-3753-talk-to-your-manager-take&quot;&gt;TBM 37/53: Talk to Your Manager, Take the Survey&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/dyz9bz/cornwall-drug-dealers-county-lines-an-gof&quot;&gt;Cornwall’s Drug Dealers Are Teaming Up to Combat Big City Drug Gangs&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.co.uk/article/asana-work&quot;&gt;How to thrive in the next normal of distributed work&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thecut.com/article/emily-ratajkowski-owning-my-image-essay.html&quot;&gt;Buying Myself Back&lt;/a&gt;, 32 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareconvivio.com/free-range-working-an-introduction-27eb178db97c&quot;&gt;Free-Range Working: An Introduction&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daverog.com/2020/09/16/the-toxic-production-line/&quot;&gt;The toxic production line&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/23/the-nonsuch-palace/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/23/the-nonsuch-palace/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Beach Below Sea Level</title>
