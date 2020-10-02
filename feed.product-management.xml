@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Sep 2020 17:15:18 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2020 17:15:18 +0100</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2020 12:38:00 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2020 12:38:00 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -52,6 +52,15 @@
   &lt;li&gt;Open Banking&lt;/li&gt;
   &lt;li&gt;Enterprise resource planning&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-share-areas&quot;&gt;How to share areas&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make a spreadsheet with areas of responsibility as rows in the first column. Add responsible owners as columns to the side.&lt;/li&gt;
+  &lt;li&gt;Get each person to mark how much they know about an area, e.g. 0–5: 0 for Nothing; 1 for Little; 5 for Lots, etc.&lt;/li&gt;
+  &lt;li&gt;Try to share the responsibility equally, noting where a transfer of knowledge can take place. For example, where a person who marked 0–2 can be taught by a person who marked 3–5.&lt;/li&gt;
+  &lt;li&gt;Finally, have a conversation about whether there are too many areas to be owned by the current number of owners, or whether some areas aren’t pertinent to the current strategy.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
 
