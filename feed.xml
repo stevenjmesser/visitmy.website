@@ -5,9 +5,65 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2020 12:27:24 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2020 12:27:24 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2020 19:25:40 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2020 19:25:40 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The free-range future of work</title>
+        <description>&lt;p&gt;For organisations that use computers to get stuff done, the Internet means you can spread bits of your organisation out geographically and temporally.&lt;/p&gt;
+
+&lt;p&gt;Spreading a workforce geographically is usually called remote working or distributed working. That’s when workers aren’t necessarily close to the location of the main office, they live and work elsewhere. There’s also hybrid working, which is when people are expected to come into an office some times but can work from wherever they like the rest of the time.&lt;/p&gt;
+
+&lt;p&gt;Spreading a workforce temporally is usually called flexible working or asynchronous working. That’s when workers aren’t always required to be working at the same time as each other. Although more often than not, there’s usually some ‘core hours’ workers have to be present and available.&lt;/p&gt;
+
+&lt;p&gt;For various reasons, some groups of people have experimented with the opportunity the Internet has provided. It has allowed them to find new ways of doing things or new ways of living. And, for another variety of reasons, some people haven’t bothered.&lt;/p&gt;
+
+&lt;p&gt;Then, in March, that all changed. Anyone who could work online, usually from a computer, was forced to try this stuff out. If their company hadn’t tried out these new ways of working, they became a guinea pig overnight. A &lt;a href=&quot;https://www.cliffsnotes.com/literature/f/flowers-for-algernon/character-analysis/algernon&quot;&gt;mouse in a maze&lt;/a&gt;, without a scientist overseeing the experiment.&lt;/p&gt;
+
+&lt;p&gt;That sucks because, as an organisation, you don’t know what works and what doesn’t. Your workers have been forced to try new things and will have reached their own conclusions. Some might like it, others might not be so keen. There will likely be some people for whom the experience has been traumatic, and those people are going to need our help.&lt;/p&gt;
+
+&lt;p&gt;So, ignoring whoever’s job it is to do this stuff, I think it’s time for people working on computers to look sideways (metaphorically) and help each other out. If you manage a team or you’re part of a team, it’s time to build your own New Normal.&lt;/p&gt;
+
+&lt;p&gt;Here’s some notes I’ve been making on free-range working&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. And you might like to read about &lt;a href=&quot;https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/&quot;&gt;this experiment we tried with meetings and emails&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-on-free-range-working&quot;&gt;Notes on free-range working&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’re trying to create more serendipity for innovation, and make collaboration easier when we’re not in the same place. Show &amp;amp; Tells don’t have to be polished. Share progress, ideas and half-finished thoughts; invite people to comment on your work before it’s completed. This helps replicate putting work up on the wall and giving people a chance to comment on things, especially if they’re not on your team.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check in on your colleagues’ home-working setup. Do they have space? Do they have a desk? Is it well-lit and comfortable? People with better working environments have a new kind of privilege, and so we should be equitable in our approach to free-range working.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When everyone you work with is on a screen, everyone is more equal – it’s harder for people to dominate the room. Also, we tend to stop talking over each other and let people finish what they were saying. Cultivate that atmosphere, creating the space for diverse or unheard voices to come to the fore.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spontaneous socialising is a joy. Create a tea break channel and head in there when you’re going to make a cup of tea or coffee. Start a voice chat, either using your work laptop or some headphones connected to a phone.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This term comes from Convivio, it’s all about having complete freedom of location, time, and responsibility. Steve Parks wrote &lt;a href=&quot;https://blog.weareconvivio.com/free-range-working-an-introduction-27eb178db97c&quot;&gt;an introduction to free-range work&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/11/02/free-range-future-of-work/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/02/free-range-future-of-work/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>Why I write weeknotes</title>
@@ -33,7 +89,7 @@
 
 &lt;h2 id=&quot;its-a-tiny-tiny-public-service&quot;&gt;It’s a tiny, tiny public service&lt;/h2&gt;
 
-&lt;p&gt;In a way, the taxpayer is funding everything I do at work, so they probably have a right to know what I’m doing. And one day someone might fill my place and want to know what I got up to. Weeknotes are searchable records of (almost) everything I did at work, providing a history for those who come after me.&lt;/p&gt;
+&lt;p&gt;In a way, the taxpayer is funding everything I do at work, so they probably have a right to know what I’m doing. And one day someone might fill my place and want to know what I got up to. Weeknotes are searchable records of (almost) everything I did at work, providing a history for those who come after me. &lt;a href=&quot;/2020/01/25/blogging-working-open/&quot;&gt;Blogging and working in the open&lt;/a&gt; as a public servant helps to open up government, form a dialogue with our audience, and share what we’ve learnt.&lt;/p&gt;
 
 &lt;p&gt;On the scale of public services they’re not &lt;em&gt;that&lt;/em&gt; important, obviously. They’re not universal healthcare. But if one other person saves time solving a problem using my notes, that’s a good thing.&lt;/p&gt;
 
@@ -115,13 +171,12 @@
     
       <item>
         <title>NaBloPoMo 2020</title>
-        <description>&lt;p&gt;An index of things I have written during November 2020 for National Blog Posting Month.&lt;/p&gt;
+        <description>&lt;p&gt;An index of things I have written during November 2020 for National Blog Posting Month. You can &lt;a href=&quot;https://visitmy.website/feed.nablopomo.xml&quot;&gt;follow my NaBloPoMo RSS feed&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/01/why-i-write-weeknotes/&quot;&gt;Why I write weeknotes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2020/11/02/free-range-future-of-work/&quot;&gt;The free-range future of work&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Coming soon. Check back later or subscribed to my RSS feed.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
         <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
