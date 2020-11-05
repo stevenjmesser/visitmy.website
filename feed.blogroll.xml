@@ -3,11 +3,52 @@
   <channel>
     <title>Steve Messer // Product manager</title>
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Nov 2020 19:45:48 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2020 19:45:48 +0000</lastBuildDate>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Nov 2020 20:24:17 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2020 20:24:17 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Many of the things people worry about are not really worth worrying about</title>
+        <description>&lt;p&gt;A few years ago I worked with film-maker Tomas Leach on a book for his documentary, &lt;em&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=J7arEQR8PdA&quot;&gt;In No Great Hurry&lt;/a&gt;&lt;/em&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The documentary is about the late Saul Leiter, a photographer who made the mundane magnificent.&lt;/p&gt;
+
+&lt;p&gt;His style is unique. He takes pictures of boring things: condensation on a window, red umbrellas, taxi cars. Moments of urban life we’d all find commonplace. His composition made these scenes hard to unpick, a tad abstract. It would take a few moments to work out what you were seeing.&lt;/p&gt;
+
+&lt;p&gt;That was part of the allure. Shooting in the 1950s and 1960s, he was also an early pioneer of colour photography, which would equally draw the eye after a century of black and white photography.&lt;/p&gt;
+
+&lt;p&gt;Saul’s photography was boring magic, without a doubt.&lt;/p&gt;
+
+&lt;p&gt;His style causes us to slow down, to take in more of our surroundings. Inspect the ordinary for shades of delight.&lt;/p&gt;
+
+&lt;p&gt;Often I wonder whether we should be doing that more. In many aspects of life. We needn’t always be in motion, always moving on to the next thing.&lt;/p&gt;
+
+&lt;p&gt;What if now is just enough?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m a person who likes to postpone things. I see no reason for being in a rush. When you consider many of the things that people treat very seriously, you realise that they don’t deserve to be treated that seriously. And many of the things people worry about are not really worth worrying about. If I didn’t do anything more than my little book, would that have been enough? – Saul Leiter&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Nothing came of the project, unfortunately. I experienced a severe bout of depression and couldn’t carry on. I really wish I had. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
+        
+        <category>Blogroll</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>Silly ideas</title>
@@ -36,8 +77,8 @@
 &lt;p&gt;It’s better than TimeHop for toenails, anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/04/silly-ideas/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/04/silly-ideas/</guid>
+        <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
         
         <category>Blogroll</category>
         
@@ -77,8 +118,8 @@
 &lt;p&gt;&lt;em&gt;Some things that inspired this post: Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt;; Motherboard’s piece on popular culture as an information conduit and &lt;a href=&quot;https://www.vice.com/en/article/y3gg3k/tiktok-influencer-isodope-is-stanning-for-nuclear-energy&quot;&gt;nuclear energy influencer Isodope&lt;/a&gt;; and The New Atlantis on &lt;a href=&quot;https://www.thenewatlantis.com/publications/hard-to-believe&quot;&gt;whether search engines make us gullible&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/03/google-fast-food-knowledge/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/03/google-fast-food-knowledge/</guid>
+        <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
         
         <category>Blogroll</category>
         
@@ -126,8 +167,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/01/why-i-write-weeknotes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/01/why-i-write-weeknotes/</guid>
+        <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -145,11 +186,12 @@
   &lt;li&gt;&lt;a href=&quot;/2020/11/02/free-range-future-of-work/&quot;&gt;The free-range future of work&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/03/google-fast-food-knowledge/&quot;&gt;Google Search is the fast-food restaurant of knowledge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/04/silly-ideas/&quot;&gt;Silly ideas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/&quot;&gt;Many of the things people worry about are not really worth worrying about&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/01/nablopomo-2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/01/nablopomo-2020/</guid>
+        <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -201,8 +243,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</guid>
+        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
         
         <category>Blogroll</category>
         
@@ -368,8 +410,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/25/blogging-working-open/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/25/blogging-working-open/</guid>
+        <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
         
         <category>Blogroll</category>
         
@@ -555,8 +597,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</guid>
+        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -807,8 +849,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -970,8 +1012,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
+        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -1073,8 +1115,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;Read &lt;a href=&quot;https://svpg.com/empowered-product-teams/&quot;&gt;Empowered Product Teams&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -1168,8 +1210,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
