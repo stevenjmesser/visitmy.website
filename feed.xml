@@ -5,9 +5,64 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2020 20:24:17 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2020 20:24:17 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2020 16:59:32 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2020 16:59:32 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Users, Trust, Delivery: leading teams with memes</title>
+        <description>&lt;p&gt;&lt;em&gt;Part 1 of 3&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Memes are a common concept to most people with an Internet connection these days. But before the multiplier effects of the Web, these morsels of communication were known as mottos, mantras, banners and phrases.&lt;/p&gt;
+
+&lt;p&gt;Recently I’ve been thinking about how these soundbites are used in leadership. I’m going to use an example from Government Digital Service (GDS) – where I work – as it’s one that’s closest to me. It’s rarely mentioned now but in the early days it was mantra to spur people on&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;‘Trust, Users, Delivery.’&lt;/p&gt;
+
+&lt;p&gt;It filled the gap between management and teams, where the necessity was to act autonomously, with very little opportunity for communication between the two group. People were busy! As I see it, the motto represented a way for management to address teams’ concerns as they went through great change, and a way for teams to express their pride in what they were creating.&lt;/p&gt;
+
+&lt;p&gt;It was a meme – collective communication – to reduce the burden of having many, tailored, low-impact messages exchanged between teams and management. A phrase to rally around. It set the direction and the culture of the movement, with rumour and misinformation counteracted by collaboration and quality information.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-motto&quot;&gt;The motto&lt;/h2&gt;
+
+&lt;p&gt;The sum of these words were stronger than their individual messages, but in effect formed the constraints within which transformation could successfully happen.&lt;/p&gt;
+
+&lt;h3 id=&quot;trust&quot;&gt;Trust&lt;/h3&gt;
+
+&lt;p&gt;Trust was all about teams believing in management to make the right decisions, and management knowing that teams could be trusted to deliver. Trust was founded through shared principles such as ‘digital by default’, ‘putting users first’, ‘learning from the journey’, etc. (There’s more in &lt;a href=&quot;https://www.slideshare.net/ColemanE/trust-users-delivery-gds-presentation-to-code-for-america-2012&quot;&gt;slide 4 of this presentation&lt;/a&gt;.) Because both factions knew the principles they were jointly working to, they didn’t need to settle people’s anxieties – which tend to arise during huge change projects.&lt;/p&gt;
+
+&lt;h3 id=&quot;users&quot;&gt;Users&lt;/h3&gt;
+
+&lt;p&gt;The Users pillar was dedicated to making &lt;a href=&quot;https://webarchive.nationalarchives.gov.uk/20120405091731/https://www.gov.uk/designprinciples#first&quot;&gt;users’ needs&lt;/a&gt; prominent in any discussion, design decision or product delivery. GDS was attempting to digitally transform government to make interacting with government simpler, clearer and faster for people. Like user personas, which remind digital teams who they’re creating things for, making users a part of the motto made them central to any considerations.&lt;/p&gt;
+
+&lt;h3 id=&quot;delivery&quot;&gt;Delivery&lt;/h3&gt;
+
+&lt;p&gt;The Delivery aspect to the mantra captured the overall strategy. By using small, user-focused teams of developers, designers and managers to rebuild national infrastructure in an open way, they would prove that iterative, agile methods could transform government. The strategy was delivery, because results would prove the methods. In the face of adversity, faith in your methods comes as a comfort.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Part 2 will be published tomorrow.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I wasn’t around in those days so these are my own assumptions having reverse-engineered the history and culture of GDS. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/11/06/users-trust-delivery/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/06/users-trust-delivery/</guid>
+        
+        <category>Digital government</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>Many of the things people worry about are not really worth worrying about</title>
@@ -298,6 +353,7 @@
   &lt;li&gt;&lt;a href=&quot;/2020/11/03/google-fast-food-knowledge/&quot;&gt;Google Search is the fast-food restaurant of knowledge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/04/silly-ideas/&quot;&gt;Silly ideas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/&quot;&gt;Many of the things people worry about are not really worth worrying about&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2020/11/06/users-trust-delivery/&quot;&gt;Users, Trust, Delivery: leading teams with memes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
