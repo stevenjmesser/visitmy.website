@@ -5,9 +5,34 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2020 10:57:49 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2020 10:57:49 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2020 15:56:32 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2020 15:56:32 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Going dark</title>
+        <description>&lt;p&gt;A few pieces I’ve written during NaBloPoMo 2020 have been fun to write. Others were more strained.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure any of them made a good point. I’d like to improve my writing, and committing to writing weeknotes means I can often lose my steam.&lt;/p&gt;
+
+&lt;p&gt;Also, good writing starts with good reading, and my note-taking habits have changed recently.&lt;/p&gt;
+
+&lt;p&gt;By reducing the amount of things I write and publish, I should hopefully give more space for thoughts to percolate, develop and crystallise.&lt;/p&gt;
+
+&lt;p&gt;So I’m going dark.&lt;/p&gt;
+
+&lt;p&gt;See you later.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/11/16/going-dark/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
+        
+        <category>Blogroll</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>The Stormy Seas</title>
@@ -574,9 +599,8 @@
   &lt;li&gt;&lt;a href=&quot;/2020/11/06/users-trust-delivery/&quot;&gt;Users, Trust, Delivery: leading teams with memes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/07/rhetoric/&quot;&gt;Rhetoric: leading teams with memes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/2020/11/08/propaganda/&quot;&gt;Propaganda: leading teams with memes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2020/11/16/going-dark/&quot;&gt;Going dark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;It’s 9 November today and I’m a bit behind schedule! Might need to arrange a workshop for coming up with blog post ideas.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
         <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
@@ -5603,9 +5627,9 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 
 &lt;p&gt;An output is a thing which a team produces or does. ‘Build this thing, upgrade this thing, change this thing.’ An outcome is an end result which a team delivers or reaches. ‘Improve this experience, increase this measure, explore this market.’ Setting outputs is easy, we’re all focussed on doing things. But doing things to reach an end result is a bit more complicated; achieving outcomes requires domain expertise, a willingness to explore the problem space, and a culture which supports experimentation.&lt;/p&gt;
 
-&lt;p&gt;Take apples as an example. I eat apples because they are tasty and healthy. All apples are alike, in that they are all tasty and healthy…until someone produces an apple which is tastier. Or an apple which is crisper. Or stores over winter longer. In an apple market with different varieties from different producers, I tend to buy products with the characteristics which appeal to me. These differentiators help me choose one eating experience from the others. Outputs are physical things but outcomes are the differences made by the outputs.&lt;/p&gt;
+&lt;p&gt;Take apples as an example. I eat apples because they are tasty and healthy. All apples are alike, in that they are all tasty and healthy…until someone produces an apple which is tastier. Or an apple which is crisper. Or stores over winter longer. In an apple market with different varieties from different producers, I tend to buy products with the characteristics which appeal to me. These differentiators help me choose one eating experience from the others. Outputs are physical things but outcomes are the differences made by the outputs – a change that will occur as a result.&lt;/p&gt;
 
-&lt;p&gt;Producing an apple is an output. Producing a tastier apple is an outcome. Producing an output is manufacturing work, whereas producing an outcome is knowledge work.&lt;/p&gt;
+&lt;p&gt;Producing an apple is an output. Producing a tastier apple that appeals to a specific audience is an outcome. Producing an output is manufacturing work, whereas producing an outcome is knowledge work.&lt;/p&gt;
 
 &lt;h2 id=&quot;turning-build-this-into-realise-that&quot;&gt;Turning ‘Build this’ into ‘Realise that’&lt;/h2&gt;
 
@@ -5617,6 +5641,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 
 &lt;p&gt;That example was a delivery mission but it’s also possible write outcomes for discovery missions too. When we were asked to explore personalisation on GOV.UK, again I asked the leadership team why we were doing it. They wanted to understand whether it should be a direction to head in, and they also had some questions from government ministers to answer. So we came up with this: ‘Manifest the opportunities, if any, for a more coherent, personalised experience of interacting with government.’ Our key results were almost entirely research initiatives.&lt;/p&gt;
 
+&lt;p&gt;A great way to frame user needs and outcomes in your day-to-day product work is by using problem statements and hypotheses&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
 &lt;h2 id=&quot;unlearn-your-output-based-leadership-style&quot;&gt;Unlearn your output-based leadership style&lt;/h2&gt;
 
 &lt;p&gt;It’s a change in mindset for leadership to manage outcomes or results, instead of the traditional way of managing effort and output. But knowledge workers focus on outcomes because it sets the goal in their mind, enables them to better track their progress, and enables them to learn. For leadership teams, setting outcome-based objectives is a protection against having to micro-manage.&lt;/p&gt;
@@ -5626,6 +5652,16 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;hr /&gt;
 
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I’ll write about this soon. Very soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
         <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
