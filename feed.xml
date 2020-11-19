@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2020 11:30:32 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2020 11:30:32 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2020 16:39:10 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2020 16:39:10 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -6332,7 +6332,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
     
       <item>
         <title>How we use OKRs on GOV.UK</title>
-        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
+        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It’s a light-touch way of setting goals and focus. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
 
 &lt;p&gt;Here’s how we use OKRs on GOV.UK, the UK government’s website. Teams are trusted to deliver value for users, and this framework reduces tension between agile delivery professionals and senior management.&lt;/p&gt;
 
@@ -6362,7 +6362,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 
 &lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; to be reached, which usually shape our key results. Since the key results have been produced and agreed collectively by every team member, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
 
-&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light-touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
 
 &lt;p&gt;The GOV.UK programme team may take the opportunity to set new objectives each quarter. It’s sensible to take a temperature check of work underway at regular intervals, in case there are new priorities. This also gives product teams a chance to play back to management their findings from a discovery, which means that some times the objective set is based entirely on the team’s work.&lt;/p&gt;
 
@@ -6374,7 +6374,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 
 &lt;h2 id=&quot;why-use-okrs&quot;&gt;Why use OKRs?&lt;/h2&gt;
 
-&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. They help everyone move together in the right direction. It requires &lt;a href=&quot;/2019/04/27/product-teams-deliver-outcomes-not-outputs/&quot;&gt;a shift in mindset from outputs to outcomes&lt;/a&gt;. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
+&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. They help everyone move together in the right direction, creating alignment between product teams in an organisation. It requires &lt;a href=&quot;/2019/04/27/product-teams-deliver-outcomes-not-outputs/&quot;&gt;a shift in mindset from outputs to outcomes&lt;/a&gt;. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
 
 &lt;p&gt;Setting OKRs can expose some discomfort and issues you might not have encountered before. But that’s a good thing, and working through problems brings people closer together. OKRs are an empowerment technique to give product teams clear problems to solve and the space to solve them.&lt;/p&gt;
 
