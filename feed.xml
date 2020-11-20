@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2020 08:24:01 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2020 08:24:01 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2020 12:47:56 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2020 12:47:56 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -1820,7 +1820,7 @@
 
 &lt;p&gt;So I ran a web page performance test and got some &lt;a href=&quot;https://www.webpagetest.org/result/200713_XX_e2daed33a24cd8a099d930fc373b1083/&quot;&gt;grim results&lt;/a&gt;: my website takes over a minute to load on a Moto G4 on using 3G data networks. It’s just as bad &lt;a href=&quot;https://www.webpagetest.org/result/200713_6E_4e249b485a45882604420068caa21ae0/&quot;&gt;using a desktop PC in Nottingham on 1.5Mbps DSL&lt;/a&gt;. My website is bloated with large images and a bunch of JavaScript, which means it’s eating up lots of energy transmitting those bits and bytes.&lt;/p&gt;
 
-&lt;p&gt;But how much energy? I used the &lt;a href=&quot;https://www.websitecarbon.com&quot;&gt;Website Carbon Calculator&lt;/a&gt; to find out. Turns out that&lt;/p&gt;
+&lt;p&gt;But how much energy? I used the &lt;a href=&quot;https://www.websitecarbon.com&quot;&gt;Website Carbon Calculator&lt;/a&gt; to find out. It turns out that&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;6.90g of CO2 is produced every time someone visits the homepage&lt;/li&gt;
@@ -1833,14 +1833,14 @@
 &lt;p&gt;I have to do something, this has gone on long enough, so I’m committing to some actions.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;I’ll move my site to a web hosting provider using renewable energy, one that’s listed on the &lt;a href=&quot;https://www.thegreenwebfoundation.org/directory/&quot;&gt;Green Web Foundation’s directory&lt;/a&gt;. &lt;strong&gt;DONE&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;I’ll compress and optimise the images on my site using &lt;a href=&quot;https://imageoptim.com/mac&quot;&gt;ImageOptim&lt;/a&gt;. &lt;strong&gt;DONE&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;I’ll get rid of &lt;a href=&quot;https://github.com/samesies/barber-jekyll&quot;&gt;my energy-guzzling site theme&lt;/a&gt; until I can introduce one that’s lightweight and accessible. &lt;strong&gt;DONE&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Going forward, my website will enshrine the principles of the &lt;a href=&quot;https://www.sustainablewebmanifesto.com&quot;&gt;Sustainable Web Manifesto&lt;/a&gt;. &lt;strong&gt;SIGNED&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;NEW&lt;/strong&gt;: I’ll pay for some trees to be planted that’ll reduce the impact of my website’s carbon footprint going forward.&lt;/li&gt;
+  &lt;li&gt;I’ll move my site to a web hosting provider using renewable energy, one that’s listed on the &lt;a href=&quot;https://www.thegreenwebfoundation.org/directory/&quot;&gt;Green Web Foundation’s directory&lt;/a&gt;. ✅&lt;/li&gt;
+  &lt;li&gt;I’ll compress and optimise the images on my site using &lt;a href=&quot;https://imageoptim.com/mac&quot;&gt;ImageOptim&lt;/a&gt;. ✅&lt;/li&gt;
+  &lt;li&gt;I’ll get rid of &lt;a href=&quot;https://github.com/samesies/barber-jekyll&quot;&gt;my energy-guzzling site theme&lt;/a&gt; until I can introduce one that’s lightweight and accessible. ✅&lt;/li&gt;
+  &lt;li&gt;Going forward, my website will enshrine the principles of the &lt;a href=&quot;https://www.sustainablewebmanifesto.com&quot;&gt;Sustainable Web Manifesto&lt;/a&gt;. 📝&lt;/li&gt;
+  &lt;li&gt;I’ll pay for some trees to be planted that’ll reduce the impact of my website’s carbon footprint going forward. ✅ &lt;a href=&quot;https://treesforlife.org.uk/groves/249395/&quot;&gt;View the certificate 📜&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;To show my commitment to being a good web citizen, I’ll add the &lt;a href=&quot;https://www.websitecarbon.com/badge/&quot;&gt;Website Carbon Badge&lt;/a&gt; to all pages (&lt;strong&gt;DONE&lt;/strong&gt;) and the &lt;a href=&quot;https://www.thegreenwebfoundation.org/green-web-check/&quot;&gt;Green Web Foundation’s renewable hosting badge&lt;/a&gt; (&lt;strong&gt;DONE&lt;/strong&gt;). Once I’ve improved things, I’ll add a &lt;a href=&quot;https://carbontxt.org/&quot;&gt;carbon.txt&lt;/a&gt; (&lt;strong&gt;DONE&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;To show my commitment to being a good web citizen, I’ll add the &lt;a href=&quot;https://www.websitecarbon.com/badge/&quot;&gt;Website Carbon Badge&lt;/a&gt; to all pages ✅ and the &lt;a href=&quot;https://www.thegreenwebfoundation.org/green-web-check/&quot;&gt;Green Web Foundation’s renewable hosting badge&lt;/a&gt; ✅. Once I’ve improved things, I’ll add a &lt;a href=&quot;https://carbontxt.org/&quot;&gt;carbon.txt&lt;/a&gt; ✅.&lt;/p&gt;
 
 &lt;p&gt;One day I’ll actually get around to building a solar-powered battery bank and run my site off my home connection, but until then I’m taking small steps to remove, minimise and clean-up my presence on the web.&lt;/p&gt;
 
@@ -1854,6 +1854,14 @@
   &lt;li&gt;&lt;a href=&quot;https://www.wholegraindigital.com/blog/sustainable-web-design/&quot;&gt;3 steps to creating zero carbon websites&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&quot;&gt;How to build a low-tech website&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thegreenwebfoundation.org/news/notes-for-greening-internet-governance-at-eurodig/&quot;&gt;Greening Internet governance: environmental sustainability and digital transformation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has been great to read everyone’s responses to this post, even those &lt;a href=&quot;https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/&quot;&gt;questioning the merit of reducing carbon emissions on a personal website&lt;/a&gt;. Here’s action others have decided to take on their own websites.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kevq.uk/how-local-fonts-can-save-the-environment/&quot;&gt;Trying To Go Green With Local Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://so.nwalsh.com/2020/10/31-dust&quot;&gt;Please pardon the dust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomgamon.com/posts/is-it-morally-wrong-to-write-inefficient-code/&quot;&gt;Is it morally wrong to write inefficient code?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
