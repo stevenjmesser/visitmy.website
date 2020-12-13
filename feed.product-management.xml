@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Dec 2020 09:00:36 +0000</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2020 09:00:36 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2020 10:53:15 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 10:53:15 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -533,7 +533,7 @@
 
 &lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
 
-&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas or key deliverables. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas, key deliverables or a list of tasks. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
 
 &lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
 
@@ -573,7 +573,7 @@
       &lt;p&gt;After writing this post, someone reached out to me and asked ‘What if all the objectives are too grand and unattainable?’ to which we found out that their leadership didn’t have a product strategy. If objectives are not clear or can’t realistically be worked on, this is a fault of leadership. I’ll write a little more on what to do about that soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;A few people have asked me whether they should set and report key results in the &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;discovery phase&lt;/a&gt; for a new product or service, and I’d say no. Discoveries are all about collecting some baseline data, and you can’t say by how much you’ll improve something if you don’t have a baseline. For teams using dual-track agile, key results are very helpful. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A few people have asked me whether they should set and report key results in the &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;discovery phase&lt;/a&gt; for a new product or service, and I’d say no. Discoveries are projects in which you explore ideas and gather information to help you decide what to deliver. You might have a set of key tasks to do in a discovery, but the only key result is having a better idea for what to do next. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
