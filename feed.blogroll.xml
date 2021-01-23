@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2021 21:48:41 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2021 21:48:41 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2021 09:26:47 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2021 09:26:47 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -644,6 +644,8 @@
 
 &lt;p&gt;It’s worth saying that blogging isn’t an easy thing to start, you’ll probably get ‘the fear’ about receiving criticism on your work or thoughts. But that’s fine, my advice is to just dive in and have a go. Usually your fears don’t match reality, and there’s &lt;a href=&quot;https://weeknot.es&quot;&gt;an amazing community&lt;/a&gt; there to comment and help if you’re struggling anyway.&lt;/p&gt;
 
+&lt;p&gt;And if you’re worried about writing about work in the public domain, don’t. It’s OK. You have permission. People high up at director level are doing it, just take a look at what &lt;a href=&quot;https://blog.mattedgar.com/category/weeknotes/&quot;&gt;Matt Edgar&lt;/a&gt;, &lt;a href=&quot;https://roxane-m-heaton.medium.com/weeknotes-s01e01-4e7f2ffe760f&quot;&gt;Rox Heaton&lt;/a&gt; and &lt;a href=&quot;https://rossferg.medium.com/week-1-on-gov-uk-6b40e14d5c1e&quot;&gt;Ross Ferguson&lt;/a&gt; are doing.&lt;/p&gt;
+
 &lt;p&gt;You don’t need any money to get started, really, you can spin up a blog in minutes using platforms like &lt;a href=&quot;https://wordpress.com&quot;&gt;Wordpress&lt;/a&gt; and &lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt;. It’s a quick way to test out the practice and see if it’s right for you.&lt;/p&gt;
 
 &lt;p&gt;If you’d like to create your own website, static site generators like &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://gohugo.io&quot;&gt;Hugo&lt;/a&gt; are low-tech ways to get started. You might have heard of &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; which runs on Jekyll. You simply feed it some Markdown files and it builds a website for you. GitHub Pages is free too, and it’s a good way to become more familiar with Git in general.&lt;/p&gt;
@@ -668,6 +670,7 @@
   &lt;li&gt;&lt;a href=&quot;https://gilest.org/agile-comms-tips.html&quot;&gt;Agile communication tips&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2019/08/27/podcast-on-writing/&quot;&gt;On writing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9&quot;&gt;The importance of being open&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2020/11/01/why-i-write-weeknotes/&quot;&gt;Why I write weeknotes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/&quot;&gt;Let’s write more blog posts&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tomcritchlow.com/2018/02/23/small-b-blogging/&quot;&gt;Small b blogging&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20061128082434/http://dig.csail.mit.edu/breadcrumbs/node/170&quot;&gt;Blogging is great&lt;/a&gt;&lt;/li&gt;
