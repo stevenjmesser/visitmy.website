@@ -5,9 +5,63 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Mar 2021 18:43:03 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Mar 2021 18:43:03 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Mar 2021 10:11:35 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Mar 2021 10:11:35 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Interviews 2</title>
+        <description>&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Most of the week was spent in interviews with our partner services, continuing our discovery into payment options, which will help inform GOV.UK Pay’s strategy over the next couple of years. Currently the platform only offers one-off card payments and two channels, digital and telephone, but we know that services need more.&lt;/p&gt;
+
+&lt;p&gt;Though we’re being deliberate about exploring the problem space and services’ motivations for particular options – trying to learn about the strategic objectives they need to meet as well as the operational objectives – we feel that we’re still expected to end this discovery by saying what we’ll build next. I think that risks us not having a real conversation around value, what the public sector needs at large, and how we organise ourselves around providing that over the long term.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, I’m sure we will plonk an option on our roadmap at the end of the discovery and move straight into an alpha, but it’s important that we say, clearly, why we’re choosing not to build the other options.&lt;/p&gt;
+
+&lt;p&gt;There’s good synchronicity of thought in the discovery team at the moment. Kind of like being on an acid trip with friends, when everyone in the group is sharing each other’s thinking. It’s probably the ideal to aim for in a discovery, although I’m not sure how we’d replicate it in future. A bit of instinct, a bit of luck, and a bit of &lt;a href=&quot;https://doctrine.wardleymaps.com&quot;&gt;doctrine&lt;/a&gt;, perhaps.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I’m glad there’s more togetherness this week after last week’s puzzle.&lt;/p&gt;
+
+&lt;p&gt;We presented at the GDS open show &amp;amp; tell as part of Services Week 2021, so I’ll share the video once it’s uploaded. I spent most of the week in that slide deck either side of interviews.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;Two more slide decks! One for the Smarter Working group on &lt;a href=&quot;https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/&quot;&gt;our experiment with asynchronous communication&lt;/a&gt; and another for &lt;a href=&quot;https://defrafarming.blog.gov.uk&quot;&gt;DEFRA’s Future Farming programme&lt;/a&gt; on platform product management.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;How to change people’s perceptions on product managers. PMs don’t exist to define your work for you and hand it over. It’s more about facilitating the team to do that, giving nudges where needed. I think? I dunno. What do you think?&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;I was grateful to &lt;a href=&quot;https://twitter.com/dgheath21&quot;&gt;David&lt;/a&gt; for talking us through technical research into the solutions available to us, it was good to have his help.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/thommeread&quot;&gt;Tom&lt;/a&gt;, our new CEO, came to chat to me and &lt;a href=&quot;https://www.linkedin.com/in/paul-downer-21a67594/&quot;&gt;Paul&lt;/a&gt; about the Social Mobility Network, founded by Paul in 2019. We spoke about what the network and its objectives meant to us, and Tom shared openly his interests too, and Paul presented the work that he’s been leading on over the last couple of years. It was good to make those connections, foundations we can build on.&lt;/p&gt;
+
+&lt;p&gt;A massive thank-you to &lt;a href=&quot;https://twitter.com/JuliaFromIT&quot;&gt;Julia&lt;/a&gt;, Head of Product on GaaP, for presenting the story of her career to some A-level students. There was some &lt;a href=&quot;https://twitter.com/mayorsfund/status/1367430667982819328&quot;&gt;excellent feedback&lt;/a&gt; from the students, and hers is a really inspiring story.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wearefuturegov.com/insight/series/digital-transformation/the-agonising-privilege-of-now&quot;&gt;The agonising privilege of now&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/digitalhks/introduction-to-levers-for-digital-service-groups-6d95446caae7&quot;&gt;Introduction to Levers for Digital Service Groups&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/&quot;&gt;Stanford researchers identify four causes for ‘Zoom fatigue’ and their simple fixes&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tribunemag.co.uk/2021/02/our-friends-in-the-establishment&quot;&gt;Our Friends in the Establishment&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newsletter.bringthedonuts.com/p/the-tools-dont-matter&quot;&gt;The Tools Don’t Matter&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2021/03/02/three-things-product-teams-need-from-designers/&quot;&gt;Three things product teams need from designers&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dougbelshaw.com/blog/2021/02/27/weeknote-08-2021/&quot;&gt;Weeknote 08/2021&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/uk-news/2021/mar/04/westminster-warned-as-poll-shows-record-backing-for-welsh-independence&quot;&gt;Westminster warned as poll shows record backing for Welsh independence&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2021/03/06/the-interviews-2/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/03/06/the-interviews-2/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Interviews</title>
