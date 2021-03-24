@@ -5,9 +5,91 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Mar 2021 09:42:05 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Mar 2021 09:42:05 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Mar 2021 07:02:19 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Mar 2021 07:02:19 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Deeper Analysis</title>
+        <description>&lt;p&gt;It’s 6 a.m. on a Wednesday and I should have written these last weekend, but never mind, now’s a time as good as any for some reflection. This is &lt;a href=&quot;/2020/11/01/why-i-write-weeknotes/&quot;&gt;why I write weeknotes&lt;/a&gt; after all.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Last week in the payment options discovery, we took another deep dive into our research with 16 services and organisations using GOV.UK Pay, this time looking specifically at service’s needs when they mention telephone payments or recurring payments (usually via Direct Debit). We’re doing that because even though services ask for telephone payments or Direct Debit or other payment options from us, they all apply those solutions in a different way. Our job is to find the common problems.&lt;/p&gt;
+
+&lt;p&gt;That means we&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;read through our transcribed interviews again&lt;/li&gt;
+  &lt;li&gt;pulled out quotes and observations that were specific to telephone payments and recurring payments&lt;/li&gt;
+  &lt;li&gt;highlighted the pain points&lt;/li&gt;
+  &lt;li&gt;wrote some high-level user needs and behaviours for these things&lt;/li&gt;
+  &lt;li&gt;wrote some acceptance criteria for these behaviours, e.g. it’s done when I can, and&lt;/li&gt;
+  &lt;li&gt;identified the opportunities for us to meet their needs and solve pain points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m really proud of the team for getting this far, it’s quite a lot to fit into one discovery and hard to do when remote. Our blueprints for these kinds of activities are office-based and face-to-face, but we managed to do it all with a Mural board, a couple of breaks and several hours.&lt;/p&gt;
+
+&lt;p&gt;Because that work over the week was so draining, I did a bad job on Friday of making a start on our discovery report. Or, rather, I noticed that some of the product &amp;amp; delivery discovery objectives had been put on the back-burner while I focused on facilitating the team. Which meant I panicked a little and reverted to clearing emails and all the other crud that builds up while your head is deep in a problem space.&lt;/p&gt;
+
+&lt;p&gt;That’s also why I didn’t write weeknotes last weekend, I was just too tired from the work. A chat with Student Loans Company did buoy me a little bit.&lt;/p&gt;
+
+&lt;p&gt;But on Monday, I woke up knowing what I needed to do to progress those product &amp;amp; delivery objectives. Should I have known this on Friday? Possibly. But also maybe it’s OK that I don’t. I took time to step away from the work over the weekend, which gave my brain more time for sense-making. And that’s a hugely important part of knowledge work. As Rachel says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;workshop isn’t the output.
+interview isn’t the output.
+hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This means we’re getting close to our discovery deadline with lower fidelity findings that we’d hoped, but if I’m honest I think Nick was right in saying we were trying to cram too much into a discovery (two discoveries really: what’s the demand for things and what are the pain points with these things). But as long as we’ve learned something and now where we need to dive a little deeper, I think that’s OK.&lt;/p&gt;
+
+&lt;p&gt;Importantly we know where to invest some further effort, the scope of that, and the hurdles we might encounter trying to make those things live.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;I also started pulling together a 10-year roadmap of trends in the payments landscape because a stakeholder needed a high level view of our strategy to discuss with an external stakeholder. It blind-sided me in a week of diving deep into some detail, so it contributed to the brain-scrambling I mentioned above, but that’s OK: I kinda think we should have one of these and revisit it often anyway.&lt;/p&gt;
+
+&lt;p&gt;We also iterated the induction Trello board for new product managers at GDS. It needed a tidy and a refresh because it had been left untouched for nearly a year. Also a recent recruit, Tim, had spotted some problems with it and been thrown too many boards to handle. I need to go back to the other PMs and ask if we might add the labels from &lt;a href=&quot;/2020/09/06/things-to-do-as-a-new-product-manager/&quot;&gt;my iteration of the board&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;The product community and its future is still a puzzle, but we were grateful to hear from the team putting together a community support model. They’ve done a great job so far and were really open in taking on feedback, asking us to prioritise the most important parts of the model and where support was needed most. Shout-out to Isabella, Laura and Claire – and thank you!&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Tried out some interval training to improve my &lt;a href=&quot;https://en.wikipedia.org/wiki/VO2_max&quot;&gt;aerobic capacity&lt;/a&gt;, which will hopefully mean I can run faster for longer periods. This meant I ran as fast as possible for 400 metres then took a 1-minute walking break, and I did that 12 times in one session. My average pace was 4:06/km (excluding walk breaks) and my fastest 5km pace so far has been 4:29/km, which is quite a gap.&lt;/p&gt;
+
+&lt;p&gt;The rugby was exhilarating on Sunday. Cymru am byth!&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/e654a6fa-4e75-4365-8025-9aa2a6198c12&quot;&gt;Dominic Cummings reveals science deal convinced him to work for Boris Johnson&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ermlikeyeah.com/start-at-the-core/&quot;&gt;Start at the core&lt;/a&gt;, 2 mins (I really loved this from &lt;a href=&quot;https://twitter.com/OfficeOfWilson&quot;&gt;Simon&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306&quot;&gt;Why the Web Won’t Be Nirvana&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intenseagile.com/weeknotes-006/&quot;&gt;Weeknotes 006&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.balancepointventures.com/disruption-decade&quot;&gt;disruption decade&lt;/a&gt;, 20 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/&quot;&gt;The End of Silicon Valley as We Know It?&lt;/a&gt;, 28 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Their &lt;a href=&quot;https://twitter.com/RachelRayns/status/1373764361681039362&quot;&gt;Twitter thread about sense-making&lt;/a&gt; really helped me. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2021/03/24/the-deeper-analysis/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/03/24/the-deeper-analysis/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Analysis</title>
