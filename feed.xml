@@ -5,9 +5,89 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Mar 2021 07:02:19 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Mar 2021 07:02:19 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Mar 2021 09:27:00 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Mar 2021 09:27:00 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Sense-making</title>
+        <description>&lt;p&gt;These are coming out on a Monday because I was too wiped from work at the weekend. It’s good to go into overdrive every now and then, to squeeze out those thoughts that really need you to spend the extra brain credits, but it’s not sustainable. There’s a bit more headroom now I’m not teaching in the evenings though.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Last week in the payment options discovery, we started to wrap up our findings on organisations’ needs for procuring, implementing and managing different payment options, as well as continue to develop our understand of the specific pain points with telephone payments and recurring payments.&lt;/p&gt;
+
+&lt;p&gt;To wrap up our findings, we&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;interviewed some teams that don’t use Pay, to help validate what others told us&lt;/li&gt;
+  &lt;li&gt;pulled out the qualities that distinguish different organisations and their approach to payments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This last bit is really useful. It gives us a picture of the kinds of teams we’re dealing with, their unique behaviours and the strategic objectives or blockers they have. It’s good for digging in to the ‘why’ behind their answers, to help us understand why they’ve implemented certain payment options in the past. So now we know that when one team comes and asks for Direct Debit, it doesn’t mean the same as when another team asks for it.&lt;/p&gt;
+
+&lt;p&gt;To continue developing our understanding of specific pain points, we&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;drew up service blueprints for telephone payments and recurring payments based on what we know so far&lt;/li&gt;
+  &lt;li&gt;highlighted areas we were unsure about or had questions for&lt;/li&gt;
+  &lt;li&gt;wrote up the questions and identified teams to answer them&lt;/li&gt;
+  &lt;li&gt;circled which areas are likely to need the most detailed tech and design work to understand further&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also started preparing the slide deck for the discovery playback on 1 April.&lt;/p&gt;
+
+&lt;p&gt;I pulled together a crude benefits model too. Though providing telephone payments and recurring payments through Pay is likely to create some cashable benefits for services, it can also be a blocker to them cashing in the other benefits of taking payments online.&lt;/p&gt;
+
+&lt;p&gt;The main theme emerging for me is how much Government-as-a-Platform has been designed primarily for central government but local authorities with the right approach can benefit from our platforms too. Only there hasn’t been the same mandate for digital transformation in local government, so the responsibility falls on digital teams and departments that drank the Kool-Aid to convince the rest of the council. That’s hefty political work, let alone all the day-to-day change management. Props to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;A presentation for a third and final interview that happened on Friday. They seemed to really like it, so I’m waiting to hear back how it went.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;We were talking about how we might use office space when we go back to one. A thing we don’t want to happen is for anyone working remotely to become a second-class citizen to those working in close proximity: it’s really easy to turn and tap someone on the shoulder, forgetting to pull in your colleagues working from home. Another problem is background noise and its effect on video meetings (because there’s likely to be many of those).&lt;/p&gt;
+
+&lt;p&gt;Wrote up some experiments we’d like to try.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;See if a telepresence setup can equalise the friction of having ad-hoc conversations (‘tap someone on the shoulder’ but through video)&lt;/li&gt;
+  &lt;li&gt;Experiment with equipment, rooms and furniture to find the cheapest way to allow every individual in the office to dial in to a meeting without disturbing those around them – but that probably needs other teams to be present, and the experiment needs to happen in the offices we will use&lt;/li&gt;
+  &lt;li&gt;See if a big touch screen running Mural and some specific facilitation rules can result in a remote/office hybrid meeting that is equal for all participants&lt;/li&gt;
+  &lt;li&gt;Experiment with AV equipment to allow good sound quality of stand-up meetings outside meeting rooms (needs background noise)&lt;/li&gt;
+  &lt;li&gt;For high-level strategy meetings (long, draining over video) and line management catch-ups (human element is beneficial), compare the effectiveness of co-location vs fully remote&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve updated &lt;a href=&quot;/2020/11/02/free-range-future-of-work/&quot;&gt;my post on hybrid working&lt;/a&gt; with what we’ve learned over the last year.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;I watched a few films and started playing &lt;em&gt;S.TA.L.K.E.R.: Shadow of Chernobyl&lt;/em&gt; in the moments I wasn’t sleeping. It was a week of working late and a weekend of taking it very easy.&lt;/p&gt;
+
+&lt;p&gt;Also, the cat got into the loft of Wednesday. A novel problem to solve, for sure.&lt;/p&gt;
+
+&lt;p&gt;Decided to rest my legs from running as they’re a bit tight, but I’ll get back on the intervals after Easter probably.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-1152-healthy-goals&quot;&gt;TBM 11/52: Healthy Goals&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://memo.barrucadu.co.uk/at-home-for-one-year.html&quot;&gt;At home for one year&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ev.medium.com/medium-editorial-team-update-8679bcb9fe81&quot;&gt;Medium Editorial Team Update&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/wearesnook/creating-the-scaffolding-for-teams-to-do-their-best-work-287bcbc68aac&quot;&gt;Creating the scaffolding for teams to do their best work&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2021/03/designing-the-hybrid-office&quot;&gt;Designing the Hybrid Office&lt;/a&gt;, 19 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2021/03/staying-mindful-when-youre-working-remotely&quot;&gt;Staying Mindful When You’re Working Remotely&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 29 Mar 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/03/29/the-sensemaking/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/03/29/the-sensemaking/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Deeper Analysis</title>
@@ -1418,7 +1498,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
     
       <item>
         <title>The free-range future of work</title>
-        <description>&lt;p&gt;For organisations that use computers to get stuff done, the Internet means you can spread bits of your organisation out geographically and temporally.&lt;/p&gt;
+        <description>&lt;p&gt;For organisations that use computers to get stuff done, the Internet means you can spread bits of your organisation out geographically (over a map) and temporally (over time).&lt;/p&gt;
 
 &lt;p&gt;Spreading a workforce geographically is usually called remote working or distributed working. That’s when workers aren’t necessarily close to the location of the main office, they live and work elsewhere. There’s also hybrid working, which is when people are expected to come into an office some times but can work from wherever they like the rest of the time.&lt;/p&gt;
 
@@ -1448,6 +1528,24 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Spontaneous socialising is a joy. Create a tea break channel and head in there when you’re going to make a cup of tea or coffee. Start a voice chat, either using your work laptop or some headphones connected to a phone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A person’s role and types of workflow influence their ability to complete tasks when working remotely. For example, developers often need to get their head down on a problem, whereas managers move between smaller tasks and communicate with more people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The quality of personal or professional community that people have access to, and the support they receive from those, influences their ability to cope with change. Revitalise your communities of practice by setting aside time for community-building and running workshops.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t let new team members fall between the cracks. Buddy with them during their first week and hang out with them often during their first month. This is true in offices as well as when working from home.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most people want to draw a line between work life and home life, but that’s increasingly hard when you work more flexibly or share childcare with a partner. Move to work in a different room (if you’re lucky enough to have one) or take a walk in nature to reset.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manage your energy not our time by scheduling regular breaks to stand up and stretch between tasks or meetings. Have a small snack or a drink every 90 minutes or so. Set work schedules each morning, and have dedicated slots to answer emails and Slack messages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be present in meetings. Disable distracting notifications, minimise other windows, and actively listen to your team-mates. Writing in docs or checking your phone detracts from the atmosphere of shared purpose, making others feel disconnection.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
