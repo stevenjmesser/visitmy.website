@@ -5,9 +5,34 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Apr 2021 10:00:53 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Apr 2021 10:00:53 +0100</lastBuildDate>
+    <pubDate>Fri, 09 Apr 2021 08:01:13 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Apr 2021 08:01:13 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Let’s get naked</title>
+        <description>&lt;p&gt;You might have noticed that this website looks a little plain today. But why?&lt;/p&gt;
+
+&lt;p&gt;I was looking at &lt;a href=&quot;https://www.benjystanton.co.uk/blog/switching-to-eleventy-but-still-naked/&quot;&gt;Benjy Stanton’s website&lt;/a&gt; this morning as he’s ported it over to Eleventy, but I noticed that it was rather bare.&lt;/p&gt;
+
+&lt;p&gt;No styling anywhere. All Times New Roman and standard spacing. Using the browser’s defaults rather than his own stylesheets.&lt;/p&gt;
+
+&lt;p&gt;Then I spotted the link to &lt;a href=&quot;https://css-naked-day.github.io&quot;&gt;CSS Naked Day&lt;/a&gt;, a yearly event in which websites remove their CSS to show the semantic HTML.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure, and of course, a good old play on words. It’s time to show off your &amp;lt;body&amp;gt; for what it really is.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m &lt;a href=&quot;https://www.youtube.com/watch?v=Ik9IeChLqEk&quot;&gt;a fan of Web Standards&lt;/a&gt;, they make the Web &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone&quot;&gt;a great place for everyone&lt;/a&gt;, so I’ve removed all styling from my website for the day.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>2020: a year in review</title>
