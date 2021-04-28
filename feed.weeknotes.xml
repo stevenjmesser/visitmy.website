@@ -5,9 +5,73 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Apr 2021 18:03:16 +0100</pubDate>
-    <lastBuildDate>Tue, 20 Apr 2021 18:03:16 +0100</lastBuildDate>
+    <pubDate>Wed, 28 Apr 2021 08:08:16 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Apr 2021 08:08:16 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Alpha</title>
+        <description>&lt;p&gt;&lt;em&gt;These notes cover 12–23 April, which I’m writing quite late.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;It’s been a busy couple of weeks. We kicked off the quarter, onboarded new team members, and started talking about what we’ll do in the &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works&quot;&gt;alpha phase&lt;/a&gt; following on from last quarter’s discovery.&lt;/p&gt;
+
+&lt;p&gt;Usually this all happens inside one week and inside one building, but with so many people taking holiday in the first three weeks of the quarter, we’re taking an asynchronous approach to building a shared understanding. It has its merits – giving people time to get their head around new concepts – but can feel like a stuttered start to a piece of work. So my job has been to make sure that everyone gets to a point of shared understanding and everyone has had a chance to contribute to our foundational plans.&lt;/p&gt;
+
+&lt;p&gt;The main artefact to help with this has been to write a mission brief and invite comment on the doc. Everyone can raise questions, which helps you check your language and that the mission is comprehensible, shave or add scope where necessary, spot which people are thinking along the same lines.&lt;/p&gt;
+
+&lt;p&gt;A neat tool to help with that has been to check in on people and asking them to share thoughts openly, in Slack. Our delivery manager, Sam, has had one-to-ones with everyone, and I’ve been encouraging conversation. When Sam noticed that some people weren’t sure what they should be doing, she put in a team meeting and I turned it in to a retro. A simple ‘Start, Stop, Continue’ thing. It gave us just enough feedback to tell us how to adjust course.&lt;/p&gt;
+
+&lt;p&gt;Storming, forming and norming while everyone’s remote, some people aren’t working and you can’t predict people will be present at the same time is a wild ride. The fuel for this ride is trust.&lt;/p&gt;
+
+&lt;p&gt;Another really useful activity has been to go deep on one of the user workflows together. We took a workflow map from our discovery, focused on one section and went really detailed. We laid out the steps that paying users will take, that service teams will take, how bits of tech will interact with each other, what that will look like (as really simple wireframes), and which needs will be addressed by those steps. Because developers and designers and our user researcher are pitching in together, we’re balancing the trade-offs together. &lt;a href=&quot;https://basecamp.com/shapeup/3.2-chapter-11&quot;&gt;Getting one piece done&lt;/a&gt; and building out from that.&lt;/p&gt;
+
+&lt;p&gt;I’m looking forward to getting back to work, after my holiday this week, and setting the ‘Alpha is done when…’ objectives with the team.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;I helped out Ofsted by being on the interview panel for hiring a senior product manager. It was good to help out another department, meet some new people, and they were glad to have an external viewpoint on the candidates. I recommend reaching out to other teams in the product community and helping them, if you can.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;The operating model between teams, products and programmes at GDS feels quite inefficient currently. I only hope we’ve been vocal enough to not be forgotten when the latest strategy is announced.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Switching to fortnightly notes might be a good idea, I need all the headspace I’ve got these days.&lt;/p&gt;
+
+&lt;p&gt;This line in an article stuck out to me:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Consider what a bizarre model of “growth” has governed Britain since the crash – where the value of a home rises by roughly 5% every year, but the value of an hour’s work rises not at all, year after year. What does this do to us, psychologically and culturally?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Boils your fucking bones.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/2Q11oqn&quot;&gt;Netscape 2.0: Coinbase stock debut rekindles memories of web breakthrough&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/akd5xb/how-london-could-effectively-decriminalise-cannabis&quot;&gt;How London Could Effectively Decriminalise Cannabis&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/m7amw4/is-it-possible-to-create-an-ethical-psychedelics-company&quot;&gt;Is it Possible to Create an Ethical Psychedelics Company?&lt;/a&gt;, 19 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blossom.ghost.io/bias-in-hiring/&quot;&gt;There is bias in your hiring process&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cennydd.com/blog/the-talent-race-is-also-an-ethical-race&quot;&gt;The talent race is also an ethical race&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2021/04/what-psychological-safety-looks-like-in-a-hybrid-workplace&quot;&gt;What Psychological Safety Looks Like in a Hybrid Workplace&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3tVDhIc&quot;&gt;UK medical cannabis sector renews call for reform to kickstart growth&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.refinery29.com/en-gb/decriminalisation-legalisation-cannabis-weed-black-community&quot;&gt;Black Women Are Calling For The Decriminalisation Of Cannabis — Here’s Why&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://autonomy.work/portfolio/berry-class-rent/&quot;&gt;Rethinking class in the age of rent&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/apr/26/boris-johnson-tories-economy-rising-house-prices-wages&quot;&gt;Johnson’s Tories are reaping the rewards of an economy built on rising house prices&lt;/a&gt;, 6 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 28 Apr 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/04/28/the-alpha/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/04/28/the-alpha/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Decision</title>
