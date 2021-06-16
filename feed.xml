@@ -5,9 +5,74 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Apr 2021 08:08:16 +0100</pubDate>
-    <lastBuildDate>Wed, 28 Apr 2021 08:08:16 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Jun 2021 19:58:49 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Jun 2021 19:58:49 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Alpha Continued</title>
+        <description>&lt;p&gt;I haven’t written any weeknotes in a couple of months, mainly because I’ve not found it necessary to reflect on what I’m doing. Having said that, things have been going well and I should write that down so I remember these things later.&lt;/p&gt;
+
+&lt;p&gt;These notes don’t cover everything we’ve done over the last 8 weeks, obviously, these are just the highlights.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;I started a paper with our user researcher and an economist describing how we might quantify the size of the public sector payments market. We collected some feedback but need to do more work on it.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Our alpha looking at recurring payments functionality for GOV.UK Pay has been going well. We called out the risky assumptions we were making about how it would work, dived into those assumptions to pull out specific research questions, wireframed and prototyped our ideas, and we’ve been testing these with service teams. Tomorrow we’ve got a session to check on what we’ve learned so far and on Monday we’ll check on progress against our ‘Alpha is done when…’ objectives.&lt;/p&gt;
+
+&lt;p&gt;The team have gelled well and they’re collaborating excellently. They’re good at helping each other get on the same page, and there’s enough trust to admit when you don’t know something.&lt;/p&gt;
+
+&lt;p&gt;In one of the weeks, I expected we’d be able to have a planning session and start building things, but not everyone had the same picture in their head of how things would work. This caused a bit of head-scratching and it felt uncomfortable, especially because the following day I was on holiday. But when I came back, the team had self-organised an alternative plan that worked quite well. Within two days, we had tangible artefacts to share with services, the wider Pay team and inside GDS. It was lovely.&lt;/p&gt;
+
+&lt;p&gt;Most people on the team seem to be developing a gut feeling for what is and isn’t MVP. That’s really good. It’s amazing how much you can learn from wireframing a couple of workflows, building a shonky prototype, mocking up a marketing page and putting all of that in front of services. &lt;a href=&quot;https://www.inc.com/steve-blank/key-to-success-getting-out-of-building.html&quot;&gt;Get out of the building&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve been naff at documenting our decisions, despite keeping a product decision record, and lots of our thinking is inside Mural boards rather than documents. I need to carve out time to write things up, but I’m really grateful to Dom, our tech lead, for writing things up.&lt;/p&gt;
+
+&lt;p&gt;The plan for private beta is starting to come together, and I’m really proud of all the work the team has done.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;In July I’ll be leaving GDS to join &lt;a href=&quot;https://claimer.com&quot;&gt;Claimer&lt;/a&gt;, so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Still loving running. I’ve come up with a 4-week half-marathon training plan and so far it’s going well. I’m in the 4th week, so next week is race week. There isn’t an organised race, I’m just going to try and run 21.1km. Having arbitrary life goals is fun, who knew?!&lt;/p&gt;
+
+&lt;p&gt;Last weekend was quite cool. Sunday especially. I ran 18km, the longest I’ve ever run. Then I read the papers in the sun with a coffee. After lunch, we went to Caernarfon airport and I flew a Piper Cherokee. I saw Dinas Dinlle from the sky. To cap the day, I swam around the Pwllheli coast and saw dolphins hunting. Not bad really.&lt;/p&gt;
+
+&lt;p&gt;Feeling blessed tbh.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.platformer.news/p/-what-really-happened-at-basecamp&quot;&gt;🚨 What really happened at Basecamp&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2021/04/21/technology/welcome-to-the-yolo-economy.html&quot;&gt;Welcome to the YOLO Economy&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/910fb195-74d7-4009-b36b-b570d851e632&quot;&gt;Cult Shop: a trove of Welsh vernacular furniture&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/&quot;&gt;Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2021/05/why-start-ups-fail&quot;&gt;Why Start-ups Fail&lt;/a&gt;, 21 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://janeyang.org/2021/04/27/an-open-letter-to-jason-and-david/&quot;&gt;An Open Letter to Jason and David&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://world.hey.com/dhh/let-it-all-out-78485e8e&quot;&gt;Let it all out&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rogerswannell.com/blog/digiscot-talk-asynchronous-working-as-part-of-a-learning-culture/&quot;&gt;DigiScot Talk: Asynchronous working as part of a learning culture&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/lean-agile-documentation/&quot;&gt;Lean UX Documentation for Tracking and Communicating in Agile&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3b8y0pp&quot;&gt;Ditch the bullet journal and stay in bed as long as you like&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2021/may/08/work-can-virtual-meeting-spaces-save-us-all-from-zoom-fatigue&quot;&gt;Can virtual meeting spaces save us all from Zoom fatigue?&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/z3xmye/uk-medical-cannabis-production-prescription&quot;&gt;‘It’s Crazy’ – Patients Say the UK’s Medical Cannabis System Is Not Working&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why&quot;&gt;Utopia Inc&lt;/a&gt;, 18 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notboring.co/p/the-great-online-game&quot;&gt;The Great Online Game&lt;/a&gt;, 19 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/lifestyle/wellness/productivity-focus-work-tips/2021/05/31/07453934-bfd0-11eb-b26e-53663e6be6ff_story.html&quot;&gt;Your ability to focus may be limited to 4 or 5 hours a day. Here’s how to make the most of them.&lt;/a&gt;, 6 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/06/16/the-alpha-continued/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/06/16/the-alpha-continued/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Alpha</title>
@@ -2640,8 +2705,9 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;h2 id=&quot;working-in-a-team&quot;&gt;Working in a team&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Establish your team’s shared principles and ways of working early. Refer back to these guidelines often, and iterate where needed.&lt;/li&gt;
   &lt;li&gt;Set up a regular check-in with your delivery manager, twice a week if possible.&lt;/li&gt;
-  &lt;li&gt;Make sure pre-planning is 2 days before planning, giving ample time to refine cards and user stories.&lt;/li&gt;
+  &lt;li&gt;Make sure pre-planning is 2 days before planning, giving ample time to refine cards and user stories.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;Pre-planning should involve tech lead, design lead, and delivery manager (at least).&lt;/li&gt;
   &lt;li&gt;Don’t risk doing the classic retro mistake of trying to change everything after one sprint.&lt;/li&gt;
   &lt;li&gt;Figure out your team’s skillset, particularly what they’re not good at, and their development objectives. Try to base the work on that as much as possible.&lt;/li&gt;
@@ -2657,6 +2723,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
   &lt;li&gt;Reach, impact, confidence, effort, and urgency are universal prioritisation criteria.&lt;/li&gt;
   &lt;li&gt;Try not to rush cards through: take time to gather context and understand the problem holistically.&lt;/li&gt;
   &lt;li&gt;Start small, test risky assumptions, iterate and grow.&lt;/li&gt;
+  &lt;li&gt;Keep a decision record and update it after each meeting or workshop. If you shave scope, make it clear.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;working-with-stakeholders&quot;&gt;Working with stakeholders&lt;/h2&gt;
@@ -2676,6 +2743,9 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This applies to the Scrum methodology which is widely practised at GDS. I’m looking forward to starting to use &lt;a href=&quot;https://basecamp.com/shapeup&quot;&gt;Shape Up&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;

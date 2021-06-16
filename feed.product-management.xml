@@ -5,8 +5,8 @@
     <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Apr 2021 08:08:16 +0100</pubDate>
-    <lastBuildDate>Wed, 28 Apr 2021 08:08:16 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Jun 2021 19:58:49 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Jun 2021 19:58:49 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -154,8 +154,9 @@
 &lt;h2 id=&quot;working-in-a-team&quot;&gt;Working in a team&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Establish your team’s shared principles and ways of working early. Refer back to these guidelines often, and iterate where needed.&lt;/li&gt;
   &lt;li&gt;Set up a regular check-in with your delivery manager, twice a week if possible.&lt;/li&gt;
-  &lt;li&gt;Make sure pre-planning is 2 days before planning, giving ample time to refine cards and user stories.&lt;/li&gt;
+  &lt;li&gt;Make sure pre-planning is 2 days before planning, giving ample time to refine cards and user stories.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;Pre-planning should involve tech lead, design lead, and delivery manager (at least).&lt;/li&gt;
   &lt;li&gt;Don’t risk doing the classic retro mistake of trying to change everything after one sprint.&lt;/li&gt;
   &lt;li&gt;Figure out your team’s skillset, particularly what they’re not good at, and their development objectives. Try to base the work on that as much as possible.&lt;/li&gt;
@@ -171,6 +172,7 @@
   &lt;li&gt;Reach, impact, confidence, effort, and urgency are universal prioritisation criteria.&lt;/li&gt;
   &lt;li&gt;Try not to rush cards through: take time to gather context and understand the problem holistically.&lt;/li&gt;
   &lt;li&gt;Start small, test risky assumptions, iterate and grow.&lt;/li&gt;
+  &lt;li&gt;Keep a decision record and update it after each meeting or workshop. If you shave scope, make it clear.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;working-with-stakeholders&quot;&gt;Working with stakeholders&lt;/h2&gt;
@@ -190,6 +192,9 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This applies to the Scrum methodology which is widely practised at GDS. I’m looking forward to starting to use &lt;a href=&quot;https://basecamp.com/shapeup&quot;&gt;Shape Up&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
