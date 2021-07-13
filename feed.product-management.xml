@@ -2,12 +2,181 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steve Messer // Product manager</title>
-    <description>Product person, GOV.UK Pay, Government Digital Service. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
+    <description>Product person. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Jun 2021 19:58:49 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Jun 2021 19:58:49 +0100</lastBuildDate>
+    <pubDate>Tue, 13 Jul 2021 18:37:41 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Jul 2021 18:37:41 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Visual design fundamentals</title>
+        <description>&lt;p&gt;&lt;em&gt;These are my notes from a short class on &lt;a href=&quot;https://generalassemb.ly/education/visual-design-fundamentals-e5aac13e-0e76-47f9-8fde-1ffd9b802aca/online/187328&quot;&gt;visual design fundamentals&lt;/a&gt;. I wanted to learn the purpose of visual design, the theory behind design and how it related to UX design.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I played with Flash, Dreamweaver and Fireworks as a teenager, and later got into photography and designing photo books, but I’ve never had any formal design training. I’ve worked with some great designers at GDS, but would love to develop my skills further.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-visual-design&quot;&gt;What is visual design?&lt;/h2&gt;
+
+&lt;p&gt;Visual design focuses on the aesthetics of a project and its related materials by strategically implementing images, colours, fonts and other elements. A successful visual design doesn’t take away from the content or a function. It helps people build trust in it.&lt;/p&gt;
+
+&lt;h2 id=&quot;discovery&quot;&gt;Discovery&lt;/h2&gt;
+
+&lt;p&gt;You need to know about a project before jumping in and designing things. This usually includes talking with and researching the client, colleagues, competitors, sources of inspiration, etc. All of that stuff is then turned into ideas. Quick, low effort work like wireframing can bring ideas into reality, out of your head, to be tested to see whether the ideas work.&lt;/p&gt;
+
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;/h3&gt;
+
+&lt;p&gt;Whenever you begin a project, you should always be starting off with research. Take a collaborative approach because you need information from clients and stakeholders to understand their objectives, set constraints, set goals for when work begins and ends, and get useful feedback on your work.&lt;/p&gt;
+
+&lt;p&gt;Research looks like&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;looking stuff up on the web&lt;/li&gt;
+  &lt;li&gt;looking at books, magazines and blog posts&lt;/li&gt;
+  &lt;li&gt;interviewing clients&lt;/li&gt;
+  &lt;li&gt;interviewing potential users&lt;/li&gt;
+  &lt;li&gt;formalising marketing data&lt;/li&gt;
+  &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anything that helps you better understand what you’re making and who you’re making it for. Feel free to drill in to briefs and ask ‘why’ – you don’t want to be left guessing why they like stuff. Find out what level of control the client wants too.&lt;/p&gt;
+
+&lt;h3 id=&quot;create-the-objective&quot;&gt;Create the objective&lt;/h3&gt;
+
+&lt;p&gt;Craft an objective to answer the questions: What are we trying to communicate? Who are we communicating this to?&lt;/p&gt;
+
+&lt;p&gt;Use plain language to communicate purpose clearly. Throughout the project, consider whether the design is helping meet this objective.&lt;/p&gt;
+
+&lt;h2 id=&quot;ideation&quot;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;Once you’ve done your research, you’re ready to turn those into ideas.&lt;/p&gt;
+
+&lt;p&gt;Not everyone has the same process, and not every process is applicable to each brief. You might need to adapt a process depending on the project.&lt;/p&gt;
+
+&lt;p&gt;Moodboarding is a good way to curate design elements that speak to the overall look and feel, and define constraints to work within. If you’re looking to copy a website design, for example, the design decisions won’t be obvious and objectives will definitely be different. So try to look at raw designs: photography, illustration, books, typography, icons, colours, patterns, shapes, textures, etc. These provide different directions to go in and can generate feedback from a client.&lt;/p&gt;
+
+&lt;p&gt;You can refine moodboards as you move in a certain direction, e.g. ‘neon’, ‘big, bold and yellow’, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;define-constraints&quot;&gt;Define constraints&lt;/h3&gt;
+
+&lt;p&gt;This will contain the scope of the work and can limit scope creep. We want to narrow focus and purpose to make the design as effective as possible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Timeline and budget&lt;/li&gt;
+  &lt;li&gt;Technical considerations&lt;/li&gt;
+  &lt;li&gt;The audience to reach&lt;/li&gt;
+  &lt;li&gt;The message or values to communicate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;visual-perception-and-graphic-form&quot;&gt;Visual perception and graphic form&lt;/h2&gt;
+
+&lt;h3 id=&quot;contrast&quot;&gt;Contrast&lt;/h3&gt;
+
+&lt;p&gt;It’s not just about colour. Contrast can define hierarchy, exploit context, manipulate relationships between elements. You bring meaning and emphasis by contrasting things with each other. It’s the occurring of elements of different size, position, colour, texture, shape and orientation.&lt;/p&gt;
+
+&lt;p&gt;The Rule of Least Effective Difference urges designers to use the smallest visual variation required to effectively communicate an idea.&lt;/p&gt;
+
+&lt;p&gt;Use contrast to convey information and importance. Our brains are wired to pick up on contrast. But use it sparingly: decide which few elements need to stand out and make those different to everything else.&lt;/p&gt;
+
+&lt;p&gt;You can use design patterns so that you don’t have to reinvent the wheel every time.&lt;/p&gt;
+
+&lt;p&gt;Colour is one of the strongest forms of contrast.&lt;/p&gt;
+
+&lt;h3 id=&quot;gestalt-principles-of-perception&quot;&gt;Gestalt principles of perception&lt;/h3&gt;
+
+&lt;p&gt;Gestalt is a German word meaning ‘the qualities of a structure as a whole that cannot be described merely as a sum of its parts’.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to present something as it is, people’s brains can fill in the blanks. People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“White space is to be regarded as an active element, not a passive background.” – Jan Tschihold&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;key-ideas-behind-gestalt&quot;&gt;Key ideas behind Gestalt&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Emergence: where the whole is identified before the parts&lt;/li&gt;
+  &lt;li&gt;Reification: our mind fills in the gaps&lt;/li&gt;
+  &lt;li&gt;Multi-stability: our mind seeks to avoid uncertainty&lt;/li&gt;
+  &lt;li&gt;Invariance: our mind is good at recognising similarities and differences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;space&quot;&gt;Space&lt;/h4&gt;
+
+&lt;p&gt;Space is a really key tool in design. It performs the same function as silence in a song.&lt;/p&gt;
+
+&lt;p&gt;It can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;establish contrast, emphasis and hierarchy&lt;/li&gt;
+  &lt;li&gt;generate drama and tension&lt;/li&gt;
+  &lt;li&gt;provide visual rest between groups of elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;colour&quot;&gt;Colour&lt;/h2&gt;
+
+&lt;h3 id=&quot;colour-schemes&quot;&gt;Colour schemes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Colour does not add a pleasant quality to design – it reinforces it.” – Pierre Bonnard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Colour shouldn’t overtake a design, it should push things up. It can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;set a desired mood&lt;/li&gt;
+  &lt;li&gt;reinforce a branding message&lt;/li&gt;
+  &lt;li&gt;create contrast and harmony&lt;/li&gt;
+  &lt;li&gt;create a comfortable reading experience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Structure a design first, then use colour to provide emphasis.&lt;/p&gt;
+
+&lt;p&gt;For colour schemes, you can start with a couple of colours and use tints, shades and tones to add more colours to the scheme.&lt;/p&gt;
+
+&lt;p&gt;You might iterate a scheme, adding other shades or colours, as you apply it to different elements for emphasis or muting.&lt;/p&gt;
+
+&lt;h3 id=&quot;colour-and-emotion&quot;&gt;Colour and emotion&lt;/h3&gt;
+
+&lt;p&gt;Colour has a predictable effect on us. For example, when you see red, it’s stimulating and attention-grabbing.&lt;/p&gt;
+
+&lt;p&gt;But meaning isn’t finite. It’s all about context. Red does not always equal love, it could mean lust or revolution.&lt;/p&gt;
+
+&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
+
+&lt;p&gt;Typography is pretty subjective, unlike colour which can be scientific. It’s OK to trust your gut on what works.&lt;/p&gt;
+
+&lt;p&gt;### Fonts and typefaces&lt;/p&gt;
+
+&lt;p&gt;Fonts matter. You can write the same message in two different fonts and the meaning can be construed by the typography.&lt;/p&gt;
+
+&lt;p&gt;You’ll read bigger words before smaller words, so there is a hierarchy to typography.&lt;/p&gt;
+
+&lt;p&gt;Garamond is a typeface, 12pt is a font. Some people use ‘font’ to distinguish the weight or variant in a typeface.&lt;/p&gt;
+
+&lt;p&gt;When choosing a typeface, consider&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how legible is it? organic or stylised?&lt;/li&gt;
+  &lt;li&gt;how readable is it? long-form or headlines?&lt;/li&gt;
+  &lt;li&gt;how flexible is it? different sizes and weights? copy and titles?&lt;/li&gt;
+  &lt;li&gt;how unique is it? is it memorable or interesting?&lt;/li&gt;
+  &lt;li&gt;has it been optimised for screens?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t use a display typeface – for headlines – for body copy.&lt;/p&gt;
+
+&lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Design</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes on areas of responsibility</title>
