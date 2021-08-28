@@ -5,13 +5,64 @@
     <description>Product person. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Aug 2021 08:29:19 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Aug 2021 08:29:19 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Aug 2021 09:18:52 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Aug 2021 09:18:52 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
+        <title>Service designers and product managers: working together</title>
+        <description>&lt;p&gt;The other day I was looking through the &lt;a href=&quot;http://www.practicalservicedesign.com/community&quot;&gt;Practical Service Design Slack community&lt;/a&gt; when a question from &lt;a href=&quot;https://www.linkedin.com/in/carolinecoxorrell/&quot;&gt;Caroline Cox-Orrell&lt;/a&gt; caught my eye.&lt;/p&gt;
+
+&lt;p&gt;She asked:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Does anyone have a model (or just examples from your own teams) about how service design and product mgmt/design might collaborate?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s a good question! When I’ve worked with service designers, we’ve always laughed at how similar our roles can be. I think this stems from product managers needing to be generalists – or &lt;a href=&quot;https://digitalbydefault.com/2020/02/12/multi-hyphenates/&quot;&gt;multi-hyphenates&lt;/a&gt; – filling in gaps on a team when a specialist isn’t available. And because so many materials and frameworks for product management focus on the huge as-a-service sector, product managers will often be doing service thinking.&lt;/p&gt;
+
+&lt;p&gt;But how might service designers and product managers best collaborate?&lt;/p&gt;
+
+&lt;p&gt;Whenever I’ve worked with service designers we’ve established &lt;a href=&quot;/2020/09/26/notes-on-areas-of-responsibility/&quot;&gt;areas of responsibility&lt;/a&gt; together to make sure that we’re not overlapping too much and duplicating effort. It’s really important to do this, as a study showed that overlap negatively affects job satisfaction and could lead to poorer products and services.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;In essence I think the product manager is more responsible for managing the team when working with a service designer, yet the service designer definitely takes the lead on facilitating the team. The product manager can also deal with all the stakeholders, leaving the service designer with much-needed thinking time.&lt;/p&gt;
+
+&lt;p&gt;It’s helpful for product managers and service designers to have twice weekly catch-ups, talking about how the projects or tasks at hand are progressing, and to align on knowns and unknowns.&lt;/p&gt;
+
+&lt;p&gt;Remember that service designers are great at going deep and wide, so a product manager can best complement that skill by shaving scope and leading the strategic thinking. As always though, no two pairings will be alike, so alter the areas of responsibility based on people’s strengths and weaknesses.&lt;/p&gt;
+
+&lt;p&gt;That’s what worked for me in the past anyway. It’s best not to look at it as stepping on each other’s toes, more like dancing a foxtrot together.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team&quot;&gt;What each role does in a service team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/product-manager#introduction-to-the-role-of-product-manager&quot;&gt;Introduction to the role of product manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/service-designer#introduction-to-the-role-of-service-designer&quot;&gt;Introduction to the role of service designer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/pm-ux-different-views-of-responsibilities/&quot;&gt;PM and UX Have Markedly Different Views of Their Job Responsibilities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nngroup.com/articles/ux-product-managers-overlap/&quot;&gt;https://www.nngroup.com/articles/ux-product-managers-overlap/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Why I’m hyped about working at Claimer</title>
-        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://www.claimer.com&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
+        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://www.claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
 
 &lt;p&gt;I’ve only been in the job a week but it’s a really exciting place, and I wanted to write down what’s got me hyped so I can look back over these early, energy-filled bursts of enthusiasm in the future.&lt;/p&gt;
 
@@ -104,7 +155,7 @@
 
 &lt;p&gt;In the last 15 months on GOV.UK Pay, I’ve learned an awful lot from working with some excellent people. Antonia, Xander, David and Miriam have all helped me grow. And it’s such a cool platform that people rarely talk about. They’re doing a hard job in a complicated space! It deserves more limelight, so too does the work that Dom, Alex, Iqbal, Oz, Nim, Dan, Kat, Crispin, Leon, Justin, Antonia, Arindra, Chris and Nathan do daily.&lt;/p&gt;
 
-&lt;p&gt;Anyway, time for new pastures. I’m really looking forward to the challenge at &lt;a href=&quot;https://claimer.com&quot;&gt;Claimer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Anyway, time for new pastures. I’m really looking forward to the challenge at &lt;a href=&quot;https://claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Though I’m going to take the time to reflect on my practice, it’ll be hard to openly publish weeknotes in the new job – it’s quite a competitive space – and so I’ll probably default to a different form of blogging. More writing about thoughts as they bubble up, rather than just covering what I did in a week.&lt;/p&gt;
 
@@ -342,7 +393,7 @@
 
 &lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
 
-&lt;p&gt;In July I’ll be leaving GDS to join &lt;a href=&quot;https://claimer.com&quot;&gt;Claimer&lt;/a&gt;, so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!&lt;/p&gt;
+&lt;p&gt;In July I’ll be leaving GDS to join &lt;a href=&quot;https://claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;, so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!&lt;/p&gt;
 
 &lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
 
