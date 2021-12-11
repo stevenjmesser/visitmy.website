@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steve Messer // Product manager</title>
-    <description>Product person. Web enthusiast, working in the open. Black Country boy living in North Wales, UK.</description>
+    <title>Harsh Browns</title>
+    <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Dec 2021 15:43:35 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Dec 2021 15:43:35 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Dec 2021 10:22:39 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Dec 2021 10:22:39 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -17,9 +17,18 @@
 
 &lt;p&gt;It’s why all the talk of web3 worries me. Much of it seems to suggest that &lt;a href=&quot;https://twitter.com/anildash/status/1461335866652172288?s=20&quot;&gt;you can’t involve yourself in the ecosystem without exchanging some value&lt;/a&gt;, for example, paying gas fees on the Ethereum network. What happens to non-commercial creation then?&lt;/p&gt;
 
-&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations.&lt;/p&gt;
+&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations. &lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;Is Web3… anything?&lt;/a&gt; by Chris Granger begins to paint a picture of that place in between.&lt;/p&gt;
 
-&lt;p&gt;If you’re in the web3 world and haven’t read up on the &lt;a href=&quot;https://www.w3.org/2000/Talks/0906-xmlweb-tbl/text.htm&quot;&gt;Semantic Web&lt;/a&gt;, the original &lt;a href=&quot;https://lassila.org/publications/2001/SciAm.pdf&quot;&gt;vision for the Semantic Web&lt;/a&gt;, or &lt;a href=&quot;https://twobithistory.org/2018/05/27/semantic-web.html&quot;&gt;whatever happened to the Semantic Web&lt;/a&gt;, I recommend taking a look.&lt;/p&gt;
+&lt;p&gt;But maybe it’s a dream. Over the last week or so, I’ve been reading more on web3 – admittedly pieces critical of whether it solves the problems it professes to solve – and maybe you can’t solve a socio-economic problem with technology. Check out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stephendiehl.com/blog/web3-bullshit.html&quot;&gt;Web3 is Bullshit&lt;/a&gt; by Stephen Diehl&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yesterweb.org/no-to-web3/index.html&quot;&gt;Keep the web free, say no to Web3&lt;/a&gt; by Yesterweb&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://invisibleup.com/articles/38/&quot;&gt;Web3 is not decentralization&lt;/a&gt; by InvisibleUp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/&quot;&gt;Against Web3 and Faux-Decentralization&lt;/a&gt; by Soatok Dhole&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re in the web3 world and haven’t read up on the &lt;a href=&quot;https://www.w3.org/2000/Talks/0906-xmlweb-tbl/text.htm&quot;&gt;Semantic Web&lt;/a&gt;, the original &lt;a href=&quot;https://lassila.org/publications/2001/SciAm.pdf&quot;&gt;vision for the Semantic Web&lt;/a&gt;, or &lt;a href=&quot;https://twobithistory.org/2018/05/27/semantic-web.html&quot;&gt;whatever happened to the Semantic Web&lt;/a&gt;, I recommend taking a look. Then take a look at &lt;a href=&quot;https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)&quot;&gt;Solid&lt;/a&gt;. Not everything needs to be on a blockchain.&lt;/p&gt;
 
 &lt;p&gt;And if you’re one of those people who has been feeling dread about web3, what did you read that changed your mind? Could we build a reading list for the rest of us? Let me know, I’ll add to this list.&lt;/p&gt;
 
