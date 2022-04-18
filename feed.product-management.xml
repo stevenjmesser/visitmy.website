@@ -3,11 +3,204 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Dec 2021 21:52:34 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 21:52:34 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.product-management.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Apr 2022 17:44:12 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 17:44:12 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Alpha is discovery</title>
+        <description>&lt;p&gt;The problem with moving fast in a discovery, when you’re exploring a new problem domain or trying to validate a hypothesised solution, is that many things are uncertain. You’re working in the Great Unknown and it’s hard to get your bearings: when will we be done? what do we know and not know? have we made any progress? are we even in the right place?&lt;/p&gt;
+
+&lt;p&gt;These are all questions you’ll be asking yourself.&lt;/p&gt;
+
+&lt;p&gt;It’s a common trait for teams to get stuck in a discovery for weeks or months on end. This is normal. You’re trying to bottom something out, find the edges, and it’s natural to keep digging because the end is never clear.&lt;/p&gt;
+
+&lt;p&gt;As Jeff Patton says:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;the primary measure of progress during discovery isn’t delivery velocity, it’s learning velocity. And sadly, we can’t measure its features or stories completed. And, even worse, we can’t plan two weeks of it in detail because what we learn today can and should change what we do tomorrow.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The goal posts we normally set ourselves during delivery aren’t going to work. We need to optimise for learning velocity, and apply tactics that help us learn faster.&lt;/p&gt;
+
+&lt;h2 id=&quot;loops-not-stages&quot;&gt;Loops not stages&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;Discovery&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works&quot;&gt;alpha&lt;/a&gt; stages are often presented as sequential. You do some discovery then move on to alpha. We think there’s these clear boundaries between the modes of working, and that you can generate enough knowledge in discovery to allow you to move on to alpha.&lt;/p&gt;
+
+&lt;p&gt;But it doesn’t really work like that.&lt;/p&gt;
+
+&lt;p&gt;Discovery – problem understanding – is a divergent activity: we go broad to gather lots of information and ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the Problem Understanding phase we gather data to help us understand and frame the problem. Data includes both qualitative and quantitative data, such as customer interviews, surveys, support tickets, sales call feedback, product usage, and NPS feedback.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alpha – solution exploration – is a convergent activity: we whittle those ideas down to the most promising ones.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In Solution Exploration, designers use the data gathered during Problem Understanding to frame the problem to be solved. Designers explicitly write down what the problem is, use cases, target users, and anything that’s out of scope. After getting buy-in from the PM and team, they explore solutions by creating sketches, wireframes, and prototypes. Engineers are looped in to provide feedback on technical feasibility. Researchers do usability testing in this phase as well.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you learn that an idea is promising, you’ll probably have more questions about it. But if your discovery stage has finished, it’s hard to go back and ask those. When viewed as separate stages, what we learn when exploring solutions cannot feed back into what we understand about the problem.&lt;/p&gt;
+
+&lt;p&gt;So we need to view discovery and alpha as a loop, feeding learnings from exploring solutions back into our understanding of the problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;manifest-ideas-to-check-understanding&quot;&gt;Manifest ideas to check understanding&lt;/h2&gt;
+
+&lt;p&gt;To create this loop, do away with the idea of discovery and alpha as stages. Blend them together. Start bringing ideas in to your discovery to check understanding.&lt;/p&gt;
+
+&lt;p&gt;Make more use of sketches. You don’t have to plan time to create sketches or spend ages doing it, just get an idea out there quickly. “Sketches have fleeting value. They are valuable for a very short period of time.”&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; You can validate ideas with a sketch, bottoming things out and whittling down ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sketch is not the end goal. The end goal of the drawing process is what you learn while sketching. So don’t worry if you can’t sketch. In fact, if you’re too good you might just fool yourself into thinking your sketch is a deliverable. It’s not. The real value of sketching is that it allows you to explore and refine ideas in a quick, iterative and visual manner with little overhead or learning curve. Rapid ideation around flow and interaction, layout and hierarchy, can be quickly established, rearranged or discarded wholesale—all without ever touching a computer.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And a sketch can be anything. It doesn’t need to be what a UI might look like, it can be a series of words and arrows to &lt;a href=&quot;https://designnotes.blog.gov.uk/2016/04/21/how-to-make-a-user-journey-map/&quot;&gt;map out a story&lt;/a&gt; in a scrappy, sketchy way. Or it could be the JSON output of an API call, a list of properties.&lt;/p&gt;
+
+&lt;p&gt;Manifest your ideas and put these in front of people, to check you’re understanding the problem fully.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-by-doing&quot;&gt;Learning by doing&lt;/h2&gt;
+
+&lt;p&gt;Working in this way is at the heart of lean product development. It’s about speeding up learning and reducing uncertainty by becoming comfortable with showing scrappy ideas. “The sooner we get our ideas out, the sooner we can figure out what those revisions should be.”&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s about learning by doing. Thinking and making as one activity, where what you learn improves your next try.&lt;/p&gt;
+
+&lt;p&gt;Don’t view these as separate stages. Alpha &lt;em&gt;is&lt;/em&gt; discovery.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.jpattonassociates.com/common-agile-isnt-for-startups/&quot;&gt;Common Agile Practice Isn’t for Startups&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650807/deliverables-vs-delivery&quot;&gt;Deliverables vs. Delivery&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650933/sketch-sketch-sketch&quot;&gt;Sketch, Sketch, Sketch&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://leanuxbook.com&quot;&gt;&lt;em&gt;Lean UX&lt;/em&gt;&lt;/a&gt;, Jeff Gothelf &amp;amp; Josh Seiden &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 09 Apr 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/04/09/alpha-is-discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/09/alpha-is-discovery/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The way of the product manager is death</title>
+        <description>&lt;p&gt;&lt;em&gt;Hagakure&lt;/em&gt;, written by Yamamoto Tsunetomo in the 17th century, is a collection of commentaries on &lt;em&gt;bushido&lt;/em&gt;, the way of the samurai. It posits that if a samurai accepts that they may die, they will never be afraid of acting in the moment.&lt;/p&gt;
+
+&lt;p&gt;I first came across the book when I watched Jim Jarmusch’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai&quot;&gt;&lt;em&gt;Ghost Dog: The Way of the Samurai&lt;/em&gt;&lt;/a&gt; in the early 200s. Aside from being a great movie with an excellent soundtrack (produced by the RZA), the movie features snippets from &lt;em&gt;Hagakure&lt;/em&gt;. Little maxims that, to be honest, I’ve used to help me through moments of struggle in the past.&lt;/p&gt;
+
+&lt;p&gt;The one that helped the most was this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In his book of maxims, &lt;em&gt;O-Kabegaki&lt;/em&gt; (“Wall writings”), Lord Naoshige wrote: “Deliberate lightly when deciding on weighty matters.” Ishida Ittei added a note to this axiom: “Be meticulous when deciding on affairs of minor importance.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here’s some more cuttings from &lt;a href=&quot;https://www.hive.co.uk/Product/Yamamoto-Tsunetomo/Hagakure--The-Secret-Wisdom-of-the-Samurai/17107515&quot;&gt;the book&lt;/a&gt;. I’ll add to this page as I carry on reading. Hopefully these maxims will help you some day.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;on-being-a-generalist&quot;&gt;On being a generalist&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No particular talent is needed. In a word, all that is required is the fortitude to declare that you alone will shoulder the burden of responsibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Therefore, if one seeks to resolve a problem, let it sit for a while, take time to think about the “Four Oaths” and subdue any self-centered thoughts, and then you will be able to proceed without faltering.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-mentors&quot;&gt;On mentors&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When it is difficult to invoke true wisdom unimpeded by selfish motivations, consult a man with insight. He will be able to offer selfless and candid advice as the matter is of no concern to him personally, and he will thus be able make rational judgments. Such recourse will be viewed by others as being firmly-rooted and prudent. It is akin to an enormous tree with many roots; by contrast, the self-centered wisdom of one man is like a small tree precariously placed in the ground.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we discard our own prejudices and invoke the maxims of our forebears, or consult with others on such matters, we can proceed without impediment and not wane into iniquity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no better way than to talk with others if you are keen to know your flaws. Listening to men and reading books helps complement your own good sense with the wisdom of the ancients.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-giving-and-receiving-feedback&quot;&gt;On giving and receiving feedback&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In offering one’s opinion, one must first ascertain whether or not the recipient is in the right frame of mind to receive counsel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being convivial and cooperating with one’s companions to rectify each other’s inadequacies to be of better use to the lord is what constitutes genuinely compassionate service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important to commend young warriors if they perform their duties well in order to motivate them, even if it was only a trifling achievement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-organisation-and-planning&quot;&gt;On organisation and planning&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Master Jōchō pondered tasks for the coming day and wrote them down. Being organized keeps you a step ahead of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The unprepared warrior lacks foresight, and even if he succeeds in solving a problem, it is merely through good fortune rather than good planning. A warrior who doesn’t think things through beforehand will be ill-equipped.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is prudent to prepare for serious matters ahead of time so that they can be dealt with expediently. It is difficult to make quick decisions without planning in advance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-meetings&quot;&gt;On meetings&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When scheduled to meet somebody the following day, make a careful assessment the night before, contemplating appropriate greetings, topics of conversation, and points of etiquette.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is good practice to think things through when going to visit somebody. This is to ensure that harmony prevails.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-product-sense&quot;&gt;On product sense&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Knowing the Way is to know your own faults. Discovering your imperfections with endless introspection and to remedy them by spending your life training body and mind (shugyō), that is the Way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not know how to defeat others. All I know is the path to defeat myself. Today one must be better than yesterday, and tomorrow better than today. The pursuit of perfection is a lifelong quest that has no end.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The prepared warrior is not only able to solve problems in a quick and commendable fashion by virtue of his life experience, but he can react appropriately through his comprehension of measures to meet any scenario.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
     
       <item>
         <title>Service designers and product managers: working together</title>
@@ -50,8 +243,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        <link>http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</guid>
         
         <category>Agile delivery</category>
         
@@ -219,8 +412,8 @@
 &lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        <link>http://localhost:4000/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/24/visual-design-fundamentals/</guid>
         
         <category>Product management</category>
         
@@ -298,8 +491,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        <link>http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</guid>
         
         <category>Product management</category>
         
@@ -341,8 +534,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
+        <link>http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
         
         <category>Product management</category>
         
@@ -420,8 +613,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
+        <link>http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
         
         <category>Product management</category>
         
@@ -511,8 +704,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        <link>http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</guid>
         
         <category>Product management</category>
         
@@ -567,8 +760,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        <link>http://localhost:4000/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/22/how-we-use-product-clinics/</guid>
         
         <category>Product management</category>
         
@@ -620,8 +813,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -675,8 +868,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        <link>http://localhost:4000/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/02/product-strategy-video-games/</guid>
         
         <category>Product management</category>
         
@@ -728,8 +921,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -804,8 +997,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         

@@ -3,11 +3,579 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Dec 2021 21:52:34 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 21:52:34 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Apr 2022 17:44:12 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 17:44:12 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Alpha is discovery</title>
+        <description>&lt;p&gt;The problem with moving fast in a discovery, when you’re exploring a new problem domain or trying to validate a hypothesised solution, is that many things are uncertain. You’re working in the Great Unknown and it’s hard to get your bearings: when will we be done? what do we know and not know? have we made any progress? are we even in the right place?&lt;/p&gt;
+
+&lt;p&gt;These are all questions you’ll be asking yourself.&lt;/p&gt;
+
+&lt;p&gt;It’s a common trait for teams to get stuck in a discovery for weeks or months on end. This is normal. You’re trying to bottom something out, find the edges, and it’s natural to keep digging because the end is never clear.&lt;/p&gt;
+
+&lt;p&gt;As Jeff Patton says:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;the primary measure of progress during discovery isn’t delivery velocity, it’s learning velocity. And sadly, we can’t measure its features or stories completed. And, even worse, we can’t plan two weeks of it in detail because what we learn today can and should change what we do tomorrow.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The goal posts we normally set ourselves during delivery aren’t going to work. We need to optimise for learning velocity, and apply tactics that help us learn faster.&lt;/p&gt;
+
+&lt;h2 id=&quot;loops-not-stages&quot;&gt;Loops not stages&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;Discovery&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works&quot;&gt;alpha&lt;/a&gt; stages are often presented as sequential. You do some discovery then move on to alpha. We think there’s these clear boundaries between the modes of working, and that you can generate enough knowledge in discovery to allow you to move on to alpha.&lt;/p&gt;
+
+&lt;p&gt;But it doesn’t really work like that.&lt;/p&gt;
+
+&lt;p&gt;Discovery – problem understanding – is a divergent activity: we go broad to gather lots of information and ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the Problem Understanding phase we gather data to help us understand and frame the problem. Data includes both qualitative and quantitative data, such as customer interviews, surveys, support tickets, sales call feedback, product usage, and NPS feedback.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alpha – solution exploration – is a convergent activity: we whittle those ideas down to the most promising ones.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In Solution Exploration, designers use the data gathered during Problem Understanding to frame the problem to be solved. Designers explicitly write down what the problem is, use cases, target users, and anything that’s out of scope. After getting buy-in from the PM and team, they explore solutions by creating sketches, wireframes, and prototypes. Engineers are looped in to provide feedback on technical feasibility. Researchers do usability testing in this phase as well.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you learn that an idea is promising, you’ll probably have more questions about it. But if your discovery stage has finished, it’s hard to go back and ask those. When viewed as separate stages, what we learn when exploring solutions cannot feed back into what we understand about the problem.&lt;/p&gt;
+
+&lt;p&gt;So we need to view discovery and alpha as a loop, feeding learnings from exploring solutions back into our understanding of the problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;manifest-ideas-to-check-understanding&quot;&gt;Manifest ideas to check understanding&lt;/h2&gt;
+
+&lt;p&gt;To create this loop, do away with the idea of discovery and alpha as stages. Blend them together. Start bringing ideas in to your discovery to check understanding.&lt;/p&gt;
+
+&lt;p&gt;Make more use of sketches. You don’t have to plan time to create sketches or spend ages doing it, just get an idea out there quickly. “Sketches have fleeting value. They are valuable for a very short period of time.”&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; You can validate ideas with a sketch, bottoming things out and whittling down ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sketch is not the end goal. The end goal of the drawing process is what you learn while sketching. So don’t worry if you can’t sketch. In fact, if you’re too good you might just fool yourself into thinking your sketch is a deliverable. It’s not. The real value of sketching is that it allows you to explore and refine ideas in a quick, iterative and visual manner with little overhead or learning curve. Rapid ideation around flow and interaction, layout and hierarchy, can be quickly established, rearranged or discarded wholesale—all without ever touching a computer.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And a sketch can be anything. It doesn’t need to be what a UI might look like, it can be a series of words and arrows to &lt;a href=&quot;https://designnotes.blog.gov.uk/2016/04/21/how-to-make-a-user-journey-map/&quot;&gt;map out a story&lt;/a&gt; in a scrappy, sketchy way. Or it could be the JSON output of an API call, a list of properties.&lt;/p&gt;
+
+&lt;p&gt;Manifest your ideas and put these in front of people, to check you’re understanding the problem fully.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-by-doing&quot;&gt;Learning by doing&lt;/h2&gt;
+
+&lt;p&gt;Working in this way is at the heart of lean product development. It’s about speeding up learning and reducing uncertainty by becoming comfortable with showing scrappy ideas. “The sooner we get our ideas out, the sooner we can figure out what those revisions should be.”&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s about learning by doing. Thinking and making as one activity, where what you learn improves your next try.&lt;/p&gt;
+
+&lt;p&gt;Don’t view these as separate stages. Alpha &lt;em&gt;is&lt;/em&gt; discovery.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.jpattonassociates.com/common-agile-isnt-for-startups/&quot;&gt;Common Agile Practice Isn’t for Startups&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650807/deliverables-vs-delivery&quot;&gt;Deliverables vs. Delivery&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650933/sketch-sketch-sketch&quot;&gt;Sketch, Sketch, Sketch&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://leanuxbook.com&quot;&gt;&lt;em&gt;Lean UX&lt;/em&gt;&lt;/a&gt;, Jeff Gothelf &amp;amp; Josh Seiden &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 09 Apr 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/04/09/alpha-is-discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/09/alpha-is-discovery/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bookmarks #8</title>
+        <description>&lt;p&gt;Look, I know I said I’d start reading and writing more again, but that prediction about reaching autonomy in my job was wrong. I gaining knowledge and making some decisions, but I wasn’t autonomous!&lt;/p&gt;
+
+&lt;p&gt;Writing a weeknote about the last 6 months would be good. Probably.&lt;/p&gt;
+
+&lt;p&gt;Anyway, here’s some things I’ve been reading since October. You might spot a pattern to the subject-matter.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/&quot;&gt;Five points for anger, one for a ‘like’: How Facebook’s formula fostered rage and misinformation&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/epnykp/facebook-cant-be-saved&quot;&gt;Facebook Can’t Be Saved&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739&quot;&gt;Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users&quot;&gt;Let’s reconsider our “users”&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jmspool.medium.com/to-show-the-value-of-ux-we-must-show-the-work-of-ux-614f06a775c1&quot;&gt;To Show the Value of UX, We Must Show the Work of UX&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://danluu.com/look-stupid/&quot;&gt;Willingness to look stupid&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/good-product-managers-great-shreyas-doshi&quot;&gt;Good Product Managers, Great Product Managers&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svpg.com/process-people/&quot;&gt;Process People&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cutlefish.substack.com/p/tbm-4452-three-teams-boring-chaotic&quot;&gt;TBM 44/52: Three Teams (Boring, Chaotic, Buffered)&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodproductmanager.com/2009/03/31/consider-your-market-window-as-part-of-your-product-strategy/&quot;&gt;Consider your market window as part of your product strategy&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/&quot;&gt;The Metaverse Is Bad&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/10/facebook-metaverse-mark-zuckerberg/620538/&quot;&gt;The Real Reason Facebook Changed Its Name&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.roughtype.com/?p=8935&quot;&gt;Meanings of the metaverse: Productizing reality&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://every.to/divinations/the-two-biggest-critiques-of-web3-analyzed&quot;&gt;The two biggest critiques of web3, analyzed&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindtheproduct.com/practical-advice-for-product-managers-working-with-startup-founders/&quot;&gt;Practical Advice for Product Managers Working With Startup Founders&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://increment.com/planning/planning-for-momentum/&quot;&gt;Planning for momentum&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anildash.com/2021/01/06/making-things-fast/&quot;&gt;Making Things, Fast&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2013/01/its-not-complicated-its-just-hard.html&quot;&gt;it’s not complicated; it’s just hard&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stephendiehl.com/blog/web3-bullshit.html&quot;&gt;Web3 is Bullshit&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yesterweb.org/no-to-web3/&quot;&gt;Keep the web free, say no to Web3&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;“Is Web3… anything?”&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://invisibleup.com/articles/38/&quot;&gt;Web3 is not decentralization&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/&quot;&gt;Against Web3 and Faux-Decentralization&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auzziejay.com/manifesto/&quot;&gt;Auzzie Jay’s Manifesto&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://invisibleup.com/articles/29/&quot;&gt;Finding warmth in a cold world&lt;/a&gt;, 22 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://teaspot.club/internet/the-yesterweb&quot;&gt;The Yesterweb // Keeping the soul of the old web intact&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://publicdiary.ddns.net/index.html&quot;&gt;My public diary&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/&quot;&gt;Who first said: if you want to go fast, go alone; if you want to go far, go together?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://maxread.substack.com/p/is-web3-bullshit&quot;&gt;Is web3 bullshit?&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/&quot;&gt;An NFT without a Blockchain. No gas fees. No Eth. No gatekeepers&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/&quot;&gt;Why it’s too early to get excited about Web3&lt;/a&gt;, 15 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://koolaidfactory.com/zines/shipping-great-work/&quot;&gt;The Shipping Great Work Issue&lt;/a&gt;, 30 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com/inspection/&quot;&gt;Inspection and the limits of trust.&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.computer.org/csdl/magazine/so/2021/05/09184214/1mLHZkBtQiI&quot;&gt;What Do We Know About Time Pressure in Software Development?&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://moxie.org/2022/01/07/web3-first-impressions.html&quot;&gt;My first impressions of web3&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/&quot;&gt;Don’t confuse these 12 shortcuts with iteration&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/still-a-startup/&quot;&gt;Still a Startup&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrumguides.org/scrum-guide.html&quot;&gt;The 2020 Scrum GuideTM&lt;/a&gt;, 18 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/07/how-we-started-releasing-features-twice-as-fast-a-case-study/&quot;&gt;How We Started Releasing Features Twice As Fast (Case Study)&lt;/a&gt;, 14 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newsletter.bringthedonuts.com/p/what-makes-a-strong-product-culture&quot;&gt;What Makes A Strong Product Culture?&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffgothelf.com/blog/without-psychological-safety-there-is-no-learning-and-there-is-no-agility/&quot;&gt;Without psychological safety there is no learning and there is no agility&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newsletter.pragmaticengineer.com/p/project-management-in-tech&quot;&gt;How Big Tech Runs Tech Projects and the Curious Absence of Scrum&lt;/a&gt;, 23 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.doubleloop.app/metrics-driven-product-development-is-hard/&quot;&gt;Metrics-driven product development is hard.&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later&quot;&gt;12 Signs You’re Working in a Feature Factory — 3 Years Later&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fs.blog/first-principles/&quot;&gt;First Principles&lt;/a&gt;, 21 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/88gve4/woman-who-allegedly-laundered-dollar1b-in-bitcoin-was-cringe-youtube-rapper&quot;&gt;Woman Who Allegedly Laundered $1B in Bitcoin Was Cringe YouTube Rapper&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kleinerperkins.com/perspectives/product-management-stories-sam-lessin/&quot;&gt;Product Management Stories: Sam Lessin&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/bvnpbw/scientists-solve-30000-year-old-venus-statue-mystery-study-says&quot;&gt;Scientists Solve 30,000-Year-Old ‘Venus’ Statue Mystery, Study Says&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sifted.eu/articles/secret-founder-working-class-founders-socio-economic-diversity-startups-investors/&quot;&gt;“Missing : Working class founders”&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dazeddigital.com/politics/article/55532/1/uk-britain-cynicism-nihilism-could-actually-be-good-adam-curtis&quot;&gt;Things could be good&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2022/03/14/saloons&quot;&gt;Workplace serendipity, invention, and lessons from Prohibition 1920-1933&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/03/22/bookmarks-8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/03/22/bookmarks-8/</guid>
+        
+        <category>Bookmarks</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The way of the product manager is death</title>
+        <description>&lt;p&gt;&lt;em&gt;Hagakure&lt;/em&gt;, written by Yamamoto Tsunetomo in the 17th century, is a collection of commentaries on &lt;em&gt;bushido&lt;/em&gt;, the way of the samurai. It posits that if a samurai accepts that they may die, they will never be afraid of acting in the moment.&lt;/p&gt;
+
+&lt;p&gt;I first came across the book when I watched Jim Jarmusch’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai&quot;&gt;&lt;em&gt;Ghost Dog: The Way of the Samurai&lt;/em&gt;&lt;/a&gt; in the early 200s. Aside from being a great movie with an excellent soundtrack (produced by the RZA), the movie features snippets from &lt;em&gt;Hagakure&lt;/em&gt;. Little maxims that, to be honest, I’ve used to help me through moments of struggle in the past.&lt;/p&gt;
+
+&lt;p&gt;The one that helped the most was this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In his book of maxims, &lt;em&gt;O-Kabegaki&lt;/em&gt; (“Wall writings”), Lord Naoshige wrote: “Deliberate lightly when deciding on weighty matters.” Ishida Ittei added a note to this axiom: “Be meticulous when deciding on affairs of minor importance.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here’s some more cuttings from &lt;a href=&quot;https://www.hive.co.uk/Product/Yamamoto-Tsunetomo/Hagakure--The-Secret-Wisdom-of-the-Samurai/17107515&quot;&gt;the book&lt;/a&gt;. I’ll add to this page as I carry on reading. Hopefully these maxims will help you some day.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;on-being-a-generalist&quot;&gt;On being a generalist&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No particular talent is needed. In a word, all that is required is the fortitude to declare that you alone will shoulder the burden of responsibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Therefore, if one seeks to resolve a problem, let it sit for a while, take time to think about the “Four Oaths” and subdue any self-centered thoughts, and then you will be able to proceed without faltering.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-mentors&quot;&gt;On mentors&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When it is difficult to invoke true wisdom unimpeded by selfish motivations, consult a man with insight. He will be able to offer selfless and candid advice as the matter is of no concern to him personally, and he will thus be able make rational judgments. Such recourse will be viewed by others as being firmly-rooted and prudent. It is akin to an enormous tree with many roots; by contrast, the self-centered wisdom of one man is like a small tree precariously placed in the ground.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we discard our own prejudices and invoke the maxims of our forebears, or consult with others on such matters, we can proceed without impediment and not wane into iniquity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no better way than to talk with others if you are keen to know your flaws. Listening to men and reading books helps complement your own good sense with the wisdom of the ancients.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-giving-and-receiving-feedback&quot;&gt;On giving and receiving feedback&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In offering one’s opinion, one must first ascertain whether or not the recipient is in the right frame of mind to receive counsel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being convivial and cooperating with one’s companions to rectify each other’s inadequacies to be of better use to the lord is what constitutes genuinely compassionate service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important to commend young warriors if they perform their duties well in order to motivate them, even if it was only a trifling achievement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-organisation-and-planning&quot;&gt;On organisation and planning&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Master Jōchō pondered tasks for the coming day and wrote them down. Being organized keeps you a step ahead of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The unprepared warrior lacks foresight, and even if he succeeds in solving a problem, it is merely through good fortune rather than good planning. A warrior who doesn’t think things through beforehand will be ill-equipped.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is prudent to prepare for serious matters ahead of time so that they can be dealt with expediently. It is difficult to make quick decisions without planning in advance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-meetings&quot;&gt;On meetings&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When scheduled to meet somebody the following day, make a careful assessment the night before, contemplating appropriate greetings, topics of conversation, and points of etiquette.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is good practice to think things through when going to visit somebody. This is to ensure that harmony prevails.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-product-sense&quot;&gt;On product sense&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Knowing the Way is to know your own faults. Discovering your imperfections with endless introspection and to remedy them by spending your life training body and mind (shugyō), that is the Way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not know how to defeat others. All I know is the path to defeat myself. Today one must be better than yesterday, and tomorrow better than today. The pursuit of perfection is a lifelong quest that has no end.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The prepared warrior is not only able to solve problems in a quick and commendable fashion by virtue of his life experience, but he can react appropriately through his comprehension of measures to meet any scenario.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to setup Jekyll with Tailwind CSS</title>
+        <description>&lt;p&gt;For a while now I’ve had ‘build a Jekyll theme based on the GOV.UK Design System’ on my list of things to do, but I just haven’t got around to it. Instead I figured I’d try out Tailwind CSS, since it seems pretty easy to use.&lt;/p&gt;
+
+&lt;p&gt;I looked for a simple tutorial to get Tailwind CSS working with Jekyll and came across &lt;a href=&quot;https://mdoliwa.com/how-to-setup-jekyll-with-tailwind-css&quot;&gt;this tutorial by Marcin Doliwa&lt;/a&gt;. Although it’s really simple to follow, I was having trouble getting Jekyll to run with PostCSS.&lt;/p&gt;
+
+&lt;p&gt;Anyway, after a few hours I managed to fix it and get it running. Below is an adaptation of Marcin’s original tutorial that worked on macOS Monterey.&lt;/p&gt;
+
+&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;You’ll need to install:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Xcode and command line tools using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xcode-select --install&lt;/code&gt; in Terminal&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brew.sh&quot;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rbenv/rbenv&quot;&gt;rbenv&lt;/a&gt; and Ruby version 2.6.9&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nvm-sh/nvm&quot;&gt;nvm&lt;/a&gt; and Node version 14&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt; using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll -v 4.1.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that’s done, you’re ready to get started.&lt;/p&gt;
+
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-start-a-blank-jekyll-website&quot;&gt;1. Start a blank Jekyll website&lt;/h3&gt;
+
+&lt;p&gt;In Terminal, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new mysite --blank&lt;/code&gt; and change the working directory to the new folder by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd mysite&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-install-required-packages&quot;&gt;2. Install required packages&lt;/h3&gt;
+
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npm install tailwindcss@2.0.2 postcss@8.2.2 autoprefixer@10.1.0 postcss-import@14.0.0&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-set-up-postcss&quot;&gt;3. Set up PostCSS&lt;/h3&gt;
+
+&lt;p&gt;Create a Gemfile in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysite&lt;/code&gt; folder, add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-postcss&lt;/code&gt; gem to it and run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Gemfile
+
+source &quot;https://rubygems.org&quot;
+
+gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.1.1&quot;
+gem 'jekyll-postcss', '0.4.0'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Make sure you see &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Using jekyll-postcss 0.4.0&lt;/code&gt; in the output, otherwise run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; again.&lt;/p&gt;
+
+&lt;p&gt;Add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-postcss&lt;/code&gt; plugin to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# _config.yml
+
+url: &quot;&quot; # the base hostname &amp;amp; protocol for your site, e.g. http://example.com
+baseurl: &quot;&quot; # the subpath of your site, e.g. /blog
+title: &quot;&quot; # the name of your site, e.g. ACME Corp.
+
+plugins:
+  - jekyll-postcss
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;and create the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;postcss.config.js&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// postcss.config.js
+
+module.exports = {
+  plugins: [
+    require('postcss-import'),
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ]
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-set-up-the-tailwind-css-config-file&quot;&gt;4. Set up the Tailwind CSS config file&lt;/h3&gt;
+
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npx tailwindcss init&lt;/code&gt; to create an empty Tailwind config file.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-import-the-tailwind-stylesheets-in-to-your-css-file&quot;&gt;5. Import the Tailwind stylesheets in to your CSS file.&lt;/h3&gt;
+
+&lt;p&gt;Edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/css/main.scss&lt;/code&gt; file to make it look like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+---
+
+@import &quot;tailwindcss/base&quot;;
+
+@import &quot;tailwindcss/components&quot;;
+
+@import &quot;tailwindcss/utilities&quot;;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;6-run-jekyll&quot;&gt;6. Run Jekyll!&lt;/h3&gt;
+
+&lt;p&gt;Now run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Open your browser, visit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt; and your Jekyll site should be running Tailwind!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reading List Picks of 2021</title>
+        <description>&lt;p&gt;Every year I put together one of these lists, of things I read that gave me ideas, crystallised my thinking or changed my mind. This is the longest list I’ve compiled yet. And it’s perhaps the sassiest too. So alongside useful posts on product management and working on digital teams, you’ve got pieces on embracing Earth’s radical long-term and the lie of the United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that should be plenty to get stuck in to while waiting in line for a booster vaccine / spending your second Christmas alone (delete as appropriate).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#product-management&quot;&gt;Product management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#digital-teams&quot;&gt;Digital teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#startups&quot;&gt;Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-web&quot;&gt;The Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#divided-kingdom&quot;&gt;Divided Kingdom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-age-of-exhaustion&quot;&gt;The Age of Exhaustion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#running&quot;&gt;Running&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;product-management&quot;&gt;Product management&lt;/h2&gt;
+
+&lt;h3 id=&quot;against-entropy--why-product-managers-really-manage-conversations&quot;&gt;Against entropy — Why product managers really manage conversations&lt;/h3&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@trillyc/against-entropy-why-product-managers-really-manage-conversations-ba85093cd187&quot;&gt;Against entropy — Why product managers really manage conversations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Right, let’s get started with the big guns. What you do as a product manager depends very much on the organisation you work at, its users’ problems, and how your organisation solves those problems. Not all product managers work on consumer tech, which means that &lt;a href=&quot;https://www.mindtheproduct.com/what-exactly-is-a-product-manager/&quot;&gt;classic Venn diagram&lt;/a&gt; no longer applies. So Trilly went and wrote this fantastic piece on what’s at the heart of product management.&lt;/p&gt;
+
+&lt;h3 id=&quot;good-product-managers-great-product-managers&quot;&gt;Good Product Managers, Great Product Managers&lt;/h3&gt;
+
+&lt;p&gt;I must admit, I feel like I should have come across Shreyas Doshi sooner. He’s been posting fantastic things about product management this year, but I suspect he’s written more. Having worked at Yahoo, Google, Stripe and Twitter, he’s worked at some of the most successful startups, and this post is a timely update on &lt;a href=&quot;https://a16z.com/2012/06/15/good-product-managerbad-product-manager/&quot;&gt;Ben Horowitz’s classic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.linkedin.com/pulse/good-product-managers-great-shreyas-doshi/&quot;&gt;Good Product Managers, Great Product Managers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;discovery-kanban-at-optimizely&quot;&gt;Discovery Kanban at Optimizely&lt;/h3&gt;
+
+&lt;p&gt;There are many different ways to product discovery and product delivery. I’ve found it mostly depends on how many people you’ve got, how multidisciplinary the team is, how big your backlog is and the time horizon on your current objectives. Recently I had a need to Get Shit Done QUICKTIME, where this post came in handy.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;lean-ux-documentation-for-tracking-and-communicating-in-agile&quot;&gt;Lean UX Documentation for Tracking and Communicating in Agile&lt;/h3&gt;
+
+&lt;p&gt;It’s really easy forget things or miss details when you’re moving fast. And I’ve certainly been in situations where we’re trying to iterate a product, looking for evidence as to why it was built a certain way, and we’ve not found anything. But writing things down is like building an organisational memory: ‘it prevents teams from running around in circles – repeating mistakes or simply arguing over the same topics again and again’. So write some notes.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.nngroup.com/articles/lean-agile-documentation/&quot;&gt;Lean UX Documentation for Tracking and Communicating in Agile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-tools-dont-matter&quot;&gt;The Tools Don’t Matter&lt;/h3&gt;
+
+&lt;p&gt;At some point in your career as a product manager, you’re going to be asked to work on something that pushes you outside of your comfort zone. The tools you’ve learned and relied on will not suit this new context. And you’re going to feel adrift. Ken Norton has some advice: the tools don’t matter, it’s the fuzzier things that are important.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://newsletter.bringthedonuts.com/p/the-tools-dont-matter&quot;&gt;The Tools Don’t Matter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-teams&quot;&gt;Digital teams&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-weeds&quot;&gt;The Weeds&lt;/h3&gt;
+
+&lt;p&gt;John Cutler is the utmost expert on the work about the work. You know, the stuff we do all day that isn’t speaking to users or mocking up wireframes or writing code or analysing data. It’s work, but not &lt;em&gt;the work&lt;/em&gt;. The messy stuff. This piece helped me out when it seemed like everything was on top of me. Things change, it’ll be OK.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-3152-the-weeds&quot;&gt;The Weeds&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;make-time-for-small-talk-in-your-virtual-meetings&quot;&gt;Make Time for Small Talk in Your Virtual Meetings&lt;/h3&gt;
+
+&lt;p&gt;When I saw this headline in Harvard Business Review, I thought it was a bit obvious. Of course you should make time for small talk when you’re working remotely. But then I read it properly and there’s some good considerations in there for designing your remote culture deliberately.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://hbr.org/2021/02/make-time-for-small-talk-in-your-virtual-meetings&quot;&gt;Make Time for Small Talk in Your Virtual Meetings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-get-a-dysfunctional-team-back-on-track&quot;&gt;How to Get a Dysfunctional Team Back on Track&lt;/h3&gt;
+
+&lt;p&gt;Another one of those posts to read when you think you’re losing it. Either you’ll realise your team is just fine as it is, or you’ll learn some tactics for getting things back on track. The best one: ‘scrap all of your management tricks’.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://alistapart.com/article/dysfunctional-teams-back-on-track/&quot;&gt;How to Get a Dysfunctional Team Back on Track&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-limiting-wip-starting-together-being-less-busy-and-working-together-is-so-hard&quot;&gt;Why Limiting WIP, Starting Together, Being Less Busy, and Working Together is SO HARD&lt;/h3&gt;
+
+&lt;p&gt;A companion piece to The Weeds above. Whatever mess you’re in, realise there is no silver bullet.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-4052-why-limiting-wip-starting&quot;&gt;Why Limiting WIP, Starting Together, Being Less Busy, and Working Together is SO HARD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;its-not-complicated-its-just-hard&quot;&gt;It’s not complicated; it’s just hard&lt;/h3&gt;
+
+&lt;p&gt;Up there with &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple&quot;&gt;‘Do the hard work to make things simple’&lt;/a&gt;, and definitely related to &lt;a href=&quot;/2020/01/08/boring-magic/&quot;&gt;Boring magic&lt;/a&gt;, this piece by Russell Davies explains why the art of doing something well ain’t always complex, it’s just hard (using a lovely quote from magicians Penn &amp;amp; Teller).&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://russelldavies.typepad.com/planning/2013/01/its-not-complicated-its-just-hard.html&quot;&gt;It’s not complicated; it’s just hard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;startups&quot;&gt;Startups&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-most-common-misconception-about-organisational-culture&quot;&gt;The most common misconception about organisational culture&lt;/h3&gt;
+
+&lt;p&gt;This piece opens with ‘Culture is hard to define’. Yup! You know when you’ve got a good one, and you definitely know when it stinks. There’s no playbook for establishing a good culture, I don’t think, it has to be grown with intent. Laurie’s post offers so starting positions, picked from academia.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://temporall.com/2021/02/09/the-most-common-misconception-about-organisational-culture/&quot;&gt;The most common misconception about organisational culture&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;utopia-inc&quot;&gt;Utopia Inc&lt;/h3&gt;
+
+&lt;p&gt;Sticking with culture for a bit, this piece looks at 1960s intentional communities – commonly known as ‘communes’ – and their similarity with tech startups. It’s a really interesting piece! I guess microdosing will make it over to the European startup ecosystem after all…&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why&quot;&gt;Utopia Inc&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;neglected-positioning-hurts-more-than-you-think&quot;&gt;Neglected positioning hurts more than you think&lt;/h3&gt;
+
+&lt;p&gt;Positioning is the art of describing a product in a way that appeals to specific market segments. This isn’t a healthy snack, it’s a high calorie Paleo bar. If it sounds like marketing, that’s because it is, and product management has roots in marketing. Getting positioning right early on will help you find and onboard early adopters.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://buildingmomentum.substack.com/p/dont-neglect-positioning&quot;&gt;Neglected positioning hurts more than you think&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;identifying-the-business-value-of-what-we-do&quot;&gt;Identifying the Business Value of What We Do&lt;/h3&gt;
+
+&lt;p&gt;A good thing to pair with meeting user needs is creating business value. You want to solve problems for users in a way that they love but that also creates value for the business. So it’s useful to bring that in to your prioritisation meetings.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://articles.uie.com/business_value/&quot;&gt;Identifying the Business Value of What We Do&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;willingness-to-look-stupid&quot;&gt;Willingness to look stupid&lt;/h3&gt;
+
+&lt;p&gt;Startups are full of clever people trying to do excellent things and be the absolute best. It can create an environment where people are afraid to make mistakes or look stupid, which can lead to problems down the road. Be willing to look stupid.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://danluu.com/look-stupid/&quot;&gt;Willingness to look stupid&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-web&quot;&gt;The Web&lt;/h2&gt;
+
+&lt;h3 id=&quot;meanings-of-the-metaverse-productizing-reality&quot;&gt;Meanings of the metaverse: Productizing reality&lt;/h3&gt;
+
+&lt;p&gt;Simply put, Mark Zuckerberg wants to monetise a virtual reality and use his company’s size to establish first-mover advantage. It’s so obvious, and it’s a huge bet, yet it will probably work because he wills it. And he can cash in.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.roughtype.com/?p=8935&quot;&gt;Meanings of the metaverse: Productizing reality&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-metaverse-is-bad&quot;&gt;The Metaverse is Bad&lt;/h3&gt;
+
+&lt;p&gt;This one’s similar to the previous post but takes a different slant towards the end, critiquing Zuckerberg as a character.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/&quot;&gt;The Metaverse is Bad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;notes-on-web3&quot;&gt;Notes on Web3&lt;/h3&gt;
+
+&lt;p&gt;One thing that’s clear is that there’s a lot of hype around web3. A few years back when I was looking in to Web 3.0, its previous incarnation, there was nothing about crypto, it was all linked data. I’ve &lt;a href=&quot;/2021/12/02/web3-reading-list-for-internet-optimists/&quot;&gt;read a few things about web3 recently&lt;/a&gt; but this stands out as the star piece.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;divided-kingdom&quot;&gt;Divided Kingdom&lt;/h2&gt;
+
+&lt;h3 id=&quot;rethinking-class-in-the-age-of-rent&quot;&gt;Rethinking class in the age of rent&lt;/h3&gt;
+
+&lt;p&gt;This piece takes a look at the fundamental value of assets, both physical and knowledge-based, to throw a new light on socioeconomic class and arrive at a different definition.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://autonomy.work/portfolio/berry-class-rent/&quot;&gt;Rethinking class in the age of rent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;independent-tropical-wales&quot;&gt;Independent Tropical Wales&lt;/h3&gt;
+
+&lt;p&gt;A short story about a piece of graffiti that showed up in Cardiff, but one that points to the colonial oppression of the monarchy and how its empire-building started – and ended – close to home.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://babylonwales.blogspot.com/2012/01/independent-tropical-wales.html&quot;&gt;Independent Tropical Wales&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-age-of-exhaustion&quot;&gt;The Age of Exhaustion&lt;/h2&gt;
+
+&lt;h3 id=&quot;you-really-need-to-quit-twitter&quot;&gt;You Really Need to Quit Twitter&lt;/h3&gt;
+
+&lt;p&gt;Every now and then I take breaks from Twitter, and I’ve definitely used it less this year. There could be numerous reasons for that: I’ve been busier, outside more, less interested in what my bubble thinks, etc. But this piece did prompt me to take a break, so I’m sharing it.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/&quot;&gt;You Really Need to Quit Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;emotions-on-strike&quot;&gt;Emotions on Strike&lt;/h3&gt;
+
+&lt;p&gt;A piece that encourages you to take back control of your emotions. Like, properly seize them back. Bring your &lt;em&gt;whole&lt;/em&gt; self to work? Hmm, I dunno, maybe not.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.dissentmagazine.org/article/emotions-on-strike&quot;&gt;Emotions on Strike&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-tyranny-of-time&quot;&gt;The Tyranny Of Time&lt;/h3&gt;
+
+&lt;p&gt;Possibly one of the best pieces I read all year, about clocks and time. If I try and summarise it I won’t do it justice, so just go and read it.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.noemamag.com/the-tyranny-of-time/&quot;&gt;The Tyranny Of Time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;columbia-professor-i-do-heroin-regularly-for-work-life-balance&quot;&gt;Columbia professor: I do heroin regularly for ‘work-life balance’&lt;/h3&gt;
+
+&lt;p&gt;You can get high and still hold it down.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://nypost.com/2021/02/19/columbia-prof-i-snort-heroin-regularly-for-work-life-balance/&quot;&gt;Columbia professor: I do heroin regularly for ‘work-life balance’&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
+
+&lt;h3 id=&quot;moving-in-stillness-how-running-benefits-the-mind&quot;&gt;Moving in Stillness: How Running Benefits the Mind&lt;/h3&gt;
+
+&lt;p&gt;I got in to running during 2020, the middle stages of the early pandemic, like a lot of people. But this year was when its benefits in mindfulness really hit me, and a feeling of connection to the past. If you like this piece, I recommend looking up John Hillaby, a walker whose writing is seminal.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://peepsmagazine.ca/moving-in-stillness/&quot;&gt;Moving in Stillness: How Running Benefits the Mind&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;intro-to-fast-packing&quot;&gt;Intro to Fast-packing&lt;/h3&gt;
+
+&lt;p&gt;As soon as I read this, I wanted to be able to run long distances. Camping is great but walking takes time, you don’t cover as many miles as running. So being able to run to some remote place, sleep out for a night and head back sounds really, really appealing!&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://janji.com/blogs/travelogue/intro-to-fastpacking&quot;&gt;Intro to Fast-packing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>A mantra for bad mental health days</title>
@@ -30,8 +598,8 @@ into the sea&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</guid>
+        <link>http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</guid>
         
         <category>Blogroll</category>
         
@@ -87,8 +655,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;More marathon training.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/04/run-notes-october-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/04/run-notes-october-2021/</guid>
+        <link>http://localhost:4000/2021/12/04/run-notes-october-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/04/run-notes-october-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -103,7 +671,9 @@ into the sea&lt;/p&gt;
 
 &lt;p&gt;It’s why all the talk of web3 worries me. Much of it seems to suggest that &lt;a href=&quot;https://twitter.com/anildash/status/1461335866652172288?s=20&quot;&gt;you can’t involve yourself in the ecosystem without exchanging some value&lt;/a&gt;, for example, paying gas fees on the Ethereum network. What happens to non-commercial creation then?&lt;/p&gt;
 
-&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations. &lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;Is Web3… anything?&lt;/a&gt; by Chris Granger begins to paint a picture of that place in between.&lt;/p&gt;
+&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;Is Web3… anything?&lt;/a&gt; by Chris Granger begins to paint a picture of that place in between. &lt;a href=&quot;https://maxread.substack.com/p/is-web3-bullshit&quot;&gt;Is web3 bullshit?&lt;/a&gt; by Max Read sits there too.&lt;/p&gt;
 
 &lt;p&gt;But maybe it’s a dream. Over the last week or so, I’ve been reading more on web3 – admittedly pieces critical of whether it solves the problems it professes to solve – and maybe you can’t solve a socio-economic problem with technology. Check out:&lt;/p&gt;
 
@@ -113,6 +683,8 @@ into the sea&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://invisibleup.com/articles/38/&quot;&gt;Web3 is not decentralization&lt;/a&gt; by InvisibleUp&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/&quot;&gt;Against Web3 and Faux-Decentralization&lt;/a&gt; by Soatok Dhole&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;All in all, I’m undecided as yet. I need to read more and write some notes, although everything I read feels like political discourse, two opposing sides. (Anil Dash &lt;a href=&quot;https://twitter.com/anildash/status/1471138153704693767&quot;&gt;mentions this&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;p&gt;If you’re in the web3 world and haven’t read up on the &lt;a href=&quot;https://www.w3.org/2000/Talks/0906-xmlweb-tbl/text.htm&quot;&gt;Semantic Web&lt;/a&gt;, the original &lt;a href=&quot;https://lassila.org/publications/2001/SciAm.pdf&quot;&gt;vision for the Semantic Web&lt;/a&gt;, or &lt;a href=&quot;https://twobithistory.org/2018/05/27/semantic-web.html&quot;&gt;whatever happened to the Semantic Web&lt;/a&gt;, I recommend taking a look. Then take a look at &lt;a href=&quot;https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)&quot;&gt;Solid&lt;/a&gt;. Not everything needs to be on a blockchain.&lt;/p&gt;
 
@@ -131,8 +703,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
+        <link>http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
         
         <category>Blogroll</category>
         
@@ -150,7 +722,7 @@ into the sea&lt;/p&gt;
 &lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;My new job at &lt;a href=&quot;https://claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;, so I’ve been learning lots about the domain – and there is a lot to learn&lt;/li&gt;
+  &lt;li&gt;My new job at &lt;a href=&quot;https://app.claimer.com/signup/intro?ref=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;, so I’ve been learning lots about the domain – and there is a lot to learn&lt;/li&gt;
   &lt;li&gt;A product wiki, including our playbook, guides on how we discover and deliver products, how-tos on supporting users, our research library, product &amp;amp; design principles, plus notes on our design systems and analytics pipeline&lt;/li&gt;
   &lt;li&gt;Our team ceremonies, including a framework for managing those inside Notion&lt;/li&gt;
   &lt;li&gt;Some user research into common problems claiming R&amp;amp;D tax credits as an early-stage tech startup&lt;/li&gt;
@@ -210,8 +782,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 16 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/10/16/the-macs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/10/16/the-macs/</guid>
+        <link>http://localhost:4000/2021/10/16/the-macs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/10/16/the-macs/</guid>
         
         <category>Weeknotes</category>
         
@@ -271,8 +843,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 22 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/22/bookmarks-7/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/22/bookmarks-7/</guid>
+        <link>http://localhost:4000/2021/09/22/bookmarks-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/22/bookmarks-7/</guid>
         
         <category>Bookmarks</category>
         
@@ -325,8 +897,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/21/lets-talk-about-product-community/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/21/lets-talk-about-product-community/</guid>
+        <link>http://localhost:4000/2021/09/21/lets-talk-about-product-community/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/21/lets-talk-about-product-community/</guid>
         
         <category>Blogroll</category>
         
@@ -413,8 +985,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/09/run-notes-september-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/09/run-notes-september-2021/</guid>
+        <link>http://localhost:4000/2021/09/09/run-notes-september-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/09/run-notes-september-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -462,8 +1034,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        <link>http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</guid>
         
         <category>Agile delivery</category>
         
@@ -474,7 +1046,7 @@ into the sea&lt;/p&gt;
     
       <item>
         <title>Why I’m hyped about working at Claimer</title>
-        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://www.claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
+        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://app.claimer.com/signup/intro?ref=54hqy1ju&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
 
 &lt;p&gt;I’ve only been in the job a week but it’s a really exciting place, and I wanted to write down what’s got me hyped so I can look back over these early, energy-filled bursts of enthusiasm in the future.&lt;/p&gt;
 
@@ -541,8 +1113,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;If you’re looking for a change, take a look at &lt;a href=&quot;https://careers.claimer.com&quot;&gt;Claimer’s careers page&lt;/a&gt; or drop me a line: it’d be great to talk more!&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
+        <link>http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
         
         <category>Blogroll</category>
         
@@ -567,7 +1139,7 @@ into the sea&lt;/p&gt;
 
 &lt;p&gt;In the last 15 months on GOV.UK Pay, I’ve learned an awful lot from working with some excellent people. Antonia, Xander, David and Miriam have all helped me grow. And it’s such a cool platform that people rarely talk about. They’re doing a hard job in a complicated space! It deserves more limelight, so too does the work that Dom, Alex, Iqbal, Oz, Nim, Dan, Kat, Crispin, Leon, Justin, Antonia, Arindra, Chris and Nathan do daily.&lt;/p&gt;
 
-&lt;p&gt;Anyway, time for new pastures. I’m really looking forward to the challenge at &lt;a href=&quot;https://claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Anyway, time for new pastures. I’m really looking forward to the challenge at &lt;a href=&quot;https://app.claimer.com/signup/intro?ref=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Though I’m going to take the time to reflect on my practice, it’ll be hard to openly publish weeknotes in the new job – it’s quite a competitive space – and so I’ll probably default to a different form of blogging. More writing about thoughts as they bubble up, rather than just covering what I did in a week.&lt;/p&gt;
 
@@ -602,8 +1174,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/07/03/the-last-weeknote/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/07/03/the-last-weeknote/</guid>
+        <link>http://localhost:4000/2021/07/03/the-last-weeknote/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/03/the-last-weeknote/</guid>
         
         <category>Weeknotes</category>
         
@@ -769,8 +1341,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        <link>http://localhost:4000/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/24/visual-design-fundamentals/</guid>
         
         <category>Product management</category>
         
@@ -805,7 +1377,7 @@ into the sea&lt;/p&gt;
 
 &lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
 
-&lt;p&gt;In July I’ll be leaving GDS to join &lt;a href=&quot;https://claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;, so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!&lt;/p&gt;
+&lt;p&gt;In July I’ll be leaving GDS to join &lt;a href=&quot;https://app.claimer.com/signup/intro?ref=54hqy1ju&quot;&gt;Claimer&lt;/a&gt;, so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!&lt;/p&gt;
 
 &lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
 
@@ -836,8 +1408,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/16/the-alpha-continued/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/16/the-alpha-continued/</guid>
+        <link>http://localhost:4000/2021/06/16/the-alpha-continued/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/16/the-alpha-continued/</guid>
         
         <category>Weeknotes</category>
         
@@ -900,8 +1472,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 28 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/28/the-alpha/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/28/the-alpha/</guid>
+        <link>http://localhost:4000/2021/04/28/the-alpha/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/28/the-alpha/</guid>
         
         <category>Weeknotes</category>
         
@@ -924,8 +1496,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/20/bookmarks-6/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/20/bookmarks-6/</guid>
+        <link>http://localhost:4000/2021/04/20/bookmarks-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/20/bookmarks-6/</guid>
         
         <category>Bookmarks</category>
         
@@ -957,8 +1529,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
+        <link>http://localhost:4000/2021/04/09/lets-get-naked/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/09/lets-get-naked/</guid>
         
         <category>Blogroll</category>
         
@@ -1011,8 +1583,8 @@ into the sea&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/04/the-decision/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/04/the-decision/</guid>
+        <link>http://localhost:4000/2021/04/04/the-decision/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/04/the-decision/</guid>
         
         <category>Weeknotes</category>
         
@@ -1091,8 +1663,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 29 Mar 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/03/29/the-sensemaking/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/29/the-sensemaking/</guid>
+        <link>http://localhost:4000/2021/03/29/the-sensemaking/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/29/the-sensemaking/</guid>
         
         <category>Weeknotes</category>
         
@@ -1173,8 +1745,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/24/the-deeper-analysis/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/24/the-deeper-analysis/</guid>
+        <link>http://localhost:4000/2021/03/24/the-deeper-analysis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/24/the-deeper-analysis/</guid>
         
         <category>Weeknotes</category>
         
@@ -1239,8 +1811,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/13/the-analysis/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/13/the-analysis/</guid>
+        <link>http://localhost:4000/2021/03/13/the-analysis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/13/the-analysis/</guid>
         
         <category>Weeknotes</category>
         
@@ -1293,8 +1865,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/06/the-interviews-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/06/the-interviews-2/</guid>
+        <link>http://localhost:4000/2021/03/06/the-interviews-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/06/the-interviews-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -1348,8 +1920,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/03/the-interviews/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/03/the-interviews/</guid>
+        <link>http://localhost:4000/2021/03/03/the-interviews/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/03/the-interviews/</guid>
         
         <category>Weeknotes</category>
         
@@ -1396,8 +1968,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/21/the-liminal-space-again/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/21/the-liminal-space-again/</guid>
+        <link>http://localhost:4000/2021/02/21/the-liminal-space-again/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/21/the-liminal-space-again/</guid>
         
         <category>Weeknotes</category>
         
@@ -1449,8 +2021,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/14/the-disco/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/14/the-disco/</guid>
+        <link>http://localhost:4000/2021/02/14/the-disco/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/14/the-disco/</guid>
         
         <category>Weeknotes</category>
         
@@ -1506,8 +2078,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 </description>
         <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/06/the-water/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/06/the-water/</guid>
+        <link>http://localhost:4000/2021/02/06/the-water/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/06/the-water/</guid>
         
         <category>Weeknotes</category>
         
@@ -1591,8 +2163,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/30/the-third-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/30/the-third-birthday/</guid>
+        <link>http://localhost:4000/2021/01/30/the-third-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/30/the-third-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -1682,8 +2254,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/23/the-creamy-rips/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/23/the-creamy-rips/</guid>
+        <link>http://localhost:4000/2021/01/23/the-creamy-rips/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/23/the-creamy-rips/</guid>
         
         <category>Weeknotes</category>
         
@@ -1708,8 +2280,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 </description>
         <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/12/the-liminal-space/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/12/the-liminal-space/</guid>
+        <link>http://localhost:4000/2021/01/12/the-liminal-space/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/12/the-liminal-space/</guid>
         
         <category>Weeknotes</category>
         
@@ -1738,8 +2310,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/04/bookmarks-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/04/bookmarks-5/</guid>
+        <link>http://localhost:4000/2021/01/04/bookmarks-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/04/bookmarks-5/</guid>
         
         <category>Bookmarks</category>
         
@@ -1753,8 +2325,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;lol, fuck that&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/24/2020-year-in-review/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/24/2020-year-in-review/</guid>
+        <link>http://localhost:4000/2020/12/24/2020-year-in-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/24/2020-year-in-review/</guid>
         
         <category>Blogroll</category>
         
@@ -1952,10 +2524,14 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;After reading this, I realised how much I’d learned about colonialism and structural racism from reading up on Rage lyrics as a teenager. Much more to learn, of course, but &lt;em&gt;Battle&lt;/em&gt; really was a primer.&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://pitchfork.com/reviews/albums/rage-against-the-machine-the-battle-of-los-angeles/&quot;&gt;The Battle of Los Angeles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</guid>
+        <link>http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -1988,8 +2564,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/11/bookmarks-4/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/11/bookmarks-4/</guid>
+        <link>http://localhost:4000/2020/12/11/bookmarks-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/11/bookmarks-4/</guid>
         
         <category>Bookmarks</category>
         
@@ -2017,8 +2593,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/05/bookmarks-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/05/bookmarks-3/</guid>
+        <link>http://localhost:4000/2020/12/05/bookmarks-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/05/bookmarks-3/</guid>
         
         <category>Bookmarks</category>
         
@@ -2039,8 +2615,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/30/bookmarks-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/30/bookmarks-2/</guid>
+        <link>http://localhost:4000/2020/11/30/bookmarks-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/30/bookmarks-2/</guid>
         
         <category>Bookmarks</category>
         
@@ -2069,8 +2645,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/21/bookmarks-1/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/21/bookmarks-1/</guid>
+        <link>http://localhost:4000/2020/11/21/bookmarks-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/21/bookmarks-1/</guid>
         
         <category>Bookmarks</category>
         
@@ -2104,8 +2680,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/16/going-dark/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
+        <link>http://localhost:4000/2020/11/16/going-dark/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/16/going-dark/</guid>
         
         <category>Blogroll</category>
         
@@ -2163,8 +2739,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/15/stormy-seas/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/15/stormy-seas/</guid>
+        <link>http://localhost:4000/2020/11/15/stormy-seas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/15/stormy-seas/</guid>
         
         <category>Weeknotes</category>
         
@@ -2207,8 +2783,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/08/propaganda/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/08/propaganda/</guid>
+        <link>http://localhost:4000/2020/11/08/propaganda/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/08/propaganda/</guid>
         
         <category>Digital government</category>
         
@@ -2275,8 +2851,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/07/sunset-over-ynys-enlli/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/07/sunset-over-ynys-enlli/</guid>
+        <link>http://localhost:4000/2020/11/07/sunset-over-ynys-enlli/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/07/sunset-over-ynys-enlli/</guid>
         
         <category>Weeknotes</category>
         
@@ -2324,8 +2900,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Read &lt;a href=&quot;/2020/11/08/propaganda/&quot;&gt;part 3&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/07/rhetoric/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/07/rhetoric/</guid>
+        <link>http://localhost:4000/2020/11/07/rhetoric/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/07/rhetoric/</guid>
         
         <category>Digital government</category>
         
@@ -2381,8 +2957,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/06/users-trust-delivery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/06/users-trust-delivery/</guid>
+        <link>http://localhost:4000/2020/11/06/users-trust-delivery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/06/users-trust-delivery/</guid>
         
         <category>Digital government</category>
         
@@ -2424,8 +3000,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
+        <link>http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
         
         <category>Blogroll</category>
         
@@ -2461,8 +3037,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;It’s better than TimeHop for toenails, anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
+        <link>http://localhost:4000/2020/11/04/silly-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/04/silly-ideas/</guid>
         
         <category>Blogroll</category>
         
@@ -2502,8 +3078,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Some things that inspired this post: Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt;; Motherboard’s piece on popular culture as an information conduit and &lt;a href=&quot;https://www.vice.com/en/article/y3gg3k/tiktok-influencer-isodope-is-stanning-for-nuclear-energy&quot;&gt;nuclear energy influencer Isodope&lt;/a&gt;; and The New Atlantis on &lt;a href=&quot;https://www.thenewatlantis.com/publications/hard-to-believe&quot;&gt;whether search engines make us gullible&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
+        <link>http://localhost:4000/2020/11/03/google-fast-food-knowledge/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/03/google-fast-food-knowledge/</guid>
         
         <category>Blogroll</category>
         
@@ -2576,8 +3152,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/02/free-range-future-of-work/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/02/free-range-future-of-work/</guid>
+        <link>http://localhost:4000/2020/11/02/free-range-future-of-work/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/02/free-range-future-of-work/</guid>
         
         <category>Agile delivery</category>
         
@@ -2625,8 +3201,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
+        <link>http://localhost:4000/2020/11/01/why-i-write-weeknotes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/why-i-write-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -2682,8 +3258,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/the-glaw/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/the-glaw/</guid>
+        <link>http://localhost:4000/2020/11/01/the-glaw/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/the-glaw/</guid>
         
         <category>Weeknotes</category>
         
@@ -2707,8 +3283,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
+        <link>http://localhost:4000/2020/11/01/nablopomo-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/nablopomo-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -2753,8 +3329,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/24/the-hells-mouth/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/24/the-hells-mouth/</guid>
+        <link>http://localhost:4000/2020/10/24/the-hells-mouth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/24/the-hells-mouth/</guid>
         
         <category>Weeknotes</category>
         
@@ -2788,8 +3364,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/20/the-relocation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/20/the-relocation/</guid>
+        <link>http://localhost:4000/2020/10/20/the-relocation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/20/the-relocation/</guid>
         
         <category>Weeknotes</category>
         
@@ -2827,8 +3403,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/11/the-pigeons-in-the-station/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/11/the-pigeons-in-the-station/</guid>
+        <link>http://localhost:4000/2020/10/11/the-pigeons-in-the-station/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/11/the-pigeons-in-the-station/</guid>
         
         <category>Weeknotes</category>
         
@@ -2882,8 +3458,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 02 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/02/the-week-between/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/02/the-week-between/</guid>
+        <link>http://localhost:4000/2020/10/02/the-week-between/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/02/the-week-between/</guid>
         
         <category>Weeknotes</category>
         
@@ -2928,8 +3504,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/the-bushy-park/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/the-bushy-park/</guid>
+        <link>http://localhost:4000/2020/09/26/the-bushy-park/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/the-bushy-park/</guid>
         
         <category>Weeknotes</category>
         
@@ -3005,8 +3581,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        <link>http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</guid>
         
         <category>Product management</category>
         
@@ -3068,8 +3644,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 23 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/23/the-nonsuch-palace/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/23/the-nonsuch-palace/</guid>
+        <link>http://localhost:4000/2020/09/23/the-nonsuch-palace/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/the-nonsuch-palace/</guid>
         
         <category>Weeknotes</category>
         
@@ -3162,8 +3738,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Needs writing.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/17/personalisation-and-digital-government/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/17/personalisation-and-digital-government/</guid>
+        <link>http://localhost:4000/2020/09/17/personalisation-and-digital-government/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/17/personalisation-and-digital-government/</guid>
         
         <category>Digital government</category>
         
@@ -3205,8 +3781,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
+        <link>http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
         
         <category>Product management</category>
         
@@ -3303,8 +3879,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/05/the-beach-below-sea-level/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/05/the-beach-below-sea-level/</guid>
+        <link>http://localhost:4000/2020/09/05/the-beach-below-sea-level/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/05/the-beach-below-sea-level/</guid>
         
         <category>Weeknotes</category>
         
@@ -3388,8 +3964,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/29/the-ridgeway/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/29/the-ridgeway/</guid>
+        <link>http://localhost:4000/2020/08/29/the-ridgeway/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/29/the-ridgeway/</guid>
         
         <category>Weeknotes</category>
         
@@ -3448,8 +4024,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/21/the-coal-tax-post/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/21/the-coal-tax-post/</guid>
+        <link>http://localhost:4000/2020/08/21/the-coal-tax-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/21/the-coal-tax-post/</guid>
         
         <category>Weeknotes</category>
         
@@ -3527,8 +4103,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
+        <link>http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
         
         <category>Product management</category>
         
@@ -3611,8 +4187,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/14/the-success/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/14/the-success/</guid>
+        <link>http://localhost:4000/2020/08/14/the-success/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/14/the-success/</guid>
         
         <category>Weeknotes</category>
         
@@ -3682,8 +4258,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/07/the-surprise-entry/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/07/the-surprise-entry/</guid>
+        <link>http://localhost:4000/2020/08/07/the-surprise-entry/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/07/the-surprise-entry/</guid>
         
         <category>Weeknotes</category>
         
@@ -3764,8 +4340,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 31 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/31/the-asynchronous-communication/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/31/the-asynchronous-communication/</guid>
+        <link>http://localhost:4000/2020/07/31/the-asynchronous-communication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/31/the-asynchronous-communication/</guid>
         
         <category>Weeknotes</category>
         
@@ -3837,8 +4413,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 23 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</guid>
+        <link>http://localhost:4000/2020/07/23/the-untiring-advocate-of-summer-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/23/the-untiring-advocate-of-summer-time/</guid>
         
         <category>Weeknotes</category>
         
@@ -3903,8 +4479,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/18/the-productivity-hack/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/18/the-productivity-hack/</guid>
+        <link>http://localhost:4000/2020/07/18/the-productivity-hack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/18/the-productivity-hack/</guid>
         
         <category>Weeknotes</category>
         
@@ -3962,8 +4538,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
+        <link>http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</guid>
         
         <category>Blogroll</category>
         
@@ -4012,8 +4588,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/the-shock-of-london/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/the-shock-of-london/</guid>
+        <link>http://localhost:4000/2020/07/10/the-shock-of-london/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/the-shock-of-london/</guid>
         
         <category>Weeknotes</category>
         
@@ -4101,8 +4677,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        <link>http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</guid>
         
         <category>Product management</category>
         
@@ -4182,8 +4758,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 03 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/03/the-commute-must-die/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/03/the-commute-must-die/</guid>
+        <link>http://localhost:4000/2020/07/03/the-commute-must-die/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/03/the-commute-must-die/</guid>
         
         <category>Weeknotes</category>
         
@@ -4229,8 +4805,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/28/the-emancipation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/28/the-emancipation/</guid>
+        <link>http://localhost:4000/2020/06/28/the-emancipation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/28/the-emancipation/</guid>
         
         <category>Weeknotes</category>
         
@@ -4286,8 +4862,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 20 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/20/the-isolation-11/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/20/the-isolation-11/</guid>
+        <link>http://localhost:4000/2020/06/20/the-isolation-11/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/20/the-isolation-11/</guid>
         
         <category>Weeknotes</category>
         
@@ -4352,8 +4928,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/13/the-isolation-10/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/13/the-isolation-10/</guid>
+        <link>http://localhost:4000/2020/06/13/the-isolation-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/13/the-isolation-10/</guid>
         
         <category>Weeknotes</category>
         
@@ -4415,8 +4991,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/06/the-isolation-9/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/06/the-isolation-9/</guid>
+        <link>http://localhost:4000/2020/06/06/the-isolation-9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/06/the-isolation-9/</guid>
         
         <category>Weeknotes</category>
         
@@ -4475,8 +5051,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 30 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/30/the-isolation-8/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/30/the-isolation-8/</guid>
+        <link>http://localhost:4000/2020/05/30/the-isolation-8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/30/the-isolation-8/</guid>
         
         <category>Weeknotes</category>
         
@@ -4512,8 +5088,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 25 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/25/the-isolation-7/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/25/the-isolation-7/</guid>
+        <link>http://localhost:4000/2020/05/25/the-isolation-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/25/the-isolation-7/</guid>
         
         <category>Weeknotes</category>
         
@@ -4559,8 +5135,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/17/the-isolation-6/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/17/the-isolation-6/</guid>
+        <link>http://localhost:4000/2020/05/17/the-isolation-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/17/the-isolation-6/</guid>
         
         <category>Weeknotes</category>
         
@@ -4627,8 +5203,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 08 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/08/the-isolation-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/08/the-isolation-5/</guid>
+        <link>http://localhost:4000/2020/05/08/the-isolation-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/08/the-isolation-5/</guid>
         
         <category>Weeknotes</category>
         
@@ -4747,8 +5323,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/03/the-isolation-4/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/03/the-isolation-4/</guid>
+        <link>http://localhost:4000/2020/05/03/the-isolation-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/03/the-isolation-4/</guid>
         
         <category>Weeknotes</category>
         
@@ -4800,8 +5376,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/28/the-isolation-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/28/the-isolation-3/</guid>
+        <link>http://localhost:4000/2020/03/28/the-isolation-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/28/the-isolation-3/</guid>
         
         <category>Weeknotes</category>
         
@@ -4857,8 +5433,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/23/the-isolation-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/23/the-isolation-2/</guid>
+        <link>http://localhost:4000/2020/03/23/the-isolation-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/23/the-isolation-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -4903,8 +5479,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/16/the-isolation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/16/the-isolation/</guid>
+        <link>http://localhost:4000/2020/03/16/the-isolation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/16/the-isolation/</guid>
         
         <category>Weeknotes</category>
         
@@ -4986,8 +5562,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/05/the-renovation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/05/the-renovation/</guid>
+        <link>http://localhost:4000/2020/03/05/the-renovation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/05/the-renovation/</guid>
         
         <category>Weeknotes</category>
         
@@ -5040,8 +5616,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        <link>http://localhost:4000/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/22/how-we-use-product-clinics/</guid>
         
         <category>Product management</category>
         
@@ -5080,8 +5656,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/18/the-black-dog-storm/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/18/the-black-dog-storm/</guid>
+        <link>http://localhost:4000/2020/02/18/the-black-dog-storm/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/18/the-black-dog-storm/</guid>
         
         <category>Weeknotes</category>
         
@@ -5151,8 +5727,8 @@ Weeknotes S08E05
 
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/10/the-public-service-velodrome/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/10/the-public-service-velodrome/</guid>
+        <link>http://localhost:4000/2020/02/10/the-public-service-velodrome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/10/the-public-service-velodrome/</guid>
         
         <category>Weeknotes</category>
         
@@ -5221,8 +5797,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/01/the-innovation-dogtrack/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/01/the-innovation-dogtrack/</guid>
+        <link>http://localhost:4000/2020/02/01/the-innovation-dogtrack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/01/the-innovation-dogtrack/</guid>
         
         <category>Weeknotes</category>
         
@@ -5279,8 +5855,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/25/the-building-cohesion/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/25/the-building-cohesion/</guid>
+        <link>http://localhost:4000/2020/01/25/the-building-cohesion/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/the-building-cohesion/</guid>
         
         <category>Weeknotes</category>
         
@@ -5417,6 +5993,8 @@ Weeknotes S08E05
 
 &lt;p&gt;You don’t need any money to get started, really, you can spin up a blog in minutes using platforms like &lt;a href=&quot;https://wordpress.com&quot;&gt;Wordpress&lt;/a&gt; and &lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt;. It’s a quick way to test out the practice and see if it’s right for you.&lt;/p&gt;
 
+&lt;p&gt;Alternatively, take a no-tech approach and use &lt;a href=&quot;https://paperwebsite.com/&quot;&gt;Paper Website&lt;/a&gt;. Write in a notebook, take a photo of your writing and it’ll create a page for you. Magic!&lt;/p&gt;
+
 &lt;p&gt;If you’d like to create your own website, static site generators like &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://gohugo.io&quot;&gt;Hugo&lt;/a&gt; are low-tech ways to get started. You might have heard of &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; which runs on Jekyll. You simply feed it some Markdown files and it builds a website for you. GitHub Pages is free too, and it’s a good way to become more familiar with Git in general.&lt;/p&gt;
 
 &lt;p&gt;And you needn’t worry about having to promote your blog posts either. Services like &lt;a href=&quot;https://lttr.ai/Mg8L&quot;&gt;Missinglettr&lt;/a&gt;, &lt;a href=&quot;https://zapier.com&quot;&gt;Zapier&lt;/a&gt; and &lt;a href=&quot;https://quuu.co/promote&quot;&gt;Quuu Promote&lt;/a&gt; will syndicate your blog posts on social media automatically, helping your posts to get a greater reach.&lt;/p&gt;
@@ -5447,8 +6025,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
+        <link>http://localhost:4000/2020/01/25/blogging-working-open/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/blogging-working-open/</guid>
         
         <category>Blogroll</category>
         
@@ -5518,8 +6096,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/20/the-edging-forward/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/20/the-edging-forward/</guid>
+        <link>http://localhost:4000/2020/01/20/the-edging-forward/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/20/the-edging-forward/</guid>
         
         <category>Weeknotes</category>
         
@@ -5585,8 +6163,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/10/the-request-for-help/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/10/the-request-for-help/</guid>
+        <link>http://localhost:4000/2020/01/10/the-request-for-help/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/10/the-request-for-help/</guid>
         
         <category>Weeknotes</category>
         
@@ -5624,8 +6202,8 @@ Weeknotes S08E05
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;https://www.twitter.com/jonodrew&quot;&gt;Jonathan&lt;/a&gt; for his help in editing this, and thanks to Conor for the sticker and this wonderful phrase.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/08/boring-magic/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/08/boring-magic/</guid>
+        <link>http://localhost:4000/2020/01/08/boring-magic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/08/boring-magic/</guid>
         
         <category>Digital government</category>
         
@@ -5699,8 +6277,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/05/the-festive-break/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/05/the-festive-break/</guid>
+        <link>http://localhost:4000/2020/01/05/the-festive-break/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/05/the-festive-break/</guid>
         
         <category>Weeknotes</category>
         
@@ -5758,8 +6336,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/16/the-helping-hand/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/16/the-helping-hand/</guid>
+        <link>http://localhost:4000/2019/12/16/the-helping-hand/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/16/the-helping-hand/</guid>
         
         <category>Weeknotes</category>
         
@@ -5932,6 +6510,12 @@ Weeknotes S08E05
 
 &lt;p&gt;Read &lt;a href=&quot;http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654&quot;&gt;In 1968, computers got personal&lt;/a&gt;.&lt;/p&gt;
 
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt; and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
@@ -5941,8 +6525,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
+        <link>http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -6012,8 +6596,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/07/the-niksen/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/07/the-niksen/</guid>
+        <link>http://localhost:4000/2019/12/07/the-niksen/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/07/the-niksen/</guid>
         
         <category>Weeknotes</category>
         
@@ -6262,8 +6846,8 @@ Weeknotes S08E05
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -6354,8 +6938,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/09/the-quiet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/09/the-quiet/</guid>
+        <link>http://localhost:4000/2019/11/09/the-quiet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/09/the-quiet/</guid>
         
         <category>Weeknotes</category>
         
@@ -6397,8 +6981,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/the-timebox-3-4-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/the-timebox-3-4-5/</guid>
+        <link>http://localhost:4000/2019/11/02/the-timebox-3-4-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/the-timebox-3-4-5/</guid>
         
         <category>Weeknotes</category>
         
@@ -6560,8 +7144,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
+        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -6617,8 +7201,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/12/the-timebox-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/12/the-timebox-2/</guid>
+        <link>http://localhost:4000/2019/10/12/the-timebox-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/12/the-timebox-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -6676,8 +7260,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/04/the-timebox/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/04/the-timebox/</guid>
+        <link>http://localhost:4000/2019/10/04/the-timebox/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/04/the-timebox/</guid>
         
         <category>Weeknotes</category>
         
@@ -6734,8 +7318,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/30/the-team-things/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/30/the-team-things/</guid>
+        <link>http://localhost:4000/2019/09/30/the-team-things/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/30/the-team-things/</guid>
         
         <category>Weeknotes</category>
         
@@ -6819,8 +7403,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/23/the-love/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/23/the-love/</guid>
+        <link>http://localhost:4000/2019/09/23/the-love/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/23/the-love/</guid>
         
         <category>Weeknotes</category>
         
@@ -6880,8 +7464,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/14/the-times-and-the-customs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/14/the-times-and-the-customs/</guid>
+        <link>http://localhost:4000/2019/09/14/the-times-and-the-customs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/14/the-times-and-the-customs/</guid>
         
         <category>Weeknotes</category>
         
@@ -6932,8 +7516,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 09 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/09/the-big-stuff/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/09/the-big-stuff/</guid>
+        <link>http://localhost:4000/2019/09/09/the-big-stuff/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/09/the-big-stuff/</guid>
         
         <category>Weeknotes</category>
         
@@ -7013,8 +7597,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</guid>
+        <link>http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</guid>
         
         <category>Weeknotes</category>
         
@@ -7081,8 +7665,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 19 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/19/the-very-important-visitors/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/19/the-very-important-visitors/</guid>
+        <link>http://localhost:4000/2019/08/19/the-very-important-visitors/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/19/the-very-important-visitors/</guid>
         
         <category>Weeknotes</category>
         
@@ -7154,8 +7738,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/11/the-eagle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/11/the-eagle/</guid>
+        <link>http://localhost:4000/2019/08/11/the-eagle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/11/the-eagle/</guid>
         
         <category>Weeknotes</category>
         
@@ -7267,8 +7851,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/03/the-buzz/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/03/the-buzz/</guid>
+        <link>http://localhost:4000/2019/08/03/the-buzz/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/03/the-buzz/</guid>
         
         <category>Weeknotes</category>
         
@@ -7336,8 +7920,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/24/the-oops/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/24/the-oops/</guid>
+        <link>http://localhost:4000/2019/07/24/the-oops/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/24/the-oops/</guid>
         
         <category>Weeknotes</category>
         
@@ -7410,8 +7994,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/20/the-milestone/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/20/the-milestone/</guid>
+        <link>http://localhost:4000/2019/07/20/the-milestone/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/20/the-milestone/</guid>
         
         <category>Weeknotes</category>
         
@@ -7505,8 +8089,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/13/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/13/the-birthday/</guid>
+        <link>http://localhost:4000/2019/07/13/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/13/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -7558,8 +8142,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -7613,8 +8197,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        <link>http://localhost:4000/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/02/product-strategy-video-games/</guid>
         
         <category>Product management</category>
         
@@ -7685,8 +8269,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 29 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/29/the-high/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/29/the-high/</guid>
+        <link>http://localhost:4000/2019/06/29/the-high/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/29/the-high/</guid>
         
         <category>Weeknotes</category>
         
@@ -7731,8 +8315,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;It was a lot of things. I’m very lucky to have this job. It’s good to remember that when my energy is low.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/23/the-fatigue/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/23/the-fatigue/</guid>
+        <link>http://localhost:4000/2019/06/23/the-fatigue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/23/the-fatigue/</guid>
         
         <category>Weeknotes</category>
         
@@ -7784,8 +8368,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -7895,8 +8479,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/15/the-fishing-smacks/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/15/the-fishing-smacks/</guid>
+        <link>http://localhost:4000/2019/04/15/the-fishing-smacks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/15/the-fishing-smacks/</guid>
         
         <category>Weeknotes</category>
         
@@ -8030,8 +8614,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/06/the-relief/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/06/the-relief/</guid>
+        <link>http://localhost:4000/2019/04/06/the-relief/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/06/the-relief/</guid>
         
         <category>Weeknotes</category>
         
@@ -8106,8 +8690,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/30/the-road-ahead/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/30/the-road-ahead/</guid>
+        <link>http://localhost:4000/2019/03/30/the-road-ahead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/30/the-road-ahead/</guid>
         
         <category>Weeknotes</category>
         
@@ -8159,8 +8743,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/23/the-workshop/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/23/the-workshop/</guid>
+        <link>http://localhost:4000/2019/03/23/the-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/23/the-workshop/</guid>
         
         <category>Weeknotes</category>
         
@@ -8221,8 +8805,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/18/the-key-findings/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/18/the-key-findings/</guid>
+        <link>http://localhost:4000/2019/03/18/the-key-findings/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/18/the-key-findings/</guid>
         
         <category>Weeknotes</category>
         
@@ -8276,8 +8860,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/10/the-threads/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/10/the-threads/</guid>
+        <link>http://localhost:4000/2019/03/10/the-threads/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/10/the-threads/</guid>
         
         <category>Weeknotes</category>
         
@@ -8353,8 +8937,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/02/the-reflection/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/02/the-reflection/</guid>
+        <link>http://localhost:4000/2019/03/02/the-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/02/the-reflection/</guid>
         
         <category>Weeknotes</category>
         
@@ -8430,8 +9014,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me 1.5 hours to write on a Monday evening and I added some final tweaks on Tuesday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/26/the-syndication/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/26/the-syndication/</guid>
+        <link>http://localhost:4000/2019/02/26/the-syndication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/26/the-syndication/</guid>
         
         <category>Weeknotes</category>
         
@@ -8502,8 +9086,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         
@@ -8574,8 +9158,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me twenty-five minutes to write on a Saturday morning. It usually takes me much longer, but I’m feeling ill and haven’t gone into much detail or reflection. I often write these on a Saturday morning though.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/16/the-shock-to-the-system/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/16/the-shock-to-the-system/</guid>
+        <link>http://localhost:4000/2019/02/16/the-shock-to-the-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/16/the-shock-to-the-system/</guid>
         
         <category>Weeknotes</category>
         
@@ -8667,8 +9251,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me two and a half hours to write on a Saturday morning. It always takes me that long, and I often do it on a Saturday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/02/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/02/the-birthday/</guid>
+        <link>http://localhost:4000/2019/02/02/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/02/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -8783,8 +9367,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/26/the-reminder/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/26/the-reminder/</guid>
+        <link>http://localhost:4000/2019/01/26/the-reminder/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/26/the-reminder/</guid>
         
         <category>Weeknotes</category>
         
@@ -8861,8 +9445,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/19/the-navigation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/19/the-navigation/</guid>
+        <link>http://localhost:4000/2019/01/19/the-navigation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/19/the-navigation/</guid>
         
         <category>Weeknotes</category>
         
@@ -8929,8 +9513,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/12/the-new-cross/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/12/the-new-cross/</guid>
+        <link>http://localhost:4000/2019/01/12/the-new-cross/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/12/the-new-cross/</guid>
         
         <category>Weeknotes</category>
         
@@ -8987,8 +9571,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/04/the-limbo-continues/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/04/the-limbo-continues/</guid>
+        <link>http://localhost:4000/2019/01/04/the-limbo-continues/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/04/the-limbo-continues/</guid>
         
         <category>Weeknotes</category>
         
@@ -9039,8 +9623,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/31/the-fallow-period/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/31/the-fallow-period/</guid>
+        <link>http://localhost:4000/2018/12/31/the-fallow-period/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/31/the-fallow-period/</guid>
         
         <category>Weeknotes</category>
         
@@ -9140,10 +9724,14 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;This blog post covers much of Marty Cagan’s talk when he visited us in September. It’s a long read but it’s absolutely essential for organisations scaling up, past the startup mindset. It reminds us that qualities of leadership can be better than management, and that great teams are full of ordinary people.&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://svpg.com/empowered-product-teams/&quot;&gt;Empowered Product Teams&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -9211,8 +9799,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/21/the-winter-solstice/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/21/the-winter-solstice/</guid>
+        <link>http://localhost:4000/2018/12/21/the-winter-solstice/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/21/the-winter-solstice/</guid>
         
         <category>Weeknotes</category>
         
@@ -9274,8 +9862,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/14/the-gift/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/14/the-gift/</guid>
+        <link>http://localhost:4000/2018/12/14/the-gift/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/14/the-gift/</guid>
         
         <category>Weeknotes</category>
         
@@ -9340,8 +9928,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/07/the-spin-up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/07/the-spin-up/</guid>
+        <link>http://localhost:4000/2018/12/07/the-spin-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/07/the-spin-up/</guid>
         
         <category>Weeknotes</category>
         
@@ -9435,8 +10023,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
@@ -9494,8 +10082,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/the-wind-down/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/the-wind-down/</guid>
+        <link>http://localhost:4000/2018/11/17/the-wind-down/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/the-wind-down/</guid>
         
         <category>Weeknotes</category>
         
@@ -9588,8 +10176,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/10/the-staying-of-the-course/</guid>
+        <link>http://localhost:4000/2018/11/10/the-staying-of-the-course/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/the-staying-of-the-course/</guid>
         
         <category>Weeknotes</category>
         
@@ -9654,8 +10242,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/03/The-Comfort-of-Company/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/03/The-Comfort-of-Company/</guid>
+        <link>http://localhost:4000/2018/11/03/The-Comfort-of-Company/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/03/The-Comfort-of-Company/</guid>
         
         <category>Weeknotes</category>
         
@@ -9734,8 +10322,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 27 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/27/The-Delivery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/27/The-Delivery/</guid>
+        <link>http://localhost:4000/2018/10/27/The-Delivery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/27/The-Delivery/</guid>
         
         <category>Weeknotes</category>
         
@@ -9820,8 +10408,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/21/The-Unconference/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/21/The-Unconference/</guid>
+        <link>http://localhost:4000/2018/10/21/The-Unconference/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/21/The-Unconference/</guid>
         
         <category>Weeknotes</category>
         
@@ -9900,8 +10488,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 14 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</guid>
+        <link>http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</guid>
         
         <category>Weeknotes</category>
         
@@ -9984,8 +10572,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 22 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/22/The-Finale/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/22/The-Finale/</guid>
+        <link>http://localhost:4000/2018/09/22/The-Finale/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/22/The-Finale/</guid>
         
         <category>Weeknotes</category>
         
@@ -10048,8 +10636,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;After Ellie taught me about &lt;a href=&quot;https://twitter.com/Ellayanor/status/1037756853579599881&quot;&gt;low spoons&lt;/a&gt;, I’ve looked at my own mental capacity in a different light. The past couple weeks have been a bit busy, so I’ve avoided stuffing my head with more information this week.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/16/The-Successful-Experiment/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/16/The-Successful-Experiment/</guid>
+        <link>http://localhost:4000/2018/09/16/The-Successful-Experiment/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/16/The-Successful-Experiment/</guid>
         
         <category>Weeknotes</category>
         
@@ -10122,8 +10710,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/07/The-Cusp/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/07/The-Cusp/</guid>
+        <link>http://localhost:4000/2018/09/07/The-Cusp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/07/The-Cusp/</guid>
         
         <category>Weeknotes</category>
         
@@ -10185,8 +10773,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/01/The-Snorlax/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/01/The-Snorlax/</guid>
+        <link>http://localhost:4000/2018/09/01/The-Snorlax/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/The-Snorlax/</guid>
         
         <category>Weeknotes</category>
         
@@ -10278,8 +10866,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/25/The-Unity/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/25/The-Unity/</guid>
+        <link>http://localhost:4000/2018/08/25/The-Unity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/25/The-Unity/</guid>
         
         <category>Weeknotes</category>
         
@@ -10367,8 +10955,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/18/The-Boost/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/18/The-Boost/</guid>
+        <link>http://localhost:4000/2018/08/18/The-Boost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/18/The-Boost/</guid>
         
         <category>Weeknotes</category>
         
@@ -10441,8 +11029,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 11 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/11/The-Farewell/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/11/The-Farewell/</guid>
+        <link>http://localhost:4000/2018/08/11/The-Farewell/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/11/The-Farewell/</guid>
         
         <category>Weeknotes</category>
         
@@ -10537,8 +11125,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/04/The-Step-Up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/04/The-Step-Up/</guid>
+        <link>http://localhost:4000/2018/08/04/The-Step-Up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/04/The-Step-Up/</guid>
         
         <category>Weeknotes</category>
         
@@ -10613,8 +11201,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/23/The-Discovery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/23/The-Discovery/</guid>
+        <link>http://localhost:4000/2018/07/23/The-Discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/23/The-Discovery/</guid>
         
         <category>Weeknotes</category>
         
@@ -10696,8 +11284,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/14/The-Reshuffle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/14/The-Reshuffle/</guid>
+        <link>http://localhost:4000/2018/07/14/The-Reshuffle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/14/The-Reshuffle/</guid>
         
         <category>Weeknotes</category>
         

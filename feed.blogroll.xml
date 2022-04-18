@@ -3,11 +3,312 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Dec 2021 21:52:34 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 21:52:34 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Apr 2022 17:44:12 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 17:44:12 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>How to setup Jekyll with Tailwind CSS</title>
+        <description>&lt;p&gt;For a while now I’ve had ‘build a Jekyll theme based on the GOV.UK Design System’ on my list of things to do, but I just haven’t got around to it. Instead I figured I’d try out Tailwind CSS, since it seems pretty easy to use.&lt;/p&gt;
+
+&lt;p&gt;I looked for a simple tutorial to get Tailwind CSS working with Jekyll and came across &lt;a href=&quot;https://mdoliwa.com/how-to-setup-jekyll-with-tailwind-css&quot;&gt;this tutorial by Marcin Doliwa&lt;/a&gt;. Although it’s really simple to follow, I was having trouble getting Jekyll to run with PostCSS.&lt;/p&gt;
+
+&lt;p&gt;Anyway, after a few hours I managed to fix it and get it running. Below is an adaptation of Marcin’s original tutorial that worked on macOS Monterey.&lt;/p&gt;
+
+&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;You’ll need to install:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Xcode and command line tools using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xcode-select --install&lt;/code&gt; in Terminal&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brew.sh&quot;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rbenv/rbenv&quot;&gt;rbenv&lt;/a&gt; and Ruby version 2.6.9&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nvm-sh/nvm&quot;&gt;nvm&lt;/a&gt; and Node version 14&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt; using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll -v 4.1.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that’s done, you’re ready to get started.&lt;/p&gt;
+
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-start-a-blank-jekyll-website&quot;&gt;1. Start a blank Jekyll website&lt;/h3&gt;
+
+&lt;p&gt;In Terminal, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new mysite --blank&lt;/code&gt; and change the working directory to the new folder by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd mysite&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-install-required-packages&quot;&gt;2. Install required packages&lt;/h3&gt;
+
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npm install tailwindcss@2.0.2 postcss@8.2.2 autoprefixer@10.1.0 postcss-import@14.0.0&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-set-up-postcss&quot;&gt;3. Set up PostCSS&lt;/h3&gt;
+
+&lt;p&gt;Create a Gemfile in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysite&lt;/code&gt; folder, add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-postcss&lt;/code&gt; gem to it and run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Gemfile
+
+source &quot;https://rubygems.org&quot;
+
+gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.1.1&quot;
+gem 'jekyll-postcss', '0.4.0'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Make sure you see &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Using jekyll-postcss 0.4.0&lt;/code&gt; in the output, otherwise run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; again.&lt;/p&gt;
+
+&lt;p&gt;Add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-postcss&lt;/code&gt; plugin to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# _config.yml
+
+url: &quot;&quot; # the base hostname &amp;amp; protocol for your site, e.g. http://example.com
+baseurl: &quot;&quot; # the subpath of your site, e.g. /blog
+title: &quot;&quot; # the name of your site, e.g. ACME Corp.
+
+plugins:
+  - jekyll-postcss
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;and create the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;postcss.config.js&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// postcss.config.js
+
+module.exports = {
+  plugins: [
+    require('postcss-import'),
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ]
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-set-up-the-tailwind-css-config-file&quot;&gt;4. Set up the Tailwind CSS config file&lt;/h3&gt;
+
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npx tailwindcss init&lt;/code&gt; to create an empty Tailwind config file.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-import-the-tailwind-stylesheets-in-to-your-css-file&quot;&gt;5. Import the Tailwind stylesheets in to your CSS file.&lt;/h3&gt;
+
+&lt;p&gt;Edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/css/main.scss&lt;/code&gt; file to make it look like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+---
+
+@import &quot;tailwindcss/base&quot;;
+
+@import &quot;tailwindcss/components&quot;;
+
+@import &quot;tailwindcss/utilities&quot;;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;6-run-jekyll&quot;&gt;6. Run Jekyll!&lt;/h3&gt;
+
+&lt;p&gt;Now run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Open your browser, visit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt; and your Jekyll site should be running Tailwind!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reading List Picks of 2021</title>
+        <description>&lt;p&gt;Every year I put together one of these lists, of things I read that gave me ideas, crystallised my thinking or changed my mind. This is the longest list I’ve compiled yet. And it’s perhaps the sassiest too. So alongside useful posts on product management and working on digital teams, you’ve got pieces on embracing Earth’s radical long-term and the lie of the United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that should be plenty to get stuck in to while waiting in line for a booster vaccine / spending your second Christmas alone (delete as appropriate).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#product-management&quot;&gt;Product management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#digital-teams&quot;&gt;Digital teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#startups&quot;&gt;Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-web&quot;&gt;The Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#divided-kingdom&quot;&gt;Divided Kingdom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-age-of-exhaustion&quot;&gt;The Age of Exhaustion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#running&quot;&gt;Running&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;product-management&quot;&gt;Product management&lt;/h2&gt;
+
+&lt;h3 id=&quot;against-entropy--why-product-managers-really-manage-conversations&quot;&gt;Against entropy — Why product managers really manage conversations&lt;/h3&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://medium.com/@trillyc/against-entropy-why-product-managers-really-manage-conversations-ba85093cd187&quot;&gt;Against entropy — Why product managers really manage conversations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Right, let’s get started with the big guns. What you do as a product manager depends very much on the organisation you work at, its users’ problems, and how your organisation solves those problems. Not all product managers work on consumer tech, which means that &lt;a href=&quot;https://www.mindtheproduct.com/what-exactly-is-a-product-manager/&quot;&gt;classic Venn diagram&lt;/a&gt; no longer applies. So Trilly went and wrote this fantastic piece on what’s at the heart of product management.&lt;/p&gt;
+
+&lt;h3 id=&quot;good-product-managers-great-product-managers&quot;&gt;Good Product Managers, Great Product Managers&lt;/h3&gt;
+
+&lt;p&gt;I must admit, I feel like I should have come across Shreyas Doshi sooner. He’s been posting fantastic things about product management this year, but I suspect he’s written more. Having worked at Yahoo, Google, Stripe and Twitter, he’s worked at some of the most successful startups, and this post is a timely update on &lt;a href=&quot;https://a16z.com/2012/06/15/good-product-managerbad-product-manager/&quot;&gt;Ben Horowitz’s classic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.linkedin.com/pulse/good-product-managers-great-shreyas-doshi/&quot;&gt;Good Product Managers, Great Product Managers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;discovery-kanban-at-optimizely&quot;&gt;Discovery Kanban at Optimizely&lt;/h3&gt;
+
+&lt;p&gt;There are many different ways to product discovery and product delivery. I’ve found it mostly depends on how many people you’ve got, how multidisciplinary the team is, how big your backlog is and the time horizon on your current objectives. Recently I had a need to Get Shit Done QUICKTIME, where this post came in handy.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;lean-ux-documentation-for-tracking-and-communicating-in-agile&quot;&gt;Lean UX Documentation for Tracking and Communicating in Agile&lt;/h3&gt;
+
+&lt;p&gt;It’s really easy forget things or miss details when you’re moving fast. And I’ve certainly been in situations where we’re trying to iterate a product, looking for evidence as to why it was built a certain way, and we’ve not found anything. But writing things down is like building an organisational memory: ‘it prevents teams from running around in circles – repeating mistakes or simply arguing over the same topics again and again’. So write some notes.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.nngroup.com/articles/lean-agile-documentation/&quot;&gt;Lean UX Documentation for Tracking and Communicating in Agile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-tools-dont-matter&quot;&gt;The Tools Don’t Matter&lt;/h3&gt;
+
+&lt;p&gt;At some point in your career as a product manager, you’re going to be asked to work on something that pushes you outside of your comfort zone. The tools you’ve learned and relied on will not suit this new context. And you’re going to feel adrift. Ken Norton has some advice: the tools don’t matter, it’s the fuzzier things that are important.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://newsletter.bringthedonuts.com/p/the-tools-dont-matter&quot;&gt;The Tools Don’t Matter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-teams&quot;&gt;Digital teams&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-weeds&quot;&gt;The Weeds&lt;/h3&gt;
+
+&lt;p&gt;John Cutler is the utmost expert on the work about the work. You know, the stuff we do all day that isn’t speaking to users or mocking up wireframes or writing code or analysing data. It’s work, but not &lt;em&gt;the work&lt;/em&gt;. The messy stuff. This piece helped me out when it seemed like everything was on top of me. Things change, it’ll be OK.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-3152-the-weeds&quot;&gt;The Weeds&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;make-time-for-small-talk-in-your-virtual-meetings&quot;&gt;Make Time for Small Talk in Your Virtual Meetings&lt;/h3&gt;
+
+&lt;p&gt;When I saw this headline in Harvard Business Review, I thought it was a bit obvious. Of course you should make time for small talk when you’re working remotely. But then I read it properly and there’s some good considerations in there for designing your remote culture deliberately.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://hbr.org/2021/02/make-time-for-small-talk-in-your-virtual-meetings&quot;&gt;Make Time for Small Talk in Your Virtual Meetings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-get-a-dysfunctional-team-back-on-track&quot;&gt;How to Get a Dysfunctional Team Back on Track&lt;/h3&gt;
+
+&lt;p&gt;Another one of those posts to read when you think you’re losing it. Either you’ll realise your team is just fine as it is, or you’ll learn some tactics for getting things back on track. The best one: ‘scrap all of your management tricks’.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://alistapart.com/article/dysfunctional-teams-back-on-track/&quot;&gt;How to Get a Dysfunctional Team Back on Track&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-limiting-wip-starting-together-being-less-busy-and-working-together-is-so-hard&quot;&gt;Why Limiting WIP, Starting Together, Being Less Busy, and Working Together is SO HARD&lt;/h3&gt;
+
+&lt;p&gt;A companion piece to The Weeds above. Whatever mess you’re in, realise there is no silver bullet.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://cutlefish.substack.com/p/tbm-4052-why-limiting-wip-starting&quot;&gt;Why Limiting WIP, Starting Together, Being Less Busy, and Working Together is SO HARD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;its-not-complicated-its-just-hard&quot;&gt;It’s not complicated; it’s just hard&lt;/h3&gt;
+
+&lt;p&gt;Up there with &lt;a href=&quot;https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple&quot;&gt;‘Do the hard work to make things simple’&lt;/a&gt;, and definitely related to &lt;a href=&quot;/2020/01/08/boring-magic/&quot;&gt;Boring magic&lt;/a&gt;, this piece by Russell Davies explains why the art of doing something well ain’t always complex, it’s just hard (using a lovely quote from magicians Penn &amp;amp; Teller).&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://russelldavies.typepad.com/planning/2013/01/its-not-complicated-its-just-hard.html&quot;&gt;It’s not complicated; it’s just hard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;startups&quot;&gt;Startups&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-most-common-misconception-about-organisational-culture&quot;&gt;The most common misconception about organisational culture&lt;/h3&gt;
+
+&lt;p&gt;This piece opens with ‘Culture is hard to define’. Yup! You know when you’ve got a good one, and you definitely know when it stinks. There’s no playbook for establishing a good culture, I don’t think, it has to be grown with intent. Laurie’s post offers so starting positions, picked from academia.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://temporall.com/2021/02/09/the-most-common-misconception-about-organisational-culture/&quot;&gt;The most common misconception about organisational culture&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;utopia-inc&quot;&gt;Utopia Inc&lt;/h3&gt;
+
+&lt;p&gt;Sticking with culture for a bit, this piece looks at 1960s intentional communities – commonly known as ‘communes’ – and their similarity with tech startups. It’s a really interesting piece! I guess microdosing will make it over to the European startup ecosystem after all…&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why&quot;&gt;Utopia Inc&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;neglected-positioning-hurts-more-than-you-think&quot;&gt;Neglected positioning hurts more than you think&lt;/h3&gt;
+
+&lt;p&gt;Positioning is the art of describing a product in a way that appeals to specific market segments. This isn’t a healthy snack, it’s a high calorie Paleo bar. If it sounds like marketing, that’s because it is, and product management has roots in marketing. Getting positioning right early on will help you find and onboard early adopters.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://buildingmomentum.substack.com/p/dont-neglect-positioning&quot;&gt;Neglected positioning hurts more than you think&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;identifying-the-business-value-of-what-we-do&quot;&gt;Identifying the Business Value of What We Do&lt;/h3&gt;
+
+&lt;p&gt;A good thing to pair with meeting user needs is creating business value. You want to solve problems for users in a way that they love but that also creates value for the business. So it’s useful to bring that in to your prioritisation meetings.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://articles.uie.com/business_value/&quot;&gt;Identifying the Business Value of What We Do&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;willingness-to-look-stupid&quot;&gt;Willingness to look stupid&lt;/h3&gt;
+
+&lt;p&gt;Startups are full of clever people trying to do excellent things and be the absolute best. It can create an environment where people are afraid to make mistakes or look stupid, which can lead to problems down the road. Be willing to look stupid.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://danluu.com/look-stupid/&quot;&gt;Willingness to look stupid&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-web&quot;&gt;The Web&lt;/h2&gt;
+
+&lt;h3 id=&quot;meanings-of-the-metaverse-productizing-reality&quot;&gt;Meanings of the metaverse: Productizing reality&lt;/h3&gt;
+
+&lt;p&gt;Simply put, Mark Zuckerberg wants to monetise a virtual reality and use his company’s size to establish first-mover advantage. It’s so obvious, and it’s a huge bet, yet it will probably work because he wills it. And he can cash in.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.roughtype.com/?p=8935&quot;&gt;Meanings of the metaverse: Productizing reality&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-metaverse-is-bad&quot;&gt;The Metaverse is Bad&lt;/h3&gt;
+
+&lt;p&gt;This one’s similar to the previous post but takes a different slant towards the end, critiquing Zuckerberg as a character.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/&quot;&gt;The Metaverse is Bad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;notes-on-web3&quot;&gt;Notes on Web3&lt;/h3&gt;
+
+&lt;p&gt;One thing that’s clear is that there’s a lot of hype around web3. A few years back when I was looking in to Web 3.0, its previous incarnation, there was nothing about crypto, it was all linked data. I’ve &lt;a href=&quot;/2021/12/02/web3-reading-list-for-internet-optimists/&quot;&gt;read a few things about web3 recently&lt;/a&gt; but this stands out as the star piece.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;divided-kingdom&quot;&gt;Divided Kingdom&lt;/h2&gt;
+
+&lt;h3 id=&quot;rethinking-class-in-the-age-of-rent&quot;&gt;Rethinking class in the age of rent&lt;/h3&gt;
+
+&lt;p&gt;This piece takes a look at the fundamental value of assets, both physical and knowledge-based, to throw a new light on socioeconomic class and arrive at a different definition.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://autonomy.work/portfolio/berry-class-rent/&quot;&gt;Rethinking class in the age of rent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;independent-tropical-wales&quot;&gt;Independent Tropical Wales&lt;/h3&gt;
+
+&lt;p&gt;A short story about a piece of graffiti that showed up in Cardiff, but one that points to the colonial oppression of the monarchy and how its empire-building started – and ended – close to home.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://babylonwales.blogspot.com/2012/01/independent-tropical-wales.html&quot;&gt;Independent Tropical Wales&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-age-of-exhaustion&quot;&gt;The Age of Exhaustion&lt;/h2&gt;
+
+&lt;h3 id=&quot;you-really-need-to-quit-twitter&quot;&gt;You Really Need to Quit Twitter&lt;/h3&gt;
+
+&lt;p&gt;Every now and then I take breaks from Twitter, and I’ve definitely used it less this year. There could be numerous reasons for that: I’ve been busier, outside more, less interested in what my bubble thinks, etc. But this piece did prompt me to take a break, so I’m sharing it.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/&quot;&gt;You Really Need to Quit Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;emotions-on-strike&quot;&gt;Emotions on Strike&lt;/h3&gt;
+
+&lt;p&gt;A piece that encourages you to take back control of your emotions. Like, properly seize them back. Bring your &lt;em&gt;whole&lt;/em&gt; self to work? Hmm, I dunno, maybe not.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.dissentmagazine.org/article/emotions-on-strike&quot;&gt;Emotions on Strike&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-tyranny-of-time&quot;&gt;The Tyranny Of Time&lt;/h3&gt;
+
+&lt;p&gt;Possibly one of the best pieces I read all year, about clocks and time. If I try and summarise it I won’t do it justice, so just go and read it.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://www.noemamag.com/the-tyranny-of-time/&quot;&gt;The Tyranny Of Time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;columbia-professor-i-do-heroin-regularly-for-work-life-balance&quot;&gt;Columbia professor: I do heroin regularly for ‘work-life balance’&lt;/h3&gt;
+
+&lt;p&gt;You can get high and still hold it down.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://nypost.com/2021/02/19/columbia-prof-i-snort-heroin-regularly-for-work-life-balance/&quot;&gt;Columbia professor: I do heroin regularly for ‘work-life balance’&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
+
+&lt;h3 id=&quot;moving-in-stillness-how-running-benefits-the-mind&quot;&gt;Moving in Stillness: How Running Benefits the Mind&lt;/h3&gt;
+
+&lt;p&gt;I got in to running during 2020, the middle stages of the early pandemic, like a lot of people. But this year was when its benefits in mindfulness really hit me, and a feeling of connection to the past. If you like this piece, I recommend looking up John Hillaby, a walker whose writing is seminal.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://peepsmagazine.ca/moving-in-stillness/&quot;&gt;Moving in Stillness: How Running Benefits the Mind&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;intro-to-fast-packing&quot;&gt;Intro to Fast-packing&lt;/h3&gt;
+
+&lt;p&gt;As soon as I read this, I wanted to be able to run long distances. Camping is great but walking takes time, you don’t cover as many miles as running. So being able to run to some remote place, sleep out for a night and head back sounds really, really appealing!&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;https://janji.com/blogs/travelogue/intro-to-fastpacking&quot;&gt;Intro to Fast-packing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>A mantra for bad mental health days</title>
@@ -30,8 +331,8 @@ into the sea&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</guid>
+        <link>http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</guid>
         
         <category>Blogroll</category>
         
@@ -46,7 +347,9 @@ into the sea&lt;/p&gt;
 
 &lt;p&gt;It’s why all the talk of web3 worries me. Much of it seems to suggest that &lt;a href=&quot;https://twitter.com/anildash/status/1461335866652172288?s=20&quot;&gt;you can’t involve yourself in the ecosystem without exchanging some value&lt;/a&gt;, for example, paying gas fees on the Ethereum network. What happens to non-commercial creation then?&lt;/p&gt;
 
-&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations. &lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;Is Web3… anything?&lt;/a&gt; by Chris Granger begins to paint a picture of that place in between.&lt;/p&gt;
+&lt;p&gt;But I read a couple of pieces this morning that gave me hope. Some &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt; by Robin Sloan&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&quot;https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1078128&quot;&gt;What is Web 3.0, Really?&lt;/a&gt; by Alan Morrison. Each presents a different view on the possible futures, but it’s really the place in between the two I’m trying to imagine. One where free hobbyist publishing exists alongside commercial content creation empowered by networks, not corporations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.chris-granger.com/2021/12/09/is-web3-anything/&quot;&gt;Is Web3… anything?&lt;/a&gt; by Chris Granger begins to paint a picture of that place in between. &lt;a href=&quot;https://maxread.substack.com/p/is-web3-bullshit&quot;&gt;Is web3 bullshit?&lt;/a&gt; by Max Read sits there too.&lt;/p&gt;
 
 &lt;p&gt;But maybe it’s a dream. Over the last week or so, I’ve been reading more on web3 – admittedly pieces critical of whether it solves the problems it professes to solve – and maybe you can’t solve a socio-economic problem with technology. Check out:&lt;/p&gt;
 
@@ -56,6 +359,8 @@ into the sea&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://invisibleup.com/articles/38/&quot;&gt;Web3 is not decentralization&lt;/a&gt; by InvisibleUp&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://soatok.blog/2021/10/19/against-web3-and-faux-decentralization/&quot;&gt;Against Web3 and Faux-Decentralization&lt;/a&gt; by Soatok Dhole&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;All in all, I’m undecided as yet. I need to read more and write some notes, although everything I read feels like political discourse, two opposing sides. (Anil Dash &lt;a href=&quot;https://twitter.com/anildash/status/1471138153704693767&quot;&gt;mentions this&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;p&gt;If you’re in the web3 world and haven’t read up on the &lt;a href=&quot;https://www.w3.org/2000/Talks/0906-xmlweb-tbl/text.htm&quot;&gt;Semantic Web&lt;/a&gt;, the original &lt;a href=&quot;https://lassila.org/publications/2001/SciAm.pdf&quot;&gt;vision for the Semantic Web&lt;/a&gt;, or &lt;a href=&quot;https://twobithistory.org/2018/05/27/semantic-web.html&quot;&gt;whatever happened to the Semantic Web&lt;/a&gt;, I recommend taking a look. Then take a look at &lt;a href=&quot;https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)&quot;&gt;Solid&lt;/a&gt;. Not everything needs to be on a blockchain.&lt;/p&gt;
 
@@ -74,8 +379,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
+        <link>http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
         
         <category>Blogroll</category>
         
@@ -128,8 +433,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/21/lets-talk-about-product-community/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/21/lets-talk-about-product-community/</guid>
+        <link>http://localhost:4000/2021/09/21/lets-talk-about-product-community/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/21/lets-talk-about-product-community/</guid>
         
         <category>Blogroll</category>
         
@@ -138,7 +443,7 @@ into the sea&lt;/p&gt;
     
       <item>
         <title>Why I’m hyped about working at Claimer</title>
-        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://www.claimer.com/?r=54hqy1ju&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
+        <description>&lt;p&gt;After three and a half years working at Government Digital Service (GDS), last week I started a new job at &lt;a href=&quot;https://app.claimer.com/signup/intro?ref=54hqy1ju&quot;&gt;Claimer&lt;/a&gt; as their first product manager. We’re building a product that makes it effortless for startups to find and claim &lt;a href=&quot;https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief&quot;&gt;R&amp;amp;D tax relief&lt;/a&gt; and other government incentives.&lt;/p&gt;
 
 &lt;p&gt;I’ve only been in the job a week but it’s a really exciting place, and I wanted to write down what’s got me hyped so I can look back over these early, energy-filled bursts of enthusiasm in the future.&lt;/p&gt;
 
@@ -205,8 +510,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;If you’re looking for a change, take a look at &lt;a href=&quot;https://careers.claimer.com&quot;&gt;Claimer’s careers page&lt;/a&gt; or drop me a line: it’d be great to talk more!&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
+        <link>http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
         
         <category>Blogroll</category>
         
@@ -238,8 +543,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
+        <link>http://localhost:4000/2021/04/09/lets-get-naked/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/09/lets-get-naked/</guid>
         
         <category>Blogroll</category>
         
@@ -253,8 +558,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;lol, fuck that&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/24/2020-year-in-review/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/24/2020-year-in-review/</guid>
+        <link>http://localhost:4000/2020/12/24/2020-year-in-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/24/2020-year-in-review/</guid>
         
         <category>Blogroll</category>
         
@@ -452,10 +757,14 @@ into the sea&lt;/p&gt;
 &lt;p&gt;After reading this, I realised how much I’d learned about colonialism and structural racism from reading up on Rage lyrics as a teenager. Much more to learn, of course, but &lt;em&gt;Battle&lt;/em&gt; really was a primer.&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://pitchfork.com/reviews/albums/rage-against-the-machine-the-battle-of-los-angeles/&quot;&gt;The Battle of Los Angeles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</guid>
+        <link>http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -489,8 +798,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/16/going-dark/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
+        <link>http://localhost:4000/2020/11/16/going-dark/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/16/going-dark/</guid>
         
         <category>Blogroll</category>
         
@@ -530,8 +839,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
+        <link>http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
         
         <category>Blogroll</category>
         
@@ -567,8 +876,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;It’s better than TimeHop for toenails, anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
+        <link>http://localhost:4000/2020/11/04/silly-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/04/silly-ideas/</guid>
         
         <category>Blogroll</category>
         
@@ -608,8 +917,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Some things that inspired this post: Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt;; Motherboard’s piece on popular culture as an information conduit and &lt;a href=&quot;https://www.vice.com/en/article/y3gg3k/tiktok-influencer-isodope-is-stanning-for-nuclear-energy&quot;&gt;nuclear energy influencer Isodope&lt;/a&gt;; and The New Atlantis on &lt;a href=&quot;https://www.thenewatlantis.com/publications/hard-to-believe&quot;&gt;whether search engines make us gullible&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
+        <link>http://localhost:4000/2020/11/03/google-fast-food-knowledge/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/03/google-fast-food-knowledge/</guid>
         
         <category>Blogroll</category>
         
@@ -657,8 +966,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
+        <link>http://localhost:4000/2020/11/01/why-i-write-weeknotes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/why-i-write-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -684,8 +993,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
+        <link>http://localhost:4000/2020/11/01/nablopomo-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/nablopomo-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -745,8 +1054,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
+        <link>http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</guid>
         
         <category>Blogroll</category>
         
@@ -885,6 +1194,8 @@ into the sea&lt;/p&gt;
 
 &lt;p&gt;You don’t need any money to get started, really, you can spin up a blog in minutes using platforms like &lt;a href=&quot;https://wordpress.com&quot;&gt;Wordpress&lt;/a&gt; and &lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt;. It’s a quick way to test out the practice and see if it’s right for you.&lt;/p&gt;
 
+&lt;p&gt;Alternatively, take a no-tech approach and use &lt;a href=&quot;https://paperwebsite.com/&quot;&gt;Paper Website&lt;/a&gt;. Write in a notebook, take a photo of your writing and it’ll create a page for you. Magic!&lt;/p&gt;
+
 &lt;p&gt;If you’d like to create your own website, static site generators like &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://gohugo.io&quot;&gt;Hugo&lt;/a&gt; are low-tech ways to get started. You might have heard of &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; which runs on Jekyll. You simply feed it some Markdown files and it builds a website for you. GitHub Pages is free too, and it’s a good way to become more familiar with Git in general.&lt;/p&gt;
 
 &lt;p&gt;And you needn’t worry about having to promote your blog posts either. Services like &lt;a href=&quot;https://lttr.ai/Mg8L&quot;&gt;Missinglettr&lt;/a&gt;, &lt;a href=&quot;https://zapier.com&quot;&gt;Zapier&lt;/a&gt; and &lt;a href=&quot;https://quuu.co/promote&quot;&gt;Quuu Promote&lt;/a&gt; will syndicate your blog posts on social media automatically, helping your posts to get a greater reach.&lt;/p&gt;
@@ -915,8 +1226,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
+        <link>http://localhost:4000/2020/01/25/blogging-working-open/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/blogging-working-open/</guid>
         
         <category>Blogroll</category>
         
@@ -1093,6 +1404,12 @@ into the sea&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654&quot;&gt;In 1968, computers got personal&lt;/a&gt;.&lt;/p&gt;
 
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt; and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
@@ -1102,8 +1419,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
+        <link>http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -1354,8 +1671,8 @@ into the sea&lt;/p&gt;
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -1517,8 +1834,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
+        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -1618,10 +1935,14 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;This blog post covers much of Marty Cagan’s talk when he visited us in September. It’s a long read but it’s absolutely essential for organisations scaling up, past the startup mindset. It reminds us that qualities of leadership can be better than management, and that great teams are full of ordinary people.&lt;/p&gt;
 
 &lt;p&gt;Read &lt;a href=&quot;https://svpg.com/empowered-product-teams/&quot;&gt;Empowered Product Teams&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -1715,8 +2036,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
