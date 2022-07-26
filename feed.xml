@@ -5,9 +5,42 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jun 2022 11:49:21 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Jun 2022 11:49:21 +0100</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2022 10:38:08 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2022 10:38:08 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Bookmarks #10</title>
+        <description>&lt;p&gt;Now that &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1549711970336751621&quot;&gt;I’m heading back to the public sector&lt;/a&gt;, I imagine I’ll start writing &lt;a href=&quot;/tag/weeknotes&quot;&gt;weeknotes&lt;/a&gt; again, and these links will move back to beneath those posts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alex.miller.im/posts/python-3-feedfinder-rss-detection-from-url/&quot;&gt;Python 3 Feedfinder: Detecting RSS Feeds on Websites&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unherd.com/2022/05/dominic-cummings-i-dont-like-parties/&quot;&gt;Dominic Cummings: “I don’t like parties”&lt;/a&gt;, 20 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leave-the-road-and.run/komoot-is-pure-magic-for-trail-running/&quot;&gt;Komoot Is Pure Magic For Trail Running&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leave-the-road-and.run/lacing-top-of-foot-pain/&quot;&gt;Lacing &amp;amp; Top Of Foot Pain&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2022/06/08/this-way-up-5-years-into-my-work-for-the-nhs/&quot;&gt;This way up: 5 years into my work for the NHS&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/wra-weeknotes.html&quot;&gt;Why these Welsh weeknotes are so good Bravo, Welsh Revenue Authority team 👏&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2017/06/01/joining-nhs-digital/&quot;&gt;Joining NHS Digital&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffgothelf.com/blog/5-things-product-management-isnt/&quot;&gt;5 Things Product Management Isn’t&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slidebean.com/story/the-four-ghosts-of-it&quot;&gt;The Four Ghosts Of IT&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2022/05/27/apps&quot;&gt;The apps I use to read and write for this blog&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffgothelf.com/blog/are-product-managers-really-the-ceos-of-their-product-5-product-leaders-weigh-in/&quot;&gt;Are product managers really the CEO’s of their product? 5 product leaders weigh in.&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2021/for-the-love-of-the-web/&quot;&gt;For the Love of the Web&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://connectedbydata.org/events/2022-06-06-rightscon-health-public-good&quot;&gt;Putting the “good” in health data as a public good?&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rozenberg.substack.com/p/let-them-eat-cake&quot;&gt;Let them eat cake&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dreweaster/the-fallacy-of-recharging-your-batteries-4e490dbaec00&quot;&gt;Should your ever really need to “recharge your batteries”?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openculture.com/2016/11/umberto-eco-makes-a-list-of-the-14-common-features-of-fascism.html&quot;&gt;Umberto Eco Makes a List of the 14 Common Features of Fascism&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2022/07/14/co2&quot;&gt;Training my sense of CO2 ppm&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 Jul 2022 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/07/26/bookmarks-10/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/07/26/bookmarks-10/</guid>
+        
+        <category>Bookmarks</category>
+        
+        
+      </item>
     
       <item>
         <title>Bookmarks #9</title>
@@ -4257,7 +4290,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 &lt;ul&gt;
   &lt;li&gt;What is the product or service?&lt;/li&gt;
-  &lt;li&gt;What problem does it solve? Write that down in plain language.&lt;/li&gt;
+  &lt;li&gt;What problem does it solve, and for whom? Write that down in plain language.&lt;/li&gt;
   &lt;li&gt;What is the outcome we want users&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to reach? What is the outcome we want users to avoid?&lt;/li&gt;
   &lt;li&gt;What are the pain points preventing users reaching their outcome?&lt;/li&gt;
   &lt;li&gt;Which of those points is most painful and needs removing first? Which one next?&lt;/li&gt;
@@ -4269,9 +4302,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 &lt;ul&gt;
   &lt;li&gt;Establish your team’s shared principles and ways of working early. Refer back to these guidelines often, and iterate where needed.&lt;/li&gt;
-  &lt;li&gt;Set up a regular check-in with your delivery manager, twice a week if possible.&lt;/li&gt;
-  &lt;li&gt;Make sure pre-planning is 2 days before planning, giving ample time to refine cards and user stories.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Pre-planning should involve tech lead, design lead, and delivery manager (at least).&lt;/li&gt;
+  &lt;li&gt;Set up a regular check-in with your delivery manager (or whoever is looking after delivery), twice a week if possible.&lt;/li&gt;
+  &lt;li&gt;Planning should involve tech lead, design lead, and delivery manager (at least).&lt;/li&gt;
   &lt;li&gt;Don’t risk doing the classic retro mistake of trying to change everything after one sprint.&lt;/li&gt;
   &lt;li&gt;Figure out your team’s skillset, particularly what they’re not good at, and their development objectives. Try to base the work on that as much as possible.&lt;/li&gt;
   &lt;li&gt;Create psychological safety and build trust by being open about your mistakes. Explain how you hope to improve things.&lt;/li&gt;
@@ -4283,6 +4315,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 &lt;ul&gt;
   &lt;li&gt;We need to know how big the problem is, it’ll help us work out when we’re done.&lt;/li&gt;
+  &lt;li&gt;If you’ve got no idea how to build something, start in the middle with a time-boxed alpha. Then re-plan. Progress is better than perfection.&lt;/li&gt;
   &lt;li&gt;Reach, impact, confidence, effort, and urgency are universal prioritisation criteria.&lt;/li&gt;
   &lt;li&gt;Try not to rush cards through: take time to gather context and understand the problem holistically.&lt;/li&gt;
   &lt;li&gt;Start small, test risky assumptions, iterate and grow.&lt;/li&gt;
@@ -4306,9 +4339,6 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;This applies to the Scrum methodology which is widely practised at GDS. I’m looking forward to starting to use &lt;a href=&quot;https://basecamp.com/shapeup&quot;&gt;Shape Up&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
