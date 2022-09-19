@@ -5,9 +5,41 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2022 10:39:16 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2022 10:39:16 +0100</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 11:22:44 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 11:22:44 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Creative destruction</title>
+        <description>&lt;p&gt;Redesigning my website has been on my to-do list since mid-2020, but I haven’t got around to doing it yet. It’s not like I haven’t tried.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I started adapting the GOV.UK Design System, pulling the unbranded stylesheet into a Jekyll theme.&lt;/li&gt;
+  &lt;li&gt;Hand-coding that took too long, so I paid someone on Fiverr to do it for me,&lt;/li&gt;
+  &lt;li&gt;Hand-coding a theme was easier once the styles were ported over, but I was ludicrously busy at work.&lt;/li&gt;
+  &lt;li&gt;Over Christmas 2021, I had coronavirus and spent the days in bed learning about Tailwind CSS and grid systems.&lt;/li&gt;
+  &lt;li&gt;I pulled together a mood board of nice-looking websites using grid systems, inspiring things.&lt;/li&gt;
+  &lt;li&gt;This summer I started wireframing a new design in Figma.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This all happened over a 2-year period, but likely less than 1 week of continuous uninterrupted time.&lt;/p&gt;
+
+&lt;p&gt;Perhaps what would help is an act of creative destruction. Back in 2021 I &lt;a href=&quot;/2021/04/09/lets-get-naked/&quot;&gt;removed the styling from this site&lt;/a&gt; for CSS Naked Day. If I did that again, would I be forced to restyle this site?&lt;/p&gt;
+
+&lt;p&gt;Perhaps having a big goal and trying to take chunks out of it is the problem. This quote from Roger’s post on &lt;a href=&quot;https://irregularideas.substack.com/p/the-coastline-paradox?utm_source=pocket_mylist&quot;&gt;the coastline paradox&lt;/a&gt; is inspiring.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Muhammad Yunus, the Bangladeshi social entrepreneur and civil society leader, suggests that instead of thinking big we just start. Start with whatever is in front of you, something you can do now.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2022 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/09/19/creative-destruction/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/09/19/creative-destruction/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>The Queue</title>
