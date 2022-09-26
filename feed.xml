@@ -5,9 +5,79 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2022 10:07:58 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2022 10:07:58 +0100</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 20:12:39 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 20:12:39 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Searching for answers in data</title>
+        <description>&lt;p&gt;Today I saw something at &lt;a href=&quot;https://dataconnect.api.gov.uk/index&quot;&gt;DataConnect&lt;/a&gt; that got me very excited. Mainly because it’s work I’d like to re-use in a future work project, but also because it’s work that combined some areas I’ve got skills in.&lt;/p&gt;
+
+&lt;p&gt;The session was called &lt;a href=&quot;https://dataconnect.api.gov.uk/dc22/#3:00pm-to-3:30pm-Searching-for-data,-not-just-for-datasets&quot;&gt;‘Searching for data, not just for datasets’&lt;/a&gt; and is looking at making it easier to search for data. For example, if you want to answer the question ‘How many cars did the UK export last year?’, wouldn’t it be nice to search for &lt;em&gt;that&lt;/em&gt;? You know, instead of having to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;find out which organisation publishes data about cars and where&lt;/li&gt;
+  &lt;li&gt;wonder whether their datasets about cars include data about exports too&lt;/li&gt;
+  &lt;li&gt;find the statistical release for the year you’re interested in&lt;/li&gt;
+  &lt;li&gt;get the data, work out that someone else entirely publishes data about exports&lt;/li&gt;
+  &lt;li&gt;bang the keyboard and start looking again&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/robsteranium&quot;&gt;Robin&lt;/a&gt; and &lt;a href=&quot;https://github.com/rossbowen&quot;&gt;Ross&lt;/a&gt; showed how they’d been tinkering with Elasticsearch to make it return results from datasets in response to natural language queries (see the &lt;a href=&quot;https://search-prototype.gss-data.org.uk&quot;&gt;prototype&lt;/a&gt;). For a few queries I tried, the results it returned were iffy, but they’re collecting feedback on the results. (We systemised collecting feedback on the GOV.UK Search team and built a &lt;a href=&quot;https://github.com/alphagov/govuk-search-relevance-tool&quot;&gt;search relevance tool&lt;/a&gt; to help, so I shared that with them.)&lt;/p&gt;
+
+&lt;p&gt;They’re also working on making those results more findable by surfacing ontologies and classifications (in RDF) that describe the data to Google (in JSON-LD) – part of the &lt;a href=&quot;https://www.w3.org/TR/dwbp/&quot;&gt;Data on the Web Best Practices&lt;/a&gt; and &lt;a href=&quot;https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data&quot;&gt;how Google understands structured data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;All of this got me excited because people use data (and other information) to answer questions. And Robin and Ross are working on making those answers more findable. Making answers to common research questions more findable is an area I expect to have to look at soon-ish.&lt;/p&gt;
+
+&lt;p&gt;Making those answers more findable inside a product will help our existing users, but making the answers findable on the web would be a &lt;a href=&quot;https://www.reforge.com/blog/growth-loops&quot;&gt;growth loop&lt;/a&gt;. It would help us find new prospective users and help support our users’ community of practice.&lt;/p&gt;
+
+&lt;p&gt;I know that sounds like VC-backed, rocketship startup bullshit, so I should point out that it wouldn’t only benefit us. It would benefit the public good because these are common research questions, and people are already looking for our data to answer those. It shouldn’t be an arcane process to find this stuff.&lt;/p&gt;
+
+&lt;p&gt;To nab from Maggie Appleton’s &lt;a href=&quot;https://maggieappleton.com/block-data&quot;&gt;talk on data blocks&lt;/a&gt;: better user experiences leads to better data science which leads to better decision-making tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S. This note is squarely aimed at my future self, so that I come back to it if/when that project starts. But if this interests you too, drop me a line. Let’s chat!&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;some-history-for-context&quot;&gt;Some history, for context&lt;/h2&gt;
+
+&lt;p&gt;While hanging out some washing this evening, it occurred to me why I was so interested in this. TL;DR: I’ve got intellectual skin in the game. These problems have been part of my work for the last 8 years.&lt;/p&gt;
+
+&lt;p&gt;This stuff first interested me around 2014 or 2015 when I was working at &lt;a href=&quot;https://porism.com&quot;&gt;Porism&lt;/a&gt;. I was tasked with increasing engagement with a reporting tool they’d built for councils, which helps council officers get statistical data about the people living in the council’s boundaries. The data helps support policy decisions and service design, so making it easier for people to use that data was a thing on my plate.&lt;/p&gt;
+
+&lt;p&gt;One issue was helping people get to grips with the tool. It’s pretty powerful, you can answer a lot of questions with it, but people found it hard to get started or to know how to ask their question. Engagement suffered as a result. There were lots of drop-downs and query builders and the like. The interface didn’t match users’ initial mental models.&lt;/p&gt;
+
+&lt;p&gt;But what makes the tool powerful are &lt;a href=&quot;https://standards.esd.org.uk/&quot;&gt;the data standards behind it all&lt;/a&gt;, how it links together (for example)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the concept of homelessness&lt;/li&gt;
+  &lt;li&gt;services related to homelessness&lt;/li&gt;
+  &lt;li&gt;legal duties related to homelessness&lt;/li&gt;
+  &lt;li&gt;data about homelessness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and links all that to other useful data like&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the age of homeless people in your area&lt;/li&gt;
+  &lt;li&gt;the number of people in different age ranges in your area
+so that you can do some analysis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The problem was all about making answers to questions findable, but by the time I got close to having the skills to answer it (through product management and user-centred design), I’d moved on to work at GDS.&lt;/p&gt;
+
+&lt;p&gt;While at GDS, I looked after GOV.UK’s site search for a year. I wrote about how we were going to &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2019/07/05/making-site-search-work-smarter-for-users/&quot;&gt;make site search work smarter for users&lt;/a&gt; in order to make results more relevant to a user’s query. It meant I got pretty deep into indexing strategies, taxonomies, and the similarity of words. But we looked at interaction patterns and common components in search experiences too. It’s all about making things more findable.&lt;/p&gt;
+
+&lt;p&gt;Our work on personalisation was about findability too, but also about better, more targeted service provision.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/09/26/searching-for-answers-in-data/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/09/26/searching-for-answers-in-data/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>The Mobilisation</title>
