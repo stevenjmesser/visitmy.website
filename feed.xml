@@ -5,8 +5,8 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2022 20:12:39 +0100</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2022 20:12:39 +0100</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 08:22:11 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 08:22:11 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -75,6 +75,8 @@ so that you can do some analysis.&lt;/li&gt;
         <guid isPermaLink="true">https://visitmy.website/2022/09/26/searching-for-answers-in-data/</guid>
         
         <category>Blogroll</category>
+        
+        <category>Data</category>
         
         
       </item>
@@ -4739,6 +4741,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <guid isPermaLink="true">https://visitmy.website/2020/09/17/personalisation-and-digital-government/</guid>
         
         <category>Digital government</category>
+        
+        <category>Data</category>
         
         
       </item>
