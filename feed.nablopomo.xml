@@ -5,8 +5,8 @@
     <description>Things I've written during National Blog Posting Month.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.nablopomo.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Oct 2022 09:18:45 +0100</pubDate>
-    <lastBuildDate>Sat, 01 Oct 2022 09:18:45 +0100</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 12:17:46 +0100</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 12:17:46 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -445,6 +445,8 @@
         <category>NaBloPoMo</category>
         
         <category>Working in the open</category>
+        
+        <category>Popular</category>
         
         
       </item>

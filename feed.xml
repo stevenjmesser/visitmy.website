@@ -5,8 +5,8 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Oct 2022 09:18:45 +0100</pubDate>
-    <lastBuildDate>Sat, 01 Oct 2022 09:18:45 +0100</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 12:17:46 +0100</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 12:17:46 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -33,7 +33,7 @@
 
 &lt;p&gt;If you can spare it, donate £30 to your local homelessness charity (or one of the national ones). They’re going to need it.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 01 Oct 2022 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Oct 2022 09:17:00 +0100</pubDate>
         <link>https://visitmy.website/2022/10/01/slow-travel/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/10/01/slow-travel/</guid>
         
@@ -4326,6 +4326,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         
         <category>Working in the open</category>
         
+        <category>Popular</category>
+        
         
       </item>
     
@@ -4905,6 +4907,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
         
         <category>Product management</category>
+        
+        <category>Popular</category>
         
         
       </item>
@@ -7648,8 +7652,6 @@ Weeknotes S08E05
         <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
-        
-        <category>Popular</category>
         
         
       </item>
