@@ -5,9 +5,60 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2022 12:17:46 +0100</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2022 12:17:46 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 18:25:37 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 18:25:37 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Patterns for collaborative blogging</title>
+        <description>&lt;p&gt;For the past couple of days I’ve been thinking about how you might make blogging more collaborative. Where blog posts by different people intertwine. Where people workshop or edit posts together. Tom Critchlow &lt;a href=&quot;https://tomcritchlow.com/2022/01/06/jan-22-map-inquiry/&quot;&gt;lays it out&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Blogging still feels very single player. Despite the fact that almost all of my longer writing goes through Google Docs and a heavy process of notes, comments and discussion - when I publish a blog post it’s “flat” in a way that a Google Doc is “alive”. How do we bring this co-creation, collaboration and discussion to the web?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was all born out of the start of National Blog Posting Month encroaching in November. I tried it in 2020 and it was hard, so I wondered about strategies for making it easier. Collaborative blogging is one way of lightening the load, by working on things together with other people.&lt;/p&gt;
+
+&lt;p&gt;So how does collaborative blogging happen? What are patterns for blogging together?&lt;/p&gt;
+
+&lt;h2 id=&quot;patterns&quot;&gt;Patterns&lt;/h2&gt;
+
+&lt;p&gt;Here’s a few patterns I thought of this morning, but I’m sure there’s more. Let me know if you think of any, I’ll keep this updated as a living list.&lt;/p&gt;
+
+&lt;h3 id=&quot;content-coaching&quot;&gt;Content coaching&lt;/h3&gt;
+
+&lt;p&gt;This comes from Amy’s &lt;a href=&quot;https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/&quot;&gt;10 More Blog Posts&lt;/a&gt; experiment from 2019. A writer looks for a coach to help them say what they want to say. The collaboration could be editing, proofreading, sharing advice and thoughts, but there’s a strong link between an author and another person, the coach.&lt;/p&gt;
+
+&lt;h3 id=&quot;pair-writing&quot;&gt;Pair writing&lt;/h3&gt;
+
+&lt;p&gt;Two people work on one blog post together. This comes from &lt;a href=&quot;https://gds.blog.gov.uk/2016/09/21/it-takes-2-how-we-use-pair-writing/&quot;&gt;Sue Davis on the GDS blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;workshopping&quot;&gt;Workshopping&lt;/h3&gt;
+
+&lt;p&gt;A key part of my creative writing degree (yes, I know, I don’t often mention it) was workshopping: explain what you’re trying to accomplish with a piece, read it out to a group, people make notes, and the group relays its feedback to the writer. This is different to content coaching and pair writing because there’s a one-to-many relationship between author and collaborators.&lt;/p&gt;
+
+&lt;h3 id=&quot;missives&quot;&gt;Missives&lt;/h3&gt;
+
+&lt;p&gt;Writing long letters to each other about a topic. For example, you and a partner choose to write about self-driving cars. One person writes and publishes the first post, and their partner writes a response the following day. It could go on for a month or you could choose to cap it, after a week or so. They key is that there’s a back and forth, a call and response, a conversation happening over long-form. You could introduce fun constraints like spending no more than 15 minutes writing, supporting points with no more than 2 quotes, etc.&lt;/p&gt;
+
+&lt;p&gt;Shout-out to &lt;a href=&quot;https://twitter.com/TrillyC&quot;&gt;Trilly&lt;/a&gt; on this one. He got the idea from a podcast, I think, I’ll check.&lt;/p&gt;
+
+&lt;h3 id=&quot;threading&quot;&gt;Threading&lt;/h3&gt;
+
+&lt;p&gt;This follows the &lt;a href=&quot;https://indieweb.org/Webmention&quot;&gt;Webmentions&lt;/a&gt; pattern of cross-site conversations. You read a blog post by someone, a part of it inspires you to write your own blog post, and you ping the original author to let them know about your post. Unlike missives, there’s no expectation that the original author write another response. Someone may decide to write a post based on what you’ve written and a thread of networked posts comes into existence. The thread could have two or infinity posts in it, and it might have one main trunk or multiple branches.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-else&quot;&gt;What else?&lt;/h2&gt;
+
+&lt;p&gt;There are definitely way more examples out there, please share them! I’ll update this list with new patterns as they emerge.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2022 08:24:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>Slow travel</title>
