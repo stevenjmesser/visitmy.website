@@ -5,9 +5,74 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Oct 2022 13:30:44 +0100</pubDate>
-    <lastBuildDate>Fri, 14 Oct 2022 13:30:44 +0100</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 18:14:51 +0100</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 18:14:51 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Gap</title>
+        <description>&lt;p&gt;Didn’t write any weeknotes last week. Had friends staying the weekend and bad family news this Monday, didn’t feel like writing. Will crank out some notes for this week though.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;Started writing up possible approaches for collecting user feedback and engaging with users during the private beta. Our service owner asked ‘How will users get in touch with us?’ which prompted me to start considering what we might do. Shared it with our user researchers for comments and additions. I’d have preferred they do it, of course, but they’re deep in testing and other alpha activities, so I put together a starter-for-ten. (I need to remind them they can tear it apart and start again if they like.)&lt;/p&gt;
+
+&lt;p&gt;We spent a day together with the Platform team, to hear more about the features on their roadmap and how we (the Service team) could help them design those features. They’ve done a lot of the technical thinking but they’re looking to us to consider the user journeys, ‘processes’, and how those integrate with work other teams do. They’re very delivery focussed (as is the rest of the organisation) and I didn’t see any alternative solutions proposed. Any service design and strategy work we do might render their solutions redundant, or in need of pivoting, which is hard to do when they’re being used by real people.&lt;/p&gt;
+
+&lt;p&gt;Anyway, all of this got me thinking about the overall strategy for the service, how we prioritise objectives (and, as a result, initiatives like features), and who develops this stuff. Which team will own these things? Our leads are thinking about it too, and there’s a bit of a gap of ownership. Conversations are needed with the leadership.&lt;/p&gt;
+
+&lt;p&gt;After getting access to Search Console and Google Analytics for the NHS Digital website, I’ve finally been able to dive in to the data and look at our users’ wider journey. Our service has a name but, well, it’s not the conventional service name using verbs. All nouns. I had a theory that it’d be hard for people to find our service unless it was signposted from datasets, and managed to confirm my hypothesis after an analysis. Since June 2021 there have been at least 5.6 million searches for datasets that NHS Digital owns, which resulted in around 340,000 visits to the website. Comparatively, there have been 100,000 searches for our service. So there’s an opportunity to get our service in front of people who need it &lt;em&gt;when&lt;/em&gt; they need it. Right place, right time. I shared the analysis in our show &amp;amp; tell, which went down well.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Worked with one of our UCD pairs to prioritise some problem statements. They’ve written up How Might We statements that they’ll frame an ideation workshop around.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;Sounds like I didn’t do a lot this week, but I did. I’m getting pulled in many directions and that needs to stop. I’m going to trial compressed hours – working 37.5 hours inside of 4 days – which should hopefully help me regain control of the calendar, and give my brain 3 days to breathe. (A weekend ain’t enough.)&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;This &lt;a href=&quot;/2022/10/04/Notes-notes-notes/&quot;&gt;new pattern for personal blogging&lt;/a&gt; I pulled together is working well, it’s stopping me from tweeting so much. The posts are somewhat hidden, shared with RSS followers mostly. It’s been a nice way to jot down thoughts and share them. Prior to that, it felt like anything I wrote had to have a point, so I didn’t. This new flow has liberated me from that, I write more freely.&lt;/p&gt;
+
+&lt;p&gt;Dicked about with &lt;a href=&quot;https://indieweb.org/Webmention&quot;&gt;Webmentions&lt;/a&gt; again and got it all set up properly. I’m not showing likes, posts, comments, etc. on my posts. Decided to store it all in the background. It’ll be there to make use of if I feel like it. But at least anyone who’s post I’ve linked to will get a pingback.&lt;/p&gt;
+
+&lt;p&gt;I’m in the taper weeks before my half-marathon at the end of the month. Taper weeks are boring.&lt;/p&gt;
+
+&lt;p&gt;I’m going to be helping out at &lt;a href=&quot;https://ukhealthcamp.com&quot;&gt;UKHealthCamp&lt;/a&gt; tomorrow, come and say hi.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webcurios.co.uk/webcurios-30-09-22/&quot;&gt;Webcurios 30/09/22&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.polygon.com/23365828/trombone-champ-memes-goty-genius-toot-toot-tooooooooooooot&quot;&gt;There is no song that cannot be improved by Trombone Champ&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.benjystanton.co.uk/blog/weeknotes-series-06-episode-13/&quot;&gt;Weeknotes – series 06 episode 13&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2022/10/01/week-28-52/&quot;&gt;Week 28/52&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in&quot;&gt;Peter Thiel’s Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pluralistic.net/2022/10/01/the-palantir-will-see-you-now/&quot;&gt;01 Oct 2022 How Palantir will steal the NHS – Pluralistic : Daily links from Cory Doctorow&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/&quot;&gt;AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32&quot;&gt;The future is what you think it is&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://davidallengreen.com/2022/10/do-we-now-have-a-hung-parliament/&quot;&gt;Do we now have a hung parliament?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matthewsheret.wordpress.com/2020/11/12/typing-in-the-garden/&quot;&gt;Typing in the garden&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2022/10/crowsflight.html&quot;&gt;Crowsflight&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ksawyerpaul.blog/we-could-all-use-a-this-is-fine-focus-mode&quot;&gt;We could all use a ‘This is Fine’ Focus mode&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matthewsheret.wordpress.com/2019/12/31/2019-yearnotes/&quot;&gt;2019 Yearnotes&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2022/Oct/4/jack-clark/&quot;&gt;A quote from Jack Clark&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ianbetteridge.com/2022/10/07/tfi-friday-notes-no-one-loves-the-metaverse-and-podcasts-i-wish-i-could-find/&quot;&gt;TFI Friday notes: No one loves the Metaverse and podcasts I wish I could find&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.beliebig.eu/weeknotedigitalservice/2022/09/23/KW38.html&quot;&gt;Vacation is over-time to play catch-up - 19-23rd September&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2022/10/10/servers&quot;&gt;I wish my web server was in the corner of my room&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://maya.land/responses/2022/10/13/learned-helplessness.html&quot;&gt;learned helplessness and necessary help&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.peyote.org/t&quot;&gt;A Brief History of Peyote&lt;/a&gt;, 18 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2022 17:20:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/10/14/the-gap/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/14/the-gap/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Cyberghosts and cyberdemons</title>
