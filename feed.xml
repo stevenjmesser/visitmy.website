@@ -5,9 +5,34 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Oct 2022 15:19:05 +0100</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2022 15:19:05 +0100</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 17:28:49 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 17:28:49 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Vitamancy</title>
+        <description>&lt;p&gt;Off the back of that post about &lt;a href=&quot;/2022/10/12/cyberghosts-and-cyberdemons/&quot;&gt;cyberghosts and cyberdemons&lt;/a&gt;, I’ve been thinking about how to bring apparitions into my house when someone visits my website. My basic plan so far:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When I’m at home, have a simple chat interface show for my website visitors&lt;/li&gt;
+  &lt;li&gt;Let the visitor send chat messages&lt;/li&gt;
+  &lt;li&gt;Have the messages scroll across an LED screen on a Pi Zero&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It seems easy but maybe there’s a simpler setup. Scrolling text on a Pi Zero is easy, I’ve done that before. How the messages get from the visitor to the LED screen is the puzzle.&lt;/p&gt;
+
+&lt;p&gt;One to work on. Get in touch if you have any good ideas!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Carrying on the idea of cyberghosts and cyberdemons, I toyed with calling it ‘ouija’ or ‘necromancy’, but the people sending messages are alive. So ‘vitamancy’.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2022 17:20:56 +0100</pubDate>
+        <link>https://visitmy.website/2022/10/22/vitamancy/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/22/vitamancy/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Resignation</title>
