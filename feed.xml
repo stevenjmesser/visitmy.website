@@ -3,10 +3,10 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 11:44:07 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 11:44:07 +0100</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Oct 2022 13:30:05 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 13:30:05 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -62,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 27 Oct 2022 11:39:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/27/the-write-off/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/27/the-write-off/</guid>
+        <link>http://localhost:4000/2022/10/27/the-write-off/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/27/the-write-off/</guid>
         
         <category>Weeknotes</category>
         
@@ -83,8 +83,8 @@
 &lt;p&gt;The document that gives me a jolt is the ship’s surgeon’s description of my fourth-great grandfather in the ship’s records. He would have looked like my dad.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Oct 2022 15:15:06 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/25/on-this-day-in-1846/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/25/on-this-day-in-1846/</guid>
+        <link>http://localhost:4000/2022/10/25/on-this-day-in-1846/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/25/on-this-day-in-1846/</guid>
         
         <category>Blogroll</category>
         
@@ -108,8 +108,8 @@
 &lt;p&gt;&lt;em&gt;Carrying on the idea of cyberghosts and cyberdemons, I toyed with calling it ‘ouija’ or ‘necromancy’, but the people sending messages are alive. So ‘vitamancy’.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Oct 2022 17:20:56 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/22/vitamancy/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/22/vitamancy/</guid>
+        <link>http://localhost:4000/2022/10/22/vitamancy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/22/vitamancy/</guid>
         
         <category>Notes</category>
         
@@ -195,8 +195,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 22 Oct 2022 13:04:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/22/the-resignation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/22/the-resignation/</guid>
+        <link>http://localhost:4000/2022/10/22/the-resignation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/22/the-resignation/</guid>
         
         <category>Weeknotes</category>
         
@@ -228,8 +228,8 @@
 &lt;p&gt;&lt;em&gt;Note: I’m writing this in the early hours, after waking up from a stressful dream. It’s possible that this makes no sense, but I liked jotting down this note regardless.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Oct 2022 05:23:10 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/22/work-is-gambling-is-zen/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/22/work-is-gambling-is-zen/</guid>
+        <link>http://localhost:4000/2022/10/22/work-is-gambling-is-zen/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/22/work-is-gambling-is-zen/</guid>
         
         <category>Notes</category>
         
@@ -257,8 +257,8 @@
 &lt;p&gt;I didn’t always know how to describe this. When you can’t see a way through, it’s hard to get past hard times. Adding to my &lt;a href=&quot;https://medium.com/dark-matter-and-trojan-horses/dark-matter-and-trojan-horses-a-strategic-design-vocabulary-strelka-press-18551fff3133&quot;&gt;strategic vocabulary&lt;/a&gt; has really helped. Now I can see the dark matter of the organisation changing, and I can spot how a trojan horse might help carry that change through.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Oct 2022 15:07:46 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/17/strategic-vocabulary/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/17/strategic-vocabulary/</guid>
+        <link>http://localhost:4000/2022/10/17/strategic-vocabulary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/17/strategic-vocabulary/</guid>
         
         <category>Product management</category>
         
@@ -322,8 +322,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Oct 2022 17:20:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/14/the-gap/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/14/the-gap/</guid>
+        <link>http://localhost:4000/2022/10/14/the-gap/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/14/the-gap/</guid>
         
         <category>Weeknotes</category>
         
@@ -360,8 +360,8 @@
 &lt;p&gt;The multiverse can wait. What about the interconnected playground we could build right here, in this universe?&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Oct 2022 08:30:57 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/12/cyberghosts-and-cyberdemons/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/12/cyberghosts-and-cyberdemons/</guid>
+        <link>http://localhost:4000/2022/10/12/cyberghosts-and-cyberdemons/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/12/cyberghosts-and-cyberdemons/</guid>
         
         <category>Notes</category>
         
@@ -383,8 +383,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 11 Oct 2022 20:20:14 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/11/perspective-is-not-permanent/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/11/perspective-is-not-permanent/</guid>
+        <link>http://localhost:4000/2022/10/11/perspective-is-not-permanent/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/11/perspective-is-not-permanent/</guid>
         
         <category>Notes</category>
         
@@ -406,8 +406,8 @@
 &lt;p&gt;It’s nice how things change.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Oct 2022 06:42:06 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/06/first-light/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/06/first-light/</guid>
+        <link>http://localhost:4000/2022/10/06/first-light/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/06/first-light/</guid>
         
         <category>Notes</category>
         
@@ -435,8 +435,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 21:54:22 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/04/miserable-reality/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/04/miserable-reality/</guid>
+        <link>http://localhost:4000/2022/10/04/miserable-reality/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/04/miserable-reality/</guid>
         
         <category>Notes</category>
         
@@ -453,8 +453,8 @@
 &lt;p&gt;I think that’s something Ian Hislop got wrong in his series, &lt;a href=&quot;https://www.bbc.co.uk/sounds/brand/m0019z01?partner=uk.co.bbc&amp;amp;origin=share-mobile&quot;&gt;In Suburbia&lt;/a&gt;, when he said that critics don’t get excited about _sub_urban music (his emphasis). The Streets is the epitome of suburban music of the late 90s and early 2000s. The songs and lyrics capture what it means to live in the city, having left the suburbs. It’s a milestone in UK music.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 18:17:07 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/04/sound-of-the-suburbs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/04/sound-of-the-suburbs/</guid>
+        <link>http://localhost:4000/2022/10/04/sound-of-the-suburbs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/04/sound-of-the-suburbs/</guid>
         
         <category>Notes</category>
         
@@ -472,8 +472,8 @@
 &lt;p&gt;Thanks to Russell for the &lt;a href=&quot;https://russelldavies.typepad.com/planning/2022/09/notes-notes.html&quot;&gt;inspiration&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 17:39:15 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/04/Notes-notes-notes/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/04/Notes-notes-notes/</guid>
+        <link>http://localhost:4000/2022/10/04/Notes-notes-notes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/04/Notes-notes-notes/</guid>
         
         <category>Notes</category>
         
@@ -523,8 +523,8 @@
 &lt;p&gt;There are definitely way more examples out there, please share them! I’ll update this list with new patterns as they emerge.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 08:24:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</guid>
+        <link>http://localhost:4000/2022/10/04/patterns-for-collaborative-blogging/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/04/patterns-for-collaborative-blogging/</guid>
         
         <category>Blogroll</category>
         
@@ -556,8 +556,8 @@
 &lt;p&gt;If you can spare it, donate £30 to your local homelessness charity (or one of the national ones). They’re going to need it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2022 09:17:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/01/slow-travel/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/01/slow-travel/</guid>
+        <link>http://localhost:4000/2022/10/01/slow-travel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/01/slow-travel/</guid>
         
         <category>Blogroll</category>
         
@@ -642,8 +642,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 30 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/30/the-drain/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/30/the-drain/</guid>
+        <link>http://localhost:4000/2022/09/30/the-drain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/30/the-drain/</guid>
         
         <category>Weeknotes</category>
         
@@ -712,8 +712,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;p&gt;Our work on personalisation was about findability too, but also about better, more targeted service provision.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/26/searching-for-answers-in-data/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/26/searching-for-answers-in-data/</guid>
+        <link>http://localhost:4000/2022/09/26/searching-for-answers-in-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/26/searching-for-answers-in-data/</guid>
         
         <category>Blogroll</category>
         
@@ -796,8 +796,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 23 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/23/the-mobilisation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/23/the-mobilisation/</guid>
+        <link>http://localhost:4000/2022/09/23/the-mobilisation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/23/the-mobilisation/</guid>
         
         <category>Weeknotes</category>
         
@@ -828,8 +828,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 19 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/19/creative-destruction/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/19/creative-destruction/</guid>
+        <link>http://localhost:4000/2022/09/19/creative-destruction/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/19/creative-destruction/</guid>
         
         <category>Blogroll</category>
         
@@ -911,8 +911,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 17 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/17/the-queue/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/17/the-queue/</guid>
+        <link>http://localhost:4000/2022/09/17/the-queue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/17/the-queue/</guid>
         
         <category>Weeknotes</category>
         
@@ -969,8 +969,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/11/the-queen-is-dead/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/11/the-queen-is-dead/</guid>
+        <link>http://localhost:4000/2022/09/11/the-queen-is-dead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/11/the-queen-is-dead/</guid>
         
         <category>Weeknotes</category>
         
@@ -1053,8 +1053,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 02 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/02/the-validation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/02/the-validation/</guid>
+        <link>http://localhost:4000/2022/09/02/the-validation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/02/the-validation/</guid>
         
         <category>Weeknotes</category>
         
@@ -1070,8 +1070,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;p&gt;Hope you enjoy it.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</guid>
+        <link>http://localhost:4000/2022/09/02/if-youre-reading-this-via-rss/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/02/if-youre-reading-this-via-rss/</guid>
         
         <category>Blogroll</category>
         
@@ -1139,8 +1139,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 31 Aug 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/08/31/the-forest/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/08/31/the-forest/</guid>
+        <link>http://localhost:4000/2022/08/31/the-forest/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/31/the-forest/</guid>
         
         <category>Weeknotes</category>
         
@@ -1190,8 +1190,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;p&gt;I didn’t read any articles or blog posts this week.&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Aug 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/08/21/the-assimilation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/08/21/the-assimilation/</guid>
+        <link>http://localhost:4000/2022/08/21/the-assimilation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/21/the-assimilation/</guid>
         
         <category>Weeknotes</category>
         
@@ -1274,8 +1274,8 @@ so that you can do some analysis.&lt;/li&gt;
 
 </description>
         <pubDate>Sun, 14 Aug 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/08/14/the-return/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/08/14/the-return/</guid>
+        <link>http://localhost:4000/2022/08/14/the-return/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/14/the-return/</guid>
         
         <category>Weeknotes</category>
         
@@ -1332,8 +1332,8 @@ What happened?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Aug 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</guid>
+        <link>http://localhost:4000/2022/08/09/why-i-stopped-writing-weeknotes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/09/why-i-stopped-writing-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -1395,8 +1395,8 @@ What happened?&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 07 Aug 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/08/07/london-spring-10k-race-report/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/08/07/london-spring-10k-race-report/</guid>
+        <link>http://localhost:4000/2022/08/07/london-spring-10k-race-report/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/07/london-spring-10k-race-report/</guid>
         
         <category>Run-notes</category>
         
@@ -1428,8 +1428,8 @@ What happened?&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 26 Jul 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/07/26/bookmarks-10/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/07/26/bookmarks-10/</guid>
+        <link>http://localhost:4000/2022/07/26/bookmarks-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/07/26/bookmarks-10/</guid>
         
         <category>Bookmarks</category>
         
@@ -1459,8 +1459,8 @@ What happened?&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 24 May 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/05/24/bookmarks-9/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/05/24/bookmarks-9/</guid>
+        <link>http://localhost:4000/2022/05/24/bookmarks-9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/05/24/bookmarks-9/</guid>
         
         <category>Bookmarks</category>
         
@@ -1512,8 +1512,8 @@ What happened?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 19 May 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/05/19/nonce-age-collapse/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/05/19/nonce-age-collapse/</guid>
+        <link>http://localhost:4000/2022/05/19/nonce-age-collapse/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/05/19/nonce-age-collapse/</guid>
         
         <category>Blogroll</category>
         
@@ -1582,8 +1582,8 @@ What happened?&lt;/p&gt;
 &lt;p&gt;More marathon training.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/04/18/run-notes-november-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/04/18/run-notes-november-2021/</guid>
+        <link>http://localhost:4000/2022/04/18/run-notes-november-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/18/run-notes-november-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -1638,8 +1638,8 @@ What happened?&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/04/18/run-notes-december-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/04/18/run-notes-december-2021/</guid>
+        <link>http://localhost:4000/2022/04/18/run-notes-december-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/18/run-notes-december-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -1731,8 +1731,8 @@ What happened?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 09 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/04/09/alpha-is-discovery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/04/09/alpha-is-discovery/</guid>
+        <link>http://localhost:4000/2022/04/09/alpha-is-discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/09/alpha-is-discovery/</guid>
         
         <category>Product management</category>
         
@@ -1805,8 +1805,8 @@ What happened?&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2022/03/22/bookmarks-8/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/03/22/bookmarks-8/</guid>
+        <link>http://localhost:4000/2022/03/22/bookmarks-8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/03/22/bookmarks-8/</guid>
         
         <category>Bookmarks</category>
         
@@ -1905,8 +1905,8 @@ What happened?&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</guid>
+        <link>http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</guid>
         
         <category>Product management</category>
         
@@ -2007,8 +2007,8 @@ module.exports = {
 &lt;p&gt;Now run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Open your browser, visit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt; and your Jekyll site should be running Tailwind!&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
+        <link>http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
         
         <category>Blogroll</category>
         
@@ -2206,8 +2206,8 @@ module.exports = {
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</guid>
+        <link>http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</guid>
         
         <category>Blogroll</category>
         
@@ -2235,8 +2235,8 @@ into the sea&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</guid>
+        <link>http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</guid>
         
         <category>Blogroll</category>
         
@@ -2292,8 +2292,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;More marathon training.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/04/run-notes-october-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/04/run-notes-october-2021/</guid>
+        <link>http://localhost:4000/2021/12/04/run-notes-october-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/04/run-notes-october-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -2340,8 +2340,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
+        <link>http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
         
         <category>Blogroll</category>
         
@@ -2419,8 +2419,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 16 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/10/16/the-macs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/10/16/the-macs/</guid>
+        <link>http://localhost:4000/2021/10/16/the-macs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/10/16/the-macs/</guid>
         
         <category>Weeknotes</category>
         
@@ -2480,8 +2480,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 22 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/22/bookmarks-7/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/22/bookmarks-7/</guid>
+        <link>http://localhost:4000/2021/09/22/bookmarks-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/22/bookmarks-7/</guid>
         
         <category>Bookmarks</category>
         
@@ -2534,8 +2534,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/21/lets-talk-about-product-community/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/21/lets-talk-about-product-community/</guid>
+        <link>http://localhost:4000/2021/09/21/lets-talk-about-product-community/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/21/lets-talk-about-product-community/</guid>
         
         <category>Blogroll</category>
         
@@ -2622,8 +2622,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/09/09/run-notes-september-2021/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/09/09/run-notes-september-2021/</guid>
+        <link>http://localhost:4000/2021/09/09/run-notes-september-2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/09/09/run-notes-september-2021/</guid>
         
         <category>Run-notes</category>
         
@@ -2671,8 +2671,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        <link>http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</guid>
         
         <category>Agile delivery</category>
         
@@ -2754,8 +2754,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;If you’re looking for a change, take a look at &lt;a href=&quot;https://careers.claimer.com&quot;&gt;Claimer’s careers page&lt;/a&gt; or drop me a line: it’d be great to talk more!&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
+        <link>http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
         
         <category>Blogroll</category>
         
@@ -2815,8 +2815,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/07/03/the-last-weeknote/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/07/03/the-last-weeknote/</guid>
+        <link>http://localhost:4000/2021/07/03/the-last-weeknote/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/03/the-last-weeknote/</guid>
         
         <category>Weeknotes</category>
         
@@ -2982,8 +2982,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        <link>http://localhost:4000/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/24/visual-design-fundamentals/</guid>
         
         <category>Product management</category>
         
@@ -3049,8 +3049,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/16/the-alpha-continued/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/16/the-alpha-continued/</guid>
+        <link>http://localhost:4000/2021/06/16/the-alpha-continued/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/16/the-alpha-continued/</guid>
         
         <category>Weeknotes</category>
         
@@ -3113,8 +3113,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 28 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/28/the-alpha/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/28/the-alpha/</guid>
+        <link>http://localhost:4000/2021/04/28/the-alpha/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/28/the-alpha/</guid>
         
         <category>Weeknotes</category>
         
@@ -3137,8 +3137,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/20/bookmarks-6/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/20/bookmarks-6/</guid>
+        <link>http://localhost:4000/2021/04/20/bookmarks-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/20/bookmarks-6/</guid>
         
         <category>Bookmarks</category>
         
@@ -3170,8 +3170,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
+        <link>http://localhost:4000/2021/04/09/lets-get-naked/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/09/lets-get-naked/</guid>
         
         <category>Blogroll</category>
         
@@ -3224,8 +3224,8 @@ into the sea&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/04/04/the-decision/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/04/04/the-decision/</guid>
+        <link>http://localhost:4000/2021/04/04/the-decision/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/04/the-decision/</guid>
         
         <category>Weeknotes</category>
         
@@ -3304,8 +3304,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 29 Mar 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/03/29/the-sensemaking/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/29/the-sensemaking/</guid>
+        <link>http://localhost:4000/2021/03/29/the-sensemaking/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/29/the-sensemaking/</guid>
         
         <category>Weeknotes</category>
         
@@ -3386,8 +3386,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/24/the-deeper-analysis/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/24/the-deeper-analysis/</guid>
+        <link>http://localhost:4000/2021/03/24/the-deeper-analysis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/24/the-deeper-analysis/</guid>
         
         <category>Weeknotes</category>
         
@@ -3452,8 +3452,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/13/the-analysis/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/13/the-analysis/</guid>
+        <link>http://localhost:4000/2021/03/13/the-analysis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/13/the-analysis/</guid>
         
         <category>Weeknotes</category>
         
@@ -3506,8 +3506,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/06/the-interviews-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/06/the-interviews-2/</guid>
+        <link>http://localhost:4000/2021/03/06/the-interviews-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/06/the-interviews-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -3561,8 +3561,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/03/03/the-interviews/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/03/03/the-interviews/</guid>
+        <link>http://localhost:4000/2021/03/03/the-interviews/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/03/the-interviews/</guid>
         
         <category>Weeknotes</category>
         
@@ -3609,8 +3609,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/21/the-liminal-space-again/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/21/the-liminal-space-again/</guid>
+        <link>http://localhost:4000/2021/02/21/the-liminal-space-again/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/21/the-liminal-space-again/</guid>
         
         <category>Weeknotes</category>
         
@@ -3662,8 +3662,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/14/the-disco/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/14/the-disco/</guid>
+        <link>http://localhost:4000/2021/02/14/the-disco/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/14/the-disco/</guid>
         
         <category>Weeknotes</category>
         
@@ -3719,8 +3719,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 </description>
         <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/02/06/the-water/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/02/06/the-water/</guid>
+        <link>http://localhost:4000/2021/02/06/the-water/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/06/the-water/</guid>
         
         <category>Weeknotes</category>
         
@@ -3804,8 +3804,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/30/the-third-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/30/the-third-birthday/</guid>
+        <link>http://localhost:4000/2021/01/30/the-third-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/30/the-third-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -3895,8 +3895,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/23/the-creamy-rips/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/23/the-creamy-rips/</guid>
+        <link>http://localhost:4000/2021/01/23/the-creamy-rips/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/23/the-creamy-rips/</guid>
         
         <category>Weeknotes</category>
         
@@ -3921,8 +3921,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 
 </description>
         <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/12/the-liminal-space/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/12/the-liminal-space/</guid>
+        <link>http://localhost:4000/2021/01/12/the-liminal-space/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/12/the-liminal-space/</guid>
         
         <category>Weeknotes</category>
         
@@ -3951,8 +3951,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2021/01/04/bookmarks-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/01/04/bookmarks-5/</guid>
+        <link>http://localhost:4000/2021/01/04/bookmarks-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/04/bookmarks-5/</guid>
         
         <category>Bookmarks</category>
         
@@ -3966,8 +3966,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;lol, fuck that&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/24/2020-year-in-review/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/24/2020-year-in-review/</guid>
+        <link>http://localhost:4000/2020/12/24/2020-year-in-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/24/2020-year-in-review/</guid>
         
         <category>Blogroll</category>
         
@@ -4171,8 +4171,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</guid>
+        <link>http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -4205,8 +4205,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/11/bookmarks-4/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/11/bookmarks-4/</guid>
+        <link>http://localhost:4000/2020/12/11/bookmarks-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/11/bookmarks-4/</guid>
         
         <category>Bookmarks</category>
         
@@ -4234,8 +4234,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/12/05/bookmarks-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/12/05/bookmarks-3/</guid>
+        <link>http://localhost:4000/2020/12/05/bookmarks-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/05/bookmarks-3/</guid>
         
         <category>Bookmarks</category>
         
@@ -4256,8 +4256,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/30/bookmarks-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/30/bookmarks-2/</guid>
+        <link>http://localhost:4000/2020/11/30/bookmarks-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/30/bookmarks-2/</guid>
         
         <category>Bookmarks</category>
         
@@ -4286,8 +4286,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/21/bookmarks-1/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/21/bookmarks-1/</guid>
+        <link>http://localhost:4000/2020/11/21/bookmarks-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/21/bookmarks-1/</guid>
         
         <category>Bookmarks</category>
         
@@ -4321,8 +4321,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/16/going-dark/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
+        <link>http://localhost:4000/2020/11/16/going-dark/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/16/going-dark/</guid>
         
         <category>Blogroll</category>
         
@@ -4380,8 +4380,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/15/stormy-seas/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/15/stormy-seas/</guid>
+        <link>http://localhost:4000/2020/11/15/stormy-seas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/15/stormy-seas/</guid>
         
         <category>Weeknotes</category>
         
@@ -4424,8 +4424,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/08/propaganda/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/08/propaganda/</guid>
+        <link>http://localhost:4000/2020/11/08/propaganda/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/08/propaganda/</guid>
         
         <category>Digital government</category>
         
@@ -4492,8 +4492,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/07/sunset-over-ynys-enlli/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/07/sunset-over-ynys-enlli/</guid>
+        <link>http://localhost:4000/2020/11/07/sunset-over-ynys-enlli/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/07/sunset-over-ynys-enlli/</guid>
         
         <category>Weeknotes</category>
         
@@ -4541,8 +4541,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Read &lt;a href=&quot;/2020/11/08/propaganda/&quot;&gt;part 3&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/07/rhetoric/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/07/rhetoric/</guid>
+        <link>http://localhost:4000/2020/11/07/rhetoric/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/07/rhetoric/</guid>
         
         <category>Digital government</category>
         
@@ -4598,8 +4598,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/06/users-trust-delivery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/06/users-trust-delivery/</guid>
+        <link>http://localhost:4000/2020/11/06/users-trust-delivery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/06/users-trust-delivery/</guid>
         
         <category>Digital government</category>
         
@@ -4641,8 +4641,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
+        <link>http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
         
         <category>Blogroll</category>
         
@@ -4678,8 +4678,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;It’s better than TimeHop for toenails, anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
+        <link>http://localhost:4000/2020/11/04/silly-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/04/silly-ideas/</guid>
         
         <category>Blogroll</category>
         
@@ -4719,8 +4719,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Some things that inspired this post: Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt;; Motherboard’s piece on popular culture as an information conduit and &lt;a href=&quot;https://www.vice.com/en/article/y3gg3k/tiktok-influencer-isodope-is-stanning-for-nuclear-energy&quot;&gt;nuclear energy influencer Isodope&lt;/a&gt;; and The New Atlantis on &lt;a href=&quot;https://www.thenewatlantis.com/publications/hard-to-believe&quot;&gt;whether search engines make us gullible&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
+        <link>http://localhost:4000/2020/11/03/google-fast-food-knowledge/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/03/google-fast-food-knowledge/</guid>
         
         <category>Blogroll</category>
         
@@ -4793,8 +4793,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/02/free-range-future-of-work/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/02/free-range-future-of-work/</guid>
+        <link>http://localhost:4000/2020/11/02/free-range-future-of-work/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/02/free-range-future-of-work/</guid>
         
         <category>Agile delivery</category>
         
@@ -4843,8 +4843,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
+        <link>http://localhost:4000/2020/11/01/why-i-write-weeknotes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/why-i-write-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -4904,8 +4904,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/the-glaw/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/the-glaw/</guid>
+        <link>http://localhost:4000/2020/11/01/the-glaw/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/the-glaw/</guid>
         
         <category>Weeknotes</category>
         
@@ -4929,8 +4929,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
+        <link>http://localhost:4000/2020/11/01/nablopomo-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/nablopomo-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -4975,8 +4975,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/24/the-hells-mouth/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/24/the-hells-mouth/</guid>
+        <link>http://localhost:4000/2020/10/24/the-hells-mouth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/24/the-hells-mouth/</guid>
         
         <category>Weeknotes</category>
         
@@ -5010,8 +5010,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/20/the-relocation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/20/the-relocation/</guid>
+        <link>http://localhost:4000/2020/10/20/the-relocation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/20/the-relocation/</guid>
         
         <category>Weeknotes</category>
         
@@ -5049,8 +5049,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/11/the-pigeons-in-the-station/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/11/the-pigeons-in-the-station/</guid>
+        <link>http://localhost:4000/2020/10/11/the-pigeons-in-the-station/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/11/the-pigeons-in-the-station/</guid>
         
         <category>Weeknotes</category>
         
@@ -5104,8 +5104,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 02 Oct 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/10/02/the-week-between/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/10/02/the-week-between/</guid>
+        <link>http://localhost:4000/2020/10/02/the-week-between/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/02/the-week-between/</guid>
         
         <category>Weeknotes</category>
         
@@ -5150,8 +5150,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/the-bushy-park/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/the-bushy-park/</guid>
+        <link>http://localhost:4000/2020/09/26/the-bushy-park/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/the-bushy-park/</guid>
         
         <category>Weeknotes</category>
         
@@ -5227,8 +5227,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        <link>http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</guid>
         
         <category>Product management</category>
         
@@ -5290,8 +5290,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 23 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/23/the-nonsuch-palace/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/23/the-nonsuch-palace/</guid>
+        <link>http://localhost:4000/2020/09/23/the-nonsuch-palace/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/the-nonsuch-palace/</guid>
         
         <category>Weeknotes</category>
         
@@ -5384,8 +5384,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;p&gt;&lt;em&gt;Needs writing.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/17/personalisation-and-digital-government/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/17/personalisation-and-digital-government/</guid>
+        <link>http://localhost:4000/2020/09/17/personalisation-and-digital-government/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/17/personalisation-and-digital-government/</guid>
         
         <category>Digital government</category>
         
@@ -5429,8 +5429,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
+        <link>http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
         
         <category>Product management</category>
         
@@ -5529,8 +5529,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/05/the-beach-below-sea-level/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/05/the-beach-below-sea-level/</guid>
+        <link>http://localhost:4000/2020/09/05/the-beach-below-sea-level/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/05/the-beach-below-sea-level/</guid>
         
         <category>Weeknotes</category>
         
@@ -5614,8 +5614,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/29/the-ridgeway/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/29/the-ridgeway/</guid>
+        <link>http://localhost:4000/2020/08/29/the-ridgeway/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/29/the-ridgeway/</guid>
         
         <category>Weeknotes</category>
         
@@ -5674,8 +5674,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/21/the-coal-tax-post/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/21/the-coal-tax-post/</guid>
+        <link>http://localhost:4000/2020/08/21/the-coal-tax-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/21/the-coal-tax-post/</guid>
         
         <category>Weeknotes</category>
         
@@ -5750,8 +5750,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
+        <link>http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
         
         <category>Product management</category>
         
@@ -5834,8 +5834,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/14/the-success/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/14/the-success/</guid>
+        <link>http://localhost:4000/2020/08/14/the-success/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/14/the-success/</guid>
         
         <category>Weeknotes</category>
         
@@ -5905,8 +5905,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/07/the-surprise-entry/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/07/the-surprise-entry/</guid>
+        <link>http://localhost:4000/2020/08/07/the-surprise-entry/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/07/the-surprise-entry/</guid>
         
         <category>Weeknotes</category>
         
@@ -5987,8 +5987,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 31 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/31/the-asynchronous-communication/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/31/the-asynchronous-communication/</guid>
+        <link>http://localhost:4000/2020/07/31/the-asynchronous-communication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/31/the-asynchronous-communication/</guid>
         
         <category>Weeknotes</category>
         
@@ -6060,8 +6060,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 23 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/23/the-untiring-advocate-of-summer-time/</guid>
+        <link>http://localhost:4000/2020/07/23/the-untiring-advocate-of-summer-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/23/the-untiring-advocate-of-summer-time/</guid>
         
         <category>Weeknotes</category>
         
@@ -6126,8 +6126,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/18/the-productivity-hack/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/18/the-productivity-hack/</guid>
+        <link>http://localhost:4000/2020/07/18/the-productivity-hack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/18/the-productivity-hack/</guid>
         
         <category>Weeknotes</category>
         
@@ -6185,8 +6185,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
+        <link>http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</guid>
         
         <category>Blogroll</category>
         
@@ -6235,8 +6235,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/the-shock-of-london/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/the-shock-of-london/</guid>
+        <link>http://localhost:4000/2020/07/10/the-shock-of-london/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/the-shock-of-london/</guid>
         
         <category>Weeknotes</category>
         
@@ -6324,8 +6324,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        <link>http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</guid>
         
         <category>Product management</category>
         
@@ -6405,8 +6405,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 03 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/03/the-commute-must-die/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/03/the-commute-must-die/</guid>
+        <link>http://localhost:4000/2020/07/03/the-commute-must-die/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/03/the-commute-must-die/</guid>
         
         <category>Weeknotes</category>
         
@@ -6452,8 +6452,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/28/the-emancipation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/28/the-emancipation/</guid>
+        <link>http://localhost:4000/2020/06/28/the-emancipation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/28/the-emancipation/</guid>
         
         <category>Weeknotes</category>
         
@@ -6509,8 +6509,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 20 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/20/the-isolation-11/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/20/the-isolation-11/</guid>
+        <link>http://localhost:4000/2020/06/20/the-isolation-11/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/20/the-isolation-11/</guid>
         
         <category>Weeknotes</category>
         
@@ -6575,8 +6575,8 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/13/the-isolation-10/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/13/the-isolation-10/</guid>
+        <link>http://localhost:4000/2020/06/13/the-isolation-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/13/the-isolation-10/</guid>
         
         <category>Weeknotes</category>
         
@@ -6638,8 +6638,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Jun 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/06/06/the-isolation-9/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/06/06/the-isolation-9/</guid>
+        <link>http://localhost:4000/2020/06/06/the-isolation-9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/06/the-isolation-9/</guid>
         
         <category>Weeknotes</category>
         
@@ -6698,8 +6698,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 30 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/30/the-isolation-8/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/30/the-isolation-8/</guid>
+        <link>http://localhost:4000/2020/05/30/the-isolation-8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/30/the-isolation-8/</guid>
         
         <category>Weeknotes</category>
         
@@ -6735,8 +6735,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 25 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/25/the-isolation-7/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/25/the-isolation-7/</guid>
+        <link>http://localhost:4000/2020/05/25/the-isolation-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/25/the-isolation-7/</guid>
         
         <category>Weeknotes</category>
         
@@ -6782,8 +6782,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/17/the-isolation-6/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/17/the-isolation-6/</guid>
+        <link>http://localhost:4000/2020/05/17/the-isolation-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/17/the-isolation-6/</guid>
         
         <category>Weeknotes</category>
         
@@ -6850,8 +6850,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 08 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/08/the-isolation-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/08/the-isolation-5/</guid>
+        <link>http://localhost:4000/2020/05/08/the-isolation-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/08/the-isolation-5/</guid>
         
         <category>Weeknotes</category>
         
@@ -6970,8 +6970,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 May 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/05/03/the-isolation-4/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/05/03/the-isolation-4/</guid>
+        <link>http://localhost:4000/2020/05/03/the-isolation-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/03/the-isolation-4/</guid>
         
         <category>Weeknotes</category>
         
@@ -7023,8 +7023,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/28/the-isolation-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/28/the-isolation-3/</guid>
+        <link>http://localhost:4000/2020/03/28/the-isolation-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/28/the-isolation-3/</guid>
         
         <category>Weeknotes</category>
         
@@ -7080,8 +7080,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/23/the-isolation-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/23/the-isolation-2/</guid>
+        <link>http://localhost:4000/2020/03/23/the-isolation-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/23/the-isolation-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -7126,8 +7126,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/16/the-isolation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/16/the-isolation/</guid>
+        <link>http://localhost:4000/2020/03/16/the-isolation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/16/the-isolation/</guid>
         
         <category>Weeknotes</category>
         
@@ -7209,8 +7209,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/03/05/the-renovation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/03/05/the-renovation/</guid>
+        <link>http://localhost:4000/2020/03/05/the-renovation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/05/the-renovation/</guid>
         
         <category>Weeknotes</category>
         
@@ -7263,8 +7263,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        <link>http://localhost:4000/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/22/how-we-use-product-clinics/</guid>
         
         <category>Product management</category>
         
@@ -7303,8 +7303,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/18/the-black-dog-storm/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/18/the-black-dog-storm/</guid>
+        <link>http://localhost:4000/2020/02/18/the-black-dog-storm/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/18/the-black-dog-storm/</guid>
         
         <category>Weeknotes</category>
         
@@ -7374,8 +7374,8 @@ Weeknotes S08E05
 
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/10/the-public-service-velodrome/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/10/the-public-service-velodrome/</guid>
+        <link>http://localhost:4000/2020/02/10/the-public-service-velodrome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/10/the-public-service-velodrome/</guid>
         
         <category>Weeknotes</category>
         
@@ -7444,8 +7444,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/01/the-innovation-dogtrack/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/01/the-innovation-dogtrack/</guid>
+        <link>http://localhost:4000/2020/02/01/the-innovation-dogtrack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/01/the-innovation-dogtrack/</guid>
         
         <category>Weeknotes</category>
         
@@ -7502,8 +7502,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/25/the-building-cohesion/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/25/the-building-cohesion/</guid>
+        <link>http://localhost:4000/2020/01/25/the-building-cohesion/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/the-building-cohesion/</guid>
         
         <category>Weeknotes</category>
         
@@ -7672,8 +7672,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
+        <link>http://localhost:4000/2020/01/25/blogging-working-open/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/blogging-working-open/</guid>
         
         <category>Blogroll</category>
         
@@ -7745,8 +7745,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/20/the-edging-forward/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/20/the-edging-forward/</guid>
+        <link>http://localhost:4000/2020/01/20/the-edging-forward/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/20/the-edging-forward/</guid>
         
         <category>Weeknotes</category>
         
@@ -7812,8 +7812,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/10/the-request-for-help/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/10/the-request-for-help/</guid>
+        <link>http://localhost:4000/2020/01/10/the-request-for-help/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/10/the-request-for-help/</guid>
         
         <category>Weeknotes</category>
         
@@ -7851,8 +7851,8 @@ Weeknotes S08E05
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;https://www.twitter.com/jonodrew&quot;&gt;Jonathan&lt;/a&gt; for his help in editing this, and thanks to &lt;a href=&quot;http://conordelahunty.com&quot;&gt;Conor&lt;/a&gt; for the sticker and this wonderful phrase.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/08/boring-magic/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/08/boring-magic/</guid>
+        <link>http://localhost:4000/2020/01/08/boring-magic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/08/boring-magic/</guid>
         
         <category>Digital government</category>
         
@@ -7926,8 +7926,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/01/05/the-festive-break/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/01/05/the-festive-break/</guid>
+        <link>http://localhost:4000/2020/01/05/the-festive-break/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/05/the-festive-break/</guid>
         
         <category>Weeknotes</category>
         
@@ -7985,8 +7985,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/16/the-helping-hand/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/16/the-helping-hand/</guid>
+        <link>http://localhost:4000/2019/12/16/the-helping-hand/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/16/the-helping-hand/</guid>
         
         <category>Weeknotes</category>
         
@@ -8174,8 +8174,8 @@ Weeknotes S08E05
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
+        <link>http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -8243,8 +8243,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/07/the-niksen/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/07/the-niksen/</guid>
+        <link>http://localhost:4000/2019/12/07/the-niksen/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/07/the-niksen/</guid>
         
         <category>Weeknotes</category>
         
@@ -8493,8 +8493,8 @@ Weeknotes S08E05
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -8585,8 +8585,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/09/the-quiet/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/09/the-quiet/</guid>
+        <link>http://localhost:4000/2019/11/09/the-quiet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/09/the-quiet/</guid>
         
         <category>Weeknotes</category>
         
@@ -8628,8 +8628,8 @@ Weeknotes S08E05
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/the-timebox-3-4-5/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/the-timebox-3-4-5/</guid>
+        <link>http://localhost:4000/2019/11/02/the-timebox-3-4-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/the-timebox-3-4-5/</guid>
         
         <category>Weeknotes</category>
         
@@ -8791,8 +8791,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
+        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -8848,8 +8848,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/12/the-timebox-2/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/12/the-timebox-2/</guid>
+        <link>http://localhost:4000/2019/10/12/the-timebox-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/12/the-timebox-2/</guid>
         
         <category>Weeknotes</category>
         
@@ -8907,8 +8907,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/10/04/the-timebox/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/10/04/the-timebox/</guid>
+        <link>http://localhost:4000/2019/10/04/the-timebox/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/04/the-timebox/</guid>
         
         <category>Weeknotes</category>
         
@@ -8965,8 +8965,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/30/the-team-things/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/30/the-team-things/</guid>
+        <link>http://localhost:4000/2019/09/30/the-team-things/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/30/the-team-things/</guid>
         
         <category>Weeknotes</category>
         
@@ -9050,8 +9050,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/23/the-love/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/23/the-love/</guid>
+        <link>http://localhost:4000/2019/09/23/the-love/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/23/the-love/</guid>
         
         <category>Weeknotes</category>
         
@@ -9111,8 +9111,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/14/the-times-and-the-customs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/14/the-times-and-the-customs/</guid>
+        <link>http://localhost:4000/2019/09/14/the-times-and-the-customs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/14/the-times-and-the-customs/</guid>
         
         <category>Weeknotes</category>
         
@@ -9163,8 +9163,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 09 Sep 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/09/09/the-big-stuff/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/09/09/the-big-stuff/</guid>
+        <link>http://localhost:4000/2019/09/09/the-big-stuff/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/09/the-big-stuff/</guid>
         
         <category>Weeknotes</category>
         
@@ -9244,8 +9244,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/24/the-transience-of-earthly-pursuits/</guid>
+        <link>http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/24/the-transience-of-earthly-pursuits/</guid>
         
         <category>Weeknotes</category>
         
@@ -9312,8 +9312,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 19 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/19/the-very-important-visitors/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/19/the-very-important-visitors/</guid>
+        <link>http://localhost:4000/2019/08/19/the-very-important-visitors/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/19/the-very-important-visitors/</guid>
         
         <category>Weeknotes</category>
         
@@ -9385,8 +9385,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/11/the-eagle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/11/the-eagle/</guid>
+        <link>http://localhost:4000/2019/08/11/the-eagle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/11/the-eagle/</guid>
         
         <category>Weeknotes</category>
         
@@ -9498,8 +9498,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/08/03/the-buzz/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/08/03/the-buzz/</guid>
+        <link>http://localhost:4000/2019/08/03/the-buzz/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/03/the-buzz/</guid>
         
         <category>Weeknotes</category>
         
@@ -9567,8 +9567,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/24/the-oops/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/24/the-oops/</guid>
+        <link>http://localhost:4000/2019/07/24/the-oops/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/24/the-oops/</guid>
         
         <category>Weeknotes</category>
         
@@ -9641,8 +9641,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/20/the-milestone/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/20/the-milestone/</guid>
+        <link>http://localhost:4000/2019/07/20/the-milestone/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/20/the-milestone/</guid>
         
         <category>Weeknotes</category>
         
@@ -9736,8 +9736,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/13/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/13/the-birthday/</guid>
+        <link>http://localhost:4000/2019/07/13/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/13/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -9789,8 +9789,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -9844,8 +9844,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        <link>http://localhost:4000/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/02/product-strategy-video-games/</guid>
         
         <category>Product management</category>
         
@@ -9916,8 +9916,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 29 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/29/the-high/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/29/the-high/</guid>
+        <link>http://localhost:4000/2019/06/29/the-high/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/29/the-high/</guid>
         
         <category>Weeknotes</category>
         
@@ -9962,8 +9962,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;It was a lot of things. I’m very lucky to have this job. It’s good to remember that when my energy is low.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/06/23/the-fatigue/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/06/23/the-fatigue/</guid>
+        <link>http://localhost:4000/2019/06/23/the-fatigue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/23/the-fatigue/</guid>
         
         <category>Weeknotes</category>
         
@@ -10015,8 +10015,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -10126,8 +10126,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/15/the-fishing-smacks/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/15/the-fishing-smacks/</guid>
+        <link>http://localhost:4000/2019/04/15/the-fishing-smacks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/15/the-fishing-smacks/</guid>
         
         <category>Weeknotes</category>
         
@@ -10261,8 +10261,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/06/the-relief/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/06/the-relief/</guid>
+        <link>http://localhost:4000/2019/04/06/the-relief/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/06/the-relief/</guid>
         
         <category>Weeknotes</category>
         
@@ -10337,8 +10337,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/30/the-road-ahead/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/30/the-road-ahead/</guid>
+        <link>http://localhost:4000/2019/03/30/the-road-ahead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/30/the-road-ahead/</guid>
         
         <category>Weeknotes</category>
         
@@ -10390,8 +10390,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/23/the-workshop/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/23/the-workshop/</guid>
+        <link>http://localhost:4000/2019/03/23/the-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/23/the-workshop/</guid>
         
         <category>Weeknotes</category>
         
@@ -10452,8 +10452,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/18/the-key-findings/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/18/the-key-findings/</guid>
+        <link>http://localhost:4000/2019/03/18/the-key-findings/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/18/the-key-findings/</guid>
         
         <category>Weeknotes</category>
         
@@ -10507,8 +10507,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/10/the-threads/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/10/the-threads/</guid>
+        <link>http://localhost:4000/2019/03/10/the-threads/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/10/the-threads/</guid>
         
         <category>Weeknotes</category>
         
@@ -10584,8 +10584,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/03/02/the-reflection/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/03/02/the-reflection/</guid>
+        <link>http://localhost:4000/2019/03/02/the-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/02/the-reflection/</guid>
         
         <category>Weeknotes</category>
         
@@ -10661,8 +10661,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me 1.5 hours to write on a Monday evening and I added some final tweaks on Tuesday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/26/the-syndication/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/26/the-syndication/</guid>
+        <link>http://localhost:4000/2019/02/26/the-syndication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/26/the-syndication/</guid>
         
         <category>Weeknotes</category>
         
@@ -10733,8 +10733,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         
@@ -10805,8 +10805,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me twenty-five minutes to write on a Saturday morning. It usually takes me much longer, but I’m feeling ill and haven’t gone into much detail or reflection. I often write these on a Saturday morning though.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/16/the-shock-to-the-system/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/16/the-shock-to-the-system/</guid>
+        <link>http://localhost:4000/2019/02/16/the-shock-to-the-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/16/the-shock-to-the-system/</guid>
         
         <category>Weeknotes</category>
         
@@ -10898,8 +10898,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;These weeknotes took me two and a half hours to write on a Saturday morning. It always takes me that long, and I often do it on a Saturday morning.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/02/the-birthday/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/02/the-birthday/</guid>
+        <link>http://localhost:4000/2019/02/02/the-birthday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/02/the-birthday/</guid>
         
         <category>Weeknotes</category>
         
@@ -11014,8 +11014,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/26/the-reminder/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/26/the-reminder/</guid>
+        <link>http://localhost:4000/2019/01/26/the-reminder/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/26/the-reminder/</guid>
         
         <category>Weeknotes</category>
         
@@ -11092,8 +11092,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/19/the-navigation/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/19/the-navigation/</guid>
+        <link>http://localhost:4000/2019/01/19/the-navigation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/19/the-navigation/</guid>
         
         <category>Weeknotes</category>
         
@@ -11160,8 +11160,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/12/the-new-cross/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/12/the-new-cross/</guid>
+        <link>http://localhost:4000/2019/01/12/the-new-cross/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/12/the-new-cross/</guid>
         
         <category>Weeknotes</category>
         
@@ -11218,8 +11218,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/01/04/the-limbo-continues/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/01/04/the-limbo-continues/</guid>
+        <link>http://localhost:4000/2019/01/04/the-limbo-continues/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/04/the-limbo-continues/</guid>
         
         <category>Weeknotes</category>
         
@@ -11270,8 +11270,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/31/the-fallow-period/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/31/the-fallow-period/</guid>
+        <link>http://localhost:4000/2018/12/31/the-fallow-period/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/31/the-fallow-period/</guid>
         
         <category>Weeknotes</category>
         
@@ -11377,8 +11377,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -11446,8 +11446,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/21/the-winter-solstice/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/21/the-winter-solstice/</guid>
+        <link>http://localhost:4000/2018/12/21/the-winter-solstice/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/21/the-winter-solstice/</guid>
         
         <category>Weeknotes</category>
         
@@ -11509,8 +11509,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/14/the-gift/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/14/the-gift/</guid>
+        <link>http://localhost:4000/2018/12/14/the-gift/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/14/the-gift/</guid>
         
         <category>Weeknotes</category>
         
@@ -11575,8 +11575,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/12/07/the-spin-up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/12/07/the-spin-up/</guid>
+        <link>http://localhost:4000/2018/12/07/the-spin-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/07/the-spin-up/</guid>
         
         <category>Weeknotes</category>
         
@@ -11670,8 +11670,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
@@ -11729,8 +11729,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/17/the-wind-down/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/17/the-wind-down/</guid>
+        <link>http://localhost:4000/2018/11/17/the-wind-down/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/17/the-wind-down/</guid>
         
         <category>Weeknotes</category>
         
@@ -11823,8 +11823,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/10/the-staying-of-the-course/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/10/the-staying-of-the-course/</guid>
+        <link>http://localhost:4000/2018/11/10/the-staying-of-the-course/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/the-staying-of-the-course/</guid>
         
         <category>Weeknotes</category>
         
@@ -11889,8 +11889,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2018/11/03/The-Comfort-of-Company/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/11/03/The-Comfort-of-Company/</guid>
+        <link>http://localhost:4000/2018/11/03/The-Comfort-of-Company/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/03/The-Comfort-of-Company/</guid>
         
         <category>Weeknotes</category>
         
@@ -11969,8 +11969,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 27 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/27/The-Delivery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/27/The-Delivery/</guid>
+        <link>http://localhost:4000/2018/10/27/The-Delivery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/27/The-Delivery/</guid>
         
         <category>Weeknotes</category>
         
@@ -12055,8 +12055,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/21/The-Unconference/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/21/The-Unconference/</guid>
+        <link>http://localhost:4000/2018/10/21/The-Unconference/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/21/The-Unconference/</guid>
         
         <category>Weeknotes</category>
         
@@ -12135,8 +12135,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 14 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/10/14/The-Launch-of-Quarter-3/</guid>
+        <link>http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/14/The-Launch-of-Quarter-3/</guid>
         
         <category>Weeknotes</category>
         
@@ -12219,8 +12219,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 22 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/22/The-Finale/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/22/The-Finale/</guid>
+        <link>http://localhost:4000/2018/09/22/The-Finale/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/22/The-Finale/</guid>
         
         <category>Weeknotes</category>
         
@@ -12283,8 +12283,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;After Ellie taught me about &lt;a href=&quot;https://twitter.com/Ellayanor/status/1037756853579599881&quot;&gt;low spoons&lt;/a&gt;, I’ve looked at my own mental capacity in a different light. The past couple weeks have been a bit busy, so I’ve avoided stuffing my head with more information this week.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/16/The-Successful-Experiment/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/16/The-Successful-Experiment/</guid>
+        <link>http://localhost:4000/2018/09/16/The-Successful-Experiment/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/16/The-Successful-Experiment/</guid>
         
         <category>Weeknotes</category>
         
@@ -12357,8 +12357,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/07/The-Cusp/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/07/The-Cusp/</guid>
+        <link>http://localhost:4000/2018/09/07/The-Cusp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/07/The-Cusp/</guid>
         
         <category>Weeknotes</category>
         
@@ -12420,8 +12420,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/09/01/The-Snorlax/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/09/01/The-Snorlax/</guid>
+        <link>http://localhost:4000/2018/09/01/The-Snorlax/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/The-Snorlax/</guid>
         
         <category>Weeknotes</category>
         
@@ -12513,8 +12513,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/25/The-Unity/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/25/The-Unity/</guid>
+        <link>http://localhost:4000/2018/08/25/The-Unity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/25/The-Unity/</guid>
         
         <category>Weeknotes</category>
         
@@ -12602,8 +12602,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/18/The-Boost/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/18/The-Boost/</guid>
+        <link>http://localhost:4000/2018/08/18/The-Boost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/18/The-Boost/</guid>
         
         <category>Weeknotes</category>
         
@@ -12676,8 +12676,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 11 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/11/The-Farewell/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/11/The-Farewell/</guid>
+        <link>http://localhost:4000/2018/08/11/The-Farewell/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/11/The-Farewell/</guid>
         
         <category>Weeknotes</category>
         
@@ -12772,8 +12772,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/08/04/The-Step-Up/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/08/04/The-Step-Up/</guid>
+        <link>http://localhost:4000/2018/08/04/The-Step-Up/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/04/The-Step-Up/</guid>
         
         <category>Weeknotes</category>
         
@@ -12848,8 +12848,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/23/The-Discovery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/23/The-Discovery/</guid>
+        <link>http://localhost:4000/2018/07/23/The-Discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/23/The-Discovery/</guid>
         
         <category>Weeknotes</category>
         
@@ -12931,8 +12931,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 14 Jul 2018 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2018/07/14/The-Reshuffle/</link>
-        <guid isPermaLink="true">https://visitmy.website/2018/07/14/The-Reshuffle/</guid>
+        <link>http://localhost:4000/2018/07/14/The-Reshuffle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/14/The-Reshuffle/</guid>
         
         <category>Weeknotes</category>
         

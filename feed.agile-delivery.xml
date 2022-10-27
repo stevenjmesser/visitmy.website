@@ -3,10 +3,10 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.agile-delivery.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 11:44:07 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 11:44:07 +0100</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.agile-delivery.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Oct 2022 13:30:05 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 13:30:05 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -50,8 +50,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        <link>http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</guid>
         
         <category>Agile delivery</category>
         
@@ -124,8 +124,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/11/02/free-range-future-of-work/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/11/02/free-range-future-of-work/</guid>
+        <link>http://localhost:4000/2020/11/02/free-range-future-of-work/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/02/free-range-future-of-work/</guid>
         
         <category>Agile delivery</category>
         
@@ -215,8 +215,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        <link>http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</guid>
         
         <category>Product management</category>
         
@@ -270,8 +270,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -325,8 +325,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -401,8 +401,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         

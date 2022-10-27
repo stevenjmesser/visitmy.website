@@ -3,10 +3,10 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>https://visitmy.website</link>
-    <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 11:44:07 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 11:44:07 +0100</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.product-management.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Oct 2022 13:30:05 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 13:30:05 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;p&gt;I didn’t always know how to describe this. When you can’t see a way through, it’s hard to get past hard times. Adding to my &lt;a href=&quot;https://medium.com/dark-matter-and-trojan-horses/dark-matter-and-trojan-horses-a-strategic-design-vocabulary-strelka-press-18551fff3133&quot;&gt;strategic vocabulary&lt;/a&gt; has really helped. Now I can see the dark matter of the organisation changing, and I can spot how a trojan horse might help carry that change through.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Oct 2022 15:07:46 +0100</pubDate>
-        <link>https://visitmy.website/2022/10/17/strategic-vocabulary/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/10/17/strategic-vocabulary/</guid>
+        <link>http://localhost:4000/2022/10/17/strategic-vocabulary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/17/strategic-vocabulary/</guid>
         
         <category>Product management</category>
         
@@ -123,8 +123,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 09 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2022/04/09/alpha-is-discovery/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/04/09/alpha-is-discovery/</guid>
+        <link>http://localhost:4000/2022/04/09/alpha-is-discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/09/alpha-is-discovery/</guid>
         
         <category>Product management</category>
         
@@ -223,8 +223,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</link>
-        <guid isPermaLink="true">https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</guid>
+        <link>http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/13/way-of-the-product-manager-death/</guid>
         
         <category>Product management</category>
         
@@ -272,8 +272,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        <link>http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/28/service-designers-product-managers-working-together/</guid>
         
         <category>Agile delivery</category>
         
@@ -441,8 +441,8 @@
 &lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
-        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        <link>http://localhost:4000/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/24/visual-design-fundamentals/</guid>
         
         <category>Product management</category>
         
@@ -520,8 +520,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        <link>http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/26/notes-on-areas-of-responsibility/</guid>
         
         <category>Product management</category>
         
@@ -563,8 +563,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
+        <link>http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
         
         <category>Product management</category>
         
@@ -641,8 +641,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
+        <link>http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
         
         <category>Product management</category>
         
@@ -732,8 +732,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        <link>http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/10/open-collaborative-roadmaps/</guid>
         
         <category>Product management</category>
         
@@ -788,8 +788,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
-        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        <link>http://localhost:4000/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/22/how-we-use-product-clinics/</guid>
         
         <category>Product management</category>
         
@@ -841,8 +841,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        <link>http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
         
         <category>Agile delivery</category>
         
@@ -896,8 +896,8 @@
 &lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        <link>http://localhost:4000/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/02/product-strategy-video-games/</guid>
         
         <category>Product management</category>
         
@@ -949,8 +949,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        <link>http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
         
         <category>Agile delivery</category>
         
@@ -1025,8 +1025,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
-        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        <link>http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/21/how-we-use-okrs-gov-uk/</guid>
         
         <category>Agile delivery</category>
         
