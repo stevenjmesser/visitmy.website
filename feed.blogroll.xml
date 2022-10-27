@@ -3,11 +3,46 @@
   <channel>
     <title>Harsh Browns</title>
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 13:30:05 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 13:30:05 +0100</lastBuildDate>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.blogroll.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Oct 2022 20:33:42 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 20:33:42 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Decentralise: Redux</title>
+        <description>&lt;p&gt;Like many Very Online people with ‘Likes computers’ as their main hobby, I’ve been moving away from the Big Tech services over the years. There are good reasons for doing it (&lt;a href=&quot;https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://www.vice.com/en/article/n7np47/its-the-billionaires-internet-and-were-just-posting-on-it&quot;&gt;3&lt;/a&gt;, &lt;a href=&quot;https://www.matuzo.at/blog/2022/twitter-ban/&quot;&gt;4&lt;/a&gt;). But for many folks, it’s a lot of effort or totally impossible. They’ve also got huge parts of their lives tied up in these platforms, so moving away isn’t that valuable.&lt;/p&gt;
+
+&lt;p&gt;I’ve dropped Facebook, Instagram, WhatsApp, Google, Gmail and other platforms over the years because I’m able to. Even for technically literate hobbyists, it’s &lt;a href=&quot;https://thoughts.hnr.fyi/2022-06-24.html&quot;&gt;not that easy&lt;/a&gt;. But I’m sure we do it because, well, &lt;a href=&quot;http://blog.zarfhome.com/2022/04/yes-i-will-quit-twitter.html&quot;&gt;for us it’s fun&lt;/a&gt;. We like tinkering and setting up new connections and being the early adopters.&lt;/p&gt;
+
+&lt;p&gt;So, of course, after &lt;a href=&quot;https://twitter.com/elonmusk/status/1585341984679469056&quot;&gt;Elon Musk walked in to Twitter HQ carrying a sink&lt;/a&gt; today, I started moving over to &lt;a href=&quot;https://joinmastodon.org&quot;&gt;Mastodon&lt;/a&gt; with the &lt;a href=&quot;https://mastodon.social/tags/twittermigration&quot;&gt;#TwitterMigration&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I think it’s natural for &lt;a href=&quot;https://werd.io/2022/the-end-of-twitter&quot;&gt;town squares to fragment&lt;/a&gt;: there are more people online now, more communities for all your varied interests, and therefore people can adopt multiple identities. So big platforms will fracture as people seek to live out their other lives elsewhere (without &lt;a href=&quot;https://mastodon.social/@ziebrah/109241475418938937&quot;&gt;accidentally crossing the streams&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I don’t really have multiple identities&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. All &lt;a href=&quot;https://www.last.fm/user/Renegatus/library/artists&quot;&gt;my favourite hip-hop artists&lt;/a&gt; do, but I have two identities at best: professional Steve, using capital letters in tweets; and quasi-stoned brainfarts, all lowercase, that pass as ‘personal’ tweets. My blog is somewhere in the middle.&lt;/p&gt;
+
+&lt;p&gt;Why move away from Twitter then? It’s less about that, more about coalescing around the platform I own. Posting things on my website and syndicating out from there. For example, I started writing &lt;a href=&quot;/2022/10/04/Notes-notes-notes/&quot;&gt;notes&lt;/a&gt; here and only sharing those on RSS. That’s been enjoyable, helped widen my thinking. Sharing ideas is useful because &lt;a href=&quot;https://russelldavies.typepad.com/planning/2022/10/zombie-christmas.html&quot;&gt;you get feedback&lt;/a&gt;. And with my website at the heart, I can syndicate on whichever network is hot this year. &lt;a href=&quot;https://lethain.com/platforms-change-but-cool-uris-dont/&quot;&gt;Platforms change but cool URIs don’t&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t think Twitter will die any time soon, and there’s a good community there whom I’d miss if I had to leave it. But I should probably resurrect some creative outlets, like photography, on my website, and syndicate it out from there. From the home.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Photographer Steve died when I stopped using Flickr and Tumblr. Shitpost Steve died when I left Snapchat and Instagram. A lot of my friends adopted Signal when I left WhatsApp, which I’m grateful for, otherwise Real Steve would probably have died too. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 27 Oct 2022 20:25:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/10/27/decentralise-redux/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/27/decentralise-redux/</guid>
+        
+        <category>Blogroll</category>
+        
+        
+      </item>
     
       <item>
         <title>On this day in 1846</title>
@@ -22,8 +57,8 @@
 &lt;p&gt;The document that gives me a jolt is the ship’s surgeon’s description of my fourth-great grandfather in the ship’s records. He would have looked like my dad.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Oct 2022 15:15:06 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/25/on-this-day-in-1846/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/25/on-this-day-in-1846/</guid>
+        <link>https://visitmy.website/2022/10/25/on-this-day-in-1846/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/25/on-this-day-in-1846/</guid>
         
         <category>Blogroll</category>
         
@@ -73,8 +108,8 @@
 &lt;p&gt;There are definitely way more examples out there, please share them! I’ll update this list with new patterns as they emerge.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 08:24:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/04/patterns-for-collaborative-blogging/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/04/patterns-for-collaborative-blogging/</guid>
+        <link>https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</guid>
         
         <category>Blogroll</category>
         
@@ -106,8 +141,8 @@
 &lt;p&gt;If you can spare it, donate £30 to your local homelessness charity (or one of the national ones). They’re going to need it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2022 09:17:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/01/slow-travel/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/01/slow-travel/</guid>
+        <link>https://visitmy.website/2022/10/01/slow-travel/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/01/slow-travel/</guid>
         
         <category>Blogroll</category>
         
@@ -176,8 +211,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;p&gt;Our work on personalisation was about findability too, but also about better, more targeted service provision.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/09/26/searching-for-answers-in-data/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/09/26/searching-for-answers-in-data/</guid>
+        <link>https://visitmy.website/2022/09/26/searching-for-answers-in-data/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/09/26/searching-for-answers-in-data/</guid>
         
         <category>Blogroll</category>
         
@@ -210,8 +245,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 19 Sep 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/09/19/creative-destruction/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/09/19/creative-destruction/</guid>
+        <link>https://visitmy.website/2022/09/19/creative-destruction/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/09/19/creative-destruction/</guid>
         
         <category>Blogroll</category>
         
@@ -227,8 +262,8 @@ so that you can do some analysis.&lt;/li&gt;
 &lt;p&gt;Hope you enjoy it.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Sep 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/09/02/if-youre-reading-this-via-rss/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/09/02/if-youre-reading-this-via-rss/</guid>
+        <link>https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</guid>
         
         <category>Blogroll</category>
         
@@ -285,8 +320,8 @@ What happened?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Aug 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/08/09/why-i-stopped-writing-weeknotes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/08/09/why-i-stopped-writing-weeknotes/</guid>
+        <link>https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -340,8 +375,8 @@ What happened?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 19 May 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/05/19/nonce-age-collapse/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/05/19/nonce-age-collapse/</guid>
+        <link>https://visitmy.website/2022/05/19/nonce-age-collapse/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/05/19/nonce-age-collapse/</guid>
         
         <category>Blogroll</category>
         
@@ -442,8 +477,8 @@ module.exports = {
 &lt;p&gt;Now run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Open your browser, visit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt; and your Jekyll site should be running Tailwind!&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
+        <link>https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
         
         <category>Blogroll</category>
         
@@ -641,8 +676,8 @@ module.exports = {
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/16/reading-list-picks-of-2021/</guid>
+        <link>https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</guid>
         
         <category>Blogroll</category>
         
@@ -670,8 +705,8 @@ into the sea&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/13/mantra-for-bad-mental-health-days/</guid>
+        <link>https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</guid>
         
         <category>Blogroll</category>
         
@@ -718,8 +753,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
+        <link>https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
         
         <category>Blogroll</category>
         
@@ -772,8 +807,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Sep 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/09/21/lets-talk-about-product-community/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/21/lets-talk-about-product-community/</guid>
+        <link>https://visitmy.website/2021/09/21/lets-talk-about-product-community/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/09/21/lets-talk-about-product-community/</guid>
         
         <category>Blogroll</category>
         
@@ -853,8 +888,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;If you’re looking for a change, take a look at &lt;a href=&quot;https://careers.claimer.com&quot;&gt;Claimer’s careers page&lt;/a&gt; or drop me a line: it’d be great to talk more!&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
+        <link>https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
         
         <category>Blogroll</category>
         
@@ -886,8 +921,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/04/09/lets-get-naked/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/04/09/lets-get-naked/</guid>
+        <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
         
         <category>Blogroll</category>
         
@@ -901,8 +936,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;lol, fuck that&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/12/24/2020-year-in-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/24/2020-year-in-review/</guid>
+        <link>https://visitmy.website/2020/12/24/2020-year-in-review/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/12/24/2020-year-in-review/</guid>
         
         <category>Blogroll</category>
         
@@ -1106,8 +1141,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2018/12/23/reading-list-picks-of-2018/&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/12/reading-list-picks-of-2020/</guid>
+        <link>https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -1141,8 +1176,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/16/going-dark/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/16/going-dark/</guid>
+        <link>https://visitmy.website/2020/11/16/going-dark/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
         
         <category>Blogroll</category>
         
@@ -1182,8 +1217,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
+        <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
         
         <category>Blogroll</category>
         
@@ -1219,8 +1254,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;It’s better than TimeHop for toenails, anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/04/silly-ideas/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/04/silly-ideas/</guid>
+        <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
         
         <category>Blogroll</category>
         
@@ -1260,8 +1295,8 @@ into the sea&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Some things that inspired this post: Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt;; Motherboard’s piece on popular culture as an information conduit and &lt;a href=&quot;https://www.vice.com/en/article/y3gg3k/tiktok-influencer-isodope-is-stanning-for-nuclear-energy&quot;&gt;nuclear energy influencer Isodope&lt;/a&gt;; and The New Atlantis on &lt;a href=&quot;https://www.thenewatlantis.com/publications/hard-to-believe&quot;&gt;whether search engines make us gullible&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/03/google-fast-food-knowledge/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/03/google-fast-food-knowledge/</guid>
+        <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
         
         <category>Blogroll</category>
         
@@ -1310,8 +1345,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/01/why-i-write-weeknotes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/01/why-i-write-weeknotes/</guid>
+        <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
         
         <category>Blogroll</category>
         
@@ -1341,8 +1376,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/11/01/nablopomo-2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/11/01/nablopomo-2020/</guid>
+        <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
         
         <category>Blogroll</category>
         
@@ -1402,8 +1437,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/13/this-website-is-killing-the-planet/</guid>
+        <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
         
         <category>Blogroll</category>
         
@@ -1574,8 +1609,8 @@ into the sea&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/01/25/blogging-working-open/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/25/blogging-working-open/</guid>
+        <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
         
         <category>Blogroll</category>
         
@@ -1769,8 +1804,8 @@ into the sea&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/14/reading-list-picks-of-2019/</guid>
+        <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -2019,8 +2054,8 @@ into the sea&lt;/p&gt;
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
+        <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -2182,8 +2217,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_1838.png&quot; alt=&quot;Failing forward&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019/11/02/jam-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/02/jam-2019/</guid>
+        <link>https://visitmy.website/2019/11/02/jam-2019/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
         
         <category>Blogroll</category>
         
@@ -2289,8 +2324,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;&lt;em&gt;Check out my reading lists from &lt;a href=&quot;/2019/12/14/reading-list-picks-of-2019/&quot;&gt;2019&lt;/a&gt;, &lt;a href=&quot;/2020/12/12/reading-list-picks-of-2020/&quot;&gt;2020&lt;/a&gt;, and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;2021&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/23/reading-list-picks-of-2018/</guid>
+        <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
         
         <category>Blogroll</category>
         
@@ -2384,8 +2419,8 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
 &lt;p&gt;‘You can do whatever you want in life, as long as you don’t hurt anyone.’ Oh, and: ‘Work is just a way to pay the bills, but it helps if you enjoy it.’ Both from my dad.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/17/this-is-how-i-work-give-or-take/</guid>
+        <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
+        <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
         <category>Blogroll</category>
         
