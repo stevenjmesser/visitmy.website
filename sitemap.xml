@@ -779,6 +779,9 @@
 <loc>https://visitmy.website/about/</loc>
 </url>
 <url>
+<loc>https://visitmy.website/all/</loc>
+</url>
+<url>
 <loc>https://visitmy.website/cv/</loc>
 </url>
 <url>
@@ -803,7 +806,7 @@
 <loc>https://visitmy.website/tag/weeknotes/page/2/</loc>
 </url>
 <url>
-<loc>https://visitmy.website/tag/blogroll/</loc>
+<loc>https://visitmy.website/tag/general/</loc>
 </url>
 <url>
 <loc>https://visitmy.website/tag/agile-delivery/</loc>

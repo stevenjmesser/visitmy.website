@@ -5,8 +5,8 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2022 09:14:40 +0100</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2022 09:14:40 +0100</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 15:35:22 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 15:35:22 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -39,7 +39,7 @@
         <link>https://visitmy.website/2022/10/27/decentralise-redux/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/10/27/decentralise-redux/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -121,7 +121,7 @@
         <link>https://visitmy.website/2022/10/25/on-this-day-in-1846/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/10/25/on-this-day-in-1846/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -561,7 +561,7 @@
         <link>https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/10/04/patterns-for-collaborative-blogging/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -594,7 +594,7 @@
         <link>https://visitmy.website/2022/10/01/slow-travel/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/10/01/slow-travel/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -750,7 +750,7 @@ so that you can do some analysis.&lt;/li&gt;
         <link>https://visitmy.website/2022/09/26/searching-for-answers-in-data/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/09/26/searching-for-answers-in-data/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>Data</category>
         
@@ -866,7 +866,7 @@ so that you can do some analysis.&lt;/li&gt;
         <link>https://visitmy.website/2022/09/19/creative-destruction/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/09/19/creative-destruction/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -1108,7 +1108,7 @@ so that you can do some analysis.&lt;/li&gt;
         <link>https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/09/02/if-youre-reading-this-via-rss/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -1370,7 +1370,7 @@ What happened?&lt;/p&gt;
         <link>https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/08/09/why-i-stopped-writing-weeknotes/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>Working in the open</category>
         
@@ -1550,7 +1550,7 @@ What happened?&lt;/p&gt;
         <link>https://visitmy.website/2022/05/19/nonce-age-collapse/</link>
         <guid isPermaLink="true">https://visitmy.website/2022/05/19/nonce-age-collapse/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2045,7 +2045,7 @@ module.exports = {
         <link>https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/12/18/how-to-setup-jekyll-with-tailwind-css/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2244,7 +2244,7 @@ module.exports = {
         <link>https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/12/16/reading-list-picks-of-2021/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2273,7 +2273,7 @@ into the sea&lt;/p&gt;
         <link>https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/12/13/mantra-for-bad-mental-health-days/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2378,7 +2378,7 @@ into the sea&lt;/p&gt;
         <link>https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/12/02/web3-reading-list-for-internet-optimists/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2572,7 +2572,7 @@ into the sea&lt;/p&gt;
         <link>https://visitmy.website/2021/09/21/lets-talk-about-product-community/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/09/21/lets-talk-about-product-community/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -2792,7 +2792,7 @@ into the sea&lt;/p&gt;
         <link>https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/07/21/why-im-hyped-about-working-at-claimer/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -3208,7 +3208,7 @@ into the sea&lt;/p&gt;
         <link>https://visitmy.website/2021/04/09/lets-get-naked/</link>
         <guid isPermaLink="true">https://visitmy.website/2021/04/09/lets-get-naked/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -4004,7 +4004,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/12/24/2020-year-in-review/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/12/24/2020-year-in-review/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -4209,7 +4209,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/12/12/reading-list-picks-of-2020/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -4359,7 +4359,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/16/going-dark/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/16/going-dark/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -4679,7 +4679,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/05/many-things-people-worry-about-are-not-worth-worrying-about/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -4716,7 +4716,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/04/silly-ideas/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/04/silly-ideas/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -4757,7 +4757,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/03/google-fast-food-knowledge/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/03/google-fast-food-knowledge/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -4881,7 +4881,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/01/why-i-write-weeknotes/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/01/why-i-write-weeknotes/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -4967,7 +4967,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/11/01/nablopomo-2020/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/11/01/nablopomo-2020/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>NaBloPoMo</category>
         
@@ -6223,7 +6223,7 @@ hours of processing &amp;amp; sensemaking -hopefully- there’s output&lt;sup id
         <link>https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>Popular</category>
         
@@ -7710,7 +7710,7 @@ Weeknotes S08E05
         <link>https://visitmy.website/2020/01/25/blogging-working-open/</link>
         <guid isPermaLink="true">https://visitmy.website/2020/01/25/blogging-working-open/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         <category>Digital government</category>
         
@@ -8212,7 +8212,7 @@ Weeknotes S08E05
         <link>https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</link>
         <guid isPermaLink="true">https://visitmy.website/2019/12/14/reading-list-picks-of-2019/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -8531,7 +8531,7 @@ Weeknotes S08E05
         <link>https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</link>
         <guid isPermaLink="true">https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -8829,7 +8829,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
         <link>https://visitmy.website/2019/11/02/jam-2019/</link>
         <guid isPermaLink="true">https://visitmy.website/2019/11/02/jam-2019/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -11415,7 +11415,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
         <link>https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</link>
         <guid isPermaLink="true">https://visitmy.website/2018/12/23/reading-list-picks-of-2018/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
@@ -11708,7 +11708,7 @@ Trust is better for team health. If there’s low trust, establish clarity of mi
         <link>https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</link>
         <guid isPermaLink="true">https://visitmy.website/2018/11/17/this-is-how-i-work-give-or-take/</guid>
         
-        <category>Blogroll</category>
+        <category>General</category>
         
         
       </item>
