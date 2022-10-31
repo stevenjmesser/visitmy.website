@@ -5,9 +5,44 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2022 15:35:22 +0000</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2022 15:35:22 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Oct 2022 09:10:24 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2022 09:10:24 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Slow discovery, fast discovery</title>
+        <description>&lt;p&gt;People have been moving from Twitter to Mastodon over the last few days, and lots of people are finding the new experience discordant. Mastodon isn’t pushing the same buttons, isn’t providing the same value. Similar, but different.&lt;/p&gt;
+
+&lt;p&gt;A bump in the road many people are running in to is discovery: finding people or conversations to follow. The &lt;a href=&quot;https://mastodon.social/@danieldurrans/109261777990413018&quot;&gt;toot&lt;/a&gt; below sums it up.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With Twitter you could curate the people you follow, but also search the entire global community and jump into a topic. I follow a lot of people in my physical local area, but I also have searches set up to show me tweets posted from my geographic locality or that mention the name of the city I live in. With Mastodon I can’t do that so I feel I am unable to fully engage with a particular topic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The centralised nature of Twitter means that everything is indexed and searchable, whereas with Mastodon you have to rely on links between federated instances. If you want to find interesting people talking about topics you like, you’re less likely to find them all in one place (and easily) on Mastodon. It takes longer to find people to follow.&lt;/p&gt;
+
+&lt;p&gt;This is slow discovery. It’s a paradigm shift from fast discovery, which so many products have treated us to/ruined us with over the last ~8 years.&lt;/p&gt;
+
+&lt;p&gt;Instagram was geared towards fast discovery. By making it easier to find your niche, the clusters of accounts that covered your interests, Instagram allowed you to follow more people in a shorter space of time. Which in turn gives them more data on your interests, which means they can deliver more relevant ads, which means they can charge a higher price to advertisers. This is the value exchange for fast discovery.&lt;/p&gt;
+
+&lt;p&gt;Spotify is similar. Discover Weekly means you don’t have to search around for music you like, the algorithm will do that for you. It can almost instantly deliver music to your ears that you will enjoy, so you stick around. Which means more revenue for Spotify. Over time, this means you stop looking for music, stop all those discovery habits that helped you find new music, and you have your music tastes decided by an algorithm.&lt;/p&gt;
+
+&lt;p&gt;Slow discovery is the alternative that allows you to take back control of your tastes.&lt;/p&gt;
+
+&lt;p&gt;Take RSS, for example. My RSS subscriptions are a mix of people in the public sector digital space, tech bloggers, frontend devs and interaction designers, writers, and magazines. It’s a handpicked list of feeds to follow. (OK, so I did lift ~300 subscriptions from &lt;a href=&quot;https://www.interconnected.org/home/blogroll&quot;&gt;Matt’s blogroll&lt;/a&gt; but I’ve been deleting those I don’t find relevant to my interests.) This list grows and changes slowly over time, as I find new bloggers and magazines through hyperlinks.&lt;/p&gt;
+
+&lt;p&gt;In 2021, I cancelled my Spotify subscription. I don’t even use the product any more. My music discovery process is slow too, starting either with radio shows on Mixcloud or recommendations from friends. I have lists of tracks and artists to keep an eye on, and I tend to buy things on Bandcamp that I like. It’s slow and takes effort. There isn’t the same dopamine kick of fast satisfaction, like you get from Spotify. But I’m finding music I enjoy, that has a story to how I found it, rather than being served by a computer.&lt;/p&gt;
+
+&lt;p&gt;Fast discovery is about being served. A highly intelligent, computerised butler does the work for you. Slow discovery is about browsing. Taking time to look around, make choices, be active in the process.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2022 08:03:32 +0000</pubDate>
+        <link>https://visitmy.website/2022/10/31/slow-discovery-fast-discovery/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/31/slow-discovery-fast-discovery/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Decentralise: Redux</title>
