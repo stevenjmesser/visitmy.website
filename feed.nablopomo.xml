@@ -5,9 +5,52 @@
     <description>Things I've written during National Blog Posting Month.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.nablopomo.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Oct 2022 09:10:24 +0000</pubDate>
-    <lastBuildDate>Mon, 31 Oct 2022 09:10:24 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2022 13:45:06 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2022 13:45:06 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Scaling simple services</title>
+        <description>&lt;p&gt;This excerpt on scale from an interview with Meredith Whitaker, &lt;a href=&quot;https://signal.org&quot;&gt;Signal&lt;/a&gt;’s president, caught me.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the United States, for example, almost everybody has a phone. There is a significant population of people who don’t have access, but it is reasonably fair to say that people who can get phones have phones in the United States. You have to take market share away from competitors in order to grow. People have to start using Signal and stop using SMS, iMessage, or WhatsApp. iMessage is pretty dominant. There is a trope about blue bubbles and green bubbles that exists for a reason. iMessage users are not willing to switch away from those blue bubbles. How do you get them to switch?&lt;/p&gt;
+
+  &lt;p&gt;First, just install Signal. Use it with the other people who are using Signal. In a sense, yes, of course we want people to switch, but many people use many different, potentially overlapping services for many things.&lt;/p&gt;
+
+  &lt;p&gt;We first need to make it clear that Signal is different. What we offer is true privacy, not privacy claims with little caveats in a 15-page terms of service. We need to make it clear that this is extremely valuable, and that this is something that will protect you and allow for intimate, safe conversations with you and your friends. We do see people understanding those distinctions increasingly over the last five years.&lt;/p&gt;
+
+  &lt;p&gt;Then our task is to make Signal as pleasant and useful as possible. What are the features we can add that competitors might not be willing or able to, because of our unique business model, because our incentives are different, and because privacy is forefront in our product and in our mission?&lt;/p&gt;
+
+  &lt;p&gt;We just need to make sure people know about it and that they are able to quickly and easily use it. When you open Signal, you can believe that it’s important and know why you downloaded it, &lt;strong&gt;but the second you are using it to share directions, you shouldn’t be actively thinking about that. It should just work. There should be a seamless experience. You get in there, you share your story.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;We have a new feature that is in beta right now called Stories. They are very cute. I encourage people to use them when they are fully available. It looks, feels, and acts like a messaging app, which is not easy. The norms and expectations about what messaging apps should do have been set by these big surveillance messaging apps and these big corporate structures.&lt;/p&gt;
+
+  &lt;p&gt;Just by way of comparison, there is a stat I have thrown around in a couple of places. WhatsApp has over 1,000 engineers — and that is just their engineering team. If you added support, policy, et cetera, you are looking at many thousands of people just sustaining WhatsApp. That is not Meta. Telegram has somewhere around 500 employees, so that is fairly big. Signal is 40 people. That is 40 people maintaining an app across three clients. It’s hard, thankless, constant work. I’m privileged to work with the brilliant people who do it, but nonetheless, they work really hard doing it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And the most important part:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s not any cheaper for us just because we don’t participate in the surveillance business model. &lt;strong&gt;It is tens of millions of dollars a year in hosting, transit, registration, et cetera. It is the cost of making sure Signal is available everywhere and always seamless, which are the expectations that have been set by the current tech ecology.&lt;/strong&gt; We do need to continue developing and building Signal so it meets those expectations and figure out ways that a service like ours can sustain itself, given the forever cost and the labor requirements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Signal is pretty simple. It does one job well: instant messaging that is truly private. That is its ‘value proposition’. But amongst its users, it will naturally be compared to the other messaging apps, the other apps in the ‘tech ecology’. It has to meet those expectations. And as soon as people start using it, it needs to just work. A seamless experience for a simple service.&lt;/p&gt;
+
+&lt;p&gt;It’s pretty cool that 40 people are able to do that. And it’s surprising that it costs tens of millions to do that. So next time you’re on a small team, running a service (simple or complicated) on a small to medium budget, that’s something to be proud of.&lt;/p&gt;
+
+&lt;p&gt;It always feels like there’s not enough people, not enough time, that there are too many competing priorities. But if users tell you that your service or product is great, because it just works, you’ve done your job damn well.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Nov 2022 13:41:00 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/01/scaling-simple-services/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/01/scaling-simple-services/</guid>
+        
+        <category>Notes</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>Going dark</title>
