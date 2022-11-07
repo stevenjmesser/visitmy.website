@@ -5,9 +5,76 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2022 08:25:40 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2022 08:25:40 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2022 20:41:01 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2022 20:41:01 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Regroup</title>
+        <description>&lt;p&gt;I’ve officially completed my first quarter at NHS Digital. 🎉 Another 3 months to go before I can pass my probation. 🤞&lt;/p&gt;
+
+&lt;p&gt;Last week I was back to work properly, after recovering from my second bout of coronavirus. In the end I didn’t miss too much at work, or anything needing my input was postponed. Chalking that up as a win.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;The majority of my week was spent packaging up findings and recommendations for the application journey of our service, using the template I detailed in &lt;a href=&quot;/2022/10/22/the-resignation/&quot;&gt;S13E10&lt;/a&gt;. This isn’t super detailed because of the scope of our work, but we’ve highlighted where fixing pain points would have a positive impact for users or make passing a service assessment more likely. That last bit was key: there is a bar set for the quality of public services, and this is a commercial service that doesn’t meet that bar.&lt;/p&gt;
+
+&lt;p&gt;I mentioned in &lt;a href=&quot;/2022/10/27/the-write-off/&quot;&gt;my previous weeknote&lt;/a&gt; that we’d met with the service assessment team, and it was decided that we should postpone our alpha assessment. Since two of us on the team had been off ill and the others were on holiday, we regrouped to discuss our team objectives following the postponement. The application journey work is already being wrapped up, but our work on user support is garnering great feedback from users. We decided to iterate the designs based on the feedback, and after that to figure out the feasibility of building out one of our ideas.&lt;/p&gt;
+
+&lt;p&gt;Unexpectedly, I started doing strategy work. Which is good, I’ve been saying since &lt;a href=&quot;/2022/08/31/the-forest/&quot;&gt;S13E03&lt;/a&gt; that a strategy is missing, and our service owner is being pragmatic about ensuring that teams know what they should be working on and why. It was unexpected because of how the work was communicated to me, but I’m just really glad it’s happening.&lt;/p&gt;
+
+&lt;p&gt;The first session I ran asked our service owner and incoming programme manager to list out all their worries about the end-to-end service, using the stages of the service (from a blueprint) as a guide. So, if the service will onboard new users over the next 6 months, what are we worried doesn’t exist? What might fall over or break? What’s good enough? I’m going to ask the same questions of each team – and which interdependencies between teams we should be worried about – so that we can define the minimum viable service.&lt;/p&gt;
+
+&lt;p&gt;It’s a backwards way of working, granted, but there’s a need to reverse-engineer a roadmap out of the work currently happening – including stopping any work that doesn’t need to be happening.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;We held our postponed show &amp;amp; tell, which included the feedback we’d gathered from users about one of our alpha prototypes: a support &amp;amp; community hub for users of our service. We made sure that there was a clear narrative linking users’ pain points to our testing of the prototype, which makes the impact the solution would bring really clear. Our testing has been at the conceptual level, so the feedback is qualitative, but it’s such a common pattern for user support that I can’t imagine we’ll need to dig deeper. Of more benefit will be spending time on showing how it’s likely cheaper than what’s currently happening.&lt;/p&gt;
+
+&lt;p&gt;James and I gave a talk about working in the open at the NHS Digital product community get-together. We adapted a previous talk I gave at GDS about &lt;a href=&quot;/2020/01/25/blogging-working-open/&quot;&gt;blogging and working in the open&lt;/a&gt;, making it more relevant to people at NHS Digital and suggesting more ways of working in the open beyond blogging. I really enjoyed working with James on it, and he gave lots of great suggestions. Super happy that it inspired Alison to write her &lt;a href=&quot;https://twitter.com/alisoncwarren/status/1588573923259699201&quot;&gt;first ever weeknote&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;I need to draft professional development objectives ready for my probation review. It’s hard at the moment because I’m not sure what we’re working towards until that strategy is decided. But, then again, I’m doing a fair portion of the strategy work… I should just trust my instincts.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;I managed to write two blog posts for NaBloPoMo, on Tuesday and Wednesday. Thursday I was out in the evening, and I spent all weekend in Bristol. Wish I’d prepped a bunch of posts! Having said that, I’m enjoying writing notes whenever inspiration takes hold, it’s allowing me to explore different topics. Not everyone wants to read product management stuff, hey?&lt;/p&gt;
+
+&lt;p&gt;We got a 3-month free trial for Apple TV+. &lt;em&gt;Ted Lasso&lt;/em&gt; is fun, but &lt;em&gt;Bad Sisters&lt;/em&gt; is hilarious. The first episode does such a good job of gradually revealing the premise that I don’t want to make a hash of it, just watch it!&lt;/p&gt;
+
+&lt;p&gt;After finishing &lt;em&gt;Valis&lt;/em&gt; by Philip K. Dick, I picked up &lt;em&gt;Escape from the Antarctic&lt;/em&gt;, an excerpt from Ernest Shackleton’s &lt;em&gt;South&lt;/em&gt;. I couldn’t put it down. Can’t quite believe they managed to sail 800 miles in a little lifeboat, living off of Bovril and biscuits. It’s on display at Dulwich College, I might go and see it.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thoughts.hnr.fyi/2022-06-24.html&quot;&gt;the feasibility of going full fedi (alt title: how to reconcile decades of reinvention)&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://werd.io/2022/the-end-of-twitter&quot;&gt;The end of Twitter&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com/platforms-change-but-cool-uris-dont/&quot;&gt;Platforms change but cool URIs don’t&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.zarfhome.com/2022/04/yes-i-will-quit-twitter.html&quot;&gt;Yes, I will quit Twitter&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matthiasott.com/notes/suspension&quot;&gt;Suspension&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/twitter-is-not-a-town-square/&quot;&gt;Twitter Is Not a Town Square&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china&quot;&gt;Why Signal won’t compromise on encryption, with president Meredith Whittaker&lt;/a&gt;, 51 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newsletter.danhon.com/archive/s13e17-a-proposal-for-news-organization-mastodon/&quot;&gt;s13e17 : A Proposal for News Organization Mastodon Servers and More&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/&quot;&gt;4 Twitter features Mastodon is better for not having&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2022-10-29/musk-s-twitter-roils-with-hate-speech-as-trolls-test-new-limits&quot;&gt;Musk’s Twitter Roils With Hate Speech as Trolls Test New Limits&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itv.com/news/2022-10-28/how-cannabis-dealers-are-getting-away-with-advertising-on-tubes-and-billboards&quot;&gt;How cannabis dealers behind illegal website are advertising on Tubes and billboards&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/aapti/mastodon-decentralisation-moderation-an-alternative-to-twitter-c68a41a9a5a2&quot;&gt;Mastodon decentralisation &amp;amp; moderation: An alternative to Twitter?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement&quot;&gt;Twitter is now an Elon Musk company&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2022/10/29/weeknote-24-to-28-october-2022/&quot;&gt;Weeknote: 24 to 28 October 2022&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/world-europe-63404181&quot;&gt;Germany plans to legalise recreational cannabis&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2022/11/ive-reached-a-local-maxima-in-my-career/&quot;&gt;I’ve reached a local maxima in my career&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.disambiguity.com/ambient-intimacy/&quot;&gt;Ambient Intimacy&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 07 Nov 2022 18:31:59 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/07/the-regroup/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/07/the-regroup/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Write-Off</title>
