@@ -5,9 +5,79 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2022 20:41:01 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2022 20:41:01 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Nov 2022 10:34:28 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Nov 2022 10:34:28 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Doing It Properly</title>
+        <description>&lt;p&gt;This week was quieter than previous weeks. It felt good, like I had more space to do things properly. Fast-paced environments don’t scare me, but the slower pace this week – not having to rush towards this deadline for the assessment – made me realise how many corners we were cutting.&lt;/p&gt;
+
+&lt;p&gt;The difference between doing this alpha properly and too quickly is about 4 weeks, I reckon. (Although that’s not factoring in the 8 weeks we had to spend doing discovery, because previous outputs were unreliable.)&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;This week, I worked with one of our user researchers to explore options for building out the support &amp;amp; community hub that we’ve prototyped and tested the last few weeks. It’s been nice to think through that, to chat to other teams (in different directorates) who’ve done similar things, to figure out more of how NHS Digital does things.&lt;/p&gt;
+
+&lt;p&gt;We spoke to folks looking after&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services/data-set-catalogue&quot;&gt;dataset catalogue&lt;/a&gt; and &lt;a href=&quot;https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services/metadata-dashboard&quot;&gt;metadata explorer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://service-manual.nhs.uk&quot;&gt;NHS digital service manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/developer&quot;&gt;NHS API developer hub&lt;/a&gt; and its &lt;a href=&quot;https://developer.community.nhs.uk&quot;&gt;community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/services/data-access-environment-dae/user-guides&quot;&gt;guidance for the data access environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We learned a lot, all of it incredibly helpful for thinking through the vision for our support &amp;amp; community hub, plus how we might build and sustain it.&lt;/p&gt;
+
+&lt;p&gt;I also wrote my probation objectives this week, what I’ll work towards achieving in order to pass my probation. There’s a draft post on my computer about how I set objectives for myself, so I’ll get that written up for NaBloPoMo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/DebBlanch44&quot;&gt;Debbie&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt; and me got together to talk through plans for the Product People unconference. It’s great working with them, especially having Jukesie back in the fold. Good times! You can &lt;a href=&quot;https://www.eventbrite.co.uk/e/product-people-unconference-2023-tickets-466196996767&quot;&gt;book tickets for the unconference&lt;/a&gt; and join the waiting list when it sells out. I’ll build a little website for it this weekend, we need a place to host blog posts and store the session notes.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Met with our current programme manager and our service owner to talk through next steps for the strategy work. We’ve asked teams to note down on Mural boards, against stages of the service, where functionality or processes exist for onboarding users and where there are gaps. We’re getting together next week to talk through this, piecing the service together as a group, which will highlight where we need to focus efforts on plugging gaps and making things more performant. Like I said last week, it’s a backwards way of establishing the minimum viable service but it’s the position we’re in, and at least this will baseline what the service &lt;em&gt;is&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our user researcher working on user support did a playback of findings from our first round of testing on other concepts we’d put together. These were all concepts to help us improve proactive support, better onboarding users to help them feel confident and competent using the platform at the heart of our service. The feedback has been great! I’m looking forward to talking with our designer on Monday about how we might iterate our concepts based on the feedback, allowing us to test those higher fidelity designs and gain more clairty.&lt;/p&gt;
+
+&lt;p&gt;Our designs were supported by wider research, so we’ll think through how to link that to our prototypes. Our researcher is combing through academic studies on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dunning–Kruger_effect&quot;&gt;Dunning–Kruger effect&lt;/a&gt;, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Four_stages_of_competence&quot;&gt;four stages of competence&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Instructional_scaffolding&quot;&gt;instructional scaffolding&lt;/a&gt; for anything useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;Related to the backwards way of establishing the minimum viable service, I’m wondering how the service owner and incoming programme manager are going to run the teams. They’ve both worked on operational teams for several years – although our service owner does have a head for strategy, I think – but there’s not a sniff of agile ways of working. It’s part of our lead product manager’s role (and my role, I guess) to coach them on these things and introduce the ways of working, but are they open to that?&lt;/p&gt;
+
+&lt;p&gt;What will our senior leaders do to help this? I emailed the directors working in our area to discuss this, as we need them to be setting the tone and influencing the environment. A fortnightly get-together where they highlight stories of teams taking risks, adapting their projects based on what they learned, would be a start. The teams are very perfectionist, very waterfall, very PRINCE2. They need psychological safety to make mistakes, and then they might be open to trying new ways of working.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Twitter has been wild this week. Unsurprisingly, the pay-for-verification experiment blew up in Elno’s face. A load of accounts impersonating people and companies sprang up, with one imposter’s tweet &lt;a href=&quot;https://twitter.com/rafaelshimunov/status/1591133819918114816&quot;&gt;wiping billions from a pharmaceutical company’s stock value&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to learn that &lt;a href=&quot;https://twitter.com/laraisuncool/status/1590372018062766081&quot;&gt;Lara was involved with the Official checkmark&lt;/a&gt; too. I’ve been following her work for a while, it’s really good, and it reminded me how your own work can be taken into another context. It’s important to have boundaries on your feelings towards that, especially when you work on products and services used by millions. (I deliberately didn’t reply to a tweet about GOV.UK search last week!)&lt;/p&gt;
+
+&lt;p&gt;Started eyeing up short courses. The &lt;a href=&quot;https://www.arts.ac.uk/subjects/business-and-management-and-science/short-courses/service-design-and-design-thinking/service-design-and-innovation-intensive-short-course-lcc&quot;&gt;service design course at UAL&lt;/a&gt; looks great. It’s not &lt;em&gt;hugely&lt;/em&gt; different to General Assembly’s product management course, to be honest, but it’s the lessons on stakeholders that caught my eye.&lt;/p&gt;
+
+&lt;p&gt;Having missed the half-marathon due to coronavirus, I’ve started training for a marathon in February. There aren’t many trail half-marathons happening over the next couple of months, and I’d have to book an Airbnb to make the &lt;a href=&quot;https://findarace.com/events/the-hartfield-honey-run&quot;&gt;Honey Run in Hartfield&lt;/a&gt;, which is too expensive for my current savings strategy.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drblangry.notion.site/1a2791b46b43488b96d4b4bc27645818&quot;&gt;Where does public service end?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilywebber.co.uk/why-cant-we-all-just-get-along/&quot;&gt;Why can’t we all just get along?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces/&quot;&gt;Prioritise the riskiest assumptions in big problem spaces&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.arun.is/blog/arun-is-design/&quot;&gt;Inside arun.is · Design&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itsnicethat.com/news/high-tide-bloom-graphic-design-011122&quot;&gt;High Tide on designing for a cannabis brand without weed leaf stereotypes&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2022/11/06/whats-the-pitch/&quot;&gt;What’s the pitch?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2022/11/bog-bean-resonator.html&quot;&gt;Bog bean resonator&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/Bringing-intention-to-design-systems/&quot;&gt;Cultivating design systems by bringing intention&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 12 Nov 2022 09:12:42 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/12/the-doing-it-properly/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/12/the-doing-it-properly/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Regroup</title>

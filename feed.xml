@@ -5,9 +5,173 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2022 20:41:01 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2022 20:41:01 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Nov 2022 10:34:28 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Nov 2022 10:34:28 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Doing It Properly</title>
+        <description>&lt;p&gt;This week was quieter than previous weeks. It felt good, like I had more space to do things properly. Fast-paced environments don’t scare me, but the slower pace this week – not having to rush towards this deadline for the assessment – made me realise how many corners we were cutting.&lt;/p&gt;
+
+&lt;p&gt;The difference between doing this alpha properly and too quickly is about 4 weeks, I reckon. (Although that’s not factoring in the 8 weeks we had to spend doing discovery, because previous outputs were unreliable.)&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;This week, I worked with one of our user researchers to explore options for building out the support &amp;amp; community hub that we’ve prototyped and tested the last few weeks. It’s been nice to think through that, to chat to other teams (in different directorates) who’ve done similar things, to figure out more of how NHS Digital does things.&lt;/p&gt;
+
+&lt;p&gt;We spoke to folks looking after&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services/data-set-catalogue&quot;&gt;dataset catalogue&lt;/a&gt; and &lt;a href=&quot;https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services/metadata-dashboard&quot;&gt;metadata explorer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://service-manual.nhs.uk&quot;&gt;NHS digital service manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/developer&quot;&gt;NHS API developer hub&lt;/a&gt; and its &lt;a href=&quot;https://developer.community.nhs.uk&quot;&gt;community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://digital.nhs.uk/services/data-access-environment-dae/user-guides&quot;&gt;guidance for the data access environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We learned a lot, all of it incredibly helpful for thinking through the vision for our support &amp;amp; community hub, plus how we might build and sustain it.&lt;/p&gt;
+
+&lt;p&gt;I also wrote my probation objectives this week, what I’ll work towards achieving in order to pass my probation. There’s a draft post on my computer about how I set objectives for myself, so I’ll get that written up for NaBloPoMo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/DebBlanch44&quot;&gt;Debbie&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt; and me got together to talk through plans for the Product People unconference. It’s great working with them, especially having Jukesie back in the fold. Good times! You can &lt;a href=&quot;https://www.eventbrite.co.uk/e/product-people-unconference-2023-tickets-466196996767&quot;&gt;book tickets for the unconference&lt;/a&gt; and join the waiting list when it sells out. I’ll build a little website for it this weekend, we need a place to host blog posts and store the session notes.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Met with our current programme manager and our service owner to talk through next steps for the strategy work. We’ve asked teams to note down on Mural boards, against stages of the service, where functionality or processes exist for onboarding users and where there are gaps. We’re getting together next week to talk through this, piecing the service together as a group, which will highlight where we need to focus efforts on plugging gaps and making things more performant. Like I said last week, it’s a backwards way of establishing the minimum viable service but it’s the position we’re in, and at least this will baseline what the service &lt;em&gt;is&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our user researcher working on user support did a playback of findings from our first round of testing on other concepts we’d put together. These were all concepts to help us improve proactive support, better onboarding users to help them feel confident and competent using the platform at the heart of our service. The feedback has been great! I’m looking forward to talking with our designer on Monday about how we might iterate our concepts based on the feedback, allowing us to test those higher fidelity designs and gain more clairty.&lt;/p&gt;
+
+&lt;p&gt;Our designs were supported by wider research, so we’ll think through how to link that to our prototypes. Our researcher is combing through academic studies on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dunning–Kruger_effect&quot;&gt;Dunning–Kruger effect&lt;/a&gt;, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Four_stages_of_competence&quot;&gt;four stages of competence&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Instructional_scaffolding&quot;&gt;instructional scaffolding&lt;/a&gt; for anything useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;Related to the backwards way of establishing the minimum viable service, I’m wondering how the service owner and incoming programme manager are going to run the teams. They’ve both worked on operational teams for several years – although our service owner does have a head for strategy, I think – but there’s not a sniff of agile ways of working. It’s part of our lead product manager’s role (and my role, I guess) to coach them on these things and introduce the ways of working, but are they open to that?&lt;/p&gt;
+
+&lt;p&gt;What will our senior leaders do to help this? I emailed the directors working in our area to discuss this, as we need them to be setting the tone and influencing the environment. A fortnightly get-together where they highlight stories of teams taking risks, adapting their projects based on what they learned, would be a start. The teams are very perfectionist, very waterfall, very PRINCE2. They need psychological safety to make mistakes, and then they might be open to trying new ways of working.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Twitter has been wild this week. Unsurprisingly, the pay-for-verification experiment blew up in Elno’s face. A load of accounts impersonating people and companies sprang up, with one imposter’s tweet &lt;a href=&quot;https://twitter.com/rafaelshimunov/status/1591133819918114816&quot;&gt;wiping billions from a pharmaceutical company’s stock value&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to learn that &lt;a href=&quot;https://twitter.com/laraisuncool/status/1590372018062766081&quot;&gt;Lara was involved with the Official checkmark&lt;/a&gt; too. I’ve been following her work for a while, it’s really good, and it reminded me how your own work can be taken into another context. It’s important to have boundaries on your feelings towards that, especially when you work on products and services used by millions. (I deliberately didn’t reply to a tweet about GOV.UK search last week!)&lt;/p&gt;
+
+&lt;p&gt;Started eyeing up short courses. The &lt;a href=&quot;https://www.arts.ac.uk/subjects/business-and-management-and-science/short-courses/service-design-and-design-thinking/service-design-and-innovation-intensive-short-course-lcc&quot;&gt;service design course at UAL&lt;/a&gt; looks great. It’s not &lt;em&gt;hugely&lt;/em&gt; different to General Assembly’s product management course, to be honest, but it’s the lessons on stakeholders that caught my eye.&lt;/p&gt;
+
+&lt;p&gt;Having missed the half-marathon due to coronavirus, I’ve started training for a marathon in February. There aren’t many trail half-marathons happening over the next couple of months, and I’d have to book an Airbnb to make the &lt;a href=&quot;https://findarace.com/events/the-hartfield-honey-run&quot;&gt;Honey Run in Hartfield&lt;/a&gt;, which is too expensive for my current savings strategy.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drblangry.notion.site/1a2791b46b43488b96d4b4bc27645818&quot;&gt;Where does public service end?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilywebber.co.uk/why-cant-we-all-just-get-along/&quot;&gt;Why can’t we all just get along?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces/&quot;&gt;Prioritise the riskiest assumptions in big problem spaces&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.arun.is/blog/arun-is-design/&quot;&gt;Inside arun.is · Design&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itsnicethat.com/news/high-tide-bloom-graphic-design-011122&quot;&gt;High Tide on designing for a cannabis brand without weed leaf stereotypes&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2022/11/06/whats-the-pitch/&quot;&gt;What’s the pitch?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2022/11/bog-bean-resonator.html&quot;&gt;Bog bean resonator&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/Bringing-intention-to-design-systems/&quot;&gt;Cultivating design systems by bringing intention&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 12 Nov 2022 09:12:42 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/12/the-doing-it-properly/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/12/the-doing-it-properly/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A team for thinking big and starting small</title>
+        <description>&lt;p&gt;I reckon there’s value in a ‘Think big, start small’ team. A team that brings captivating visions to life, paints a picture of the end goal and the steps along the way. Finally, they create the first small step on that path.&lt;/p&gt;
+
+&lt;p&gt;To help the transformation happen.&lt;/p&gt;
+
+&lt;p&gt;This isn’t new. I daresay this model has played out hundreds if not thousands of times before. It sounds a lot like what I imagine working in an agency is like.&lt;/p&gt;
+
+&lt;p&gt;So the key thing is to make that team responsible for the first small step on the path. The product or service that gets traction, that grows. They have to build it, own it, sustain it. Prove that the strategy might just work.&lt;/p&gt;
+
+&lt;p&gt;It sounds better than the alternative: paying consultants a hefty fee to throw together a bunch of slide decks, engage in corporate divination, and hand over a four-pillared plan.&lt;/p&gt;
+
+&lt;p&gt;To do this thinking big and starting small, you’d need a depth of understanding – of the organisation, its people and its mission – to do it well. Many people are good at thinking big, but by starting small, you become accountable.&lt;/p&gt;
+
+&lt;p&gt;This isn’t about building an innovation lab or a skunkworks. &lt;a href=&quot;https://hbr.org/2019/07/why-innovation-labs-fail-and-how-to-ensure-yours-doesnt?deliveryName=DM45267&amp;amp;referral=00208&amp;amp;utm_source=pocket_saves&quot;&gt;That doesn’t work&lt;/a&gt;, not always. It’s not about letting one team have grand ideas which are punted over the fence to be delivered. This is about sustaining innovation, using hard-won knowledge, purpose and &lt;em&gt;passion&lt;/em&gt; as fuel.&lt;/p&gt;
+
+&lt;p&gt;It’s about using momentum. Putting weight behind boulders that have already started rolling.&lt;/p&gt;
+
+&lt;p&gt;It would let people play. Immerse themselves in an idea, speculate on what it might look like, how it might work. Make the vision feel tangible, inspiring. Get the story right.&lt;/p&gt;
+
+&lt;p&gt;It would give them the space to do the hard yards: make a couple of the ideas real, test the ideas against reality. Start to understand what is required – of the organisation’s money, its people, its time – to go down this path.&lt;/p&gt;
+
+&lt;p&gt;Once the route seems more sure, they’d be able to start moving in that direction. A first foray into an exciting future. Something they can be really proud of, and that will bring other people along.&lt;/p&gt;
+
+&lt;p&gt;All of this needs knowledge, passion, and time. And commitment.&lt;/p&gt;
+
+&lt;p&gt;Change is hard, it needs lots of people giving it lots of time. But change has to start somewhere.&lt;/p&gt;
+
+&lt;p&gt;Maybe it starts with you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Nov 2022 20:16:19 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/09/a-team-for-thinking-big-and-starting-small/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/09/a-team-for-thinking-big-and-starting-small/</guid>
+        
+        <category>Notes</category>
+        
+        <category>NaBloPoMo</category>
+        
+        <category>Digital government</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>You are not always your job title</title>
+        <description>&lt;p&gt;Recently I’ve been setting some professional development objectives, so that I can continue developing skills and adding value to the service I’m working on. And maybe work towards a promotion.&lt;/p&gt;
+
+&lt;p&gt;Based on what I’m working on and the context we’re in, I’m thinking it’d be sensible to mix and match skills from two &lt;a href=&quot;https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework&quot;&gt;capability profiles&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;For context, I’m working in a service redesign team on an end-to-end service. That means we’re looking at how to iterate the minimum viable service and make it more scalable over time.&lt;/p&gt;
+
+&lt;p&gt;I’ve been hired as a senior product manager, but I’m not the only product manager working on the service. That’s because &lt;a href=&quot;https://medium.com/@teropsv/products-deliver-outputs-services-deliver-outcomes-845f964ba1ff&quot;&gt;a service is everything a user needs to do to achieve a goal&lt;/a&gt;, and a service can be made up of products, platforms and enabling services.&lt;/p&gt;
+
+&lt;p&gt;So while I don’t tell other product or service managers what to do, I am involved in how their areas knit together. I’m the glue.&lt;/p&gt;
+
+&lt;p&gt;I’m sometimes acting a bit more like a &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#lead-product-manager&quot;&gt;lead product manager&lt;/a&gt; than a senior, providing that glue, because I’m working with our service owner to give teams direction. And sometimes I’m acting like a &lt;a href=&quot;https://www.gov.uk/guidance/service-designer#senior-service-designer&quot;&gt;senior service designer&lt;/a&gt; too, advocating for design and how we use it to meet users’ needs.&lt;/p&gt;
+
+&lt;p&gt;So right now, I’m not my job title. It’s a bit of product, a bit of design, and some coaching on agile delivery at scale. But if I’m not my job title, how am I supposed to write my professional development objectives?&lt;/p&gt;
+
+&lt;p&gt;How the DDaT skills profile describe strategic ownership/thinking for product managers and service designers caught me out.&lt;/p&gt;
+
+&lt;p&gt;Strategic ownership for product managers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can develop a long-term vision and objectives. You can take a discerning and disciplined approach to focusing on what is important and most relevant. You can develop the capability of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Strategic thinking for service designers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The definition for service designers is more what I do: designing strategies, ensuring they deliver value and meet requirements. It’s pragmatic. Which is more than developing visions and objectives…although I also do that.&lt;/p&gt;
+
+&lt;p&gt;Am I doing two jobs?&lt;/p&gt;
+
+&lt;p&gt;I don’t care too much. Pigeonholing people can mean you lose sight of creating valuable outcomes for users. And you ignore the multifaceted experience a person might have. But it’s &lt;a href=&quot;https://emilywebber.co.uk/why-cant-we-all-just-get-along/&quot;&gt;a trend people have observed&lt;/a&gt;, focusing on job titles rather than collaboration.&lt;/p&gt;
+
+&lt;p&gt;There’s value in sharing methods too. Service design techniques were useful when I was sole product manager at a startup. And though I knew the concept of rapid prototyping, I wouldn’t have been able to design interfaces at the startup well had I not spent so much time with excellent interaction designers.&lt;/p&gt;
+
+&lt;p&gt;So let’s be thankful when we’ve got enough specialists on a team to do a job well. But let’s also realise when you have to fill gaps, when you are not your job title.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2022 16:59:54 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/08/you-are-not-always-your-job-title/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/08/you-are-not-always-your-job-title/</guid>
+        
+        <category>Product management</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
     
       <item>
         <title>The Regroup</title>
