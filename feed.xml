@@ -5,9 +5,108 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Nov 2022 10:16:21 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Nov 2022 10:16:21 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Dec 2022 09:09:45 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Dec 2022 09:09:45 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Farewell</title>
+        <description>&lt;p&gt;I’ve not written any weeknotes for a few weeks, either because I’ve been enjoying the down time or visiting friends across the country. These will be brief because a lot happened over the last three weeks, including me wrapping up my role at NHS Digital. I’m going contracting for a while, with my first stint on the GOV.UK Design System.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;I helped the service owner and programme manager get the service lined up to go through the assurance process properly. The platform wasn’t required to go through assurance at the point it was created because it was built quickly for rapidly emerging needs during the pandemic. But everything was given a waiver briefly, expected to be assessed against the Service Standard eventually, and we initiated chats to make sure it’ll go through.&lt;/p&gt;
+
+&lt;p&gt;One of the other teams in our programme, arguably an internal stakeholder, wasn’t keeping abreast of our team’s work, which I found out through a one-to-one meeting. Although we do show &amp;amp; tells and give updates at a programme meeting, they’re swamped with work and don’t have time to attend the show &amp;amp; tells or watch the recording (which is a shame). I started a set of internal weeknotes to be emailed out each Friday, at their request, which they appreciated.&lt;/p&gt;
+
+&lt;p&gt;Spent a fair amount of time thinking about how we’d build a support &amp;amp; community hub for the service. This is referred to in the &lt;a href=&quot;https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis&quot;&gt;Better, Broader, Safer report&lt;/a&gt; as a ‘national open library’ of documentation, how-tos, re-usable code and tips on best practice. I compared a few options, did a benefits analysis, and spoke to people across the data science and RAP community of practice. I also hosted &lt;a href=&quot;https://nhsdigital.github.io/sde-support-prototype/home-page&quot;&gt;support &amp;amp; community hub prototype&lt;/a&gt; on GitHub Pages, so that we could host it for free now Heroku is getting rid of its free tier.&lt;/p&gt;
+
+&lt;p&gt;I wrote a recommendation for &lt;a href=&quot;https://www.linkedin.com/in/tomhubbardgreen/&quot;&gt;Tom&lt;/a&gt;, our lead product manager, because he is bloody brilliant. I think it took less than a week for things to just click between us. We think about and do product in the same way, and we have overlapping interests to boot. I’d have no hesitation in working with him again, and you should do so too if you’re able!&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;We did a fair amount of work on the learning &amp;amp; onboarding journey, building prototypes and preparing a plan for testing. This got swerved by another team at the last minute, so we had to adapt our approach. I’m hoping the team get to complete the tests in my absence.&lt;/p&gt;
+
+&lt;p&gt;I themed up the outputs from the cross-programme workshop to highlight the gaps in the service that needed working on. I took a few hours so I hope it gets used.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;It’ll be interesting to be a contractor. I expect I’ll need to do more organising of one-to-ones with senior management and stakeholders, to check they’re getting value out of my contract.  What’s lucky is that I’m joining a team where I know half the people and a directorate where I know most of the senior management, so there won’t be as much bridge-building to do as elsewhere.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;I’ve not done anything cultural recently, or not that I can remember. I’m playing more video games which is a nice change.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/business-63555313&quot;&gt;Autumn Statement 2022: Key points at-a-glance&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adactio.com/journal/19650&quot;&gt;That fediverse feeling&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/19/23468065/wickr-free-encrypted-messaging-app-shutting-down-amazon-web-services&quot;&gt;Wickr’s free encrypted messaging app is shutting down next year&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll&quot;&gt;Elon Musk says he’s letting Donald Trump back on Twitter&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline&quot;&gt;Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com/twitter/&quot;&gt;Twitter.&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/dear-male-ego/&quot;&gt;Dear male ego&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stephenparks.org/blogging-again/&quot;&gt;Blogging again&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/16/23460701/xbox-november-update-discord-voice-channels-deals-capture&quot;&gt;Xbox’s improved Discord experience is rolling out to everyone&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hidde.blog/twitter-exodus/&quot;&gt;Is this the last exodus from Twitter?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aeracode.org/2022/11/15/twitter-activitypub-future/&quot;&gt;Twitter, ActivityPub and The Future&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c&quot;&gt;The waning days of DEI’s dominance&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://randsinrepose.com/archives/how-to-write-a-blog-post/&quot;&gt;How to Write a Blog Post&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffgothelf.com/blog/what-is-agile/&quot;&gt;What is Agile?&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/tories&quot;&gt;In 2022, I though a lot about Tories&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2019/06/11/opinion/fully-automated-luxury-communism.html&quot;&gt;The World Is a Mess. We Need Fully Automated Luxury Communism.&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2022/11/02/consulting-crushed-me/&quot;&gt;Consulting crushed me&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/mum&quot;&gt;In 2022, I thought a lot about my Mum, the internet and a cashless society&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/how-to-live-alongside-a-cat&quot;&gt;In 2022, I thought a lot about how to live alongside a cat&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/my-darling-boys-brain-and-mine&quot;&gt;In 2022, I thought a lot about my darling boy’s brain, and mine&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/benjamin-mechanical-reproduction/&quot;&gt;The Work of Art in the Age of Mechanical Reproduction — Pixel Envy&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dezeen.com/2022/11/28/layer-keia-microdosing-psychedelics-subsription/&quot;&gt;Layer imagines “unexpected” edibles for microdosing psychedelics&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 10 Dec 2022 08:17:36 +0000</pubDate>
+        <link>https://visitmy.website/2022/12/10/the-farewell/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/12/10/the-farewell/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reasons to cancel your Pocket subscription</title>
+        <description>&lt;p&gt;For the last 4 years, &lt;a href=&quot;https://getpocket.com/&quot;&gt;Pocket&lt;/a&gt; has been a key part of my reading and writing process. It’s been the place I store articles or blog posts to read, where I read and highlight things: the first stage of a knowledge-making practice. After Twitter and Safari, it’s the app I use most, from anything between 30 minutes up to 2 hours per week.&lt;/p&gt;
+
+&lt;p&gt;It’s brought me a lot of benefits I’ve been happy to pay for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bookmarks stored in the cloud, for reading on iOS or through a browser&lt;/li&gt;
+  &lt;li&gt;Offline versions of articles, for when signal is patchy commuting by Tube or train&lt;/li&gt;
+  &lt;li&gt;An archive of things I’ve read, which feeds into my &lt;a href=&quot;/tag/bookmarks&quot;&gt;bookmarks&lt;/a&gt;, &lt;a href=&quot;/tag/weeknotes&quot;&gt;weeknotes&lt;/a&gt; and &lt;a href=&quot;/2021/12/16/reading-list-picks-of-2021/&quot;&gt;reading lists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A list of highlights I can review when researching on a topic&lt;/li&gt;
+  &lt;li&gt;Something to read that isn’t social media&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, in a couple of areas it’s lacking.&lt;/p&gt;
+
+&lt;p&gt;Pocket doesn’t let you do anything with your highlights. It’ll offer you a list of every passage you’ve highlighted, but there’s no way to sort those, to tag them or add notes.&lt;/p&gt;
+
+&lt;p&gt;It offers ‘full-text search’ but the search results suck. It favours tokens over phrases – if you search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;design system&lt;/code&gt; it’ll return a heap of results for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;design&lt;/code&gt; – and has a wild relevance and weighting strategy. Even if I search for a document using its exact title, it’ll return a bunch of different results as more relevant.&lt;/p&gt;
+
+&lt;p&gt;When it can’t parse a web page, you lose the ability to highlight passages on iOS. I’m not sure why some websites break, but curiously it seems to be those using simple HTML. It struggles to recognise any pages published in the ‘90s, which tend to have simple HTML and little styling.&lt;/p&gt;
+
+&lt;p&gt;This was pretty annoying, until I stumbled across &lt;a href=&quot;https://readwise.io/read&quot;&gt;Reader&lt;/a&gt; from Readwise. I joined the private beta last week and it’s outperforming Pocket, after one week’s use. Great search, parses multiple document types (including ebooks and videos), and hooks into &lt;a href=&quot;https://readwise.io/&quot;&gt;Readwise&lt;/a&gt;’s highlight tagging and reviewing. It’s a great product, and I admire what they’ve done: taken a look at the way people involve the web in their knowledge-making practice, and built a tool that wraps a clean experience around it.&lt;/p&gt;
+
+&lt;p&gt;So I’ve cancelled my Pocket subscription. I’m thankful to the teams who worked on it, the product really did solve a problem for me. But Reader pipped Pocket to the post.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Nov 2022 07:46:17 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/20/reasons-to-cancel-your-pocket-subscription/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/20/reasons-to-cancel-your-pocket-subscription/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Glitch</title>
