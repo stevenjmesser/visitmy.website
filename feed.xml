@@ -5,13 +5,69 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Dec 2022 09:09:45 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Dec 2022 09:09:45 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 20:24:41 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 20:24:41 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
+        <title>Design systems are a folk craft</title>
+        <description>&lt;p&gt;When you’re working on an early stage digital product or service, you’re thinking lots about what makes your offering unique in the market. Either you’re trying to find &lt;a href=&quot;https://web.stanford.edu/class/ee204/ProductMarketFit.html&quot;&gt;product-market fit&lt;/a&gt;, working through different hypotheses, or you’ve established the value that users find in your solution and you’re looking to grow.&lt;/p&gt;
+
+&lt;p&gt;It can be tempting to spend a great amount of time thinking about making your users’ experience magical, to set it apart from the competition.&lt;/p&gt;
+
+&lt;p&gt;Don’t. It’s a waste of time. You can make a lot of progress by adopting a design system and building on top of that. You don’t have to start from zero.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-design-system&quot;&gt;What is a design system?&lt;/h2&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://www.invisionapp.com/inside-design/guide-to-design-systems/&quot;&gt;InVision&lt;/a&gt;, ‘a design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications’.&lt;/p&gt;
+
+&lt;p&gt;Design systems usually include patterns and a style guide along with components. Design systems give you a set of buttons, fields and other designed components – plus ways of assembling those for common interactions. They’ve often been created and iterated by teams of people over long periods, crafted and refined to meet users’ generic needs.&lt;/p&gt;
+
+&lt;p&gt;That’s why I like &lt;a href=&quot;https://amyhupe.co.uk/articles/the-myth-that-design-systems-solve-easy-problems/&quot;&gt;Amy Hupe’s definition of a design system&lt;/a&gt; better. She says that ‘the job of a design system is to provide a start point for the &lt;em&gt;common&lt;/em&gt; problems – a set of reusable solutions validated through robust research, and continually iterated upon with help from the community’.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-folk-craft&quot;&gt;Digital folk craft&lt;/h2&gt;
+
+&lt;p&gt;Many of the components we interact with on the web behave the same, regardless of which product or service you’re interacting with. People have become used to these interactions over the years, and they expect a certain level of quality and performance when using similar components elsewhere.&lt;/p&gt;
+
+&lt;p&gt;A design system can provide a foundation for your product or service’s user experience – a base kit of solutions to common problems which you can build on top of.&lt;/p&gt;
+
+&lt;p&gt;In this sense, a design system could be considered a digital folk craft. &lt;a href=&quot;https://en.wikipedia.org/wiki/Yanagi_Sōetsu&quot;&gt;Yanagi Sōetsu&lt;/a&gt;, in &lt;em&gt;The Beauty of Everyday Things&lt;/em&gt;, said that folk crafts have two principal features:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;One is that they are things made for daily use. Second is that they are common, ordinary things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A button is such a common, ordinary thing. It’s going to be used daily…probably more. It’s not worth spending hours tweaking and perfecting something like that.&lt;/p&gt;
+
+&lt;p&gt;As Yanagi Sōetsu goes on to say:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Things that are used on a daily basis must stand the test of reality. They cannot be fragile, lavishly decorated, or intricately made; such objects will not do. Thick, strong, and durable, that is what is needed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Furthermore, a design system team – focused entirely on researching common problems and iterating common solutions – are best-placed to advise you on how to meet universal user needs. In studying how people interact with websites and which components work best, they deeply understand the baseline interaction needs of a diverse range of people and can introduce new elements as needed.&lt;/p&gt;
+
+&lt;p&gt;To quote a William Morris lecture, ‘Useful Work versus Useless Toil’:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The craftsman, as he fashioned the thing he had under his hand, ornamented it so naturally and so entirely without conscious effort, that it is often difficult to distinguish where the mere utilitarian part of his work ended and the ornamental began.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hope you’re starting to see why spending hours crafting your unique kit of components could be useless toil… Don’t spend time crafting a perfect UI when you’re an early-stage startup. Borrow heavily from people who’ve already done the work. (And trust your designers to combine those reusable solutions in a way that works for users.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Amy Hupe who read a version of this post in September 2021! I wrote it back when I was at an early-stage startup and needed to talk about why getting focused on hover states for buttons was a waste of the team’s time.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2022/12/15/design-systems-folk-craft/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/12/15/design-systems-folk-craft/</guid>
+        
+        <category>Design</category>
+        
+        
+      </item>
+    
+      <item>
         <title>The Farewell</title>
-        <description>&lt;p&gt;I’ve not written any weeknotes for a few weeks, either because I’ve been enjoying the down time or visiting friends across the country. These will be brief because a lot happened over the last three weeks, including me wrapping up my role at NHS Digital. I’m going contracting for a while, with my first stint on the GOV.UK Design System.&lt;/p&gt;
+        <description>&lt;p&gt;I’ve not written any weeknotes for a few weeks, either because I’ve been enjoying the down time or visiting friends across the country. These will be brief because a lot happened over the last three weeks, including me wrapping up my role at NHS Digital.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’m going contracting for a while, with my first stint on the GOV.UK Design System.&lt;/p&gt;
 
 &lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
 
@@ -63,6 +119,16 @@
   &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/benjamin-mechanical-reproduction/&quot;&gt;The Work of Art in the Age of Mechanical Reproduction — Pixel Envy&lt;/a&gt;, 2 mins&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dezeen.com/2022/11/28/layer-keia-microdosing-psychedelics-subsription/&quot;&gt;Layer imagines “unexpected” edibles for microdosing psychedelics&lt;/a&gt;, 3 mins&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;For the avoidance of doubt, the only reason I’m leaving is money. Sure, NHS Digital is merging with NHS England which will create some kerfuffle, but the subsequent transformation it’ll go through is a good thing. And the Data Services directorate is a super interesting product &amp;amp; design space! But my five-year plan needs capital, so I’ve got to earn it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 10 Dec 2022 08:17:36 +0000</pubDate>
         <link>https://visitmy.website/2022/12/10/the-farewell/</link>

@@ -5,13 +5,13 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Dec 2022 09:09:45 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Dec 2022 09:09:45 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 20:24:41 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 20:24:41 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>The Farewell</title>
-        <description>&lt;p&gt;I’ve not written any weeknotes for a few weeks, either because I’ve been enjoying the down time or visiting friends across the country. These will be brief because a lot happened over the last three weeks, including me wrapping up my role at NHS Digital. I’m going contracting for a while, with my first stint on the GOV.UK Design System.&lt;/p&gt;
+        <description>&lt;p&gt;I’ve not written any weeknotes for a few weeks, either because I’ve been enjoying the down time or visiting friends across the country. These will be brief because a lot happened over the last three weeks, including me wrapping up my role at NHS Digital.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’m going contracting for a while, with my first stint on the GOV.UK Design System.&lt;/p&gt;
 
 &lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
 
@@ -63,6 +63,16 @@
   &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/benjamin-mechanical-reproduction/&quot;&gt;The Work of Art in the Age of Mechanical Reproduction — Pixel Envy&lt;/a&gt;, 2 mins&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dezeen.com/2022/11/28/layer-keia-microdosing-psychedelics-subsription/&quot;&gt;Layer imagines “unexpected” edibles for microdosing psychedelics&lt;/a&gt;, 3 mins&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;For the avoidance of doubt, the only reason I’m leaving is money. Sure, NHS Digital is merging with NHS England which will create some kerfuffle, but the subsequent transformation it’ll go through is a good thing. And the Data Services directorate is a super interesting product &amp;amp; design space! But my five-year plan needs capital, so I’ve got to earn it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 10 Dec 2022 08:17:36 +0000</pubDate>
         <link>https://visitmy.website/2022/12/10/the-farewell/</link>
