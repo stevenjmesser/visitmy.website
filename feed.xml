@@ -5,9 +5,97 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2022 20:24:41 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2022 20:24:41 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2022 08:28:07 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2022 08:28:07 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Joy</title>
+        <description>&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;After last week’s 1-to-1s with the team, having walked through the roadmap, and having got my head into the Digital Service Platforms early thoughts on strategy for the next year, I started getting my head into a strategy for the GOV.UK Design System.&lt;/p&gt;
+
+&lt;p&gt;It’s notes in a doc at the moment, rough shapes that need working on with the team before pointing the ship in that direction.&lt;/p&gt;
+
+&lt;p&gt;I also learned about how we use GitHub Projects to work on components and patterns for the design system…which was on my mind from my work at NHS Digital. We’ve got a blog-a-thon in early January and I’m encouraging our delivery manager to write a blog post on it, for others to learn from.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;I’ve not had chance to add much value yet, had a good talk with our delivery manager and community manager about learning &amp;amp; development, and how I can help.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I offered some thoughts on how we might scope the work on the &lt;a href=&quot;https://design-system.service.gov.uk/community/upcoming-components-patterns/&quot;&gt;upcoming components and patterns&lt;/a&gt;. I also added &lt;a href=&quot;https://github.com/alphagov/govuk-design-system/discussions/2374#discussioncomment-4460410&quot;&gt;a note&lt;/a&gt; to the discussion about autocomplete, so that I remember to suggest we speak to Andy on GOV.UK.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;Nothing this week.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Had a &lt;em&gt;great&lt;/em&gt; day in the office with the team yesterday. We hung out, we chatted, we ate cake and lunch, and played a board game in the evening. Top team.&lt;/p&gt;
+
+&lt;p&gt;I’m signing off for the winter break with a long reading list. I need to prioritise what I read otherwise I’ll not be focusing on the right things.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/poverty&quot;&gt;In 2022, I’ve thought a lot about poverty&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/how-ive-stopped-telling-people-im-jewish&quot;&gt;In 2022, I’ve thought a lot about how I’ve stopped telling people I’m Jewish&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/inviting-my-dad-to-my-wedding&quot;&gt;In 2022, I thought a lot about inviting my dad to my wedding&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 21 Dec 2022 08:07:16 +0000</pubDate>
+        <link>https://visitmy.website/2022/12/21/the-joy/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/12/21/the-joy/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Back Once Again</title>
+        <description>&lt;h2 id=&quot;things-i-started&quot;&gt;Things I started&lt;/h2&gt;
+
+&lt;p&gt;This week I joined the GOV.UK Design System team, standing in for their senior product manager, Trang, who’s on maternity leave. It was a standard first week: write my Manual for Me, set up 1-to-1s with the team, look at the roadmap and backlog, read the business case, and other &lt;a href=&quot;/2020/09/06/things-to-do-product-manager-first-30-days/&quot;&gt;things to do in your first 30 days&lt;/a&gt; to soak up context.&lt;/p&gt;
+
+&lt;p&gt;Having returned to GDS after 18 months away, it’s good to see what’s changed. It feels as though the organisation has better clarity of purpose and a shared direction that cascades down into directorates and teams. There’s more shape to the Government-as-a-Platform programme now (now known as Digital Service Platforms or DSP) and there’s more active discussion and cohesion between the platforms.&lt;/p&gt;
+
+&lt;p&gt;I joined a get-together for the Product &amp;amp; Technology directorate and was lucky enough to be placed in a breakout group with a friend and &lt;a href=&quot;https://twitter.com/abisola&quot;&gt;Abísọ́lá&lt;/a&gt;, the Chief Product and Technology Officer at GDS. He’s a really nice bloke.&lt;/p&gt;
+
+&lt;p&gt;Had catch-ups with a bunch of folks I used to work with, which was lovely.&lt;/p&gt;
+
+&lt;p&gt;First impressions of the Design System team is that they are all excellent humans working on an incredibly interesting area. Through my chats with the team, it seemed like the question on everyone’s lips was about process: once a contribution has been prioritised to work on, what are the stages of work and how long should we spend on those stages? Some of this is decided by the contributors and their capacity to collaborate, but it feels like some service mapping would be useful (if I can’t find an existing blueprint).&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-shuffled-along&quot;&gt;Things I shuffled along&lt;/h2&gt;
+
+&lt;p&gt;Nothing this week.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-puzzles&quot;&gt;Some puzzles&lt;/h2&gt;
+
+&lt;p&gt;Nothing this week.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things&quot;&gt;Other things&lt;/h2&gt;
+
+&lt;p&gt;Running in the snow has been fun, and it’s a pretty sight. Have missed a few training runs in the programme though, and I suspect that Christmas will have an impact on my training. Today I’ve got to run for 2 hours and 30 minutes, so at least I’m getting plenty of endurance work in.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jessbuildstech.com/up-is-not-always-better/&quot;&gt;Up is not always better&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://momentum.medium.com/fleeing-twitter-the-twexodus-is-about-white-liberal-fragility-3631cb2ac317&quot;&gt;Fleeing Twitter&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2022/12/11/weeknote-5-to-9-december-2022/&quot;&gt;Weeknote: 5 to 9 December 2022&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulsmith.site/weeknotes/s03e05/&quot;&gt;~ Weeknotes ~ Monday 05 Dec - Sunday 11 Dec 2022&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.com/anna-sorokin-delvey-sbf-media-apology-tour-scam-2022-12&quot;&gt;Anna Sorokin says Sam Bankman-Fried’s media apology tour is a scam: ‘He’s just trying to save himself’&lt;/a&gt;, 4 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 18 Dec 2022 09:57:36 +0000</pubDate>
+        <link>https://visitmy.website/2022/12/18/the-back-once-again/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/12/18/the-back-once-again/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Design systems are a folk craft</title>
