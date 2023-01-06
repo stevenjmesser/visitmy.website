@@ -5,9 +5,92 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2023 18:14:33 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2023 18:14:33 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2023 18:36:27 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2023 18:36:27 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Chocolate Cake</title>
+        <description>&lt;p&gt;Trying out a new set of questions to help frame my weeknotes and inspire &lt;a href=&quot;/2023/01/04/questions-for-better-reflection/&quot;&gt;better reflection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-do-for-the-people-and-planet&quot;&gt;What did I do for the people and planet?&lt;/h2&gt;
+
+&lt;p&gt;This was my first week properly getting my head into the GOV.UK Design System team’s work and its objectives over the next 12 months. As a widely adopted design system across government, the styles, components and patterns do a lot to set the standard for digital government services in the UK, which improves the experience of users across the four nations.&lt;/p&gt;
+
+&lt;p&gt;The work this year comes in three buckets and is very much focused around the experience of users:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Compliance with WCAG 2.2&lt;/li&gt;
+  &lt;li&gt;Changing how we do JavaScript&lt;/li&gt;
+  &lt;li&gt;Growing adoption of the design system across government services&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My job here is to help the team think through how we approach that and assist in making prioritisation decisions. The majority of the week I was preparing slides to frame the growth work, and talk about how we’ll develop a growth strategy. On Friday, I spent time with our accessibility lead and frontend lead to consider with them how we might approach that work. There’s more to be done, more decisions to be made, but I was impressed with how much work they’d done on it all. We hire great people.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-appreciate-what-was-fun-or-made-me-happy&quot;&gt;What did I appreciate? What was fun or made me happy?&lt;/h2&gt;
+
+&lt;p&gt;It’s been firebreak this week and our user researcher held an activity that had previously been postponed. For 30 minutes, the people who’d bought ingredients baked a cake together, and the rest of us watched and chatted. It was fun, it got people talking, and the results looked delicious. With a team as distributed as ours, these moments to get together and socialise are gold-dust.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-do-for-those-around-me&quot;&gt;What did I do for those around me?&lt;/h2&gt;
+
+&lt;p&gt;The team’s decisions often have to weigh up not only the impact on users but also other service teams. That’s a lot to carry on your shoulders. So I’m trying to take on some of that mental and emotional burden because it’s a lot to bear. I acknowledged in a couple of catch-ups the amount of effort it had taken to get to the current point, but I know that to go further I need to catalyse decision-making.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-do-for-my-well-being-what-was-just-enough&quot;&gt;What did I do for my well-being? What was ‘just enough’?&lt;/h2&gt;
+
+&lt;p&gt;My exercise routine took a downturn in December, partly due to the weather and mostly due to being sick over the winter break. So I tried out Zwift yesterday and went for a run today. Already feeling better.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happened-through-play-or-intuition&quot;&gt;What happened through play or intuition?&lt;/h2&gt;
+
+&lt;p&gt;Not much this week, although writing slides feels like play. Wordsmithing. Doing the Workplace Bez thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-hard-or-puzzling&quot;&gt;What was hard or puzzling?&lt;/h2&gt;
+
+&lt;p&gt;Honestly, motivating myself at the start of the week. Changing gears from 10 days of being sedentary ain’t easy, but I’m flying now.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-learn&quot;&gt;What did I learn?&lt;/h2&gt;
+
+&lt;p&gt;I learned about our team’s value stream, what it does to produce styles, components and patterns for the community. There’s a lot to it and it’s unlike other product teams I’ve worked on. One challenge is cycle time: working through the backlog with enough pace that users can find what they need, but without churning out poor quality work. I’ve done some thinking on how we might speed that up without sacrificing quality, but it’s something I’ll need to round off with the team.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;p&gt;This covers everything I read over the break, so it’s a long list.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2022/12/20/government-digital-service-updates-on-our-2021-2024-strategy/&quot;&gt;Government Digital Service: updates on our 2021-2024 strategy&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilserviceworld.com/in-depth/article/out-with-the-old-in-with-the-new-gds-head-tom-read-looks-to-the-future&quot;&gt;Out with the old, in with the new: GDS head Tom Read looks to the future&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/quitting-faster&quot;&gt;In 2022, I thought a lot about quitting faster&lt;/a&gt;, mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/2022/my-mums-mental-health-and-mine&quot;&gt;In 2022, I thought a lot about my Mum’s mental health and mine&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demotive.com/timeline&quot;&gt;Timeline&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2022/good-design/&quot;&gt;Good Design&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2022/good-design-pt-ii/&quot;&gt;Good Design, Pt. II&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brr.fyi/posts/south-pole-arrival&quot;&gt;South Pole Arrival&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weeknot.es/weeknotes-s02-e01-39e22a4ea232&quot;&gt;Weeknotes S02 E01&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/tiktok-journalists-sources/&quot;&gt;TikTok Admits It Used Journalists’ Location Data to Try to Find Their Sources&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://review.firstround.com/35-impactful-questions-managers-should-ask-themselves-regularly&quot;&gt;35 Impactful Questions Managers Should Ask Themselves Regularly&lt;/a&gt;, 28 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://review.firstround.com/the-5-phases-of-figmas-community-led-growth-from-stealth-to-enterprise&quot;&gt;The 5 Phases of Figma’s Community-Led Growth: From Stealth to Enterprise&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2022/12/20/magazine/tiktok-us-china-diplomacy.html&quot;&gt;How TikTok Became a Diplomatic Crisis&lt;/a&gt;, 40 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/b2154c20-c9d0-4209-9a47-95d114d31f2b&quot;&gt;Britain’s winter of discontent is the inevitable result of austerity&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/&quot;&gt;I Don’t Believe in Sprints&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2023/01/02/microblogging-migration/&quot;&gt;Microblogging migration: my New Year list of people whose every post I want to see&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jlzych.com/2023/01/02/2022-reading-list/&quot;&gt;2022 Reading List&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matthewsheret.wordpress.com/2023/01/02/2022-yearnotes/&quot;&gt;2022 yearnotes&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sjl.us/2010/12/01/intensive-vs-extensive-growth-and-more/&quot;&gt;Intensive vs. Extensive Growth – and more – Peter Thiel at Stanford&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reforge.com/blog/the-growth-competency-model&quot;&gt;The Growth Competency Model: Build Stronger Growth Teams&lt;/a&gt;, 28 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weeknot.es/new-years-rituals-and-other-everyday-magic-9769c8a470df&quot;&gt;New Year’s rituals (and other everyday magic)&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/on-internet-silos/&quot;&gt;On Internet Silos&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joemuggs.tumblr.com/post/705161058723233792/escape-the-cringe&quot;&gt;ESCAPE THE CRINGE&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://warrenellis.ltd/marks/ice-age-data-writing/&quot;&gt;Ice Age Data Writing&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/navigating-the-ai-revolution-how-designers-can-stay-competitive-7798bc664210&quot;&gt;Navigating the AI revolution: how designers can stay competitive&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/&quot;&gt;A new accessibility strategy for the GOV.UK Design System&lt;/a&gt;, 5 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2023 18:04:12 +0000</pubDate>
+        <link>https://visitmy.website/2023/01/06/the-chocolate-cake/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/01/06/the-chocolate-cake/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Questions for better reflection</title>
