@@ -5,9 +5,47 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Feb 2023 11:54:23 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2023 11:54:23 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Feb 2023 17:14:31 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2023 17:14:31 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Reading list for new design system managers</title>
+        <description>&lt;p&gt;Back in December 2022, I became the product manager for the &lt;a href=&quot;https://design-system.service.gov.uk&quot;&gt;GOV.UK‌ Design System&lt;/a&gt;, providing maternity cover for &lt;a href=&quot;https://design-system.service.gov.uk/design-system-team/&quot;&gt;the team’s&lt;/a&gt; excellent PM. I wasn’t a complete newbie to the design system as I’d used it as the baseline for design decisions when I was Head of Product at a startup.&lt;/p&gt;
+
+&lt;p&gt;I hadn’t thought much about what it might be like to manage a design system though. It was a mystery: would working as a product manager on a design system be like working on other products, platforms and services? I needed to read up and get prepared, and the articles and blog posts below were really helpful in my first few weeks on the team.&lt;/p&gt;
+
+&lt;p&gt;This &lt;strong&gt;is not&lt;/strong&gt; a canonical list of what everyone new to managing design systems should read, it’s just a list of things that helped &lt;em&gt;me&lt;/em&gt;. Hopefully you’ll find them useful, and let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://indieweb.social/@stevenjmesser&quot;&gt;Mastodon&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt; if there’s anything you recommend I read too!&lt;/p&gt;
+
+&lt;p&gt;These are presented in no particular order. Open all the links and get reading!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/the-myth-that-design-systems-solve-easy-problems/&quot;&gt;The myth that design systems solve easy problems&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/Bringing-intention-to-design-systems/&quot;&gt;Cultivating design systems by bringing intention&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/8/23445821/figma-adobe-acquisition-design-vr-ai-meta&quot;&gt;Why Figma is selling to Adobe for $20 billion&lt;/a&gt;, 53 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://review.firstround.com/the-5-phases-of-figmas-community-led-growth-from-stealth-to-enterprise&quot;&gt;The 5 Phases of Figma’s Community-Led Growth: From Stealth to Enterprise&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/&quot;&gt;A new accessibility strategy for the GOV.UK Design System&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ethanmarcotte.com/wrote/the-hoof-and-the-horse/&quot;&gt;The hoof and the horse&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinrendle.com/essays/systems-mistakes-and-the-sea&quot;&gt;Systems, Mistakes, and the Sea&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2019/there-is-no-design-system/&quot;&gt;There Is No Design System&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sarahdrinkwater.medium.com/products-with-community-at-their-core-e53d8810276b&quot;&gt;Products with community at their core&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.millisecond.co/blog/design-systems-maturity&quot;&gt;Design System Maturity Levels&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://christianheilmann.com/2023/01/18/web-resilience-is-about-users-not-a-shortcut-for-developers/&quot;&gt;Web resilience is about users – not a shortcut for developers&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/design-principles/#leave-the-web-better&quot;&gt;Leave the web better than you found it&lt;/a&gt;, 1 min&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Feb 2023 09:50:45 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/09/reading-list-for-new-design-system-managers/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/09/reading-list-for-new-design-system-managers/</guid>
+        
+        <category>Bookmarks</category>
+        
+        <category>Design</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
     
       <item>
         <title>You are not always your job title</title>
