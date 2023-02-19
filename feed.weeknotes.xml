@@ -5,9 +5,84 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Feb 2023 13:54:40 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Feb 2023 13:54:40 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Feb 2023 12:38:19 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Feb 2023 12:38:19 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Psychedelic Drugs</title>
+        <description>&lt;p&gt;A busy week that kept me entertained during working hours, the evenings slack and empty though. This week I&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;went over a spike to change how we do testing with our Frontend squad&lt;/li&gt;
+  &lt;li&gt;met with folks from the Office for National Statistics to go over the brief for a service assessment I’m leading&lt;/li&gt;
+  &lt;li&gt;prepared and delivered the first half of a presentation on how to hack your career&lt;/li&gt;
+  &lt;li&gt;prepared and delivered an ecocycle planning workshop to refresh ways of working with our Frontend squad&lt;/li&gt;
+  &lt;li&gt;met with Cabinet Office Digital to go over the plans to trial a paid version of cross-government Slack&lt;/li&gt;
+  &lt;li&gt;chatted over team sizes and design systems maturity with a product manager from Sainsbury’s Digital&lt;/li&gt;
+  &lt;li&gt;talked through our branching and release strategy for version 5.0.0 of govuk-frontend&lt;/li&gt;
+  &lt;li&gt;went to an all-directorate meeting in which deputy directors presented their teams’ roadmaps&lt;/li&gt;
+  &lt;li&gt;chatted over preliminary plans for publishing the Exit this Page component and pattern&lt;/li&gt;
+  &lt;li&gt;kicked off a spike for the Frontend squad&lt;/li&gt;
+  &lt;li&gt;reviewed work done on looking at the GOV.UK brand, its aesthetic and purpose&lt;/li&gt;
+  &lt;li&gt;prototyped a survey that will allow service teams to establish the impact of WCAG 2.2 on their services, and&lt;/li&gt;
+  &lt;li&gt;discussed plans for adding guidance on apps to the design system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Short notes follow below.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-systems-maturity-and-team-size&quot;&gt;Design systems maturity and team size&lt;/h2&gt;
+
+&lt;p&gt;This week I chatted to a product manager from Sainsbury’s Digital about their design system. They look after several design systems under the Sainsbury’s group of companies and their team is merging a couple of those design systems now. It sounded as though their team was slightly less mature/established than ours, but most notable was their size – only 6 people. A much smaller unit with a comparable output to us.&lt;/p&gt;
+
+&lt;h2 id=&quot;ecocycle-planning&quot;&gt;Ecocycle planning&lt;/h2&gt;
+
+&lt;p&gt;Originally I was going to use a &lt;a href=&quot;https://miro.com/guides/retrospectives/how-to-run-sailboat-retrospective&quot;&gt;sailboat workshop&lt;/a&gt; to review the Frontend squad’s ways of working, looking at what we might change or add to better meet our goals, but I went with &lt;a href=&quot;https://www.liberatingstructures.com/31-ecocycle-planning/&quot;&gt;ecocycle planning&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;They’re similar workshops but ecocycle planning is oriented around taking actions rather than simply identifying what might be holding us back. It encourages people to think about which activities we’ll redesign and how. I’m more in favour of action-oriented workshops because they’re more productive and proactive – other structures promote complaining without suggesting remedial actions.&lt;/p&gt;
+
+&lt;h2 id=&quot;constraints-compromise-and-creativity&quot;&gt;Constraints, compromise and creativity&lt;/h2&gt;
+
+&lt;p&gt;This week I’ve been thinking a lot about constraints, compromise and creativity: creating the conditions that make it safe to fail or get things wrong, that enable quicker decision-making and lower risk-aversion, as well as supporting the creative endeavours of the team.&lt;/p&gt;
+
+&lt;p&gt;Product teams are staffed with creative people who work inside constraints and have to make compromises. This is true of all the disciplines on a cross-functional team: designers, developers, researchers, specialists and managers alike. Design the right stuff and build it right. Balance user needs with organisational demands. Make something valuable that’s feasible to implement. Weigh up competing priorities and commit to what will deliver the most value for the least effort.&lt;/p&gt;
+
+&lt;p&gt;When you look at the neuroscience behind creativity, it’s a muscle that needs to be exercised, playing off the Imagination and Salience networks against the Executive Attention network. These are neural pathways in your brain that will only get better through exercise. So while you can partly rely on team members to exercise these parts of their brain, it’s only fair to shape their working environment to encourage that exercise too.&lt;/p&gt;
+
+&lt;p&gt;The Double Diamond model balances creativity with constraints by creating a space for divergent ideas and encouraging convergence on a small set or mix of ideas. Agile phases allow us to work through risk mitigation activities, and a bunch of factors contribute to the compromises we need to make.&lt;/p&gt;
+
+&lt;p&gt;Anyway, all of that research led me to look into how psychedelic drugs impact the brain and encourage new neural pathways to fire up, hence the hallucinations. We experience images or modes of thinking that our Executive Attention network might inhibit. I guess this is how some people are utilising large language models, as a kind of hallucination without needing to do shrooms, acid, mescaline or DMT.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/archive/sometimes-you-need-an-editor-more-than-you-need-a-writer&quot;&gt;Sometimes you need an editor more than you need a writer A shortcut to clarity&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mckinsey.com/industries/public-and-social-sector/our-insights/fixing-the-ladder-how-uk-businesses-benefit-from-better-social-mobility&quot;&gt;Fixing the ladder: How UK businesses benefit from better social mobility&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2023/Feb/15/bing/&quot;&gt;Bing: “I will not harm you unless you harm me first”&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2023/02/15/maintenance&quot;&gt;Don’t bother me now I’m waxing my phone&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterate.org.uk/10-things-to-remember-when-preparing-for-a-service-standard-assessment/&quot;&gt;10 things to remember when preparing for a service standard assessment – iterate&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itpro.co.uk/development/open-source/370040/existential-tensions-put-open-source-on-the-warpath-to-crisis-point&quot;&gt;Existential tensions put open source on the warpath to crisis point&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/please-let-me-fail-failure-vulnerability-and-creativity-daccc41d7ac6&quot;&gt;Please let me fail: failure, vulnerability and creativity&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://modus.medium.com/why-compromise-is-the-great-design-superpower-fa9c1653f4da&quot;&gt;Why Compromise Is the Great Design Superpower&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/&quot;&gt;Design thinking was supposed to fix the world. Where did it go wrong?&lt;/a&gt;, 18 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/05921af7-6dbb-42ea-959e-9ddac4cadb1c&quot;&gt;Slouching towards Britcoin, part 1: Threadneedy Street&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ft.com/content/8a97c300-ff33-401a-8f45-569515466977&quot;&gt;Slouching towards Britcoin, part 2: Quids Game&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://the-blindspot.com/a-comprehensive-critique-of-britcoin-youre-welcome/&quot;&gt;A comprehensive critique of “Britcoin”. You’re welcome&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/twitter-sms-2fa/&quot;&gt;Twitter Drops SMS-Based Two-Factor Authentication for Unpaying Accounts, Effective March 20&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2023/02/never-use-a-url-shortening-service-even-if-you-own-it/&quot;&gt;Never use a URL shortening service - even if you own it&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.alistairuff.com/2023/02/17/2023-02-17/&quot;&gt;2023/02/17&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interconnected.org/home/2022/02/18/torment_nexus&quot;&gt;Metaverse got torment-nexused just as robot did a century before&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalbydefault.com/2023/02/17/week-48-52/&quot;&gt;Week 48/52&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 19 Feb 2023 11:29:00 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/19/the-psychedelic-drugs/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/19/the-psychedelic-drugs/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Sonder</title>
