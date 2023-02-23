@@ -5,9 +5,97 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Feb 2023 12:38:19 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Feb 2023 12:38:19 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2023 19:39:58 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2023 19:39:58 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Points and Counterpoints</title>
+        <description>&lt;p&gt;Writing these on Thursday instead of Saturday because I’m heading to Cardiff tomorrow.&lt;/p&gt;
+
+&lt;p&gt;This week I&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;had several one-to-ones (more coach than manager)&lt;/li&gt;
+  &lt;li&gt;caught up with a designer on their ideas for improving the information architecture of our &lt;a href=&quot;https://design-system.service.gov.uk/styles/&quot;&gt;styles guidance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ran a learning &amp;amp; development session on scoping &lt;a href=&quot;https://about.gitlab.com/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/&quot;&gt;iterations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;met with folks from Comms and Engagement to discuss ideas for launching &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/213&quot;&gt;Exit this Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;contributed to a retrospective and ran sprint planning&lt;/li&gt;
+  &lt;li&gt;reviewed the team’s thoughts on what we should work on next&lt;/li&gt;
+  &lt;li&gt;went to the International Design in Government call on working in the open&lt;/li&gt;
+  &lt;li&gt;caught up with our accessibility lead on our work around WCAG 2.2&lt;/li&gt;
+  &lt;li&gt;went to a team discussion on the work remaining for Exit this Page&lt;/li&gt;
+  &lt;li&gt;went to the Product &amp;amp; Technology directorate’s town hall&lt;/li&gt;
+  &lt;li&gt;listened in on a retrospective about leading epics&lt;/li&gt;
+  &lt;li&gt;kicked-off the discovery for Design System Day 2023 with the rest of the event planning gang&lt;/li&gt;
+  &lt;li&gt;met with Data Services to talk about our strategic KPIs and product analytics&lt;/li&gt;
+  &lt;li&gt;reported progress to the senior management team in a check-in&lt;/li&gt;
+  &lt;li&gt;shared a template for decision logs that we could use&lt;/li&gt;
+  &lt;li&gt;attended some training on recruitment at GDS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tomorrow I will&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;look at how we might add RSS feeds to the design system website&lt;/li&gt;
+  &lt;li&gt;continue prototyping a survey to help teams assess the impact of WCAG 2.2 on their services&lt;/li&gt;
+  &lt;li&gt;welcome &lt;a href=&quot;https://www.leaningforward.com&quot;&gt;Tom&lt;/a&gt; back to the GDS product community – yay!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve expanded on a couple of thoughts below but, as ever, if you want to talk or learn about any of the above, let me know.&lt;/p&gt;
+
+&lt;h2 id=&quot;meetings-workshops-communication-and-sense-making&quot;&gt;Meetings, workshops, communication and sense-making&lt;/h2&gt;
+
+&lt;p&gt;This was a hot topic on the team this week, and I think it’s always a contentious discussion these days. Yes, there are loads of meetings that could have been emails. Yes, spending a lot of time on video is draining. Yes, we have to try and juggle thinking with doing. Yes, some types of thinking are best not done in-person.&lt;/p&gt;
+
+&lt;p&gt;But I don’t think meetings are inherently bad. Or that every time people get together it’s a meeting, sometimes it’s a &lt;a href=&quot;https://www.nngroup.com/articles/workshops-vs-meetings/&quot;&gt;workshop&lt;/a&gt;. There’s nuance to all this. So I don’t think meetings should always be spoken about negatively.&lt;/p&gt;
+
+&lt;p&gt;We &lt;a href=&quot;https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/&quot;&gt;experimented with getting rid of meetings&lt;/a&gt; when I was on GOV.UK Pay, and the results were really interesting. The experiment helped us understand that nuance, so that we could better design methods for making decisions, collaborating on designs, sharing information and collecting thoughts.&lt;/p&gt;
+
+&lt;p&gt;Coincidentally, Elizabeth Ayer from 18F published a post on why meetings &lt;em&gt;are&lt;/em&gt; integral to knowledge work (see the bookmarks below), which was good because it was rooted in research. Good timing too. I don’t think it drew a divide on synchronous and asynchronous meetings, which is fine because a lot of what she’s saying applies to both styles of communication (in my opinion).&lt;/p&gt;
+
+&lt;p&gt;Anyway, I guess this is ground we’ll probably re-tread in every team over the next few years. Or perhaps forever. And that’s fair, right? Each team is staffed with individuals, individual styles and individual lives.&lt;/p&gt;
+
+&lt;p&gt;Let’s design our ways of working intentionally, to help us balance our work and our real lives.&lt;/p&gt;
+
+&lt;h2 id=&quot;broadcast-versus-engagement&quot;&gt;Broadcast versus engagement&lt;/h2&gt;
+
+&lt;p&gt;In the directorate town hall I asked about how some governance processes were being redesigned. The meeting last week where deputy directors read roadmaps back to teams was badged as a way to create more accountability and look sideways across the directorate. Which is fair. But, to be honest, it came out of the blue and felt like it wouldn’t achieve more accountability on its own. There had to be other changes in mind, surely?&lt;/p&gt;
+
+&lt;p&gt;For what it’s worth, I think it’s a good thing in general. We have our &lt;a href=&quot;https://design-system.service.gov.uk/community/roadmap/&quot;&gt;roadmap&lt;/a&gt;, &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues&quot;&gt;backlog&lt;/a&gt; and &lt;a href=&quot;https://github.com/orgs/alphagov/projects/53/views/36&quot;&gt;sprint board&lt;/a&gt; available openly. And I’m a giant nerd who writes about work at 6 p.m. on a Thursday.&lt;/p&gt;
+
+&lt;p&gt;There had been some changes to the directorate weeknote meaning teams didn’t have as much space to tell the stories of their work, that everything they shared had to be focussed around directorate objectives. Again, that’s not necessarily a bad thing, but it does reduce teams’ ability to look sideways – which I challenged our director on.&lt;/p&gt;
+
+&lt;p&gt;Tom Dolan, legend that he is, stepped in with a good point. He said how we probably need to design these practices to be about engagement, not just broadcast. Which was really salient. Which made me think: what if everything we’re doing to be transparent is a broadcast without any engagement? Radio waves pulsing out into the ether, without anyone listening.&lt;/p&gt;
+
+&lt;p&gt;Our sprint board is open but who’s holding us to account except ourselves?&lt;/p&gt;
+
+&lt;p&gt;One to ponder.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.leaningforward.com/blog/2023/02/weeknote-17th-feb-go-east/&quot;&gt;Weeknote 17th Feb – Go East&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petafloptimism.com/2023/02/19/reckonsgpt-call-my-bluffbot/&quot;&gt;ReckonsGPT / Call My Bluffbot&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mattedgar.com/2023/02/19/weeknote-13-to-17-february-2023/&quot;&gt;Weeknote: 13 to 17 February 2023&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jwz.org/blog/2023/02/meanwhile-in-the-desert-of-the-real/&quot;&gt;Meanwhile, in the Desert of the Real&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2023/Feb/20/this-ai-chatbot-sidney-is-misbehaving-nov-23-2022-microsoft-comm/&quot;&gt;This AI chatbot “Sidney” is misbehaving&lt;/a&gt;, 1 min&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linear.app/change&quot;&gt;Last Year You Said Next Year&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/&quot;&gt;Introducing: notes.jim-nielsen.com&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.foundbyfew.com/blog/return-of-the-blue-chip&quot;&gt;Return of the Blue Chip?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2022/12/12/making-the-gov-uk-frontend-typography-scale-more-accessible/&quot;&gt;Making the GOV.UK Frontend typography scale more accessible&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ElizAyer/meetings-are-the-work-9e429dde6aa3&quot;&gt;Meetings &lt;em&gt;are&lt;/em&gt; the work&lt;/a&gt;, 13 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vickyteinaki.com/blog/being-a-responsible-service-assessor/&quot;&gt;Being a responsible Service Standard assessor&lt;/a&gt;, 7 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 23 Feb 2023 18:16:02 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/23/the-points-and-counterpoints/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/23/the-points-and-counterpoints/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Psychedelic Drugs</title>
