@@ -5,9 +5,57 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Feb 2023 19:39:58 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Feb 2023 19:39:58 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Feb 2023 14:16:01 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2023 14:16:01 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>So, you work in a large-ish tech org</title>
+        <description>&lt;p&gt;This &lt;a href=&quot;https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a&quot;&gt;piece about Google&lt;/a&gt;, a tech organisation with 175,000+ staff, is an interesting read. Lots of parallels between it and organisations 1/20th their size, I imagine.&lt;/p&gt;
+
+&lt;p&gt;This is the line that hooked me:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Like mice, they are trapped in a maze of approvals, launch processes, legal reviews, performance reviews, exec reviews, documents, meetings, bug reports, triage, OKRs, H1 plans followed by H2 plans, all-hands summits, and inevitable reorgs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As much as the above &lt;em&gt;can&lt;/em&gt; be useful, you have to wonder at which point it all coagulates and gums the gears. (But even that’s the wrong metaphor to use: gardens, not machines.) It’d be a good experiment to get rid of processes and see what breaks, or re-design the governance and performance systems afresh.&lt;/p&gt;
+
+&lt;p&gt;Another notable paragraph was about impact:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The equation would change if the focus instead were on value creation. If you asked daily: “who did I create value for today”, you’d get to very different behavior. If every half-yearly plan identified “how much value will be generated in the world”, then that would lead to different thinking. I’d work harder if I could create more value and have more impact.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s hard to have conversations about value and impact currently because we can’t measure it well. The main thing I’m focusing on in my current role is giving the team the strategic apparatus to make decisions based on value and impact: refining the KPIs, implementing better feedback loops at the product level, setting guardrails so they know what’s not in their remit.&lt;/p&gt;
+
+&lt;p&gt;I don’t agree with everything in the post, not all organisations are the same, but the number of parallels were surprising.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Feb 2023 11:29:20 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/26/so-you-work-in-a-large-ish-tech-org/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/26/so-you-work-in-a-large-ish-tech-org/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What exists beyond</title>
+        <description>&lt;p&gt;From the &lt;a href=&quot;https://museum.wales/cardiff/whatson/11790/The-Sea-Horizon/&quot;&gt;Môrwelion&lt;/a&gt; exhibition at the National Museum of Wales:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The horizon is a symbolic and spiritual form that has occupied Garry Fabian Miller’s creative practice throughout his career: “The horizon is a speculative subject – what exists beyond? What is the future? Where are we travelling? With The Sea Horizon, I was trying to understand myself by looking at the horizon and I knew that if I looked for long enough, I’d begin to understand how I should be functioning in the world, and the emotional condition of being human and being alive.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 25 Feb 2023 12:44:36 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/25/what-exists-beyond/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/25/what-exists-beyond/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Points and Counterpoints</title>
