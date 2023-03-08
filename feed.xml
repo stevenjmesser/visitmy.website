@@ -5,9 +5,43 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Feb 2023 14:16:01 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2023 14:16:01 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2023 07:37:07 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2023 07:37:07 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Down Week</title>
+        <description>&lt;p&gt;Nothing much to share from last week. I was off sick for two days and did little of note at work:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;covered user support for a day&lt;/li&gt;
+  &lt;li&gt;iterated the survey for assessing WCAG 2.2’s impact on a service, and&lt;/li&gt;
+  &lt;li&gt;had plenty of one-to-ones.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another thing I started looking into was our runway. There’s no profit motive in public service, but there is a need to deliver value for money for the taxpayer. The standard cost–benefit ratio is 2.4: if you’re creating 2.4 times as many benefits as it costs you to run, that’s a good thing. If we make a thing and it’s used by one team, they might as well have made it themselves. But given that we tend to focus on common problems, I’m expecting that we’re almost always delivering a better cost–benefit ratio.&lt;/p&gt;
+
+&lt;p&gt;It’s possible I returned to work too early though. Every evening I felt tired, and on Friday I was wiped. I did nothing on Saturday and felt better.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a&quot;&gt;The maze is in the mouse&lt;/a&gt;, 17 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90854287/has-design-become-too-dogmatic&quot;&gt;Has design become too dogmatic?&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jarche.com/2023/02/hierarchies-experts-and-dogma/&quot;&gt;Hierarchies, experts, and dogma&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/202x/2023/01/16/Class-Reductionism&quot;&gt;Class Reductionist&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell&quot;&gt;I don’t want to log in to your website&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2023/3/2/23620442/garmin-smartwatch-forerunner-265-965-oled-wearable&quot;&gt;Garmin brings OLED displays to its latest Forerunner watches&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 Mar 2023 07:32:23 +0000</pubDate>
+        <link>https://visitmy.website/2023/03/08/the-down-week/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/03/08/the-down-week/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>So, you work in a large-ish tech org</title>
