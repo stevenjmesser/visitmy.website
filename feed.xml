@@ -5,9 +5,123 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Mar 2023 14:02:04 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2023 14:02:04 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2023 21:17:25 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2023 21:17:25 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Assessment Report</title>
+        <description>&lt;p&gt;Though I’d like to write these weeknotes this morning (Monday), my brain is nagging me to get started with the working day. These notes &lt;em&gt;are&lt;/em&gt; a part of my work, brain! But I’m going to give in to you, partly, so let me get a vague outline down first.&lt;/p&gt;
+
+&lt;p&gt;Last week I&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spent all Monday writing up the report for a service assessment (mentioned last week)&lt;/li&gt;
+  &lt;li&gt;scoped what we want to get out of hiring a coach for the team&lt;/li&gt;
+  &lt;li&gt;ran through the vision for the GOV.‌UK Design System community, plus its strategy and what’s happened so far&lt;/li&gt;
+  &lt;li&gt;thoughts about ways we might communicate the need for alternating but complementing product strategies in our directorate&lt;/li&gt;
+  &lt;li&gt;turned up to a screening of a &lt;a href=&quot;https://www.youtube.com/watch?v=hSntTASmKxc&quot;&gt;running film&lt;/a&gt; too late and couldn’t see it (which made me sad)&lt;/li&gt;
+  &lt;li&gt;chatted to a colleague in the GOV.‌UK policy team about non-government websites using &lt;a href=&quot;https://designnotes.blog.gov.uk/2015/03/11/can-i-use-the-gov-uk-fonts/&quot;&gt;GDS Transport&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;chatted to another colleague in the GOV.‌UK policy team about the GOV.‌UK ‘brand’&lt;/li&gt;
+  &lt;li&gt;was part of &lt;a href=&quot;https://zeroheight.com&quot;&gt;zeroheight&lt;/a&gt;’s research on design system teams&lt;/li&gt;
+  &lt;li&gt;gave feedback to people on the team, as they prepare for end-of-year reviews and skills assessments&lt;/li&gt;
+  &lt;li&gt;thought about how we might re-jig our sprint cycles (along with our delivery manager)&lt;/li&gt;
+  &lt;li&gt;wrote down why we think it’ll be beneficial and what problems the team raised in retros that it’s designed to solve&lt;/li&gt;
+  &lt;li&gt;thought about how we’ll train the team on storytelling skills&lt;/li&gt;
+  &lt;li&gt;shared ideas for community management with GOV.‌UK Notify&lt;/li&gt;
+  &lt;li&gt;met a new member of the GDS product community, who’s looking at native apps&lt;/li&gt;
+  &lt;li&gt;put out a call for service teams to &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/275&quot;&gt;share insights on what they learned when building native apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;caught up with the assurance lead from the service assessment&lt;/li&gt;
+  &lt;li&gt;transcribed a voice recording using OpenAI’s open-source &lt;a href=&quot;https://github.com/openai/whisper&quot;&gt;whisper&lt;/a&gt; tool&lt;/li&gt;
+  &lt;li&gt;recorded the work done so far to revive the KPI dashboards for the GOV.‌UK Design System’s performance framework&lt;/li&gt;
+  &lt;li&gt;costed the work done on a component and pattern&lt;/li&gt;
+  &lt;li&gt;gave feedback on the outline of a blog post&lt;/li&gt;
+  &lt;li&gt;completed the first week of my ultramarathon training programme, and&lt;/li&gt;
+  &lt;li&gt;celebrated 12 weeks of not drinking 🥳&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was a busy week of doing bitty things, not finishing anything significant, which hangs over your head a lot. Was grateful of uninterrupted time on Friday to get lots done.&lt;/p&gt;
+
+&lt;h2 id=&quot;service-assessments&quot;&gt;Service assessments&lt;/h2&gt;
+
+&lt;p&gt;Scribbling down shower-thoughts on service assessments here. A service assessment provides two functions: for the service team, it’s a peer review; for the service organisation (the programme, the directorate, the organisation as whole, whatever), it’s an investor meeting.&lt;/p&gt;
+
+&lt;p&gt;The service team gets an opportunity to demonstrate its ways of working and get feedback from other people doing a similar job. If they’re stuck or struggling, the panel can ask questions, talk it through, and provide recommendations for what to do next time. If the team is doing well, they get applauded by other folks in the community and they feel good about their work.&lt;/p&gt;
+
+&lt;p&gt;For the organisation, an assessment is an opportunity to show you’re using public money well and can deliver outcomes. This is a lot like an early-stage startup pitching to investors (for a Series A or beyond): you show not only your vision and the potential for creating value, but also how you’ve managed to create value so far. Investors don’t want you to haemorrhage money, and neither does the public. Investors only care about your vision if you have the ability to realise it. Venture capitalists these days are &lt;a href=&quot;https://techcrunch.com/2021/09/20/vc-mark-suster-the-bet-were-making-now-is-on-founder-skills-not-customers-or-products/&quot;&gt;betting on founders, not products&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;gds-transport&quot;&gt;GDS Transport&lt;/h2&gt;
+
+&lt;p&gt;The font on GOV.‌UK is part of the brand, it’s how people recognise government services on the web. There are controls around who can use it and in what circumstances, but sometimes the wrong people get their hands on it and create malicious websites.&lt;/p&gt;
+
+&lt;p&gt;The benefits of making the GOV.‌UK Design System open source and easily available outweigh the benefits of closing it off. (And the Web is, by design, open by default anyway.) But I’m wondering if there’s more we can do to protect the font. Plus monitor misuse.&lt;/p&gt;
+
+&lt;p&gt;If you know of decent open-source tools that act like web spiders and detect certain code fragments or resources loading, let me know.&lt;/p&gt;
+
+&lt;h2 id=&quot;native-apps-and-equitable-services&quot;&gt;Native apps, and equitable services&lt;/h2&gt;
+
+&lt;p&gt;10 years ago, there were good reasons to all-but-ban government from making apps for mobile devices. The policy changed slightly over the years, and so did government’s ability to deliver cost-effective technology that meets users’ needs. So now there’s a good reason to look at making it easier for service teams to deliver consistent native apps.&lt;/p&gt;
+
+&lt;p&gt;So we put &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/275&quot;&gt;a call out for findings and insights from teams who have built apps&lt;/a&gt;. This’ll not only help us put together some guidance for the design system, but it’ll also feed into the strategy for mobile apps that CDDO is working on.&lt;/p&gt;
+
+&lt;p&gt;Personal opinion: I think it’s a good thing, and I’ve heard ‘guardrails’ mentioned a few times, so there’s a good attitude towards this. A free-for-all on apps it ain’t. But another personal opinion: I think we need higher level guardrails.&lt;/p&gt;
+
+&lt;p&gt;This is something that plagued me when I worked on personalisation, and I don’t think I can describe it well, but there’s a need to make sure that service provision and delivery is equitable. You shouldn’t have a better experience or reach a higher-quality outcome just because you have access to digital devices, have digital skills, or have shared some personal data.  We need a way to keep things consistent across online and offline channels.&lt;/p&gt;
+
+&lt;p&gt;Use computers to do things that computers do well, so that we can redeploy people to do things that people do well. Put a human touch back into government services.&lt;/p&gt;
+
+&lt;h2 id=&quot;friday-lunch&quot;&gt;Friday lunch&lt;/h2&gt;
+
+&lt;p&gt;Decided to treat myself to lunch at &lt;a href=&quot;https://stjohnrestaurant.com/a/restaurants/bread-and-wine&quot;&gt;St John&lt;/a&gt; on Friday. Had cauliflower with white beans and leek, in a lemon dill dressing. Big pile of chips on the side. Rhubarb &amp;amp; almond tart for dessert. It was bloody great.&lt;/p&gt;
+
+&lt;p&gt;There must be other food-loving folks out there. Does anyone fancy joining a &lt;a href=&quot;/2022/11/02/lunch-club/&quot;&gt;lunch club&lt;/a&gt;?&lt;/p&gt;
+
+&lt;h2 id=&quot;whisper&quot;&gt;Whisper&lt;/h2&gt;
+
+&lt;p&gt;Played around with OpenAI’s &lt;a href=&quot;https://github.com/openai/whisper&quot;&gt;whisper&lt;/a&gt;, some machine-learning sorcery that turns audio files into text. I had &lt;a href=&quot;/2023/03/16/facsimile/&quot;&gt;a Big Idea for using it to document meetings&lt;/a&gt;, so it’s easier to write weeknotes. But it took several hours to turn a 45-minute audio file into a text document. Likely due to how naff the GPU on my Mac Mini is. I’ll see how it fares operating in the background on a work day.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-drinking&quot;&gt;Not drinking&lt;/h2&gt;
+
+&lt;p&gt;This year, I’ve only had low- or no-alcohol beverages to drink. As someone who loves a drop of booze, this is the longest I’ve gone without a drink since I was a teenager. So well done me.&lt;/p&gt;
+
+&lt;p&gt;Truth be told, it’s been easy so far. I do miss drinking wine in restaurants, but that’s the only time I’ve had a hankering for a drink.&lt;/p&gt;
+
+&lt;p&gt;12 weeks booze-free though!&lt;/p&gt;
+
+&lt;h2 id=&quot;ultramarathon-training&quot;&gt;Ultramarathon training&lt;/h2&gt;
+
+&lt;p&gt;Week one of ultramarathon training done. I ran 45km over 4 sessions: 1 block of intervals, 2 easy runs, and 1 long run. By Saturday I was pooped and nearly fell asleep in the Tate Modern, but that also might have been the lovely food at &lt;a href=&quot;https://theeaglefarringdon.co.uk&quot;&gt;The Eagle&lt;/a&gt;, Farringdon. I’m feeling good about the training though, and it’s so so so good to be back out there, running.&lt;/p&gt;
+
+&lt;p&gt;15 weeks to go!&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinrendle.com/notes/vibe-driven-development/&quot;&gt;Vibe Driven Development&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jarche.com/2013/03/the-knowledge-sharing-paradox/&quot;&gt;The knowledge sharing paradox&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oblomovka.com/wp/2023/03/13/text-at-gunpoint/&quot;&gt;Text at Gunpoint&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ethanmarcotte.com/wrote/design-system-adoption/&quot;&gt;Adoption&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frankrausch.com/tutorials/ios-navigation&quot;&gt;Modern iOS Navigation Patterns beta&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.leaningforward.com/blog/2023/03/weeknote-11th-ish-march-lean-life-gds-week-4/&quot;&gt;Weeknote 11th-ish March – Lean life (GDS week 4)&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oblomovka.com/wp/2023/03/15/only-fans/&quot;&gt;Only fans&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ethanmarcotte.com/wrote/tooled/&quot;&gt;Tooled&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/&quot;&gt;What Makes Work Meaningful — Or Meaningless&lt;/a&gt;, 28 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oblomovka.com/wp/2023/03/17/ai-eeeeee/&quot;&gt;ai-eeeeee&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andrewsultrablog.blogspot.com/2021/02/week-in-review-my-first-ultramarathon.html&quot;&gt;Week in review: My first ultramarathon of 2021 (2021 - Week 8)&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://we-make-money-not-art.com/invention-and-innovation-a-brief-history-of-hype-and-failure/&quot;&gt;Invention and Innovation. A Brief History of Hype and Failure&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.leaningforward.com/blog/2023/03/weeknote-18th-march/&quot;&gt;Weeknote – 18th March – Work in Progress&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diamondgeezer.blogspot.com/2023/03/emergency-alert-test.html&quot;&gt;Emergency Alert test&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chasem.co/2023/03/weblogs-as-a-form/&quot;&gt;How blogs shaped the web&lt;/a&gt;, 6 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Mar 2023 09:03:15 +0000</pubDate>
+        <link>https://visitmy.website/2023/03/20/the-assessment-report/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/03/20/the-assessment-report/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>Facsimile</title>
