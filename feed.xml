@@ -5,9 +5,88 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2023 13:57:23 +0100</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2023 13:57:23 +0100</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2023 08:28:16 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2023 08:28:16 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Threeknotes</title>
+        <description>&lt;p&gt;The last time I wrote weeknotes was three weeks ago, and these are hanging over my head somewhat – so I want to get something out there to clear brain space.&lt;/p&gt;
+
+&lt;p&gt;Over the last three weeks I&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;prepared a template for running team health checks&lt;/li&gt;
+  &lt;li&gt;presented our thoughts on a growth strategy to the senior management team&lt;/li&gt;
+  &lt;li&gt;gave a presentation on the design system to a delegation from Mexico&lt;/li&gt;
+  &lt;li&gt;started thinking about how we might frame a strategic discovery for the design system&lt;/li&gt;
+  &lt;li&gt;met with a colleague from CDDO to find out if they had any information that might form part of a market analysis&lt;/li&gt;
+  &lt;li&gt;scoped the &lt;a href=&quot;https://github.com/alphagov/govuk-frontend/milestone/54&quot;&gt;v4.6&lt;/a&gt; and &lt;a href=&quot;https://github.com/alphagov/govuk-frontend/milestone/46&quot;&gt;v5&lt;/a&gt; releases of govuk-frontend with our tech leads&lt;/li&gt;
+  &lt;li&gt;planned a team away day&lt;/li&gt;
+  &lt;li&gt;did some training on resolving team tensions&lt;/li&gt;
+  &lt;li&gt;helped shuffle along the team’s work on &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/213&quot;&gt;Exit this Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;caught up &lt;a href=&quot;https://www.vickyteinaki.com&quot;&gt;Vicky&lt;/a&gt; on where the design system could do a better job of positioning itself to users&lt;/li&gt;
+  &lt;li&gt;delivered the team away day, including a section on making community engagement central to our work, plus some product principles to help guide us&lt;/li&gt;
+  &lt;li&gt;caught up with the team working on the Digital Identity app, so they can shape what they’ve learned into insights for guidance on &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/275&quot;&gt;native apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;joined a workshop on branding&lt;/li&gt;
+  &lt;li&gt;revised parts of the service assessment report (mentioned in the previous weeknotes)&lt;/li&gt;
+  &lt;li&gt;met with GOV.‌UK’s new director, Chris (who’s great)&lt;/li&gt;
+  &lt;li&gt;had a couple of catch-ups with our deputy director, Amanda (who’s awesome), and&lt;/li&gt;
+  &lt;li&gt;planned kicking off the new quarter, including adapting our sprint cycle and introducing an epic WIP limit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It felt like I was a part of a lot of change. It did feel a bit heavy, which is why I didn’t find time to write weeknotes. But it’s all good change in the right direction.&lt;/p&gt;
+
+&lt;p&gt;I’m getting involved in a few strategic projects, which is exciting and where I feel my best. It’s been very rewarding to see how all the thinking we did on ‘personalisation’ – which was never and still isn’t the right term – has progressed. And I’ve been grateful to get involved in it some more now that I’m back at GDS.&lt;/p&gt;
+
+&lt;p&gt;One thing I’m very conscious of is my contract end date. With the changes we’re making to our team’s ways of working, which adapts its culture, there’s not as much of a worry because I’ll be around for the next 10 months to address anything that needs it. But with the strategy work, I’m making sure to scope things well so that the senior PM doesn’t return to a half-finished project. The responsible cut-off points are the end of a discovery or alpha: either a set of insights and opportunities to pursue, or a collection of validated ideas that can be shaped up to be implemented.&lt;/p&gt;
+
+&lt;p&gt;For the higher level stuff, the Digital Service Platforms strategy and the cross-GDS strategy, I’m mostly feeding in to projects in motion. So the knowledge won’t leave with me, which is good. (Although I would really like to stick around on those.)&lt;/p&gt;
+
+&lt;p&gt;This is making me think back to a previous note about &lt;a href=&quot;/2022/11/09/a-team-for-thinking-big-and-starting-small/&quot;&gt;thinking big and starting small&lt;/a&gt;, which is the sort of work I’d like to do going forward. I’m not sure what job title encapsulates that work: strategy consultant has too many bad connotations, and I’d want to own the failures (more than the successes) of anything I worked on.&lt;/p&gt;
+
+&lt;p&gt;Perhaps I need to work up my innovation chops. Get a bit more experience hearing a brief, setting to work on it, and delivering something after a few months. Agency work, I suppose, but in-house stuff would be nice. I don’t want to be managing teams for ever, I don’t get to use my creative juices enough on that (mostly managerial) work. (Although it is good when a team needs a new strategic direction and all the culture work that goes with it.)&lt;/p&gt;
+
+&lt;p&gt;Didn’t expect to do any reflection this morning but there it is.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bryanbraun.com/2023/03/17/theres-a-lot-to-like-about-the-web-share-api/&quot;&gt;There’s a lot to like about the Web Share API&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://randsinrepose.com/archives/the-worry-police/&quot;&gt;The Worry Police&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/&quot;&gt;Digital transformation in government: addressing the barriers to efficiency&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chasem.co/2018/02/designing-proactively/&quot;&gt;Designing proactively&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zellwk.com/blog/beginner-and-intermediate-web-development-setup-2022/&quot;&gt;Setting up Visual Studio Code for Web Development — For Beginners and Intermediate Developers&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matthewstrom.com/writing/platform-design/&quot;&gt;What it means to design a platform&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2023/mar/24/nhs-medical-cannabis-patients-private-law-products&quot;&gt;The NHS can prescribe medical cannabis. So why are desperate patients being forced to buy privately?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane&quot;&gt;Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’&lt;/a&gt;, 11 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://automatter.substack.com/p/openai-crosses-the-zapier-barrier&quot;&gt;OpenAI crosses the Zapier Barrier&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://montane.com/blogs/blog/how-to-pack-light-for-summer-adventures&quot;&gt;How to pack light for summer adventures&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2023/3/24/23655844/gordon-moore-intel-co-founder-creator-moores-law-died&quot;&gt;Gordon Moore, Intel co-founder and creator of Moore’s Law, has died&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2023/3/24/23654831/tiktok-congressional-hearing-xenophobia-china&quot;&gt;That TikTok hearing was pretty messed up, right?&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/&quot;&gt;I built a ChatGPT plugin to answer questions about data hosted in Datasette&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diamondgeezer.blogspot.com/2023/03/you-know-what-this-map-needs.html&quot;&gt;You know what this map needs?&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://christianheilmann.com/2023/03/24/wysiwygpt/&quot;&gt;WYSIWYGPT&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newstatesman.com/the-weekend-interview/2023/03/john-curtice-interview-tories-polls&quot;&gt;John Curtice on how the Tories are “stuffed”&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.economist.com/leaders/2023/03/23/the-machinery-structure-and-output-of-the-british-state-need-reform&quot;&gt;The machinery, structure and output of the British state need reform&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bma.org.uk/advice-and-support/your-wellbeing/vicarious-trauma/vicarious-trauma-signs-and-strategies-for-coping&quot;&gt;Vicarious trauma: signs and strategies for coping&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thejaymo.tumblr.com/post/713127336999043072/im-blogging-right-now&quot;&gt;“I’m Blogging Right Now”&lt;/a&gt;, 1 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ra.co/news/78759&quot;&gt;‘Prohibition doesn’t work’: UK club community responds to proposed nitrous oxide ban&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2023/3/31/23664451/italy-bans-chatgpt-over-data-privacy-laws&quot;&gt;Italian regulators order ChatGPT ban over alleged violation of data privacy laws&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vickyteinaki.com/newsletter/27-mess/&quot;&gt;Mess&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://valchanova.me/power-reader/&quot;&gt;Becoming a Power Reader: Battling Information Overload, Developing Skills, and Building a Personal Brand&lt;/a&gt;, 10 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jarche.com/2023/03/the-possible-nightmare/&quot;&gt;the possible nightmare&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pxlnv.com/linklog/bitcoin-whitepaper-macos/&quot;&gt;The Bitcoin Whitepaper Is Hidden in MacOS&lt;/a&gt;, 1 min&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2023 07:37:57 +0100</pubDate>
+        <link>https://visitmy.website/2023/04/13/the-threeknotes/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/04/13/the-threeknotes/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>3 months, no booze</title>
@@ -289,7 +368,7 @@
 
 &lt;p&gt;So, while each product is successful in its own right, they are each chasing the same market and competing with each other for attention. And there are more service teams with a low digital maturity out there, compared to 2015, for whom a different approach is needed.&lt;/p&gt;
 
-&lt;p&gt;Amanda summed it up well: “We’re shipping the org chart, which isn’t what users need.” She’s right. &lt;em&gt;So&lt;/em&gt; right. Why consider a payments platform or a notifications platform in isolation? If you’re looking to transform a service, or build one from scratch, you might need to consider both. So what can we do as a directorate to make that easier for service teams? How can we position our products and engage with services (and their decision-makers) to maximise the impact we have on making it easier and cheaper to build digital services.&lt;/p&gt;
+&lt;p&gt;Amanda summed it up well: “We’re &lt;a href=&quot;https://digidahl.wordpress.com/2023/04/02/dont-ship-your-org-chart/&quot;&gt;shipping the org chart&lt;/a&gt;, which isn’t what users need.” She’s right. &lt;em&gt;So&lt;/em&gt; right. Why consider a payments platform or a notifications platform in isolation? If you’re looking to transform a service, or build one from scratch, you might need to consider both. So what can we do as a directorate to make that easier for service teams? How can we position our products and engage with services (and their decision-makers) to maximise the impact we have on making it easier and cheaper to build digital services.&lt;/p&gt;
 
 &lt;p&gt;It’s something I thought back in 2021, that some Zapier-like no-code service builder might join together the different platforms. And now we’ve got GOV.‌UK Forms, that’s an even more possible prospect.&lt;/p&gt;
 
