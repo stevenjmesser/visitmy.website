@@ -5,9 +5,110 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2023 08:28:16 +0100</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2023 08:28:16 +0100</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2023 07:21:16 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2023 07:21:16 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Slidehole</title>
+        <description>&lt;p&gt;You know what, I’ve been up for two hours already, let’s write some weeknotes. It’s the fault of a pizza with huge amounts of blue cheese on it – that or the cat – but I’ll assume it’s the &lt;em&gt;formaggio&lt;/em&gt;. The cat’s having a bad time with one of his neighbours, no need to add to his load.&lt;/p&gt;
+
+&lt;p&gt;Once again, I missed writing last week’s notes, so you’ve got a double episode today. There won’t be any notes next week as I’m taking time off to &lt;a href=&quot;https://irunfar.com/the-definitive-guide-to-fastpacking&quot;&gt;fastpack&lt;/a&gt; from Machynlleth to Penryndeudraeth, and then hang out with the ‘in-laws’. And there might not be any notes after that if I die in south Snowdonia, but fingers crossed…&lt;/p&gt;
+
+&lt;p&gt;Over the last two weeks, I&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kicked off the new quarter with the team, including a new roadmap and an adapted sprint cycle for one squad&lt;/li&gt;
+  &lt;li&gt;caught up with &lt;a href=&quot;https://www.linkedin.com/in/courtney-rj-allen/&quot;&gt;Courtney&lt;/a&gt; through the cross-government product manager buddying scheme&lt;/li&gt;
+  &lt;li&gt;prepped slides for sharing our growth strategy with our director, &lt;a href=&quot;https://fatokun.com/#about&quot;&gt;Abisola&lt;/a&gt;, although my thoughts on this are changing with each day&lt;/li&gt;
+  &lt;li&gt;started iterating and adding to the &lt;a href=&quot;https://github.com/alphagov/design-system-team-docs&quot;&gt;GOV.‌UK Design System team playbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;laid out &lt;a href=&quot;https://github.com/orgs/alphagov/projects/46?pane=issue&amp;amp;itemId=15258274&quot;&gt;plans for making the design system compliant with WCAG 2.2&lt;/a&gt; with our accessibility specialist and delivery manager&lt;/li&gt;
+  &lt;li&gt;returned the revised service assessment report to CDDO&lt;/li&gt;
+  &lt;li&gt;signed up for a tool that will help us automatically identify which services are using the design system&lt;/li&gt;
+  &lt;li&gt;joined &lt;a href=&quot;https://www.leaningforward.com&quot;&gt;Tom&lt;/a&gt;’s excellent product community session on value-for-money and financial ownership&lt;/li&gt;
+  &lt;li&gt;pulled together a set of &lt;a href=&quot;/2023/04/18/formats-for-show-and-tells/&quot;&gt;formats for show &amp;amp; tells&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;caught up with colleagues working on native apps&lt;/li&gt;
+  &lt;li&gt;thought about how we might shift the GOV.‌UK Frontend squad from Scrum delivery patterns to something more Kanban or Shape Up&lt;/li&gt;
+  &lt;li&gt;continued that thinking in a team workshop about what sucks and what works well about our current delivery pattern&lt;/li&gt;
+  &lt;li&gt;got together with folks thinking about threat intelligence and brand protection (see thoughts on GDS Transport in &lt;a href=&quot;/2023/03/20/the-assessment-report/&quot;&gt;S14E10&lt;/a&gt;) – all thanks to &lt;a href=&quot;https://huwdiprose.co.uk&quot;&gt;Huw&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;chatted over how we might measure the success of the GOV.‌UK Design System community with our community designer&lt;/li&gt;
+  &lt;li&gt;had a one-to-one with a coach we’ve hired to help the team and team leads&lt;/li&gt;
+  &lt;li&gt;did more work on strategy slide decks&lt;/li&gt;
+  &lt;li&gt;went deeper into the slidehole and prepared two other decks: a show &amp;amp; tell on how we’ve adapted our ways of working, and a simple intro to this Friday’s community call&lt;/li&gt;
+  &lt;li&gt;chatted to a designer about a discovery we’re going to start, which will look at doing organisation design for our directorate&lt;/li&gt;
+  &lt;li&gt;refined the comms plan for &lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/213&quot;&gt;Exit this Page&lt;/a&gt; with the epic leads&lt;/li&gt;
+  &lt;li&gt;shared notes with &lt;a href=&quot;https://richardpope.org&quot;&gt;Richard&lt;/a&gt; on what future services could do and look like, and&lt;/li&gt;
+  &lt;li&gt;crystallised how we might kill sprint cycles in favour of epic cycles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today I’m going to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;write an RFC for adjusting GOV.‌UK Frontend’s delivery pattern&lt;/li&gt;
+  &lt;li&gt;kick off one of the prerequisite epics for our work on &lt;a href=&quot;https://github.com/alphagov/govuk-frontend/milestone/46&quot;&gt;v5.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;facilitate the Friday community call, and&lt;/li&gt;
+  &lt;li&gt;dip into the slidehole once more and do an asynchronous check-in with our senior management team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;playbook&quot;&gt;Playbook&lt;/h2&gt;
+
+&lt;p&gt;Every team documents how it does things. It can happen on the fly, meaning team processes and principles live inside people’s heads and multiple documents. But once it gets hard to find or share that information, you need to rethink where it lives.&lt;/p&gt;
+
+&lt;p&gt;I started building &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1430436547371929602&quot;&gt;our playbook at Claimer&lt;/a&gt; very early, which made it easier to update whenever the way we worked changed. And that happens &lt;em&gt;a lot&lt;/em&gt; at an early-stage startup. How the GOV.‌UK Design System team works has changed a lot over the years, and it’s hard to find docs for things. So when Kelly, our DM, said she’d wanted to get something online for a while, we span up a new home for the &lt;a href=&quot;https://github.com/alphagov/design-system-team-docs&quot;&gt;team playbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot to get in there, but it feels right to make this open. We want the community to see how we work, feed back on it, and use our methods if they’d like. It’s how we can open up the design system and transfer some power to the community.&lt;/p&gt;
+
+&lt;p&gt;Plus, practically speaking, it’s a good way for our team docs to survive whatever &lt;a href=&quot;https://www.civilserviceworld.com/professions/article/cabinet-office-move-data-users-google-microsoft&quot;&gt;IT megaproject&lt;/a&gt; comes along to change our toolset. The Web won’t go away, so we can keep our things there.&lt;/p&gt;
+
+&lt;h2 id=&quot;value-for-money&quot;&gt;Value-for-money&lt;/h2&gt;
+
+&lt;p&gt;Product management is value management, and though not all value is measured in money, a lot of it is. Plus, why spend £1 million doing something that might not work when you can spend £250,000 to work out what will? So you have to know how to work out a return-on-investment for being a product manager.&lt;/p&gt;
+
+&lt;p&gt;Tom lead a great community session using a slide deck of principles from his time at &lt;a href=&quot;https://www.gov.uk/government/organisations/department-for-international-trade&quot;&gt;DIT&lt;/a&gt;, which I really hope he’ll turn into a blog post.&lt;/p&gt;
+
+&lt;h2 id=&quot;delivery-patterns&quot;&gt;Delivery patterns&lt;/h2&gt;
+
+&lt;p&gt;I’m f-ing bored of Scrum and Kanban. They have their uses but I’m sick to death of trudging through each work week in the same style, all the time. More pragmatically, we’re using Scrum on a squad where we don’t need to adapt to user feedback, so it’s just the wrong methodology.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I’d like to change things.&lt;/p&gt;
+
+&lt;p&gt;Any plan you form for a piece of work is a set of imagined tasks, and as you start doing the work you discover new tasks that have to happen. This makes it hard to work out how long something will take or when you’ll be done. Which means the sprint goals and end dates keep changing: that’s demoralising for the team and eyebrow-raising for senior management.&lt;/p&gt;
+
+&lt;p&gt;A way around this is a timeboxed exploration for uncovering uncertainty. Spend 3–5 days working on things you don’t know how to do, or areas of complexity. The team will learn more about how it all works and the level of effort that’ll be needed. Some time spent figuring it out means we’re better at getting it done.&lt;/p&gt;
+
+&lt;p&gt;This is something I borrowed from &lt;a href=&quot;https://basecamp.com/shapeup/3.4-chapter-13&quot;&gt;Shape Up&lt;/a&gt; when working at the startup, and it worked really well. I’d like to test it our with our team, so we’ll see how it goes.&lt;/p&gt;
+
+&lt;h2 id=&quot;ultramarathon-training&quot;&gt;Ultramarathon training&lt;/h2&gt;
+
+&lt;p&gt;When I last spoke about this, I mentioned how I’d run 45km in one week and felt a little tired but was mostly positive. That outlook has changed! The week after that, I ran a hard workout and later came down with some fever symptoms. After a couple of days off work, I tried a long easy run, and that threw me straight back into fever symptoms again.&lt;/p&gt;
+
+&lt;p&gt;Turns out it was overtraining. Though I regularly trained 35km a week for the majority of last year, doing more distance in some weeks, I just didn’t have enough volume or consistency to jump up and progress towards the ultramarathon distance.&lt;/p&gt;
+
+&lt;p&gt;So I’ve read a book on endurance training, created a new plan, and will work up more gradually again. I think I can still compete in the ultra, even if I have to walk a huge part of it, but clearly I can’t put my body through too much stress too quickly.&lt;/p&gt;
+
+&lt;p&gt;On the positive side, I learned that I have more mental fortitude than I originally thought. That’s growth! So, yeah, it was good to feel like death for a few days.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leave-the-road-and.run/i-love-dnfs/&quot;&gt;I Love DNFs…&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-2ed96ceb-c907-489a-8dd8-f07ed8c77bd0&quot;&gt;You Probably Shouldn’t Work at a Startup&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ianfrostweather.com/web/2023-state-of-design-systems/&quot;&gt;2023 State of Design Systems and Where We Take Them Next&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fo.am/blog/2021/06/19/becoming-realists-of-a-larger-reality/&quot;&gt;Becoming Realists of a Larger Reality&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bryanhaggerty.com/blog/2012/11/proud_enough_to_put_your_name_on_it/&quot;&gt;Proud Enough to Put Your Name on It&lt;/a&gt;, 2 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rei.com/learn/expert-advice/meal-planning-for-ultralight-backpacking.html&quot;&gt;Meal Planning for Ultralight Backpacking&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulstamatiou.com/craft/&quot;&gt;Craft&lt;/a&gt;, 22 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digidahl.wordpress.com/2023/04/10/the-somewhat-depressing-reality-of-ordeals-vs-human-centred-government-services/&quot;&gt;The counter-productive reality of ordeals vs human centred government services&lt;/a&gt;, 3 mins&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Apr 2023 05:04:49 +0100</pubDate>
+        <link>https://visitmy.website/2023/04/21/the-slidehole/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/04/21/the-slidehole/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Threeknotes</title>
