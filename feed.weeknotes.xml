@@ -5,9 +5,76 @@
     <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
     <link>https://visitmy.website</link>
     <atom:link href="https://visitmy.website/feed.weeknotes.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2023 07:21:16 +0100</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2023 07:21:16 +0100</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 06:11:31 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 06:11:31 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Early Morning Reflection</title>
+        <description>&lt;p&gt;For the first time in ages, I’ve woken up at 4 a.m. thinking about work. It’s hard to keep a track on my work without writing it down too, which means a return to weeknoting and journalling what I’m doing will help.&lt;/p&gt;
+
+&lt;p&gt;But given I haven’t written any weeknotes since, ahem, late April, I’ve got a few months to catch up on. Loads happening, so these notes will be brief.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-things&quot;&gt;Work things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Changes to the cadence of how our whole team operates has gone well, and bringing more rigour to show &amp;amp; tells has helped with cross-team awareness and knowledge sharing.&lt;/li&gt;
+  &lt;li&gt;Leading the team coaching alongside our coach, &lt;a href=&quot;https://www.stefanpowell.co.uk&quot;&gt;Stefan&lt;/a&gt;, has been fantastic, and it’s highlighting which team-forming workshops are a must (establishing ground rules, mapping roles and responsibilities across a value stream, working to a shared vision, etc.).&lt;/li&gt;
+  &lt;li&gt;The growth strategy I started working on is kicking off properly in October, as a discovery with our users. There’s not enough evidence to hand to validate assumptions with, and unlike other design systems we don’t have the closed boundary of a company to help set one strategy for all teams.&lt;/li&gt;
+  &lt;li&gt;That discovery will only look at opportunities for feature work, scaling work or extending product-market fit, though: the community strategy is at the heart of the GOV.‌UK Design System’s growth, and we’ve begun planning a small conference.&lt;/li&gt;
+  &lt;li&gt;Do you shape people’s experiences of using the web? Designers, developers, researchers, UXers, product managers, content folk, and other tech superstars of all shapes and sizes, come along to &lt;a href=&quot;https://design-system.service.gov.uk/community/design-system-day/&quot;&gt;Design System Day 2023&lt;/a&gt;! Better yet, answer our &lt;a href=&quot;https://design-system.service.gov.uk/community/call-for-speakers-2023/&quot;&gt;call for speakers&lt;/a&gt; and tell the community a story of a cool component, pattern or design system you worked on.&lt;/li&gt;
+  &lt;li&gt;The early work Chris and I did on native apps became fruitful: we learned how the Digital Identity team crafted a component library and some guidelines for a GOV.‌UK-style app; we learned from HMRC everything they’d learned over the last 6 years about building an app; similarly we learned lessons from the NHS App team; and I put the person leading a cross-government app strategy in touch with teams working on apps (not part of my contract, but something worth doing).&lt;/li&gt;
+  &lt;li&gt;The GOV.‌UK Frontend squad is close to getting &lt;a href=&quot;https://github.com/alphagov/govuk-frontend/milestone/46&quot;&gt;v5.0.0&lt;/a&gt; out the door as a pre-release, a chance to collect feedback before a full public release in Q3.&lt;/li&gt;
+  &lt;li&gt;The Design System squad launched &lt;a href=&quot;https://designnotes.blog.gov.uk/2023/08/14/exit-this-page-fast-with-the-design-systems-new-component/&quot;&gt;Exit this Page&lt;/a&gt; and has been beavering away to &lt;a href=&quot;https://github.com/orgs/alphagov/projects/46?pane=issue&amp;amp;itemId=15258274&quot;&gt;make our components and patterns compliant with the new WCAG 2.2 guidelines&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;The work includes an epic I ‘commissioned’ to &lt;a href=&quot;https://github.com/orgs/alphagov/projects/46?pane=issue&amp;amp;itemId=15258274&quot;&gt;re-design how we write and publish accessibility content&lt;/a&gt;, which ~85% of our users say is the biggest benefit they get from the GOV.‌UK Design System (but there are improvements to be made).&lt;/li&gt;
+  &lt;li&gt;We’ve &lt;a href=&quot;https://github.com/alphagov/design-system-team-docs/commits/main&quot;&gt;updated the team playbook a few times&lt;/a&gt; but need to focus on defining and writing the low-hanging fruit.&lt;/li&gt;
+  &lt;li&gt;I’m still very interested in &lt;a href=&quot;/2022/11/09/a-team-for-thinking-big-and-starting-small/&quot;&gt;shaping and working on big bets&lt;/a&gt; and getting more agency-type experience, so hit me up if you think there’s something I could work on from February 2024 onwards (when my contract at Government Digital Service is due to end).&lt;/li&gt;
+  &lt;li&gt;There’s a few blog posts sitting in my drafts folder that need to be published, and I’d like to write one on delivery pacing (vary the intensity consciously).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;not-work-things&quot;&gt;Not-work things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ultramarathon training has shifted to marathon training, as I was trying to do too much too soon. The 80/20 plan is fantastic though, making high weekly mileage but sustainable.&lt;/li&gt;
+  &lt;li&gt;Low-alcohol life is going well! Granted I took a week off in July to enjoy wine in Croatia, the reason for visiting, but I have developed a new relationship to booze – I’ll write about that.&lt;/li&gt;
+  &lt;li&gt;I haven’t been fastpacking or camping since April, must get a trip in the diary before summer is out.&lt;/li&gt;
+  &lt;li&gt;My family treated me to a pizza oven for my birthday and, you know what, I don’t think I’ll need to spend £14 on a Napoli-style pizza ever again.&lt;/li&gt;
+  &lt;li&gt;Went to my first Eisteddfod and had a &lt;em&gt;cracking&lt;/em&gt; time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
+
+&lt;p&gt;My reading habit is obliterated. Need to fire up a routine again. Here’s what I’ve read since late April, anyway.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2023/04/how-do-you-decentralise-emergency-alerts/&quot;&gt;How do you decentralise emergency alerts?&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2020/05/when-part-of-your-job-is-not-caring/&quot;&gt;When part of your job is &lt;em&gt;not&lt;/em&gt; caring&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3NGQ7Xv&quot;&gt;TikTok spied on me. Why?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://on.ft.com/3pbpVtR&quot;&gt;Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cennydd.com/writing/new-public-course-ethics-in-design&quot;&gt;New public course: ‘Ethics in Design’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/uk-65746524&quot;&gt;Artificial intelligence could lead to extinction, experts warn&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ralphammer.com/make-me-think/&quot;&gt;Make me think!&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.laurahilliger.com/techie/deskilling-and-ai-as-a-tool/&quot;&gt;“Deskilling” and AI as a Tool&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://themindstudios.com/blog/how-to-launch-a-mobile-app-successfully/&quot;&gt;How to Launch a Mobile App Successfully&lt;/a&gt;, 12 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/insights/2012/11/native-apps-vs-mobile-web/&quot;&gt;Native Apps vs. Mobile Web: Breaking Down the Mobile Ecosystem&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://runway.team/blog/how-to-release-a-mobile-app&quot;&gt;How to release a mobile app&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.upwork.com/resources/hybrid-app&quot;&gt;What Is a Hybrid App? (Detailed Guide for 2022)&lt;/a&gt;, 8 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/writing-by-if/why-trust-is-more-important-than-good-ux-99eff4b4bba7&quot;&gt;Why trust is more important than good UX&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hardcoresoftware.learningbyshipping.com/p/209-proclaiming-failure-prematurely&quot;&gt;Why are people so quick to proclaim failure for new products?&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://world.hey.com/dhh/hybrid-combines-the-worst-of-office-and-remote-work-d3174e50&quot;&gt;Hybrid combines the worst of office and remote work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bynd.com/opinions/creating-rituals-that-reinforce-focus-and-accountability&quot;&gt;Creating rituals that reinforce focus &amp;amp; accountability&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interacciones.org/2013/06/14/intuitive-decisions/&quot;&gt;Intuitive decisions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 15 Aug 2023 06:05:20 +0100</pubDate>
+        <link>https://visitmy.website/2023/08/15/the-early-morning-reflection/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/08/15/the-early-morning-reflection/</guid>
+        
+        <category>Weeknotes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Slidehole</title>
