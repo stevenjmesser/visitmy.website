@@ -35,4 +35,4 @@ This doesn’t feel good. Constraints should encourage creativity, not stifle it
 
 We need to address the dogma, otherwise it’ll be damaging in the long-run. For an organisation that professes the benefits of open-working, agility, and co-design, it hasn’t done too well at creating psychological safety in the system.
 
-The bureaucracy got too much. It has its uses, but we need to rebalance it to encourage more agility, more innovation. I don’t know how, just yet, but I’m sure we can figure it out.
+The bureaucracy got too much. It has its uses, but we need to rebalance it to encourage more agility, more innovation. I don’t know how just yet – others have suggested [how to rethink the phases](https://www.dxw.com/2023/08/rethinking-the-traditional-service-standard-phases/) – but I’m sure we can figure it out.
