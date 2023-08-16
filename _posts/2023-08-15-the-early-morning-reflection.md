@@ -2,7 +2,7 @@
 layout: post
 title: "The Early Morning Reflection"
 sub-title: "Weeknotes S15E02"
-date: 2023-08-15 05:05:20
+date: 2023-08-15 05:05:20+01:00
 description: "You’ve not heard from me since April, but here’s what I’ve been working on at a very high level."
 image: /assets/images/faces.jpeg
 image_title: "Steve’s stupid face"
