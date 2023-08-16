@@ -1,0 +1,24 @@
+---
+layout: default
+---
+  <header class="post-header">
+    <h1 class="post-title">{{ page.autopages.display_name }}</h1>
+  </header>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%e %B %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {% if page.autopages %}
+          <p>{% if post.description %}{{ post.description | markdownify }}{% else %}{{ post.excerpt }}{% endif %}</p>
+        {% else %}
+          <p>{{ post.content }}</p>
+          {% include page_tags.html tags=post.tags %}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>

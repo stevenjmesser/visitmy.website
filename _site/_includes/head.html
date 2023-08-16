@@ -1,0 +1,51 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}</title>
+
+  <meta itemprop="name author" content="{{ site.name }}">
+  <meta name="description" itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
+  <meta name="twitter:site" content="{{ site.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+  {% if site.twitter_username %}
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+  {% endif %}
+
+  <meta name="google-site-verification" content="MixE0RdWuCoS1EFTIOCNODuOa70gx7EbfkJyO-Mw6xA" />
+  <meta name="pocket-site-verification" content="6cb4530b93fa17e039f8e9af1d0661" />
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+  <script src="https://one-generous.visitmy.website/script.js" data-site="LSWRESZO" excluded-domains="web.archive.org,localhost" defer></script>
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl }}">
+
+  {% webmentions_head %}
+  <!-- MailerLite Universal -->
+  <script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+      var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+      f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+      var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+      _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+      var ml_account = ml('accounts', '3450287', 'x5i1r2i6w0', 'load');
+    </script>
+    <!-- End MailerLite Universal -->
+</head>

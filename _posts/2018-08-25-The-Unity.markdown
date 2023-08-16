@@ -1,0 +1,88 @@
+---
+layout: post
+title: "The Unity"
+sub-title: "Weeknotes S01E06"
+date: 2018-08-25
+description: "An overarching feeling on oneness this week. A good team lunch, some get-togethers with good folk, and nice vibes all round really."
+image: https://cdn-images-1.medium.com/max/2560/1*M3RaYVp2uWqwVGN7ZD-_aQ.jpeg
+image_title: ""
+image_artist: "Nina Manandhar"
+image_source: http://ninamanandhar.com
+image_credit: ""
+tags:
+ - Weeknotes
+---
+
+An overarching feeling on oneness this week. A good team lunch, some get-togethers with good folk, and nice vibes all round really. That’ll continue into the weekend, whether it’s wandering the South Downs Way or skanking to to a mate’s jungle set at Carnival. But without further ado, here’s what I got up to this week.
+
+## Five Things That Happened
+
+_We did more things than this_
+
+### One
+
+Procuring funds and commissioning talent takes time. Trying to do it fast is possible, but it’s a lot of running around. I did _a lot_ of running around, meeting people and typing words, to get some support for one of our products. Should it be easier and quicker? I don’t know, perhaps not. Should it really involve product managers? Mmm, yeah, definitely. You need that space to mentally and physically commit to sub-contracting work, and understand what it means financially, economically and strategically to have another team pick up that effort. It’s just that spending 6 hours a day typing into Google Docs is one of the unglamorous but essential parts of the job.
+
+![](https://cdn-images-1.medium.com/max/800/1*Pr07KCPVpvmLXxLpBem7UA.png)
+
+But between that, I spent the other main currency of product management: time in meetings, with 30 minutes alongside my fellows in ProductBuro.
+
+_u wot m8?_ Ah, well, ProductBuro is a council of product managers from across the community at GDS, focussed on organising and delivering sessions for the community. It’s been happening organically since [Ross Ferguson](https://medium.com/u/bb88a6d5fb68) was artfully poached by Canadian Digital Service – a highly prized moose head to mount on your product team – led by Martin and [Chantal Foyer](https://medium.com/u/cc3d51c2495a) (with assistance from others whom I shamefully forget). The aim is to lead the community from within, provide support across programmes and give the PMs chance to bond, learn from each other, share stories and tips, and spur the community onwards – something Ross was incredible at.
+
+I nominated myself along with fellow weeknoter [Richard Walker](https://medium.com/u/86da9a49c10b), the ebullient [Lauren](https://twitter.com/lrnthom), and the creative Neil (he named the group). Despite expecting some pomp and ritual, we weren’t elected to the posts and our good intent was enough, so hopefully we’ll do the community proud. Having said that, it’s not like we have any special powers, it’s mostly organising things and giving people chance to learn more, which is quite nice. Anyway, the we’ll see how the first meet-up goes! In the meantime, we need to induct the new PMs into the community.
+
+### Two
+
+Part of the quarterly mission structure is defining [objectives and key results (OKRs)](https://marcabraham.com/2018/06/05/book-review-radical-focus/), which we set out for quarter 3. We set a bold, qualitative goal for the end of the quarter and define how we’ll reach that with four to five measurable, tangible key results.
+
+Our team’s mission at Platform Health is to operate and maintain a stable, scalable and secure platform. It’s pretty secure and relatively stable, but the stack of technology needs some work making it scalable to current and future demand.
+
+We set that as the objective for next quarter, and we’ll know we’ve achieved it when we’ve
+
+*   moved to the cloud,
+*   set and met [service level objectives](https://medium.com/@asuffield/thinking-about-slos-64841737d1ed) for publishing, and
+*   made alerting less noisy and more relevant.
+
+Those key results have KPIs for product (we’ll know we’re done when we’ve add _x_ amount of value) and delivery (we’ll know we’re done when we’ve created _y_ concept or thing). _Why all that fluff and the weapons-grade acronyms?_ Because keeping it all in your head is hard, and knowing when you’ve realistically achieved all you could is healthy.
+
+### Three
+
+We tried a new thing with our team Show & Tell: lightning talks on what you’ve been working on. It’s a simple concept. People take 3–5 minutes sharing their work, whether that’s a new application, the finer details of a pull request, knowledge or research. Anything really, but mostly to share context: the unit of delivery is the team, so spread knowledge in more detail because stand-ups aren’t enough. It seemed to go well but we’ll see if there’s any way we can iterate on it.
+
+I must call myself out for some bad practice though. During [a big publishing event](https://www.gov.uk/technicalnotices) later on, I got involved without being asked, and possibly just added extra noise. The team would have found the solution anyway, so my buzzing around was pointless. No one’s complained about it, it’s just that I wasn't needed, so should have stayed away. An important lesson to learn though.
+
+Lesson learned, I moved on to where my input _was_ needed, in a meeting with the awesome [Simon](https://twitter.com/simoneverest). We’re going to help a department with a thorny thing, and he was very, very relieved, because now he can think about the rest of their Brexit thornbush. And theirs is fucking massive, to be fair. This work will give me time to think about a consultancy model for ‘selling’ our products into other transformation programmes.
+
+### Four
+
+We had another good check-in with the programme team. I don’t know what’s happening this quarter but most things seem to be working out. We’re making progress, we’re confident we can deliver the key results, and we know what’s coming up. We’ve found our flow maybe.
+
+They provided good challenge though, and that’s what we want: prompt us to consider the wider impact of our work, and check our thinking.
+
+### Five
+
+On Friday I got the chance to visit the Product team at Ordnance Survey. Michael, their strategic product manager, explained what they do, their markets and the arms of the business, and their long term strategy. They’re a robust team with great product thinking, and though I had no idea what to expect I left seriously impressed. We mused on shared challenges in the product space and, if I’m quite honest, it would be good to work there once I’m done with London. Check out [Open Zoomstack, their cool mapping app](https://blog.mapbox.com/ordnance-survey-launches-vector-maps-for-great-britain-e096c2413139). Really grateful for them hosting us. Thanks, Michael and team!
+
+We were there to talk about [data.gov.uk](https://data.gov.uk), which I don’t manage but do have experience in data: open, geospatial, linked and standardised. It was nice to get back into that world, and it turns out that four years listening to [Mike Thacker](https://medium.com/u/c8c40c52174f) is an exceptional education in its opportunities.
+
+Many people across the open data space are bought into the vision of data.gov.uk and I know Martin, though the odds may feel stacked up against him, is a choice person to lead it onwards. There’s a community of people doing fabulous work out there, and government can have trust in it. Wouldn’t mind lending a hand, if I can.
+
+## Reflections
+
+*   Togetherness is a quality of life
+*   [Purpose is your moral imperative, it is the scope of what you are doing and why you are doing it](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+*   Only sit at the table if you’re bringing something we all need
+*   Trust in communities
+
+## What We’re Cooking
+
+_Recipes we made that we liked, either borrowed or invented_
+
+*   Peach, Gorgonzola and quinoa salad with sherry vinegar dressing (this one needs work, peppery rocket instead of pea shoots and the peaches need griddling)
+*   Veggie goulash
+
+## What I’m Reading
+
+- [The four ways that ex-internet idealists explain where it all went wrong](https://www.technologyreview.com/s/611805/the-four-ways-that-ex-internet-idealists-explain-where-it-all-went-wrong/)
+- [Turbo Island is a 'space left over after planning' - and Bristolians want it back](https://www.theguardian.com/cities/2018/aug/21/turbo-island-is-a-space-left-over-after-planning-and-bristolians-want-it-back-gentrification)
+- [Rise of the Data Product Manager](https://medium.com/@treycausey/rise-of-the-data-product-manager-2fb9961b21d1)

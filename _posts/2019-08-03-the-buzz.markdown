@@ -1,0 +1,108 @@
+---
+layout: post
+title: "The Buzz"
+sub-title: "Weeknotes S05E04"
+date: 2019-08-03
+description: "Bit of a buzz this week. There's lots going on, almost too much, but it's all good stuff going in the right direction."
+image: /assets/images/dia_0445.jpg
+image_title: "Think"
+image_artist: "Steve Messer"
+image_source: https://www.flickr.com/photos/renegatus/7281883562/sizes/z/
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+Bit of a buzz this week. There's lots going on, almost too much, but it's all good stuff going in the right direction. Reminds me of last December ([1]({% post_url 2018-12-7-the-spin-up %}), [2]({% post_url 2018-12-14-the-gift %}), [3]({% post_url 2018-12-21-the-winter-solstice %})). Initially I was going to write about the oceanic connectedness I'd felt this week but it was inaccurate, if I'm honest. This week didn't feel like being on LSD at all, but some people are thinking the same things – which is good. You have to step back and observe all the moving parts to fully appreciate what's building up. 
+
+## Five Things That Happened
+
+*We did more things than this*
+
+### One
+
+Having spent a few days preparing their research, Andy and Jeremy headed off to Dagenham library to put the search user interface (UI) on mobiles through its paces. Test it out yourself, try finding a speech Amber Rudd gave to the NPCC or how to plan your retirement income. It's all right, but it's a cumbersome experience. 
+
+Turns out, users felt the same. They told of their issues with it and the boys brought their findings back to base. Seething with energu and enthusiasm, they briefed me on their research but said more detail would follow. Andy was so buzzed that he wrote a blog post about being a user researcher for a day. It'll be out soon and it's a real corker. Top work from those two.
+
+Later in the week, we analysed the findings, categorised them, [marked them for severity and our confidence in the fullness of evidence](https://twitter.com/stevenjmesser/status/1156896490486468608), and drew out some hypotheses. Then I prioritised the issues, using a simple formula: 10 - (severity * confidence).
+
+**Confidence**
+
+- 1 = We've seen some evidence but too early to say for sure
+- 2 = Fairly confident, but still some questions
+- 3 = Confident
+
+**Severity**
+
+- 1 = Minor error that is easy to recover from
+- 2 = Major error that is possible to recover from
+- 3 = Major error that is not possible to recover from
+- 4 = OK
+
+It meant our quick wins were prioritised first, the most important issues followed, and anything that was OK had a minus figure, so we needn't consider it. Then I grouped the issues by type, to check the formula, and summed the priority scores to create a problem score for each type. Facets/filters had the most problems, the results were next with some general issues to follow.
+
+From that we were able to write up some cards for the next round of work. We're going to design away the facets and filters, just put them somewhere else for a bit, and build the quick wins and general fixes. We'll put that prototype in front of users to see if they encounter different issues, new issues and whether getting general search results (without using filters) has been improved. It's cheap, it's lean, and it's working out the value, viability, feasibility and usability of a product before we release any code to production. It's actually iterative. 
+
+You don't need a [compehensive agile lifecycle](https://www.gov.uk/service-manual/agile-delivery) with discovery, alpha, beta and live phases for something which already exists. Work out what sucks, where it matters, and iterate.
+
+### Two
+
+The other part of the Search team, working on results relevancy, have been making strides too. Not only have we run GOV.UK's first A/B test on live site search, we've also learned a lot about how the bloody thing works. 
+
+Harriet and Bill have been absolute troopers in trying to get eCommerce tracking working, and they nailed it. It means we'll have a much fuller picture of how search is performing for users based on what they click. Jos dug deep into the inner workings of email alerts, a complicated maze of pipes and logic, managing to refactor some stuff along the way. Jess has almost entirely retired the last remaining Whitehall finder, akin to slaying a mythical beast in GOV.UK terms. And Michael and Suganya have been rifling through the search algorithm with Simon to understand how it works under the hood, how our tweaks affect it and what can be done to improve relevancy.
+
+Sam, our apprentice, has also been taking on some big challenges and working it all out. He's very skilled, I think, and will go far.
+
+Suffice it to say that this team is excelling and almost at the point of becoming self-organising. A few more cycles of working towards goals, not just pushing out code, should mean they're ready to own outcomes and run with those. I really want to get to the stage where planning is purely collaborative, a stage when we all decide the sprint's goals after checking the roadmap and our metrics, when everyone can posit ideas, write cards and set to work. 
+
+As a product manager, I'm there to help them find the answers not tell them what to do. 
+
+### Three
+
+I sat on my first panel at an event called 'So, you think you want to be a product manager?'. There were four of us and we chatted about the job, how we got into it, what we get up to and tried to inspire a bunch of hopefuls to have a go too. The most interesting bit was that we'd all had a different route in to the industry and we all had different practices at work, but we all held the same product principles. That was cool. 
+
+I've got a draft blog post on getting into product management which I can finish now, as I covered a lot of the points in the talk.
+
+Usefully I'd spent the weekend at a public speaking bootcamp so I got to put those skills to the test. It worked pretty well!
+
+### Four
+
+The Permissions team, my side project following on from exploring personalisation, had its kick-off session. We spent a couple of hours together, in which I recapped what myself and Paola had found in Q4, rescoped our focus now to something more achievable, and collaborated on building a simple roadmap.
+
+We’re figuring out what is the best and most ethical way of handling personal data before the private sector defines the paradigm for good. Understanding if we can personalise user journeys on GOV.UK and whether users trusts our ability to share their data correctly, to help them, and then apply it to a thing. Dealing with government sucks and is frustrating; we want to check if it is true and possible to make dealing with government easier by making it more specific to you.
+
+Essentially, we're figuring out whether government should do anything with personal data before working out whether it can. What I've dubbed the [Jurassic Park Test](https://twitter.com/stevenjmesser/status/1121122464799625217).
+
+We've lined up chats with [BBC R&D](https://www.bbc.co.uk/rd/blog/2019-06-bbc-box-personal-data-privacy), [the ODI](https://theodi.org/article/can-we-increase-access-to-data-while-retaining-trust/), [Projects by IF](https://www.projectsbyif.com/blog/design-to-explain-what-youre-doing-with-data/), [GOV.UK Verify](https://www.verify.service.gov.uk) and heaps of other organisations already looking into this space. Because now that Government's been told to make better use of data, that ['properly shared data is the key to ensuring that digital Government can be effective and transformative'](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/digital-government-report-publication-17-19/), it should have a good idea of how it might re-use data consciously rather than moving fast and breaking things.
+
+As [Simon](https://twitter.com/51M0NW) has said better than me:
+
+> Collecting, sending, processing and storing [data about people] makes up a large amount of the work done by citizens and services, and citizens quite rightly don’t understand why they are forced to tell Government things it already knows.
+> 
+> People expect Government to operate like one organisation. But it does not.
+
+I'd rather it wasn't a side project, but if we can digest and play back to the centre all of the good thinking being done around the civic tech space, that's worthwhile. Because there's lots of classic change management rhetoric being peddled around government about making better use of data, 'intangible strategy without tangible outcome'. [The strategy is delivery](https://mikebracken.com/blog/the-strategy-is-delivery-again/).
+
+### Five
+
+I got knocked off my bike by another cyclist on Thursday and my elbow is fucking killing me. 
+
+## Bookmarks
+
+Last week I read and thoroughly enjoyed Dan Hill's [_Dark Matter & Trojan Horses: a strategic design vocabulary_](https://strelka.com/en/press/books/dark-matter-and-trojan-horses-a-strategic-design-vocabulary). It made _a lot_ of sense, considering what I do for a job, and it helped me see things.
+
+- [The Guy Who Invented the Retweet Is Filled With Regret](https://futurism.com/the-byte/guy-invented-retweet-regret), 2 mins
+- [So…what exactly is a product manager, anyway?](https://digital.canada.ca/2019/07/23/so-what-exactly-is-a-product-manager-anyway/?utm_source=twitter&utm_campaign=product_manager_interview_EN), 7 mins
+- [How your THREE egos can help you design better](https://medium.com/@amyalexandraleak/how-your-three-egos-can-help-you-design-better-ae3f74066faf), 3 mins
+- [On the referendum #33: High performance government, ‘cognitive technologies’, Michael Nielsen, Bret Victor, & ‘Seeing Rooms’](https://dominiccummings.com/2019/06/26/on-the-referendum-33-high-performance-government-cognitive-technologies-michael-nielsen-bret-victor-seeing-rooms/), 47 mins
+- [Companies' 'Anonymized' Data May Violate GDPR, Privacy Regs](https://www.darkreading.com/endpoint/privacy/companies-anonymized-data-may-violate-gdpr-privacy-regs/d/d-id/1335361), 4 mins
+- [What impact will Dominic Cummings have on digital government?](https://diginomica.com/what-impact-will-dominic-cummings-have-digital-government), 6 mins
+- [The design leadership journey](https://www.range.co/blog/the-design-leadership-journey/), 4 mins
+- [Cambridge research project proposes new economic indicators for 21st century progress](https://www.bennettinstitute.cam.ac.uk/news/cambridge-research-project-proposes-new-economic-i/), 3 mins
+- [David Cameron tests real-time economic data app on iPad](https://www.theguardian.com/technology/2012/nov/08/david-cameron-tests-data-app), 4 mins
+- [A change is gonna Cummings](https://notbinary.co.uk/a-change-is-gonna-cummings/), 4 mins
+- [Confessions of a design leader](https://medium.com/@rossbreadmore/confessions-of-a-design-leader-c7790411562a), 4 mins
+- [What’s the difference between Civic Tech and GovTech?](https://apolitical.co/solution_article/whats-the-difference-between-civic-tech-and-govtech/), 6 mins
+- [THE NEED FOR RADICAL CIVIC TECH.](https://provocations.darkmatterlabs.org/the-need-for-radical-civic-tech-645ef808ca17), 3 mins
+- [Personal data in Government is broken](https://www.register-dynamics.co.uk/blog/personal-data-in-government-is-broken), 6 mins

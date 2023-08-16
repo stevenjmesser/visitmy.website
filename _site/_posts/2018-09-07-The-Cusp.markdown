@@ -1,0 +1,71 @@
+---
+layout: post
+title: "The Cusp"
+sub-title: "Weeknotes S01E08"
+date: 2018-09-07
+description: "We’re in a liminal zone, a headspace between two periods but only present physically in one. It’s a headtrip to operate that way."
+image: https://cdn-images-1.medium.com/max/2560/1*zFEpxYCPtoSTRvh6-T0VWg.jpeg
+image_title: "The Cusp"
+image_artist: "Steven J. Messer"
+image_source: https://stevenjmesser.tumblr.com
+image_credit: ""
+tags:
+ - Weeknotes
+---
+
+We’re in a liminal zone, a headspace between two periods but only present physically in one. It’s a headtrip to operate that way. For most of the quarter we’ve been working from a physical board, but as we’re nearing the end of that and there’s no board for next quarter, you have to keep everything in your head. That saps energy, and it’s something to learn from for next quarter.
+
+A busy week with lots of brain-thinking stuff and tiredness, but here’s what we did.
+
+## Five Things That Happened
+
+_We did more things than this_
+
+### One
+
+I went over how our content designer, Mark, helped DExEU publish the [technical notices](https://www.gov.uk/technicalnotices), to understand the user behaviour behind publishing those documents. There’s more to come from government and we want to be prepared to help deliver that information. He placed trust in scheduling a publication which not all users do, so that’s one area to keep an eye.
+
+I’ve been assuming there’s some work to be done to build back publishers’ trust in the publishing system as a whole, but validating that could be tough. However, there’s other mission teams on GOV.UK looking after publisher workflows and they’ll likely be looking into satisfaction ratings. Having said that, it’s an opportunity to get in front of users on a team that rarely has face-to-face contact with our publishing community.
+
+### Two
+
+The first PM community session organised by ProductBuro went well – I think. Yay! Iain gave a good talk about metrics, reminding us that we can go back to basics and choose to observe the signals that tell us we’re solving problems. Afterwards we had a chat about long run indicators, [something which I’ve touched on previously](https://weeknot.es/weeknotes-s01e02-81f7c23f5bb5) thanks to a Product for Good meet-up. For example, a good metric to measure the value of GOV.UK is a reduction in contact volume to call centres.
+
+Given there’s lots of chat about KPIs, measuring value and [general wondering about whether Government Digital Service is worth it](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/digital-government-inquiry-launch-17-19/), articulating the difference between short term performance measurement and long term impact assessment could be quite pertinent.
+
+### Three
+
+Meeting other product managers across the community is always interesting, especially when government causes our practice to be warped from the norm.
+
+[Lisa](https://twitter.com/lisa_e_scott) organised an unprecedented Product People meet-up in London…or at least I’ve never been to one so busy, with so many speakers! We heard from product managers at HMRC, MoJ, GDS and CQC about product management on a non-software team. Developing policy is different to developing a product, but the tools you use and how you describe success, how people drive outcomes, is almost identical. It comes down to the tenets of product management: an understanding of users and a desire for fight for their needs, an understanding of the organisation and a willingness to involve their insights, and an understanding of the mechanics of your problem space. If you don’t mind being Chief Antagonist, you’ll be all right.
+
+Afterwards I got to meet the inimitable Rose Waite who co-founded the Product People meet-up (she’s written about [how Product People got started and how to maintain a community](https://gds.blog.gov.uk/2018/08/29/tips-on-how-to-set-up-and-maintain-your-own-community/)), and she spoke of the revolution within government that is indicative of transformation. I’m wondering whether we’re entering a second generation of that movement, as the _avant-garde_ move on in great numbers, and how we sustain the momentum. There’s OneTeamGov, yes, but if your direct leadership team isn’t a part of it, what then?
+
+> Do @ me, I know the weeknotes community will have valuable thoughts on this.
+
+### Four
+
+I brought about 45 per cent of myself to work one day. Partly a result of falling asleep on the sofa accidentally, rousing from slumber by the cat at 2 a.m., then plodding to bed. Waking again 2 hours later, lain upright with a crick in my neck from too many pillows was a further dint. Trying to push through any day on little sleep, let alone a busy one in the final third of a quarter, is really tough.
+
+But thankfully we’re gifted with flexible working at Government Digital Service. Tomorrow I can work from Wales (WFW) in any place with a table and WiFi. This kind of flexibility, which enables one to work hard but adjust their environs based on circumstance, operates beneath a layer of trust. And it’s not something to be taken for granted. I can have a full night’s rest, in a silent village, and still work on complex problems tomorrow.
+
+We engineer our working lives to make optimal achievements, but underneath it all we’re just humans with unquantified, organic machinery. Sometimes nature’s signals are the best alerts to monitor.
+
+Aside from all that, I was grateful to Joe – a senior business analyst looking at KPIs across our programmes – for reaching out and asking for more time to chat through something. We’d left a chance conversation the previous day unfinished and it needed a conclusion; he stepped up and heard me out.
+
+### Five
+
+Also, I got a bit sad we hadn’t been able to achieve a load on the pipeline work. But I was reminded that we have lots on, and there’s still time left. Thankfully everyone’s enthused with the work and wants to do more, and I’m looking forward to forming a final productive push. I’m getting together with our technical lead and a senior dev on Monday to shape the stories, and we’ll put them in front of the team when there’s room on the quarterly roadmap.
+
+## Reflections
+
+*   Research is good, but some times you won’t learn anything new
+*   We still need a way to look into turning qualitative comments into quantitative metrics
+*   Sometimes nature’s signals are the best alerts to monitor – take time for you
+
+## What I’m Reading
+
+- [Google Wants to Kill the URL](https://www.wired.com/story/google-wants-to-kill-the-url/)
+- [From data-driven to data-informed: why the distinction matters](https://contentinsights.com/blog/from-data-driven-to-data-informed-why-the-distinction-matters/)
+- [Rules for Resters](https://medium.com/@benwerd/rules-for-resters-809e368c0fdb)
+- [Defining an SLO](https://medium.com/@asuffield/defining-an-slo-6302f60b218a)

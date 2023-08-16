@@ -1,0 +1,80 @@
+---
+layout: post
+title: "The Love"
+sub-title: "Weeknotes S05E10"
+date: 2019-09-23
+description: "A really good week. I missed working on the Search team over the past few weeks, it's such an interesting problem space."
+image: /assets/images/5220175847_b9310bab0f_h.jpg
+image_title: "untitled"
+image_artist: "Steve Messer"
+image_source: https://www.flickr.com/photos/renegatus/5220175847/
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+A really good week. I missed working on the Search team over the past few weeks, it's such an interesting problem space. You get the almost continual gratification of seeing changes in metrics from tests too, validating or invalidating your hypotheses. 
+
+Tempted to try another style of writing weeknotes, these feel a bit dry now.
+
+## Five Things That Happened
+
+*We did more things than this*
+
+### One
+
+Much of the week was spent getting my head back into the Search team's work and the whole problem space. By the end of the week, I was able to write this in the GOV.UK internal weeknote.
+
+> Search have brought back [highlighted search terms](https://www.gov.uk/search/all?keywords=highlighted&order=relevance) to site search. They added it to finders and prototyped and built [spelling suggestions](https://github.com/alphagov/finder-frontend/pull/1554) ready for release soon. They also drafted a build-and-release plan for the improved mobile search UI, stopped last week’s A/B test and started another – they’re inches close to switching to ES6 entirely! The team continued refactoring Finder Frontend and rewrote some of its queries to perform 50x faster, as well as adding support for [mixing quoted and unquoted query fragments](https://www.gov.uk/search/all?keywords=office+%22banter%22&order=relevance), upgrading Golang apps and improving sitemaps so that Google crawls us more often.
+
+So that's what the team did. But what did _I_ do?! Mostly I spent the week thinking about our objectives, milestones in the strategy, how we measure success/know when we're done, and the different activities the team go through to reach those goals. It's important to be thinking about this because, as a programme, GOV.UK is moving away from how quarterly planning has become established in GDS to something else.
+
+The problem with quarterly planning is that it made everyone think in terms of quarters and it caused some people to be shifted around every three months. That's process over people, the antithesis of agile development, and isn't helpful. I've always told the Search team not to think in terms of quarters – the work is only ever done when value is delivered to users. So in our case, the work will probably never be done because site search can always be improved.
+
+Lean methods feel more comfortable to me, and I also find thinking in terms of OKRs helpful, so I've always tried to frame the team's work using vision, objectives, key results and milestones. Sprints have goals which play into these, but we don't have a traditional roadmap of things to deliver, it's all about outcomes.
+
+Having checked on everything we're doing and the way we're doing it, I feel comfortable that the framework is laid down. There's more work to be done on helping the team find its ideal Build, Measure, Learn process and tools, however.
+
+### Two
+
+Since we'd like to introduce [site search suggestions](https://www.nngroup.com/articles/site-search-suggestions/) to GOV.UK's site search, I planned out a design sprint for the team. This starts with some fun (well, hopefully it's fun) homework to collect up examples of search and autocomplete suggestions in other products. We'll then pick apart 
+
+- what we're looking for (search intent) when entering a query,
+- what results are returned,
+- how it looks,
+- the onwards journey, and
+- the problems this style of search suggestions solves
+
+to see how the features work in different products. It's entirely probable that the best ideas already exist so we should look at [comparable problems](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/warm-up-comparable-problems), but also this background thinking will help the team think about what's different in the user's context when visiting GOV.UK to look through our content set.
+
+The rest of the sprint will very much follow [sections 3–6 of Google's Design Sprint kit](https://designsprintkit.withgoogle.com/methodology/overview).
+
+### Three
+
+I started drafting a mini-discovery for searching inside manuals, e.g. the [Highway Code](https://www.gov.uk/guidance/the-highway-code) and the [content design manual](https://www.gov.uk/guidance/content-design), because the experience and results returned have changed since the migration to Finder Frontend. A couple of months back I emailed a heap of manuals publishers, asking if they had direct contact with their users so that we can perform some research. Having checked through user-submitted feedback for all manuals, there's nothing to go on, so we'll need to do some research.
+
+### Four
+
+We had a retro for last week's remote sprint. I'll share the team's thinking once Nicole's written a blog post on it. I've been eager to have an entirely remote sprint with a team for a while but unfortunately only caught two days of this one. Still learned some things though.
+
+1. Working remotely helps me focus and prevents me getting distracted by other people's demands.
+2. Since I already block out two days for focussed work, working out of the office on those two days doesn't disrupt meetings and face-to-face time.
+3. Team meetings can be hard when run remotely. Collecting opinion or asking the team for their thoughts is tough because it's hard to stop people talking over each other. 
+
+### Five
+
+I've taken on a mentee, which is the first time I've ever mentored anyone. They want help in reaching their performance objectives, someone to bounce thoughts off who isn't their line manager, which is good as I'll be offering ways of thinking rather than my own solutions when I've experienced those same problems. 
+
+## Bookmarks
+
+- [Using hypothesis driven design and user research to validate design decisions](https://medium.com/@andyjones_1981/using-hypothesis-driven-design-and-user-research-to-validate-design-decisions-91acae07fe3), 7 mins
+- [Idea Validation - Much More Than A/B Experiments](https://www.linkedin.com/pulse/idea-validation-condensed-guide-itamar-gilad), 13 mins
+- [Why you should stop using product roadmaps and try GIST Planning](https://medium.com/@itamargilad/why-i-stopped-using-product-roadmaps-and-switched-to-gist-planning-3b7f54e271d1), 5 mins
+- [How Much Is Your Privacy Really Worth?](https://onezero.medium.com/how-much-is-your-privacy-really-worth-421796dd9220), 14 mins
+- [Why should we care about data ethics?](https://theodi.org/article/why-should-we-care-about-data-ethics/), 3 mins
+- [Data About Us](https://www.thersa.org/discover/publications-and-articles/reports/data-about-us), 3 mins
+- [Behavioural Innovation: embracing behavioural science for lasting impact](https://medium.com/hellobrink-co/behavioural-innovation-embracing-behavioural-science-for-lasting-impact-85d1d78688f4), 3 mins
+- [Margaret Atwood’s Dystopia, and Ours](https://www.nytimes.com/2019/09/14/opinion/sunday/margaret-atwood-the-testaments-handmaids-tale.html), 8 mins
+- [The ‘Political Anarchist’ Behind Britain’s Chaos](https://www.nytimes.com/2019/09/07/opinion/sunday/dominic-cummings-brexit.html), 6 mins
+- [Being a user researcher for a day](https://insidegovuk.blog.gov.uk/2019/09/18/being-a-user-researcher-for-a-day/), 4 mins
+- [Not another directory of services!](https://medium.com/porism/not-another-directory-of-services-a24bb08c6343), 4 mins

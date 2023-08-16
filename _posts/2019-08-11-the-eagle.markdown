@@ -1,0 +1,72 @@
+---
+layout: post
+title: "The Eagle"
+sub-title: "Weeknotes S05E05"
+date: 2019-08-11
+description: "Was really grateful to spend time with good people this week, and to have chance encounters. Moments like that will make the coming weeks bearable."
+image: /assets/images/CDN_WELL_33424i-1.jpg
+image_title: "An Imperial Eagle"
+image_artist: "Unknown artist"
+image_source: https://artuk.org/discover/artworks/an-imperial-eagle-243454
+image_credit: "Wellcome Collection"
+tags:
+ - Weeknotes
+---
+
+Was really grateful to spend time with good people this week, they gave me a lot of perspective. It was also a joy to see close family, eat good food and spend a little time in the countryside. We randomly (and I mean that) happened upon the [Eagle Tavern](https://www.eagletavern.co.uk) in Little Coxwell, between Swindon and Oxford, which is in idyllic countryside with three courses of delicious fare for £26 per person. Moments like that will make the coming weeks bearable.
+
+## Five Things That Happened
+
+*We did more things than this*
+
+### One
+
+As a product manager, you have the main responsibility for ensuring everyone's working to the same strategy. It's important to let everyone participate in crafting it, you shouldn't be coming up with it alone, but as the person who owns the Why, it's your job to make that clear to people. I didn't think I'd done a good enough job of that so far, despite talking to my team about why we're doing what we're doing, writing blog posts, constantly talking about the future we were building, and pointing to our OKRs often.
+
+What was missing was a roadmapping session. I'd held it in my head and wanted to make sure it was front and centre of the team's minds too. Also, our planning board was a bit of a mess and people couldn't pull cards from it if the backlog ran dry or I was away. 
+
+So I held a roadmapping session with the team, talking about our goals and asking how we'd know we'd achieved them. This helped define some milestones for the roadmap, some broad strokes to achieve rather than individual features to deliver. For example, one of our milestones is to deliver what I've dubbed 'behavioural features' like spelling suggestions, autocomplete suggestions and highlighted search terms (which support users' information retrieval behaviours).
+
+This helped to lay out the landscape for the team, showing them which way we're headed and when we're likely to be done. Add to that a tidy planning board with clearer labels and better prioritising, and you've got the beginnings of a self-regulating team...
+
+### Two
+
+Had an impeccable evening with public service legends [Dan](https://twitter.com/dasbarrett), [Jukesie](https://twitter.com/jukesie) and [Adam](https://twitter.com/chairlord). I've only properly spoken to Adam once before, after one of the Data Bites nights, and I didn't realise how much he actually does at the Food Standards Agency as a data architect. We were chatting about objectives and key results (OKRs) as he runs a team or two, and it made me think about how the hands-on style at smaller places can be fun (although it can also be stressful).
+
+We chatted about Jukesie's life as a CEO too, and Dan's upcoming role as the head of data science at Citizens Advice Bureau. Pretty blessed to keep such good company. And when we weren't talking about work, we laughed about life, food and people, and we got a feel for each other's music tastes too.
+
+Good times with the tribe.
+
+### Three
+
+The performance analysts and content designers told me how we handle our Best Bets feature, where publishers can request that their content gets a boost within search results for particular phrases. It's a manual intervention we make where we know one is needed, which is one of the benefits of controlling our own search engine.
+
+The problem with this boosting is that it's not monitored and it's rarely audited. For example, I found that the query 'mtd' (for 'making tax digital') was boosting five pages, as decided in early 2018. But since then several newer, better pages about making tax digital have been published and haven't replaced the old results. That means it's harder for users to find the more helpful pages.
+
+It's clear that the feature needs some iteration, and the benefit is that it'll tell us more about how we might need to adjust the boosting to play nicer with other queries. I'll be looking after the process for a few weeks and taking notes.
+
+### Four
+
+The Permissions team headed off to Manchester to see BBC Research & Development's work on the BBC Box, a prototype personal data store to help people exercise their right to data portability. It's not a functioning prototype but it raises the question in people's minds of how personal data is passed around, and it's curious to consider how not-in-control you are of data about you.
+
+It was clear that we were talking to close peers. Their team have done huge amounts of work in the privacy space, looking at different models of data stewardship and considering deeply the implications of trust (or lack of it) in public service organisations' handling of personal data. In that respect it was a hugely successful meeting as I'd intended for us to get up to speed, and we're going to be keeping in close contact going forward.
+
+### Five
+
+We had a [performance framework session](https://dataingovernment.blog.gov.uk/2016/11/02/setting-up-a-performance-framework-for-the-uk-parliament-website/) for the spelling suggestions feature, helping us identify metrics we'll use to measure the effectiveness of providing users suggested queries for their misspellings. We settled on 
+
+- spelling suggestion impressions:clicks (a ratio to see how much the feature is used)
+- search refinements, which we predict will go up
+- session-level clickthrough rate, which we predict will go up
+
+## Bookmarks
+
+- [Site Search Suggestions](https://www.nngroup.com/articles/site-search-suggestions/), 7 mins
+- [Uses of Elasticsearch, and Things to Learn](http://www.elastic.co/blog/found-uses-of-elasticsearch), 10 mins
+- [How we keep Search relevant and useful](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/), 7 mins
+- [Data isn't the new oil, it's the new CO2](https://luminategroup.com/posts/blog/data-isnt-the-new-oil-its-the-new-co2), 3 mins
+- [No, Data Is Not the New Oil](https://www.wired.com/story/no-data-is-not-the-new-oil/), 7 mins
+- [BM25 The Next Generation of Lucene Relevance](https://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/), 9 mins
+- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d), 11 mins
+- [Digital bias: The mental shortcuts we use to make decisions online](https://medium.com/@amyalexandraleak/why-every-decision-youll-ever-make-is-irrational-a5683ff8bc81), 2 mins
+- [Study: THC Has More Therapeutic Benefits Than We Thought](https://futurism.com/the-byte/thc-therapeutic-benefits), 2 mins

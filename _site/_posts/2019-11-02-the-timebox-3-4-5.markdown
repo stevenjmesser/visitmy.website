@@ -1,0 +1,44 @@
+---
+layout: post
+title: "The Timebox 3–5"
+sub-title: "Weeknotes S06E03"
+date: 2019-11-02
+description: "We got to the end of the timebox. But we didn't quite meet expectations."
+image: /assets/images/3942138306_6c63b7b35a_h.jpg
+image_title: "Corridor E"
+image_artist: "Steve Messer"
+image_source: https://www.flickr.com/photos/renegatus/3942138306/sizes/l/
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+We got to the end of the timebox. It was full of ups and downs, we invested ourselves in the work and did our best to act honestly. But we didn't quite meet expectations. 
+
+I'm not going to go into the details because, to be honest, it has been a gruelling, emotionally draining few weeks. Also, we haven't failed: we _have_ learned a lot. 
+
+After hearing a few people talk about trust and failure at [Jam on Thursday]({% post_url 2019-11-02-jam-2019 %}), I've a renewed sense of purpose. I'm really excited to get cracking again. 
+
+This has been one of the toughest times during my product career, but there's nothing quite like it to imbue oneself with first principles. Navigating uncertainty requires empathy for users, trust in your peers, and high-quality information so that you can deliver the requisite experience. 
+
+Onwards!
+
+## Bookmarks
+
+- [Digital ID: Where do we go from here?](https://www.theengineroom.org/digital-id-where-do-we-go-from-here/), 6 mins
+- [What‘s eating liberal democracy?](https://medium.com/@AlastairParvin/what-s-eating-liberal-democracy-5e9ae623afcd), 23 mins
+- [Trusted Digital Identity and the Infinite Regress Problem](https://medium.com/@trbouma/trusted-digital-identity-and-the-infinite-regress-problem-d0e6bf33d485), 2 mins
+- [Product management, fast and slow](https://www.intercom.com/blog/product-management-fast-slow/), 6 mins
+- [I Read About "Design For Trust" So You Don't Have To – Simply Secure](https://simplysecure.org/blog/design-trust), 9 mins
+- [Designing for Trust](https://airbnb.design/designing-for-trust/), 11 mins
+- [Democracy as a Platform](https://medium.com/@AlastairParvin/democracy-as-a-platform-b27d900e956d), 21 mins
+- [Digital dystopia: how algorithms punish the poor](https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor), 5 mins
+- [Computer says no: the people trapped in universal credit's 'black hole'](https://www.theguardian.com/society/2019/oct/14/computer-says-no-the-people-trapped-in-universal-credits-black-hole), 7 mins
+- [In 1968, computers got personal: How the ‘mother of all demos’ changed the world](http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654), 5 mins
+- [the rant](https://ambientehotel.wordpress.com/2019/10/12/the-rant/), 2 mins
+- [Data Trust, by Design: Principles, patterns and best practices (Part 1)](https://medium.com/greater-than-experience-design/data-trust-by-design-principles-patterns-and-best-practices-part-1-defffaac014b), 10 mins
+- [Data Trust, by Design: Principles, Patterns and Practices (Part 2 — Up front Terms and Conditions)](https://medium.com/greater-than-experience-design/data-trust-by-design-principles-patterns-and-practices-part-2-up-front-terms-and-conditions-337c6b37552d), 15 mins
+- [Weeknotes 0 - Why now?](https://www.chao-xian.co.uk/weeknotes-0-why-now/), 3 mins
+- [Fostering better collaboration within product teams: An interview with John Cutler](https://www.productboard.com/blog/john-cutler-interview/), 7 mins
+- [Software Is Politics](https://www.fastcompany.com/3066631/software-is-politics), 9 mins
+- [In which I am a bit over this digital transformation business.](https://medium.com/@curiouscatherinehowe/in-which-i-am-a-bit-over-this-digital-transformation-business-b49f9bb4500), 4 mins

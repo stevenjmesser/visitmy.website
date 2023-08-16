@@ -1,0 +1,85 @@
+---
+layout: post
+title: "The Quiet"
+sub-title: "Weeknotes S06E04"
+date: 2019-11-09
+description: "These are meditations on user-centred design practice, not my usual weeknotes."
+image: /assets/images/PW0593.JPG
+image_title: "The Erebus passing through the chain of bergs, 13 March 1842"
+image_artist: "J.E. Davis"
+image_source: https://prints.rmg.co.uk/products/the-erebus-passing-through-the-chain-of-bergs-13-march-1842-pw0593
+image_credit: "National Maritime Museum"
+tags:
+ - Weeknotes
+---
+
+The UK has entered a pre-election period before an election on 12 December, which means that I have to follow [election guidance for civil servants](https://www.gov.uk/government/publications/election-guidance-for-civil-servants) and not talk about work otherwise it might influence people's voting.
+
+So I'll just talk about some personal things and reflect on product management, design and some of that stuff instead. It's probably what I'm supposed to have been doing all along, so apologies in advance if it gets a bit LiveJournal and you're here for Red Hot Digital-On-Government Action.
+
+These are meditations on user-centred design practice, not my usual weeknotes.
+
+## Exercise
+
+Between 2015 and 2017, there were very few weeks when I didn't spend time on a bicycle. I covered 5,216 miles by bike, mostly commuting to work and back, and burned a fair few calories. It was a happy time. One lunchtime I even [rode out to Clerkenwell to grab some artichokes](https://www.strava.com/activities/552355228), from a bloke who brought them back from his nonna's garden in Italy. 
+
+But last year I spent less time on my bike (460 miles) and this year has been spent mostly on buses. 
+
+My mood hit a low point this week. After doing a bit of moaning, my partner suggested taking up cycling again, to get a few endorphins coursing through my body. Mornings have been chilly this week, _very_ chilly, but surprisingly it didn't deter me from cycling in to work.
+
+Rather than choke to death riding up the Old Kent Road, I take a route by the river: from New Cross down to Deptford, along the waterfront to Greenwich, through the foot tunnel, and up the Isle of Dogs on the other side. Watching the sun rise over the Thames of a morning is regenerative, as the golden light plays on the ripples. (It's why so many of my weeknotes have paintings of south-east London's maritime history.)
+
+And, you know what, it really helped me gain clarity this week. I felt energised and happy and more confident in being able to tackle our thorny work. It was just what was needed. So thanks, Mali, and thank you, bike!
+
+## Strategy credits and tax
+
+[Tanya](https://twitter.com/tcordrey) mentioned the [Exponent podcast episode about Facebook and the Second Estate](https://exponent.fm/episode-176-the-second-estate-era/) the other week and, besides the well-rounded thinking on power and information technology, they mentioned a couple of concepts new to me: strategy credits and strategy tax.
+
+As Ben Thompson writes:
+
+> A strategy tax is anything that makes a product less likely to succeed, yet is included to further larger corporate goals.
+
+and 
+
+> Strategy Credit: An uncomplicated decision that makes a company look good relative to other companies who face much more significant trade-offs. For example, Android being open source.
+
+They're useful concepts to bear in mind when having to make trade-offs in your everyday work, as they show how some decisions can force you down certain paths. It's useful to step back every once in a while and think 'OK, how does this contribute to the overall direction and getting closer to our vision?' Is the endgame you'll now reach the one that everyone is working towards?
+
+## Exploration, discovery and uncertain futures
+
+Will Myddleton has written some really good stuff about [running discoveries](https://www.myddelton.co.uk/blog/three-ways-to-run-better-discoveries) and how they're scary as we're [exploring uncertain futures](https://www.myddelton.co.uk/blog/better-discoveries). 
+
+One bit that struck a chord with me was about creating a safe space for discovery:
+> If discovery scares people (it does) then we need to find ways to make a safe space for discoveries to happen. People produce better work when they are not scared. We need to stop putting pressure on discovery teams to validate pre-existing decisions. We need advocates for discovery at a senior level – not people that do the work but the people that set the right conditions.
+
+It's all too easy to rush towards the all-hallowed solution, trying to pick up the threads of problems, contexts, motivations, behaviours, and all the other elements, weaving together a picture of the problem space. People are often worried about doing it all wrong, which can cause a bit of inertia. 
+
+What you want to avoid is wondering whether you're asking the right question first: that causes you to circle over your own practice, making little progress.
+
+That feels necessary when exploring a future system state. As Jamer Hunt writes:
+> Whereas the traditional products of design are configurations of matter in a state of being (finished, bounded, and knowable), the design for systems must instead open up a space of becoming – partial, indeterminate, and open. The aim is not to resolve a system – to fix it into a forever-ideal state – but to model the possibilities that system interventions might provoke.
+
+So perhaps the only question you definitely need an answer to before starting is one of scope: are we looking to set predetermined actions through a product? are we looking to bound a set of possible actions with a service? or are we looking to understand the wider system?
+
+Having vision is important, but alone it's not enough. Scope is also important. If one does not know to which port one is sailing, no wind is favorable.
+
+## Bookmarks
+
+Some bits and pieces I read this week.
+
+- [Hyperliterature](https://www.jamesyu.org/hyperliterature.html), 1 mins
+- [50 years ago today, the internet was born in Room 3420](https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420), 11 mins
+- [As the internet turns 50, we must protect it as a force for good](https://webfoundation.org/2019/10/as-the-internet-turns-50-we-must-protect-it-as-a-force-for-good/), 3 mins
+- [Right to privacy “may exist on paper” – but not in online “Wild West”, says JCHR](https://www.parliament.uk/business/committees/committees-a-z/joint-select/human-rights-committee/news-parliament-2017/privacy-report-published-19-20/), 4 mins
+- [Strategy Credit](https://stratechery.com/2013/strategy-credit/), 3 mins
+- [Hangouts requires a Google+ account](https://stratechery.com/2013/hangouts-requires-a-google-account/), 3 mins
+- [Transforming GOV.UK: the future of digital public services](https://gds.blog.gov.uk/2019/11/05/transforming-gov-uk-the-future-of-digital-public-services/), 6 mins
+- [Product managing beyond products – iterate](https://www.iterate.org.uk/product-managing-beyond-products/), 12 mins
+- [Better discoveries](http://www.myddelton.co.uk/blog/better-discoveries), 4 mins
+- [Rediscover the Forgotten Art of Product Strategy](https://www.mindtheproduct.com/rediscover-the-forgotten-art-of-product-strategy/), 9 mins
+- [Public service in the hour of chaos](https://medium.com/@SimonFParker/strategy-in-the-hour-of-chaos-118d75d4e887), 4 mins
+- [Just enough Internet: Why public service Internet should be a model of restraint](https://doteveryone.org.uk/2019/10/just-enough-internet/), 10 mins
+- [Anticipating Future System States](https://jfsdigital.org/articles-and-essays/vol-23-no-3-march-2019/anticipating-future-system-states/), 12 mins
+- [Speculative design for the real world](https://uxdesign.cc/speculative-design-for-the-real-world-551130b22827), 6 mins
+- [Approaches, methods and tools for Speculative Design](http://speculativeedu.eu/approaches-methods-and-tools-for-speculative-design/), 13 mins
+- [How to work in the open in government](https://medium.com/@BenHolliday/how-to-work-in-the-open-in-government-30993d84a47c), 6 mins

@@ -1,0 +1,83 @@
+title: Harsh Browns
+author:
+  name: Steve Messer
+  email:
+  bio: Product manager. Web enthusiast, working in the open. Black Country boy.
+  url: https://visitmy.website
+description: Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.
+url: https://visitmy.website
+permalink: /:year/:month/:day/:title/
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%e %B %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: stevenjmesser
+    github: stevenjmesser
+    linkedin: stevenjmesser
+    mastodon:
+     - username: stevenjmesser
+       instance: indieweb.social
+
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - topics.md
+ - about.md
+ - cv.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-tfidf-related-posts
+ - jekyll-redirect-from
+ - jekyll-webmention_io
+
+markdown: kramdown
+
+webmentions:
+  username: visitmy.website
+  throttle_lookups:
+    last_month: daily
+
+pagination:
+  enabled: true
+  debug: false
+  per_page: 100
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+related_posts_count: 3
+
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - 'tag.html'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+exclude:
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - 2fa

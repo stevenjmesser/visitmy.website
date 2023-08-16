@@ -1,0 +1,84 @@
+---
+layout: post
+title: "The Boost"
+sub-title: "Weeknotes S01E05"
+date: 2018-08-18
+description: "Another benefit of weeknoting is being able to package up a period of time and conclude your thoughts on it, draw a line in the sand and move on."
+image: https://cdn-images-1.medium.com/max/2560/1*LvtCgdv3MrB_zWfeNrgw8Q.jpeg
+image_title: ""
+image_artist: "Frank Herholdt"
+image_source: http://frankherholdt.com
+image_credit: ""
+tags:
+ - Weeknotes
+---
+
+After last week’s slump, it was good to escape that trough and ascend new heights this week. It’s a good reminder of the cyclical nature of things, the natural highs and lows, and how being mindful of those gives you opportunity to change tack – if needs be. It’s another benefit of weeknoting, being able to package up a period of time and conclude your thoughts on it, draw a line in the sand and move on.
+
+## Five Things That Happened
+
+_More than five things happened_
+
+### One
+
+We had a GOV.UK away day. It was good to hang out with people I’ve not worked with before and there were great presentations from others in GDS, most notably from [Alistair Duggin](https://medium.com/u/4c95e6ca7491), Head of Accessibility. He’s put together a set of [user profiles for disabilities and impairments](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles) to use when designing services and products. It’s a great resource for people across government and anyone else in service design or tech.
+
+He also covered how we can meet the [new regulations for public sector websites’ accessibility](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps), for which the [Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/) is hugely effective. Having never used screen readers before or had a visual impairment, it helps you experience the benefits of accessible design on the Web.
+
+We didn’t do any strategic, future-vision stuff though people were expecting that. With a quarterly mission structure, we’re updated on where we’re headed quite regularly, but perhaps people are blind to that. As a PM community we’re doing lots of roadmapping at the moment, so I’ll plump for that being played back to teams. (I’d also like to make it open to the public, I just need an affirmative response to an email.)
+
+### Two
+
+Each fortnight, the product manager community of GOV.UK gets together to chat strategy, tools of practice, methods, opportunities and more. It helps us all keep aligned with each other and the unit stays abreast of industry developments in product management. This week we explored the [Jobs to be Done framework](https://hbswk.hbs.edu/item/clay-christensen-the-theory-of-jobs-to-be-done) with our User Insights Lead, [Imeh Akpan](https://medium.com/u/f55ce5f16fec).
+
+It’s something I’ve found helpful in the past – especially when trying to work out [what product improvements to make when your backlog’s beefy](https://www.intercom.com/blog/where-do-you-suck-where-does-it-matter/) – but with an entire country to create user personas for, Jobs to be Done helps us better empathise with what a user is trying to achieve on www.gov.uk.
+
+It’ll be exciting to develop this thinking further, especially as we try to [fuel the reciprocal relationship between users and government](https://gds.blog.gov.uk/2018/06/27/building-the-gov-uk-of-the-future/) that can happen on the site. It’ll give us opportunities to develop true innovations in democracy both on– and offline. Most jobs are triggered in the real world, and we’re thinking more about the end-to-end journey people take.
+
+### Three
+
+We did more research into request tracing for the publishing pipeline, and we wrote a blog post about what we’ve done thus far. (Hopefully it’ll be published next week!) But we’ve done a full audit of the tools available, [an open standard we can use](http://opentracing.io/) to reduce switching costs, and worked out how much each tool will cost us as it records HTTP requests across the publishing stack.
+
+QUIZ TIME! How many HTTP requests do applications in the GOV.UK publishing pipeline get each week? Answer: ~109 million.
+
+A boy is taken aback. Much like we were.
+
+Also I caught up with our delivery manager as the first half of the quarter has passed, so we’re looking ahead to the next. They were really complimentary on some of my work, but they also gave me challenges for making improvements – mainly on my outwardly perceived attitude. This sort of criticism is really welcome and I’m glad they brought it up, as I do have a tendency to be blunt or seem unhappy. But that’s not fair when you’re leading a team and people rely on you, so I’ve got to be more mindful of that. After some tough talk, I was shocked but overwhelmingly pleased to be told I’d been nominated for a bonus!
+
+Two good reality checks in one lunchtime.
+
+### Four
+
+Thursday was full of future thinking. Working on backlogs for the platform suite of products, thinking about missions for quarters 3 and 4, and how we can do agency-style work with departments as clients.
+
+We’re refining our OKR approach to mission work. We set wide objectives for making improvements to the platform, break those down into specific missions to achieve outcomes, and measure the success of those with key results. We also set KPIs against the key results, to measure whether we need to do more or less work on those missions. It’ll [bring more experimentation into our product development](http://theleanstartup.com/principles), which is really exciting and how other contemporary product organisations work.
+
+But this got me thinking about the long-term strategy for GOV.UK and our place in the [Semantic Web](https://www.w3.org/standards/semanticweb/). The Voice and SEO missions have edged us closer to that, but I’ve started thinking about other ways to slice our data warehouse. GOV.UK is one of many records of the history of government in the UK – we need to make it understandable to machines, and build ways for products to be developed on top of its output.
+
+> By the way, we’re looking for [developers](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmY3NvdXJjZT1jc3FzZWFyY2gmam9ibGlzdF92aWV3X3ZhYz0xNTI2MDE3JnVzZXJzZWFyY2hjb250ZXh0PTYxOTkyODEzJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJnNlYXJjaF9zbGljZV9jdXJyZW50PTEmcmVxc2lnPTE1MzQ1MzMyNDUtYjU5M2NjYzEzY2ZlMGI2ZjJmNTcxZWExY2VlYjhjYjAxMjMwODdiNQ==) and [senior developers](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9NjE5OTI4MTMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVyPTUwNzAwMDAmc2VhcmNoX3NsaWNlX2N1cnJlbnQ9MSZvd25lcnR5cGU9ZmFpciZwYWdlY2xhc3M9Sm9icyZjc291cmNlPWNzcXNlYXJjaCZqb2JsaXN0X3ZpZXdfdmFjPTE1MjU5ODEmcmVxc2lnPTE1MzQ1MzMyNDUtYjU5M2NjYzEzY2ZlMGI2ZjJmNTcxZWExY2VlYjhjYjAxMjMwODdiNQ==) – get onboard!
+
+### Five
+
+And on Friday I chatted with my line manager about the possibilities of promotion. I’m working to the [levels of competency expected of product managers](https://www.gov.uk/government/publications/product-manager-skills-they-need/product-manager-skills-they-need) in our DDaT Framework, but a job needs to be created before I can apply and interview for it. And I shouldn’t assume I’d be the best candidate, but I do feel ready. Not sure how it’ll go but I’ve got my fingers crossed!
+
+Also managed to encourage our delivery manager to write about the team culture they’re fostering, so keep an eye out for that blog. Thinking out loud about their work and blogging was the channel through which I learned about and was attracted to GDS, it’s sad that [it has declined](https://daibach.uk/2018/02/state-blogging-digital-government/). But hopefully we can cause a ripple of new, more frequent writing to ebb out of our teams’ work.
+
+## Reflections
+
+*   [This is for everyone](https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone), always
+*   User journeys are too flat, what they need is context
+*   [No man is an island](https://web.cs.dal.ca/~johnston/poetry/island.html)
+*   The future is exciting – and it’s an honour to nerd out about the Web and have fun _at work_!
+
+## What I’m Cooking
+
+*   Grilled peach salad with mozzarella, pomegranate molasses & balsamic dressing and Parma ham
+*   Hot Punjabi prawn curry
+*   Masala chicken breast with pea shoot salad, spiced quinoa and carrot & coriander salad
+
+## What I’m Reading
+
+- [Teams from Scratch – Part 1: Psychological Safety](https://medium.com/@probablyfine/teams-from-scratch-part-1-psychological-safety-ea43d46cdbc6)
+- [Solid: Empowering people through choice](https://solid.github.io/dweb-summit-2018/)
+- [How long will the UK stay the world leader in opendata?](https://medium.com/@nickmhalliday/how-long-will-the-uk-stay-the-world-leader-in-opendata-2cf7174cc857)
+- [The Threat of Hylomorphic Design Thinking](https://hackernoon.com/the-threat-of-hylomorphic-design-thinking-3fd417971738)

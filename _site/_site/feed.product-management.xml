@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harsh Browns</title>
+    <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.product-management.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Aug 2023 06:11:31 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 06:11:31 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Reading list for new design system managers</title>
+        <description>&lt;p&gt;Back in December 2022, I became the product manager for the &lt;a href=&quot;https://design-system.service.gov.uk&quot;&gt;GOV.UK‌ Design System&lt;/a&gt;, providing maternity cover for &lt;a href=&quot;https://design-system.service.gov.uk/design-system-team/&quot;&gt;the team’s&lt;/a&gt; excellent PM. I wasn’t a complete newbie to the design system as I’d used it as the baseline for design decisions when I was Head of Product at a startup.&lt;/p&gt;
+
+&lt;p&gt;I hadn’t thought much about what it might be like to manage a design system though. It was a mystery: would working as a product manager on a design system be like working on other products, platforms and services? I needed to read up and get prepared, and the articles and blog posts below were really helpful in my first few weeks on the team.&lt;/p&gt;
+
+&lt;p&gt;This &lt;strong&gt;is not&lt;/strong&gt; a canonical list of what everyone new to managing design systems should read, it’s just a list of things that helped &lt;em&gt;me&lt;/em&gt;. Hopefully you’ll find them useful, and let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://indieweb.social/@stevenjmesser&quot;&gt;Mastodon&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt; if there’s anything you recommend I read too!&lt;/p&gt;
+
+&lt;p&gt;These are presented in no particular order. Open all the links and get reading!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/the-myth-that-design-systems-solve-easy-problems/&quot;&gt;The myth that design systems solve easy problems&lt;/a&gt;, 4 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amyhupe.co.uk/articles/Bringing-intention-to-design-systems/&quot;&gt;Cultivating design systems by bringing intention&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2022/11/8/23445821/figma-adobe-acquisition-design-vr-ai-meta&quot;&gt;Why Figma is selling to Adobe for $20 billion&lt;/a&gt;, 53 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://review.firstround.com/the-5-phases-of-figmas-community-led-growth-from-stealth-to-enterprise&quot;&gt;The 5 Phases of Figma’s Community-Led Growth: From Stealth to Enterprise&lt;/a&gt;, 16 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/&quot;&gt;A new accessibility strategy for the GOV.UK Design System&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ethanmarcotte.com/wrote/the-hoof-and-the-horse/&quot;&gt;The hoof and the horse&lt;/a&gt;, 3 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinrendle.com/essays/systems-mistakes-and-the-sea&quot;&gt;Systems, Mistakes, and the Sea&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2019/there-is-no-design-system/&quot;&gt;There Is No Design System&lt;/a&gt;, 7 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sarahdrinkwater.medium.com/products-with-community-at-their-core-e53d8810276b&quot;&gt;Products with community at their core&lt;/a&gt;, 9 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.millisecond.co/blog/design-systems-maturity&quot;&gt;Design System Maturity Levels&lt;/a&gt;, 5 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://christianheilmann.com/2023/01/18/web-resilience-is-about-users-not-a-shortcut-for-developers/&quot;&gt;Web resilience is about users – not a shortcut for developers&lt;/a&gt;, 6 mins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/design-principles/#leave-the-web-better&quot;&gt;Leave the web better than you found it&lt;/a&gt;, 1 min&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Feb 2023 09:50:45 +0000</pubDate>
+        <link>https://visitmy.website/2023/02/09/reading-list-for-new-design-system-managers/</link>
+        <guid isPermaLink="true">https://visitmy.website/2023/02/09/reading-list-for-new-design-system-managers/</guid>
+        
+        <category>Bookmarks</category>
+        
+        <category>Design</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>You are not always your job title</title>
+        <description>&lt;p&gt;Recently I’ve been setting some professional development objectives, so that I can continue developing skills and adding value to the service I’m working on. And maybe work towards a promotion.&lt;/p&gt;
+
+&lt;p&gt;Based on what I’m working on and the context we’re in, I’m thinking it’d be sensible to mix and match skills from two &lt;a href=&quot;https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework&quot;&gt;capability profiles&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;For context, I’m working in a service redesign team on an end-to-end service. That means we’re looking at how to iterate the minimum viable service and make it more scalable over time.&lt;/p&gt;
+
+&lt;p&gt;I’ve been hired as a senior product manager, but I’m not the only product manager working on the service. That’s because &lt;a href=&quot;https://medium.com/@teropsv/products-deliver-outputs-services-deliver-outcomes-845f964ba1ff&quot;&gt;a service is everything a user needs to do to achieve a goal&lt;/a&gt;, and a service can be made up of products, platforms and enabling services.&lt;/p&gt;
+
+&lt;p&gt;So while I don’t tell other product or service managers what to do, I am involved in how their areas knit together. I’m the glue.&lt;/p&gt;
+
+&lt;p&gt;I’m sometimes acting a bit more like a &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#lead-product-manager&quot;&gt;lead product manager&lt;/a&gt; than a senior, providing that glue, because I’m working with our service owner to give teams direction. And sometimes I’m acting like a &lt;a href=&quot;https://www.gov.uk/guidance/service-designer#senior-service-designer&quot;&gt;senior service designer&lt;/a&gt; too, advocating for design and how we use it to meet users’ needs.&lt;/p&gt;
+
+&lt;p&gt;So right now, I’m not my job title. It’s a bit of product, a bit of design, and some coaching on agile delivery at scale. But if I’m not my job title, how am I supposed to write my professional development objectives?&lt;/p&gt;
+
+&lt;p&gt;How the DDaT skills profile describe strategic ownership/thinking for product managers and service designers caught me out.&lt;/p&gt;
+
+&lt;p&gt;Strategic ownership for product managers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can develop a long-term vision and objectives. You can take a discerning and disciplined approach to focusing on what is important and most relevant. You can develop the capability of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Strategic thinking for service designers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The definition for service designers is more what I do: designing strategies, ensuring they deliver value and meet requirements. It’s pragmatic. Which is more than developing visions and objectives…although I also do that.&lt;/p&gt;
+
+&lt;p&gt;Am I doing two jobs?&lt;/p&gt;
+
+&lt;p&gt;I don’t care too much. Pigeonholing people can mean you lose sight of creating valuable outcomes for users. And you ignore the multifaceted experience a person might have. But it’s &lt;a href=&quot;https://emilywebber.co.uk/why-cant-we-all-just-get-along/&quot;&gt;a trend people have observed&lt;/a&gt;, focusing on job titles rather than collaboration.&lt;/p&gt;
+
+&lt;p&gt;There’s value in sharing methods too. Service design techniques were useful when I was sole product manager at a startup. And though I knew the concept of rapid prototyping, I wouldn’t have been able to design interfaces at the startup well had I not spent so much time with excellent interaction designers.&lt;/p&gt;
+
+&lt;p&gt;So let’s be thankful when we’ve got enough specialists on a team to do a job well. But let’s also realise when you have to fill gaps, when you are not your job title.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2022 16:59:54 +0000</pubDate>
+        <link>https://visitmy.website/2022/11/08/you-are-not-always-your-job-title/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/11/08/you-are-not-always-your-job-title/</guid>
+        
+        <category>Product management</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Strategic vocabulary</title>
+        <description>&lt;p&gt;My team is approaching the end of an &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works&quot;&gt;alpha phase&lt;/a&gt; currently. We’ve been looking at two areas of an end-to-end service and have prototyped potential solutions for improving the service at those stages.&lt;/p&gt;
+
+&lt;p&gt;We’ve got two weeks of testing left before we wrap up the alpha and go to assessment, handing over our findings. In last week’s retro, there were worried feelings about how our good work would continue. It’s not clear that we will be the stewards of the work, or that anyone will be. And when people feel like their good work might not lead to anything, they (understandably) start to feel unenthused and demotivated.&lt;/p&gt;
+
+&lt;p&gt;The existential malaise we’re feeling is due to the organisation’s structure and operating principles. It funds projects, not teams. It makes change hard to do, which can be a downer.&lt;/p&gt;
+
+&lt;p&gt;But when you zoom out, the organisation is going through change. It’s moving towards a service model and funding &lt;a href=&quot;https://defradigital.blog.gov.uk/2017/09/19/lets-fund-teams-not-projects/&quot;&gt;teams, not projects&lt;/a&gt;. Which is good!&lt;/p&gt;
+
+&lt;p&gt;In this context, as part of an organisation going through change, our alpha can be a trojan horse. Though we can’t go deep enough to test interfaces and back-office processes down the stack, we can collect feedback that this is a good direction to go in. We can state what we’d need to do next, to test the viability and feasibility of the solutions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Always design a thing by considering it in its next larger context — a chair in a room, a room in a house, a house in an environment, an environment in a city plan.” Eliel Saarinen&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;By showing a route forward and placing ourselves as the stewards of these designs, we can help the organisation deliver those. It should (hopefully) be a success story to show how &lt;a href=&quot;https://good.services/blog/what-is-a-service&quot;&gt;user-centred service design&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/service-manual/the-team&quot;&gt;multidisciplinary teams&lt;/a&gt; work to deliver, &lt;em&gt;maintain, and increase&lt;/em&gt; value – for users and our organisation.&lt;/p&gt;
+
+&lt;p&gt;I didn’t always know how to describe this. When you can’t see a way through, it’s hard to get past hard times. Adding to my &lt;a href=&quot;https://medium.com/dark-matter-and-trojan-horses/dark-matter-and-trojan-horses-a-strategic-design-vocabulary-strelka-press-18551fff3133&quot;&gt;strategic vocabulary&lt;/a&gt; has really helped. Now I can see the dark matter of the organisation changing, and I can spot how a trojan horse might help carry that change through.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2022 15:07:46 +0100</pubDate>
+        <link>https://visitmy.website/2022/10/17/strategic-vocabulary/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/10/17/strategic-vocabulary/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Alpha is discovery</title>
+        <description>&lt;p&gt;The problem with moving fast in a discovery, when you’re exploring a new problem domain or trying to validate a hypothesised solution, is that many things are uncertain. You’re working in the Great Unknown and it’s hard to get your bearings: when will we be done? what do we know and not know? have we made any progress? are we even in the right place?&lt;/p&gt;
+
+&lt;p&gt;These are all questions you’ll be asking yourself.&lt;/p&gt;
+
+&lt;p&gt;It’s a common trait for teams to get stuck in a discovery for weeks or months on end. This is normal. You’re trying to bottom something out, find the edges, and it’s natural to keep digging because the end is never clear.&lt;/p&gt;
+
+&lt;p&gt;As Jeff Patton says:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;the primary measure of progress during discovery isn’t delivery velocity, it’s learning velocity. And sadly, we can’t measure its features or stories completed. And, even worse, we can’t plan two weeks of it in detail because what we learn today can and should change what we do tomorrow.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The goal posts we normally set ourselves during delivery aren’t going to work. We need to optimise for learning velocity, and apply tactics that help us learn faster.&lt;/p&gt;
+
+&lt;h2 id=&quot;loops-not-stages&quot;&gt;Loops not stages&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;Discovery&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works&quot;&gt;alpha&lt;/a&gt; stages are often presented as sequential. You do some discovery then move on to alpha. We think there’s these clear boundaries between the modes of working, and that you can generate enough knowledge in discovery to allow you to move on to alpha.&lt;/p&gt;
+
+&lt;p&gt;But it doesn’t really work like that.&lt;/p&gt;
+
+&lt;p&gt;Discovery – problem understanding – is a divergent activity: we go broad to gather lots of information and ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the Problem Understanding phase we gather data to help us understand and frame the problem. Data includes both qualitative and quantitative data, such as customer interviews, surveys, support tickets, sales call feedback, product usage, and NPS feedback.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alpha – solution exploration – is a convergent activity: we whittle those ideas down to the most promising ones.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In Solution Exploration, designers use the data gathered during Problem Understanding to frame the problem to be solved. Designers explicitly write down what the problem is, use cases, target users, and anything that’s out of scope. After getting buy-in from the PM and team, they explore solutions by creating sketches, wireframes, and prototypes. Engineers are looped in to provide feedback on technical feasibility. Researchers do usability testing in this phase as well.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you learn that an idea is promising, you’ll probably have more questions about it. But if your discovery stage has finished, it’s hard to go back and ask those. When viewed as separate stages, what we learn when exploring solutions cannot feed back into what we understand about the problem.&lt;/p&gt;
+
+&lt;p&gt;So we need to view discovery and alpha as a loop, feeding learnings from exploring solutions back into our understanding of the problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;manifest-ideas-to-check-understanding&quot;&gt;Manifest ideas to check understanding&lt;/h2&gt;
+
+&lt;p&gt;To create this loop, do away with the idea of discovery and alpha as stages. Blend them together. Start bringing ideas in to your discovery to check understanding.&lt;/p&gt;
+
+&lt;p&gt;Make more use of sketches. You don’t have to plan time to create sketches or spend ages doing it, just get an idea out there quickly. “Sketches have fleeting value. They are valuable for a very short period of time.”&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; You can validate ideas with a sketch, bottoming things out and whittling down ideas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sketch is not the end goal. The end goal of the drawing process is what you learn while sketching. So don’t worry if you can’t sketch. In fact, if you’re too good you might just fool yourself into thinking your sketch is a deliverable. It’s not. The real value of sketching is that it allows you to explore and refine ideas in a quick, iterative and visual manner with little overhead or learning curve. Rapid ideation around flow and interaction, layout and hierarchy, can be quickly established, rearranged or discarded wholesale—all without ever touching a computer.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And a sketch can be anything. It doesn’t need to be what a UI might look like, it can be a series of words and arrows to &lt;a href=&quot;https://designnotes.blog.gov.uk/2016/04/21/how-to-make-a-user-journey-map/&quot;&gt;map out a story&lt;/a&gt; in a scrappy, sketchy way. Or it could be the JSON output of an API call, a list of properties.&lt;/p&gt;
+
+&lt;p&gt;Manifest your ideas and put these in front of people, to check you’re understanding the problem fully.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-by-doing&quot;&gt;Learning by doing&lt;/h2&gt;
+
+&lt;p&gt;Working in this way is at the heart of lean product development. It’s about speeding up learning and reducing uncertainty by becoming comfortable with showing scrappy ideas. “The sooner we get our ideas out, the sooner we can figure out what those revisions should be.”&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s about learning by doing. Thinking and making as one activity, where what you learn improves your next try.&lt;/p&gt;
+
+&lt;p&gt;Don’t view these as separate stages. Alpha &lt;em&gt;is&lt;/em&gt; discovery.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.jpattonassociates.com/common-agile-isnt-for-startups/&quot;&gt;Common Agile Practice Isn’t for Startups&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://jlzych.com/2016/07/17/discovery-kanban-at-optimizely/&quot;&gt;Discovery Kanban at Optimizely&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650807/deliverables-vs-delivery&quot;&gt;Deliverables vs. Delivery&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://52weeksofux.com/post/346650933/sketch-sketch-sketch&quot;&gt;Sketch, Sketch, Sketch&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://leanuxbook.com&quot;&gt;&lt;em&gt;Lean UX&lt;/em&gt;&lt;/a&gt;, Jeff Gothelf &amp;amp; Josh Seiden &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 09 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2022/04/09/alpha-is-discovery/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/04/09/alpha-is-discovery/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The way of the product manager is death</title>
+        <description>&lt;p&gt;&lt;em&gt;Hagakure&lt;/em&gt;, written by Yamamoto Tsunetomo in the 17th century, is a collection of commentaries on &lt;em&gt;bushido&lt;/em&gt;, the way of the samurai. It posits that if a samurai accepts that they may die, they will never be afraid of acting in the moment.&lt;/p&gt;
+
+&lt;p&gt;I first came across the book when I watched Jim Jarmusch’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai&quot;&gt;&lt;em&gt;Ghost Dog: The Way of the Samurai&lt;/em&gt;&lt;/a&gt; in the early 200s. Aside from being a great movie with an excellent soundtrack (produced by the RZA), the movie features snippets from &lt;em&gt;Hagakure&lt;/em&gt;. Little maxims that, to be honest, I’ve used to help me through moments of struggle in the past.&lt;/p&gt;
+
+&lt;p&gt;The one that helped the most was this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In his book of maxims, &lt;em&gt;O-Kabegaki&lt;/em&gt; (“Wall writings”), Lord Naoshige wrote: “Deliberate lightly when deciding on weighty matters.” Ishida Ittei added a note to this axiom: “Be meticulous when deciding on affairs of minor importance.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here’s some more cuttings from &lt;a href=&quot;https://www.hive.co.uk/Product/Yamamoto-Tsunetomo/Hagakure--The-Secret-Wisdom-of-the-Samurai/17107515&quot;&gt;the book&lt;/a&gt;. I’ll add to this page as I carry on reading. Hopefully these maxims will help you some day.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;on-being-a-generalist&quot;&gt;On being a generalist&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No particular talent is needed. In a word, all that is required is the fortitude to declare that you alone will shoulder the burden of responsibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Therefore, if one seeks to resolve a problem, let it sit for a while, take time to think about the “Four Oaths” and subdue any self-centered thoughts, and then you will be able to proceed without faltering.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-mentors&quot;&gt;On mentors&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When it is difficult to invoke true wisdom unimpeded by selfish motivations, consult a man with insight. He will be able to offer selfless and candid advice as the matter is of no concern to him personally, and he will thus be able make rational judgments. Such recourse will be viewed by others as being firmly-rooted and prudent. It is akin to an enormous tree with many roots; by contrast, the self-centered wisdom of one man is like a small tree precariously placed in the ground.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we discard our own prejudices and invoke the maxims of our forebears, or consult with others on such matters, we can proceed without impediment and not wane into iniquity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no better way than to talk with others if you are keen to know your flaws. Listening to men and reading books helps complement your own good sense with the wisdom of the ancients.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-giving-and-receiving-feedback&quot;&gt;On giving and receiving feedback&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In offering one’s opinion, one must first ascertain whether or not the recipient is in the right frame of mind to receive counsel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being convivial and cooperating with one’s companions to rectify each other’s inadequacies to be of better use to the lord is what constitutes genuinely compassionate service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important to commend young warriors if they perform their duties well in order to motivate them, even if it was only a trifling achievement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-organisation-and-planning&quot;&gt;On organisation and planning&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Master Jōchō pondered tasks for the coming day and wrote them down. Being organized keeps you a step ahead of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The unprepared warrior lacks foresight, and even if he succeeds in solving a problem, it is merely through good fortune rather than good planning. A warrior who doesn’t think things through beforehand will be ill-equipped.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is prudent to prepare for serious matters ahead of time so that they can be dealt with expediently. It is difficult to make quick decisions without planning in advance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-meetings&quot;&gt;On meetings&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When scheduled to meet somebody the following day, make a careful assessment the night before, contemplating appropriate greetings, topics of conversation, and points of etiquette.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is good practice to think things through when going to visit somebody. This is to ensure that harmony prevails.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;on-product-sense&quot;&gt;On product sense&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Knowing the Way is to know your own faults. Discovering your imperfections with endless introspection and to remedy them by spending your life training body and mind (shugyō), that is the Way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not know how to defeat others. All I know is the path to defeat myself. Today one must be better than yesterday, and tomorrow better than today. The pursuit of perfection is a lifelong quest that has no end.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The prepared warrior is not only able to solve problems in a quick and commendable fashion by virtue of his life experience, but he can react appropriately through his comprehension of measures to meet any scenario.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</link>
+        <guid isPermaLink="true">https://visitmy.website/2022/01/13/way-of-the-product-manager-death/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Service designers and product managers: working together</title>
+        <description>&lt;p&gt;The other day I was looking through the &lt;a href=&quot;http://www.practicalservicedesign.com/community&quot;&gt;Practical Service Design Slack community&lt;/a&gt; when a question from &lt;a href=&quot;https://www.linkedin.com/in/carolinecoxorrell/&quot;&gt;Caroline Cox-Orrell&lt;/a&gt; caught my eye.&lt;/p&gt;
+
+&lt;p&gt;She asked:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Does anyone have a model (or just examples from your own teams) about how service design and product mgmt/design might collaborate?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s a good question! When I’ve worked with service designers, we’ve always laughed at how similar our roles can be. I think this stems from product managers needing to be generalists – or &lt;a href=&quot;https://digitalbydefault.com/2020/02/12/multi-hyphenates/&quot;&gt;multi-hyphenates&lt;/a&gt; – filling in gaps on a team when a specialist isn’t available. And because so many materials and frameworks for product management focus on the huge as-a-service sector, product managers will often be doing service thinking.&lt;/p&gt;
+
+&lt;p&gt;But how might service designers and product managers best collaborate?&lt;/p&gt;
+
+&lt;p&gt;Whenever I’ve worked with service designers we’ve established &lt;a href=&quot;/2020/09/26/notes-on-areas-of-responsibility/&quot;&gt;areas of responsibility&lt;/a&gt; together to make sure that we’re not overlapping too much and duplicating effort. It’s really important to do this, as a study showed that overlap negatively affects job satisfaction and could lead to poorer products and services.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;In essence I think the product manager is more responsible for managing the team when working with a service designer, yet the service designer definitely takes the lead on facilitating the team. The product manager can also deal with all the stakeholders, leaving the service designer with much-needed thinking time.&lt;/p&gt;
+
+&lt;p&gt;It’s helpful for product managers and service designers to have twice weekly catch-ups, talking about how the projects or tasks at hand are progressing, and to align on knowns and unknowns.&lt;/p&gt;
+
+&lt;p&gt;Remember that service designers are great at going deep and wide, so a product manager can best complement that skill by shaving scope and leading the strategic thinking. As always though, no two pairings will be alike, so alter the areas of responsibility based on people’s strengths and weaknesses.&lt;/p&gt;
+
+&lt;p&gt;That’s what worked for me in the past anyway. It’s best not to look at it as stepping on each other’s toes, more like dancing a foxtrot together.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team&quot;&gt;What each role does in a service team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/product-manager#introduction-to-the-role-of-product-manager&quot;&gt;Introduction to the role of product manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/service-designer#introduction-to-the-role-of-service-designer&quot;&gt;Introduction to the role of service designer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/pm-ux-different-views-of-responsibilities/&quot;&gt;PM and UX Have Markedly Different Views of Their Job Responsibilities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nngroup.com/articles/ux-product-managers-overlap/&quot;&gt;https://www.nngroup.com/articles/ux-product-managers-overlap/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Visual design fundamentals</title>
+        <description>&lt;p&gt;&lt;em&gt;These are my notes from a short class on &lt;a href=&quot;https://generalassemb.ly/education/visual-design-fundamentals-e5aac13e-0e76-47f9-8fde-1ffd9b802aca/online/187328&quot;&gt;visual design fundamentals&lt;/a&gt;. I wanted to learn the purpose of visual design, the theory behind design and how it related to UX design.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I played with Flash, Dreamweaver and Fireworks as a teenager, and later got into photography and designing photo books, but I’ve never had any formal design training. I’ve worked with some great designers at GDS, but would love to develop my skills further.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-visual-design&quot;&gt;What is visual design?&lt;/h2&gt;
+
+&lt;p&gt;Visual design focuses on the aesthetics of a project and its related materials by strategically implementing images, colours, fonts and other elements. A successful visual design doesn’t take away from the content or a function. It helps people build trust in it.&lt;/p&gt;
+
+&lt;h2 id=&quot;discovery&quot;&gt;Discovery&lt;/h2&gt;
+
+&lt;p&gt;You need to know about a project before jumping in and designing things. This usually includes talking with and researching the client, colleagues, competitors, sources of inspiration, etc. All of that stuff is then turned into ideas. Quick, low effort work like wireframing can bring ideas into reality, out of your head, to be tested to see whether the ideas work.&lt;/p&gt;
+
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;/h3&gt;
+
+&lt;p&gt;Whenever you begin a project, you should always be starting off with research. Take a collaborative approach because you need information from clients and stakeholders to understand their objectives, set constraints, set goals for when work begins and ends, and get useful feedback on your work.&lt;/p&gt;
+
+&lt;p&gt;Research looks like&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;looking stuff up on the web&lt;/li&gt;
+  &lt;li&gt;looking at books, magazines and blog posts&lt;/li&gt;
+  &lt;li&gt;interviewing clients&lt;/li&gt;
+  &lt;li&gt;interviewing potential users&lt;/li&gt;
+  &lt;li&gt;formalising marketing data&lt;/li&gt;
+  &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anything that helps you better understand what you’re making and who you’re making it for. Feel free to drill in to briefs and ask ‘why’ – you don’t want to be left guessing why they like stuff. Find out what level of control the client wants too.&lt;/p&gt;
+
+&lt;h3 id=&quot;create-the-objective&quot;&gt;Create the objective&lt;/h3&gt;
+
+&lt;p&gt;Craft an objective to answer the questions: What are we trying to communicate? Who are we communicating this to?&lt;/p&gt;
+
+&lt;p&gt;Use plain language to communicate purpose clearly. Throughout the project, consider whether the design is helping meet this objective.&lt;/p&gt;
+
+&lt;h2 id=&quot;ideation&quot;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;Once you’ve done your research, you’re ready to turn those into ideas.&lt;/p&gt;
+
+&lt;p&gt;Not everyone has the same process, and not every process is applicable to each brief. You might need to adapt a process depending on the project.&lt;/p&gt;
+
+&lt;p&gt;Moodboarding is a good way to curate design elements that speak to the overall look and feel, and define constraints to work within. If you’re looking to copy a website design, for example, the design decisions won’t be obvious and objectives will definitely be different. So try to look at raw designs: photography, illustration, books, typography, icons, colours, patterns, shapes, textures, etc. These provide different directions to go in and can generate feedback from a client.&lt;/p&gt;
+
+&lt;p&gt;You can refine moodboards as you move in a certain direction, e.g. ‘neon’, ‘big, bold and yellow’, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;define-constraints&quot;&gt;Define constraints&lt;/h3&gt;
+
+&lt;p&gt;This will contain the scope of the work and can limit scope creep. We want to narrow focus and purpose to make the design as effective as possible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Timeline and budget&lt;/li&gt;
+  &lt;li&gt;Technical considerations&lt;/li&gt;
+  &lt;li&gt;The audience to reach&lt;/li&gt;
+  &lt;li&gt;The message or values to communicate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;visual-perception-and-graphic-form&quot;&gt;Visual perception and graphic form&lt;/h2&gt;
+
+&lt;h3 id=&quot;contrast&quot;&gt;Contrast&lt;/h3&gt;
+
+&lt;p&gt;It’s not just about colour. Contrast can define hierarchy, exploit context, manipulate relationships between elements. You bring meaning and emphasis by contrasting things with each other. It’s the occurring of elements of different size, position, colour, texture, shape and orientation.&lt;/p&gt;
+
+&lt;p&gt;The Rule of Least Effective Difference urges designers to use the smallest visual variation required to effectively communicate an idea.&lt;/p&gt;
+
+&lt;p&gt;Use contrast to convey information and importance. Our brains are wired to pick up on contrast. But use it sparingly: decide which few elements need to stand out and make those different to everything else.&lt;/p&gt;
+
+&lt;p&gt;You can use design patterns so that you don’t have to reinvent the wheel every time.&lt;/p&gt;
+
+&lt;p&gt;Colour is one of the strongest forms of contrast.&lt;/p&gt;
+
+&lt;h3 id=&quot;gestalt-principles-of-perception&quot;&gt;Gestalt principles of perception&lt;/h3&gt;
+
+&lt;p&gt;Gestalt is a German word meaning ‘the qualities of a structure as a whole that cannot be described merely as a sum of its parts’.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to present something as it is, people’s brains can fill in the blanks. People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“White space is to be regarded as an active element, not a passive background.” – Jan Tschihold&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;key-ideas-behind-gestalt&quot;&gt;Key ideas behind Gestalt&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Emergence: where the whole is identified before the parts&lt;/li&gt;
+  &lt;li&gt;Reification: our mind fills in the gaps&lt;/li&gt;
+  &lt;li&gt;Multi-stability: our mind seeks to avoid uncertainty&lt;/li&gt;
+  &lt;li&gt;Invariance: our mind is good at recognising similarities and differences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;space&quot;&gt;Space&lt;/h4&gt;
+
+&lt;p&gt;Space is a really key tool in design. It performs the same function as silence in a song.&lt;/p&gt;
+
+&lt;p&gt;It can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;establish contrast, emphasis and hierarchy&lt;/li&gt;
+  &lt;li&gt;generate drama and tension&lt;/li&gt;
+  &lt;li&gt;provide visual rest between groups of elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;colour&quot;&gt;Colour&lt;/h2&gt;
+
+&lt;h3 id=&quot;colour-schemes&quot;&gt;Colour schemes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Colour does not add a pleasant quality to design – it reinforces it.” – Pierre Bonnard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Colour shouldn’t overtake a design, it should push things up. It can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;set a desired mood&lt;/li&gt;
+  &lt;li&gt;reinforce a branding message&lt;/li&gt;
+  &lt;li&gt;create contrast and harmony&lt;/li&gt;
+  &lt;li&gt;create a comfortable reading experience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Structure a design first, then use colour to provide emphasis.&lt;/p&gt;
+
+&lt;p&gt;For colour schemes, you can start with a couple of colours and use tints, shades and tones to add more colours to the scheme.&lt;/p&gt;
+
+&lt;p&gt;You might iterate a scheme, adding other shades or colours, as you apply it to different elements for emphasis or muting.&lt;/p&gt;
+
+&lt;h3 id=&quot;colour-and-emotion&quot;&gt;Colour and emotion&lt;/h3&gt;
+
+&lt;p&gt;Colour has a predictable effect on us. For example, when you see red, it’s stimulating and attention-grabbing.&lt;/p&gt;
+
+&lt;p&gt;But meaning isn’t finite. It’s all about context. Red does not always equal love, it could mean lust or revolution.&lt;/p&gt;
+
+&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
+
+&lt;p&gt;Typography is pretty subjective, unlike colour which can be scientific. It’s OK to trust your gut on what works.&lt;/p&gt;
+
+&lt;p&gt;### Fonts and typefaces&lt;/p&gt;
+
+&lt;p&gt;Fonts matter. You can write the same message in two different fonts and the meaning can be construed by the typography.&lt;/p&gt;
+
+&lt;p&gt;You’ll read bigger words before smaller words, so there is a hierarchy to typography.&lt;/p&gt;
+
+&lt;p&gt;Garamond is a typeface, 12pt is a font. Some people use ‘font’ to distinguish the weight or variant in a typeface.&lt;/p&gt;
+
+&lt;p&gt;When choosing a typeface, consider&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how legible is it? organic or stylised?&lt;/li&gt;
+  &lt;li&gt;how readable is it? long-form or headlines?&lt;/li&gt;
+  &lt;li&gt;how flexible is it? different sizes and weights? copy and titles?&lt;/li&gt;
+  &lt;li&gt;how unique is it? is it memorable or interesting?&lt;/li&gt;
+  &lt;li&gt;has it been optimised for screens?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t use a display typeface – for headlines – for body copy.&lt;/p&gt;
+
+&lt;p&gt;Consider micro- and macro-whitespace to create hierarchies.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/06/24/visual-design-fundamentals/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/06/24/visual-design-fundamentals/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes on areas of responsibility</title>
+        <description>&lt;p&gt;Areas of responsibility are assigned to people so that when someone asks ‘Can anyone tell me what X is supposed to do?’, there is someone who can give a clear answer.&lt;/p&gt;
+
+&lt;p&gt;It enforces accountability. As product people, we control the horizontal and the vertical.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The accountability mindset extends down the ranks. At Apple there is never any confusion as to who is responsible for what. Internal Applespeak even has a name for it, the “DRI,” or directly responsible individual. Often the DRI’s name will appear on an agenda for a meeting, so everybody knows who is responsible. “Any effective meeting at Apple will have an action list,” says a former employee. “Next to each action item will be the DRI.” A common phrase heard around Apple when someone is trying to learn the right contact on a project: “Who’s the DRI on that?”&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;By designating accountability across the product organisation, we ensure the things that need to happen do happen – and only what needs to be done. If we have a gap, we hire for it.&lt;/p&gt;
+
+&lt;p&gt;As people develop deep knowledge around an important area, they also become the best person to triage those problems. When someone else needs to take over, we encourage transparent distribution of knowledge.&lt;/p&gt;
+
+&lt;p&gt;Product people should be empowered to delegate and decrease operational work and change aspects of the process or environment.&lt;/p&gt;
+
+&lt;p&gt;Typically, each AoR comes with reactive responsibilities and proactive improvements.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-areas&quot;&gt;Example areas&lt;/h2&gt;
+
+&lt;p&gt;An incomplete list, to give an idea of areas of responsibility.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Branding &amp;amp; positioning&lt;/li&gt;
+  &lt;li&gt;Costs &amp;amp; benefits model&lt;/li&gt;
+  &lt;li&gt;Customer development and partnerships&lt;/li&gt;
+  &lt;li&gt;Customer success&lt;/li&gt;
+  &lt;li&gt;Account management&lt;/li&gt;
+  &lt;li&gt;Growth&lt;/li&gt;
+  &lt;li&gt;Developer operations&lt;/li&gt;
+  &lt;li&gt;Roadmapping&lt;/li&gt;
+  &lt;li&gt;Accessibility and web performance&lt;/li&gt;
+  &lt;li&gt;Innovation&lt;/li&gt;
+  &lt;li&gt;Payments landscape and competition&lt;/li&gt;
+  &lt;li&gt;Payments regulation&lt;/li&gt;
+  &lt;li&gt;Contracts and cost-efficiencies&lt;/li&gt;
+  &lt;li&gt;Quality of integrations with suppliers&lt;/li&gt;
+  &lt;li&gt;Onboarding&lt;/li&gt;
+  &lt;li&gt;Direct Debit&lt;/li&gt;
+  &lt;li&gt;Strong Customer Authentication&lt;/li&gt;
+  &lt;li&gt;Open Banking&lt;/li&gt;
+  &lt;li&gt;Enterprise resource planning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-share-areas&quot;&gt;How to share areas&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make a spreadsheet with areas of responsibility as rows in the first column. Add responsible owners as columns to the side.&lt;/li&gt;
+  &lt;li&gt;Get each person to mark how much they know about an area, e.g. 0–5: 0 for Nothing; 1 for Little; 5 for Lots, etc.&lt;/li&gt;
+  &lt;li&gt;Try to share the responsibility equally, noting where a transfer of knowledge can take place. For example, where a person who marked 0–2 can be taught by a person who marked 3–5.&lt;/li&gt;
+  &lt;li&gt;Finally, have a conversation about whether there are too many areas to be owned by the current number of owners, or whether some areas aren’t pertinent to the current strategy.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chemjobber.blogspot.com/2011/10/apples-corporate-innovation-directly.html&quot;&gt;Apple’s corporate innovation? The ‘directly responsible individual’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wavelength.asana.com/workstyle-aors/&quot;&gt;Rethinking the org chart: Areas of Responsibility (AoRs)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://chemjobber.blogspot.com/2011/10/apples-corporate-innovation-directly.html&quot;&gt;Apple’s corporate innovation? The ‘directly responsible individual’&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/26/notes-on-areas-of-responsibility/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Things to do as a new product manager in your first 30 days</title>
+        <description>&lt;p&gt;Your first 30 days joining a new team or organisation as a product manager are really exciting, and there’s an easy way to set yourself up for success.&lt;/p&gt;
+
+&lt;p&gt;The aim is to get your feet under the table, becoming confident and comfortable in your new position. Your job is going to be &lt;a href=&quot;https://digitalbydefault.com/2020/05/06/it-takes-two/&quot;&gt;deciding what to do and why&lt;/a&gt;, with the help of your team, and that needs evidence, intelligence and ideas.&lt;/p&gt;
+
+&lt;p&gt;At Government Digital Service (GDS), we use a Trello board to help new product managers gather that context. It builds understanding of what the product is, why it exists, how it got to this point and which direction it’s headed in.&lt;/p&gt;
+
+&lt;p&gt;The Trello board gives product managers a set of tasks to do in their first 30 days joining a new team. It was put together by Ross Ferguson around 2018&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and I remember using it in my first month at GDS. It was a good tool for gathering the information I needed to start making decisions, and I decided to iterate it when joining my new team on &lt;a href=&quot;https://www.payments.service.gov.uk&quot;&gt;GOV.UK Pay&lt;/a&gt; recently.&lt;/p&gt;
+
+&lt;p&gt;I split the tasks into three groups:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn the product&lt;/li&gt;
+  &lt;li&gt;Meet the team&lt;/li&gt;
+  &lt;li&gt;Learn the mission&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The board now has lists for things to do in your first 7 days, tasks you can prioritise to learn the most about a product soonest. There’s also a set of questions you can ask in chats with your team, making sure you collect the most essential bits of information.&lt;/p&gt;
+
+&lt;p&gt;Open the &lt;a href=&quot;https://trello.com/b/UjAn4OBa&quot;&gt;Trello board&lt;/a&gt; or the &lt;a href=&quot;https://www.notion.so/stevenjmesser/216be86b0fe04ff8b0fbe61e0928178e?v=2368cfc6cf734d8890fb09aa59225423&quot;&gt;Notion board&lt;/a&gt;, make a copy and put it to use in your first 30 days joining a product team. It complements the &lt;a href=&quot;/2020/08/15/essentials-for-starting-and-joining-product-teams/&quot;&gt;must-haves and key things to remember which help me start or join a product team&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Do these tasks resonate with you? What would you add or change? Let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, it’d be great to hear from people.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/rossferg/status/960974335002468353&quot;&gt;https://twitter.com/rossferg/status/960974335002468353&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/09/06/things-to-do-product-manager-first-30-days/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Must-haves when starting or joining a product team</title>
+        <description>&lt;p&gt;Over the years I’ve managed several product teams, always from first principles, and as I’ve matured as a product manager I’ve written a few memos to myself. Things that got us over a hump or feedback I received from colleagues. Every so often I’ll glance back at these memos to remind myself how to do things well. These are the must-haves and key things to remember which help me start or join a product team and hit the ground running, which I use in conjunction with this list of &lt;a href=&quot;/2020/09/06/things-to-do-product-manager-first-30-days/&quot;&gt;things to do as a new product manager&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is a living list, so it might change. Check back every now and then.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-foundational-principle&quot;&gt;The foundational principle&lt;/h2&gt;
+
+&lt;p&gt;As product manager, you look after the environment that the team needs to succeed, making sure we all have a clear view of what success looks like and how we’ll get there. Give them space to collaborate and facilitate them in making decisions.&lt;/p&gt;
+
+&lt;h2 id=&quot;start-with-the-basics&quot;&gt;Start with the basics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the product or service?&lt;/li&gt;
+  &lt;li&gt;What problem does it solve, and for whom? Write that down in plain language.&lt;/li&gt;
+  &lt;li&gt;What is the outcome we want users&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to reach? What is the outcome we want users to avoid?&lt;/li&gt;
+  &lt;li&gt;What are the pain points preventing users reaching their outcome?&lt;/li&gt;
+  &lt;li&gt;Which of those points is most painful and needs removing first? Which one next?&lt;/li&gt;
+  &lt;li&gt;What are the unknowns (discovery)? What are the knowns (delivery)?&lt;/li&gt;
+  &lt;li&gt;Where’s the documentation? You’ll need to update it each week, if someone else doesn’t do that already.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-in-a-team&quot;&gt;Working in a team&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Establish your team’s shared principles and ways of working early. Refer back to these guidelines often, and iterate where needed.&lt;/li&gt;
+  &lt;li&gt;Set up a regular check-in with your delivery manager (or whoever is looking after delivery), twice a week if possible.&lt;/li&gt;
+  &lt;li&gt;Planning should involve tech lead, design lead, and delivery manager (at least).&lt;/li&gt;
+  &lt;li&gt;Don’t risk doing the classic retro mistake of trying to change everything after one sprint.&lt;/li&gt;
+  &lt;li&gt;Figure out your team’s skillset, particularly what they’re not good at, and their development objectives. Try to base the work on that as much as possible.&lt;/li&gt;
+  &lt;li&gt;Create psychological safety and build trust by being open about your mistakes. Explain how you hope to improve things.&lt;/li&gt;
+  &lt;li&gt;UCD people work with well ambiguity; developers prefer clear cards.&lt;/li&gt;
+  &lt;li&gt;Get Show &amp;amp; Tell lined up early, and sing people’s praises.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;being-agile&quot;&gt;Being agile&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We need to know how big the problem is, it’ll help us work out when we’re done.&lt;/li&gt;
+  &lt;li&gt;If you’ve got no idea how to build something, start in the middle with a time-boxed alpha. Then re-plan. Progress is better than perfection.&lt;/li&gt;
+  &lt;li&gt;Reach, impact, confidence, effort, and urgency are universal prioritisation criteria.&lt;/li&gt;
+  &lt;li&gt;Try not to rush cards through: take time to gather context and understand the problem holistically.&lt;/li&gt;
+  &lt;li&gt;Start small, test risky assumptions, iterate and grow.&lt;/li&gt;
+  &lt;li&gt;Keep a decision record and update it after each meeting or workshop. If you shave scope, make it clear.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-with-stakeholders&quot;&gt;Working with stakeholders&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be open about how the team expects to achieve its objective. Be open about not yet knowing how to achieve that too.&lt;/li&gt;
+  &lt;li&gt;Don’t give senior stakeholders a problem, give them a solution or how you expect to move forward.&lt;/li&gt;
+  &lt;li&gt;Use senior people to twist arms when you need something from another party – you can’t do it all yourself.&lt;/li&gt;
+  &lt;li&gt;Present the risks and show your working to get buy-in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Do these resonate with you? What would you add or change? Let me know on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt;, it’d be great to hear from people.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/08/15/essentials-for-starting-and-joining-product-teams/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open collaborative roadmaps</title>
+        <description>&lt;p&gt;At Government Digital Service (GDS), having an &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap#a-roadmap-should-be-open&quot;&gt;open roadmap&lt;/a&gt; is one of our principles for agile ways of working. Our &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;roadmap for GOV.UK Pay&lt;/a&gt; has always been open, but we wanted to explore how we might collaborate with users on prioritising things on the roadmap.&lt;/p&gt;
+
+&lt;p&gt;Making your roadmap openly available allows anyone to see what value you’ll be creating over time. As a communication tool, a roadmap is a great way to have conversations about priorities, for users and for stakeholders. By involving users in the creation of the roadmap, we want to see whether we can form a better bond with users.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-did&quot;&gt;What we did&lt;/h2&gt;
+
+&lt;p&gt;To find out how organisations were using roadmaps openly and collaboratively in the public and private sector, we asked some questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are the best open roadmaps you’ve come across? What made them good?&lt;/li&gt;
+  &lt;li&gt;What ways have your team or companies invited users to collaborate on your roadmap? What benefits did that have?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These questions were posed to the cross-government product management community, the local government digital community, and the wider product management community through Twitter, General Assembly and Mind the Product.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-found&quot;&gt;What we found&lt;/h2&gt;
+
+&lt;h3 id=&quot;microsoft-teams&quot;&gt;Microsoft Teams&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.microsoft.com/en-us/microsoft-365/roadmap?&amp;amp;filters=Microsoft%20Teams&quot;&gt;roadmap for Microsoft Teams&lt;/a&gt; shows recently launched features, things in development now and what they’ll be working on next.&lt;/p&gt;
+
+&lt;p&gt;It’s a high functioning roadmap giving users a detailed description of what’s happening, when it’s happening, allowing them to subscribe to updates or start a conversation on the community forum. It doesn’t show users what’s happening beyond the next quarter or what’s in the backlog.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Matt Knight for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;artfinder&quot;&gt;Artfinder&lt;/h3&gt;
+
+&lt;p&gt;Artfinder works quite closely with its community according to its &lt;a href=&quot;https://trello.com/b/TUuBHO78/community-roadmap&quot;&gt;roadmap&lt;/a&gt;. Users can see what’s in the backlog, what’s been prioritised, what they’re working on and what’s been released. They also suggestions that need further research, things they’ll work on later and things they will not do. One bug / operational improvement is listed, but that’s it. From the looks of it, Artfinder is making its full product pipeline openly available, which is great to see!&lt;/p&gt;
+
+&lt;p&gt;Artfinder use many of Trello’s features, such as commenting, voting and labels, to invite comment and collaboration from their users. They’re also good at adding reasons for why some roadmap items are in certain sections, e.g. won’t do.&lt;/p&gt;
+
+&lt;p&gt;It looks like the roadmap hasn’t been updated since August 2019, suggesting that they didn’t have the time or capacity to uphold this process (or maybe it was a one-off event).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Laurence Mallows for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;monzo-us&quot;&gt;Monzo US&lt;/h3&gt;
+
+&lt;p&gt;Monzo US use &lt;a href=&quot;https://trello.com/b/5vfbBl1a/monzo-us&quot;&gt;their roadmap&lt;/a&gt; quite actively. They show users what’s been launched, what they’re working on now, and what’s next. Everything else is described as ‘Ideas we might explore’. Operational work isn’t included, only features that appeal to users.&lt;/p&gt;
+
+&lt;p&gt;They’re using the range of Trello features to collaborate with users too, inviting comments and voting from users. They also link to their community form for conversation on features. And looking at the board’s activity, it’s kept up-to-date and users are invited to get involved often.&lt;/p&gt;
+
+&lt;p&gt;I wonder whether it’s easier for the Monzo US product people to keep their roadmap up-to-date as they might be able to port UK features over to the US market. Less time spent devising and developing features may mean there’s more time to focus on product ops – but that’s an assumption of mine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Paul O’Neill for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;buffer&quot;&gt;Buffer&lt;/h3&gt;
+
+&lt;p&gt;Another Trello &lt;a href=&quot;https://trello.com/b/PDIV7XW3/buffer-transparent-product-roadmap&quot;&gt;roadmap from Buffer&lt;/a&gt;, the social media management tool. It’s split up into ideas they’re exploring, work in progress, work they’ve shipped, things they’re leaving for now. Operational improvements such as optimising user journeys are included, but I couldn’t see anything about under-the-hood improvements.&lt;/p&gt;
+
+&lt;p&gt;Like Monzo and Artfinder, Buffer invite their users to comment on and vote for features. Buffer staff also invite users to have a chat over email (which might lead on to phone calls, video chats or user visits). It’s a really active board! Just yesterday, someone on Buffer’s product team added a card to the list of ideas to explore. And it’s been going for 4 years!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Chanel Can and Ben Unsworth for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-container-services&quot;&gt;AWS container services&lt;/h3&gt;
+
+&lt;p&gt;Amazon Web Services host the &lt;a href=&quot;https://github.com/aws/containers-roadmap/projects/1&quot;&gt;roadmap for container services&lt;/a&gt; on GitHub, similar to &lt;a href=&quot;https://github.com/orgs/alphagov/projects/5&quot;&gt;GDS’s Design System roadmap&lt;/a&gt;. It shows features they’re researching, stuff they’re working on, work that’s close to shipping, features in developer preview (private beta), and things they’ve shipped.&lt;/p&gt;
+
+&lt;p&gt;Roadmaps on GitHub require people to raise issues, giving a place for conversation to happen, in the open, and to be linked to code when it’s released (if you use GitHub to manage your code). It’s great for developer audiences but might be a barrier to anyone not using GitHub regularly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Dan Blundell for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-well-do-next&quot;&gt;What we’ll do next&lt;/h2&gt;
+
+&lt;p&gt;It’s been useful to see how other organisations approach roadmapping and the conversations they’re having with users, in the open. Miika Savela from the Mind the Product community shared an article from Shipright, a product feedback tool, on &lt;a href=&quot;https://www.shipright.co/post/feature-voting-board-messing-up-your-product&quot;&gt;why your feature voting board may be messing up your product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The article points out that you can’t rely solely on voting to help you set the roadmap, product teams should use many of the feedback signals coming in from the userbase to help set direction. So as long as a roadmap is used to start conversations with your users, one way to open up collaboration on prioritisation to show them the trade-offs you need to make, you’ll avoid relying on it as a Magic 8-Ball.&lt;/p&gt;
+
+&lt;p&gt;Since we’re looking at our engagement model and product pipeline right now, we’ll consider how we can fit an open roadmap into user group meetings and conversations over support channels.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-to-consider&quot;&gt;Things to consider&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How much time can we dedicate to keeping the open roadmap up-to-date?&lt;/li&gt;
+  &lt;li&gt;How will we encourage users to look at the roadmap? e.g. which support channels?&lt;/li&gt;
+  &lt;li&gt;What questions and concerns can the roadmap help us answer for users?&lt;/li&gt;
+  &lt;li&gt;Do users care about features only or is it useful to know about operational work?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Agile delivery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How we use clinics for product problems at GOV.UK</title>
+        <description>&lt;p&gt;Being a product manager can often feel like being a lone wolf. Despite working closely with a team of designers, developers and other digital specialists, you’re usually the only member of the group representing the product discipline. So who can you turn to for advice or help solving a product problem?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.infoq.com/articles/communities-of-practice-agile-organisation/&quot;&gt;Communities of practice&lt;/a&gt; are a good remedy, loose structures that support people doing the same job to come together and help each other. The product community at GOV.UK, where I work, meet every Tuesday to talk about our practice, and a little while ago we ran a workshop to look at better ways to support our fellow product managers.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;One idea that came out was the product clinic: a safe place to bring forward your product problems and receive knowledge, experience, emotional, social or practical help from your peers.&lt;/p&gt;
+
+&lt;p&gt;It works like this.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A product manager has a problem (or a few)&lt;/li&gt;
+  &lt;li&gt;They raise it with a panel of 2–4 product managers they work with&lt;/li&gt;
+  &lt;li&gt;The panel steps into the PM’s shoes, responding on how they’d approach the situation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s pretty simple, there’s not that much structure. Topics can range from soft skills to strategy to tools, anything related to &lt;a href=&quot;https://www.gov.uk/guidance/product-manager#introduction-to-the-role-of-product-manager&quot;&gt;a product manager’s role&lt;/a&gt;. All you need is a time and place to meet, some problems to solve, and a group of empathetic peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The only caveat:&lt;/strong&gt; you need a culture of &lt;a href=&quot;https://conradfrancis.com/vulnerability-and-openness-to-grow/&quot;&gt;openness and vulnerability&lt;/a&gt; in which people are comfortable opening up. (But if your community are willing to support each other, it likely already exists.)&lt;/p&gt;
+
+&lt;p&gt;I take notes during my clinic sessions, so that I can refer back to them later. I’ll keep a list of those here because other people might find my colleagues’ suggestions helpful too.&lt;/p&gt;
+
+&lt;p&gt;It’s better to get things out of your head rather than suffer in silence. If you’re struggling with a product problem at work, why not consider starting a clinic with your fellow product managers?&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-from-clinic-sessions&quot;&gt;Notes from clinic sessions&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;I’m in the process of writing these up, check back later or subscribe to my &lt;a href=&quot;https://visitmy.website/feed.xml&quot;&gt;RSS&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How do you deal with disputes with your boss? (Soft skills)&lt;/li&gt;
+  &lt;li&gt;What if the strategy seems confused and unclear? (Product strategy)&lt;/li&gt;
+  &lt;li&gt;How do you frame assumptions to be validated or invalidated? (Teams)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Blog post coming soon on &lt;a href=&quot;https://insidegovuk.blog.gov.uk&quot;&gt;Inside GOV.UK&lt;/a&gt;, thanks to Laura ran the workshop. Here’s the &lt;a href=&quot;https://twitter.com/stevenjmesser/status/1214618166183153664&quot;&gt;output of the workshop&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I reckon all digital practitioners could benefit from clinics, not only product managers. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/02/22/how-we-use-product-clinics/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/02/22/how-we-use-product-clinics/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kicking off a new quarter with your product team</title>
+        <description>&lt;p&gt;We work in a quarterly mission structure at GOV.UK. That means that every three months, we take stock of what we’ve been doing and where we’ve got to, taking the opportunity to set new objectives too. But given that it’s hard to make product work fit neatly inside 12-week windows, it’s important to plot your position on your roadmap accurately.&lt;/p&gt;
+
+&lt;p&gt;Here’s how I frame what we’ve achieved so far, what’s left to do and what’s next with product teams I manage at GOV.UK, the UK government’s website.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-over-the-last-quarter&quot;&gt;Going over the last quarter&lt;/h2&gt;
+
+&lt;p&gt;It’s good to summarise everything the team has already achieved; people feel better about their work when they realise it’s working towards something. An easy way to recap recent achievements is to play back the &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results&lt;/a&gt; from last quarter and the team’s progress against those.&lt;/p&gt;
+
+&lt;p&gt;Remind the team of your previous objective and the pieces of work that contributed to achieving that. Then list out what’s remaining to be done. What’s left to do to reach this milestone we were set? For example, you may need to collect some data, run a test, build a thing or achieve an outcome.&lt;/p&gt;
+
+&lt;p&gt;An objective isn’t complete until either the key results have been achieved or you’ve modified them based on what you’ve learned. (And it’s OK to adapt key results to be more realistic throughout the quarter, that’s what lean and agile product development is geared towards!)&lt;/p&gt;
+
+&lt;p&gt;Quarterly cycles provide useful checkpoints to remind yourselves where you’ve got to, how it’s contributing to achieving your product strategy, and what’s left to be done before starting the next milestone. Here’s &lt;a href=&quot;https://docs.google.com/presentation/d/1cet8v_qmCxo6bJOnnMZMITyR1BVsSU_gVZb7Tv0DqKc/&quot;&gt;a slide deck I use to frame the work we’ve done and what’s left&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-brief-overview-of-the-next-objective&quot;&gt;A brief overview of the next objective&lt;/h2&gt;
+
+&lt;p&gt;Setting the next objective – what you’re going to do – is simple enough, but laying out why you’re going to do it is harder. And that’s a good thing. This is where your skill as a product manager in setting the vision and upholding users’ needs comes into play. It’s also an opportunity for the team to see how everything they’ve discovered and learned about users will be played back to the organisation and other teams, giving them the opportunity to help shape the narrative.&lt;/p&gt;
+
+&lt;p&gt;For the last couple of quarters we’ve been using a mission brief template to frame what we’re going to be doing and why. It’s something our Head of Product, Leanne, put together and I’ve tweaked based on &lt;a href=&quot;https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec&quot;&gt;John’s one-pagers&lt;/a&gt;. The mission brief describes&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what we’ll be doing, in overview&lt;/li&gt;
+  &lt;li&gt;the problem we’re solving and who it’s a problem for&lt;/li&gt;
+  &lt;li&gt;the assumptions we have and unknowns we probably need to uncover&lt;/li&gt;
+  &lt;li&gt;the biggest challenges we expect to face&lt;/li&gt;
+  &lt;li&gt;how our work contributes to the goals of the organisation (in this case, the platform GOV.UK)&lt;/li&gt;
+  &lt;li&gt;the broad phases to our work and associated success criteria&lt;/li&gt;
+  &lt;li&gt;teams, people and organisations that can help or have input&lt;/li&gt;
+  &lt;li&gt;how we’re testing hypotheses and measuring outcomes&lt;/li&gt;
+  &lt;li&gt;any deadlines we’re working to&lt;/li&gt;
+  &lt;li&gt;how we’ll know when we’re done, and&lt;/li&gt;
+  &lt;li&gt;what we’d focus on if we only have four weeks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As product manager, I fill in the template and then workshop it with the team – as all the answers are based on work they’ve been doing. Originally the template was very project-oriented but the tweaks have made it feel more lean, like we’re considering the factors that a good product team should hold close. For example, the headings help us focus more on outcomes, testing hypotheses and learning rather than delivering outputs, building solutions and not taking risks.&lt;/p&gt;
+
+&lt;p&gt;Try it out. This should give your team shared direction or will at least create the space to develop it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What I learned about product strategy from a video game</title>
+        <description>&lt;p&gt;Strategy is probably one of the key parts of being a product manager, but it’s not something I learnt in my comprehensive school education. I didn’t learn it working as a chef either…although that taught me heaps about delivery models and managing teams! When I started working as a product manager, I read blog posts about it like most people do. But I don’t think I ever really &lt;em&gt;got&lt;/em&gt; strategy, really understood it, until I started playing the video game &lt;a href=&quot;https://en.wikipedia.org/wiki/Rome%3A_Total_War&quot;&gt;&lt;em&gt;Rome: Total War&lt;/em&gt;&lt;/a&gt; last summer.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-product-strategy&quot;&gt;What is product strategy?&lt;/h2&gt;
+
+&lt;p&gt;Put simply, a product strategy outlines how a company or organisation will achieve its vision, showing where it’s going and how it’ll get there. Depending on the vision, you might tie together a few strategies to get there incrementally. Going for world domination from the outset just won’t work, you have to start smaller and learn as you go.&lt;/p&gt;
+
+&lt;p&gt;Often, a product strategy will be communicated through a roadmap, showing the value you’ll deliver for users now, next and later. Things you’re doing now will be well defined, but anything later will likely be broad strokes.&lt;/p&gt;
+
+&lt;p&gt;I won’t go into product strategy too much but Marty Cagan is pretty good at breaking down &lt;a href=&quot;https://svpg.com/vision-vs-strategy/&quot;&gt;vision and strategy&lt;/a&gt;. Simon Wardley managed to cogently boil down Sun Tzu’s &lt;em&gt;The Art of War&lt;/em&gt; – &lt;strong&gt;the&lt;/strong&gt; canonical text on strategy – into &lt;a href=&quot;https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec&quot;&gt;a blog post about being lost&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-the-game-work&quot;&gt;How does the game work?&lt;/h2&gt;
+
+&lt;p&gt;In &lt;em&gt;Rome: Total War&lt;/em&gt; you take command of one of three Roman families: the Julii, the Brutii or the Scipii. The ultimate goal (the vision) is to become emperor by conquering provinces during the later years of the Roman republic.&lt;/p&gt;
+
+&lt;p&gt;Each family has its own advantages, a bit like companies and their products: the Julii have powerful armies, for example, whereas the Brutii start off with more money. Each faction begins in different parts of the map, too. The Scipii are sea-farers and will find it easier to hold the shipping lanes, but eventually they’ll need to conquer the eastern provinces which the Brutii neighbour with.&lt;/p&gt;
+
+&lt;p&gt;As you start conquering provinces, you’ll manage the inhabitants, the economies and work with their cultures. Those people generate income, provide weapons and train armies, and if they’re not bought into the vision, they’ll rebel.&lt;/p&gt;
+
+&lt;p&gt;So on a macro-level, you’ve got a purpose as a faction (product) and a landscape (market) to enact it within. There are competitors around you, and how your faction fulfills its objectives – how it runs its business – can decide its success.&lt;/p&gt;
+
+&lt;h2 id=&quot;achieving-the-vision-in-sequences&quot;&gt;Achieving the vision in sequences&lt;/h2&gt;
+
+&lt;p&gt;The game is turn-based, meaning you have a set number of moves to make each turn. You can tweak the economies, create armies in provinces, build ships and train spies, and move armies and consuls across the map. If you move your entire army to one province, an enemy could walk right in to your capital and take it over. So you have to think a few steps ahead and work defensively as well as offensively.&lt;/p&gt;
+
+&lt;p&gt;You almost have to build a roadmap in your head to visualise the parts of the strategy.&lt;/p&gt;
+
+&lt;h2 id=&quot;working-with-multiple-disciplines&quot;&gt;Working with multiple disciplines&lt;/h2&gt;
+
+&lt;p&gt;When you get to the nitty-gritty, the actual battles, you have to think on a micro-level. For example, placing spearmen in front of your soldiers helps to protect against charging cavalrymen. Standing archers on a hill gives them extra range. Hiding light infantry in a forest off to the side gives you the element of surprise.&lt;/p&gt;
+
+&lt;p&gt;You have to work with the skills and advantages of different disciplines, directing them to work at their best.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-be-a-dictator&quot;&gt;Don’t be a dictator&lt;/h2&gt;
+
+&lt;p&gt;There’s plenty of parallels between &lt;em&gt;Rome: Total War&lt;/em&gt; and product management, but the analogy breaks down when you consider styles of management. The Roman republic was an oligarchy which largely relied on public obedience or oppression. It gave way to the Roman Empire, when Julius Caesar declared himself dictator and passed the position on.&lt;/p&gt;
+
+&lt;p&gt;Product teams are at their best when they can explore a problem space together and apply innovative solutions. &lt;a href=&quot;https://www.wired.co.uk/article/travis-kalanick-uber-resignation&quot;&gt;People don’t react well to unethical leadership&lt;/a&gt; making questionable demands these days. If a team isn’t progressing well, perhaps let them play a few video games – they might pick up a whole new perspective.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/02/product-strategy-video-games/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/02/product-strategy-video-games/</guid>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Product teams deliver outcomes, not outputs</title>
+        <description>&lt;p&gt;A colleague at Government Digital Service recently told me that they’d adopted &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results (OKRs)&lt;/a&gt; in their team, but they were struggling with the objectives (plural) their leadership had set. The objectives just described the things that the leadership team wanted them to do rather than problems to solve. They had been given a list of outputs, not outcomes. This meant the team was finding it hard to buy into the mission and worried they might not explore the problem space enough.&lt;/p&gt;
+
+&lt;h2 id=&quot;outputs-vs-outcomes&quot;&gt;Outputs vs outcomes&lt;/h2&gt;
+
+&lt;p&gt;An output is a thing which a team produces or does. ‘Build this thing, upgrade this thing, change this thing.’ An outcome is an end result which a team delivers or reaches. ‘Improve this experience, increase this measure, explore this market.’ Setting outputs is easy, we’re all focussed on doing things. But doing things to reach an end result is a bit more complicated; achieving outcomes requires domain expertise, a willingness to explore the problem space, and a culture which supports experimentation.&lt;/p&gt;
+
+&lt;p&gt;Take apples as an example. I eat apples because they are tasty and healthy. All apples are alike, in that they are all tasty and healthy…until someone produces an apple which is tastier. Or an apple which is crisper. Or stores over winter longer. In an apple market with different varieties from different producers, I tend to buy products with the characteristics which appeal to me. These differentiators help me choose one eating experience from the others. Outputs are physical things but outcomes are the differences made by the outputs – a change that will occur as a result.&lt;/p&gt;
+
+&lt;p&gt;Producing an apple is an output. Producing a tastier apple that appeals to a specific audience is an outcome. Producing an output is manufacturing work, whereas producing an outcome is knowledge work.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-build-this-into-realise-that&quot;&gt;Turning ‘Build this’ into ‘Realise that’&lt;/h2&gt;
+
+&lt;p&gt;My colleague was looking for guidance on how an objective should relate to a known problem, and not just be things on the leadership team’s wish list, which &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;my previous post on OKRs&lt;/a&gt; didn’t cover. In the past, I’ve found that instead of asking what you’re doing but why you’re doing it, leadership teams share some of their vision which helps you turn outputs into outcomes.&lt;/p&gt;
+
+&lt;p&gt;When asked to upgrade a part of our infrastructure, I used the &lt;a href=&quot;https://agileleanlife.com/5-whys/&quot;&gt;5 Whys&lt;/a&gt; to dig into the root reason why the GOV.UK programme team wanted us to do it. They said it was because it was out-of-support and hadn’t been upgraded in a while, because we manage the servers ourselves. Upgrading search ate up a lot of time and effort, which would be better spent on making GOV.UK a more unique and special corner of the web.&lt;/p&gt;
+
+&lt;p&gt;Understanding their vision meant we could set an outcome-focussed objective together. Instead of upgrading Elasticsearch, the team ended up making our search functionality more supportable in the future, and we improved our perspective of the resilience and performance of our search infrastructure.&lt;/p&gt;
+
+&lt;p&gt;That example was a delivery mission but it’s also possible write outcomes for discovery missions too. When we were asked to explore personalisation on GOV.UK, again I asked the leadership team why we were doing it. They wanted to understand whether it should be a direction to head in, and they also had some questions from government ministers to answer. So we came up with this: ‘Manifest the opportunities, if any, for a more coherent, personalised experience of interacting with government.’ Our key results were almost entirely research initiatives.&lt;/p&gt;
+
+&lt;p&gt;A great way to frame user needs and outcomes in your day-to-day product work is by using problem statements and hypotheses&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;unlearn-your-output-based-leadership-style&quot;&gt;Unlearn your output-based leadership style&lt;/h2&gt;
+
+&lt;p&gt;It’s a change in mindset for leadership to manage outcomes or results, instead of the traditional way of managing effort and output. But knowledge workers focus on outcomes because it sets the goal in their mind, enables them to better track their progress, and enables them to learn. For leadership teams, setting outcome-based objectives is a protection against having to micro-manage.&lt;/p&gt;
+
+&lt;p&gt;An output communicates the piece of value a product team is delivering, but an outcome helps communicate the context and priorities a product team will need to grapple with to be successful. If your product teams aren’t clear on the desired outcomes of your organisation, how can they ever help you achieve it?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I’ll write about this soon. Very soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How we use OKRs on GOV.UK</title>
+        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It’s a light-touch way of setting goals and focus. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we use OKRs on GOV.UK, the UK government’s website. Teams are trusted to deliver value for users, and this framework reduces tension between agile delivery professionals and senior management.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-an-objective&quot;&gt;What is an objective?&lt;/h2&gt;
+
+&lt;p&gt;An objective is a bold and qualitative goal that the company or organisation wants to achieve. For example, ‘Prepare the GOV.UK platform for the scale demands of Brexit’ or ‘Make it easier for users to start using our product’. It’s best that they’re ambitious, not easy to achieve or audacious in nature; they are not sales targets. These objectives make up your product strategy.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Objectives are usually set by the CEO or Head of Product and set the direction for the company or programme. Objectives shouldn’t be dictatorial goals, they should be missions that every team member can buy in to and get behind. Because they’re ambitious, it’s not healthy to set deadlines for when a product team should achieve an objective. Since CEOs aren’t on the frontlines, they can’t accurately say how long it will take a team to reach a goal.&lt;/p&gt;
+
+&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’s strategy for getting nearer to its vision.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-key-result&quot;&gt;What is a key result?&lt;/h2&gt;
+
+&lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
+
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas, key deliverables or a list of tasks. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+
+&lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-okrs-look-like&quot;&gt;What do OKRs look like?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/okr-template.png&quot; alt=&quot;A template OKR slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We use the OKR template above to set objectives and key results for product teams on GOV.UK. You can copy this &lt;a href=&quot;https://docs.google.com/presentation/d/1M_k6LATfoNBkaAPLSV5ayrSo5weGD095H50gIW2d00M/&quot;&gt;open slide deck&lt;/a&gt; to use with your team.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-okrs-in-practice&quot;&gt;How to use OKRs in practice&lt;/h2&gt;
+
+&lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; to be reached, which usually shape our key results. Since the key results have been produced and agreed collectively by every team member, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
+
+&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light-touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK programme team may take the opportunity to set new objectives each quarter. It’s sensible to take a temperature check of work underway at regular intervals, in case there are new priorities. This also gives product teams a chance to play back to management their findings from a discovery, which means that some times the objective set is based entirely on the team’s work.&lt;/p&gt;
+
+&lt;h3 id=&quot;reporting-confidence-and-progress&quot;&gt;Reporting confidence and progress&lt;/h3&gt;
+
+&lt;p&gt;Product teams will report how confident they feel in being able to achieve the objective, and teams will also report their progress in the discovery or delivery threads of their work. It’s a ‘finger in the air’ score to give the programme team a sense of how well they’re progressing. By taking this reading fortnightly, the programme team can see when confidence drops or progress halts, which is an opportunity for them to help the team remove blockers.&lt;/p&gt;
+
+&lt;p&gt;It’s a good idea to check the team’s confidence during a sprint retrospective. You can work out the team’s progress by counting how many cards on the sprint board have been done and how many are left to do. It’s a simple method, and it’s OK for you to create more cards after some discovery work – that’s agile!&lt;/p&gt;
+
+&lt;h2 id=&quot;why-use-okrs&quot;&gt;Why use OKRs?&lt;/h2&gt;
+
+&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. They help everyone move together in the right direction, creating alignment between product teams in an organisation. It requires &lt;a href=&quot;/2019/04/27/product-teams-deliver-outcomes-not-outputs/&quot;&gt;a shift in mindset from outputs to outcomes&lt;/a&gt;. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
+
+&lt;p&gt;Setting OKRs can expose some discomfort and issues you might not have encountered before. But that’s a good thing, and working through problems brings people closer together. OKRs are an empowerment technique to give product teams clear problems to solve and the space to solve them.&lt;/p&gt;
+
+&lt;p&gt;OKRs are not an instant solution, nor are they designed to create perfect unity. Instead, they give space for leadership to set ambitious goals that teams can buy into, and the framework gives space for product teams to solve problems in creative ways.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;After writing this post, someone reached out to me and asked ‘What if all the objectives are too grand and unattainable?’ to which we found out that their leadership didn’t have a product strategy. If objectives are not clear or can’t realistically be worked on, this is a fault of leadership. I’ll write a little more on what to do about that soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A few people have asked me whether they should set and report key results in the &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;discovery phase&lt;/a&gt; for a new product or service, and I’d say no. Discoveries are projects in which you explore ideas and gather information to help you decide what to deliver. You might have a set of key tasks to do in a discovery, but the only key result is having a better idea for what to do next. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

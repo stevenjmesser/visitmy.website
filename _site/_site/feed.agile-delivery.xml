@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harsh Browns</title>
+    <description>Steve Messer's website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.</description>
+    <link>https://visitmy.website</link>
+    <atom:link href="https://visitmy.website/feed.agile-delivery.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Aug 2023 06:11:31 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 06:11:31 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Service designers and product managers: working together</title>
+        <description>&lt;p&gt;The other day I was looking through the &lt;a href=&quot;http://www.practicalservicedesign.com/community&quot;&gt;Practical Service Design Slack community&lt;/a&gt; when a question from &lt;a href=&quot;https://www.linkedin.com/in/carolinecoxorrell/&quot;&gt;Caroline Cox-Orrell&lt;/a&gt; caught my eye.&lt;/p&gt;
+
+&lt;p&gt;She asked:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Does anyone have a model (or just examples from your own teams) about how service design and product mgmt/design might collaborate?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s a good question! When I’ve worked with service designers, we’ve always laughed at how similar our roles can be. I think this stems from product managers needing to be generalists – or &lt;a href=&quot;https://digitalbydefault.com/2020/02/12/multi-hyphenates/&quot;&gt;multi-hyphenates&lt;/a&gt; – filling in gaps on a team when a specialist isn’t available. And because so many materials and frameworks for product management focus on the huge as-a-service sector, product managers will often be doing service thinking.&lt;/p&gt;
+
+&lt;p&gt;But how might service designers and product managers best collaborate?&lt;/p&gt;
+
+&lt;p&gt;Whenever I’ve worked with service designers we’ve established &lt;a href=&quot;/2020/09/26/notes-on-areas-of-responsibility/&quot;&gt;areas of responsibility&lt;/a&gt; together to make sure that we’re not overlapping too much and duplicating effort. It’s really important to do this, as a study showed that overlap negatively affects job satisfaction and could lead to poorer products and services.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;In essence I think the product manager is more responsible for managing the team when working with a service designer, yet the service designer definitely takes the lead on facilitating the team. The product manager can also deal with all the stakeholders, leaving the service designer with much-needed thinking time.&lt;/p&gt;
+
+&lt;p&gt;It’s helpful for product managers and service designers to have twice weekly catch-ups, talking about how the projects or tasks at hand are progressing, and to align on knowns and unknowns.&lt;/p&gt;
+
+&lt;p&gt;Remember that service designers are great at going deep and wide, so a product manager can best complement that skill by shaving scope and leading the strategic thinking. As always though, no two pairings will be alike, so alter the areas of responsibility based on people’s strengths and weaknesses.&lt;/p&gt;
+
+&lt;p&gt;That’s what worked for me in the past anyway. It’s best not to look at it as stepping on each other’s toes, more like dancing a foxtrot together.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team&quot;&gt;What each role does in a service team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/product-manager#introduction-to-the-role-of-product-manager&quot;&gt;Introduction to the role of product manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/service-designer#introduction-to-the-role-of-service-designer&quot;&gt;Introduction to the role of service designer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/pm-ux-different-views-of-responsibilities/&quot;&gt;PM and UX Have Markedly Different Views of Their Job Responsibilities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nngroup.com/articles/ux-product-managers-overlap/&quot;&gt;https://www.nngroup.com/articles/ux-product-managers-overlap/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</link>
+        <guid isPermaLink="true">https://visitmy.website/2021/08/28/service-designers-product-managers-working-together/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The free-range future of work</title>
+        <description>&lt;p&gt;For organisations that use computers to get stuff done, the Internet means you can spread bits of your organisation out geographically (over a map) and temporally (over time).&lt;/p&gt;
+
+&lt;p&gt;Spreading a workforce geographically is usually called remote working or distributed working. That’s when workers aren’t necessarily close to the location of the main office, they live and work elsewhere. There’s also hybrid working, which is when people are expected to come into an office some times but can work from wherever they like the rest of the time.&lt;/p&gt;
+
+&lt;p&gt;Spreading a workforce temporally is usually called flexible working or asynchronous working. That’s when workers aren’t always required to be working at the same time as each other. Although more often than not, there’s usually some ‘core hours’ workers have to be present and available.&lt;/p&gt;
+
+&lt;p&gt;For various reasons, some groups of people have experimented with the opportunity the Internet has provided. It has allowed them to find new ways of doing things or new ways of living. And, for another variety of reasons, some people haven’t bothered.&lt;/p&gt;
+
+&lt;p&gt;Then, in March, that all changed. Anyone who could work online, usually from a computer, was forced to try this stuff out. If their company hadn’t tried out these new ways of working, they became a guinea pig overnight. A &lt;a href=&quot;https://www.cliffsnotes.com/literature/f/flowers-for-algernon/character-analysis/algernon&quot;&gt;mouse in a maze&lt;/a&gt;, without a scientist overseeing the experiment.&lt;/p&gt;
+
+&lt;p&gt;That sucks because, as an organisation, you don’t know what works and what doesn’t. Your workers have been forced to try new things and will have reached their own conclusions. Some might like it, others might not be so keen. There will likely be some people for whom the experience has been traumatic, and those people are going to need our help.&lt;/p&gt;
+
+&lt;p&gt;So, ignoring whoever’s job it is to do this stuff, I think it’s time for people working on computers to look sideways (metaphorically) and help each other out. If you manage a team or you’re part of a team, it’s time to build your own New Normal.&lt;/p&gt;
+
+&lt;p&gt;Here’s some notes I’ve been making on free-range working&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. And you might like to read about &lt;a href=&quot;https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/&quot;&gt;this experiment we tried with meetings and emails&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-on-free-range-working&quot;&gt;Notes on free-range working&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’re trying to create more serendipity for innovation, and make collaboration easier when we’re not in the same place. Show &amp;amp; Tells don’t have to be polished. Share progress, ideas and half-finished thoughts; invite people to comment on your work before it’s completed. This helps replicate putting work up on the wall and giving people a chance to comment on things, especially if they’re not on your team.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check in on your colleagues’ home-working setup. Do they have space? Do they have a desk? Is it well-lit and comfortable? People with better working environments have a new kind of privilege, and so we should be equitable in our approach to free-range working.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When everyone you work with is on a screen, everyone is more equal – it’s harder for people to dominate the room. Also, we tend to stop talking over each other and let people finish what they were saying. Cultivate that atmosphere, creating the space for diverse or unheard voices to come to the fore.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spontaneous socialising is a joy. Create a tea break channel and head in there when you’re going to make a cup of tea or coffee. Start a voice chat, either using your work laptop or some headphones connected to a phone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A person’s role and types of workflow influence their ability to complete tasks when working remotely. For example, developers often need to get their head down on a problem, whereas managers move between smaller tasks and communicate with more people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The quality of personal or professional community that people have access to, and the support they receive from those, influences their ability to cope with change. Revitalise your communities of practice by setting aside time for community-building and running workshops.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t let new team members fall between the cracks. Buddy with them during their first week and hang out with them often during their first month. This is true in offices as well as when working from home.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most people want to draw a line between work life and home life, but that’s increasingly hard when you work more flexibly or share childcare with a partner. Move to work in a different room (if you’re lucky enough to have one) or take a walk in nature to reset.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manage your energy not our time by scheduling regular breaks to stand up and stretch between tasks or meetings. Have a small snack or a drink every 90 minutes or so. Set work schedules each morning, and have dedicated slots to answer emails and Slack messages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be present in meetings. Disable distracting notifications, minimise other windows, and actively listen to your team-mates. Writing in docs or checking your phone detracts from the atmosphere of shared purpose, making others feel disconnection.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This term comes from Convivio, it’s all about having complete freedom of location, time, and responsibility. Steve Parks wrote &lt;a href=&quot;https://blog.weareconvivio.com/free-range-working-an-introduction-27eb178db97c&quot;&gt;an introduction to free-range work&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2020/11/02/free-range-future-of-work/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/11/02/free-range-future-of-work/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>NaBloPoMo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open collaborative roadmaps</title>
+        <description>&lt;p&gt;At Government Digital Service (GDS), having an &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap#a-roadmap-should-be-open&quot;&gt;open roadmap&lt;/a&gt; is one of our principles for agile ways of working. Our &lt;a href=&quot;https://www.payments.service.gov.uk/roadmap/&quot;&gt;roadmap for GOV.UK Pay&lt;/a&gt; has always been open, but we wanted to explore how we might collaborate with users on prioritising things on the roadmap.&lt;/p&gt;
+
+&lt;p&gt;Making your roadmap openly available allows anyone to see what value you’ll be creating over time. As a communication tool, a roadmap is a great way to have conversations about priorities, for users and for stakeholders. By involving users in the creation of the roadmap, we want to see whether we can form a better bond with users.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-did&quot;&gt;What we did&lt;/h2&gt;
+
+&lt;p&gt;To find out how organisations were using roadmaps openly and collaboratively in the public and private sector, we asked some questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are the best open roadmaps you’ve come across? What made them good?&lt;/li&gt;
+  &lt;li&gt;What ways have your team or companies invited users to collaborate on your roadmap? What benefits did that have?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These questions were posed to the cross-government product management community, the local government digital community, and the wider product management community through Twitter, General Assembly and Mind the Product.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-found&quot;&gt;What we found&lt;/h2&gt;
+
+&lt;h3 id=&quot;microsoft-teams&quot;&gt;Microsoft Teams&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.microsoft.com/en-us/microsoft-365/roadmap?&amp;amp;filters=Microsoft%20Teams&quot;&gt;roadmap for Microsoft Teams&lt;/a&gt; shows recently launched features, things in development now and what they’ll be working on next.&lt;/p&gt;
+
+&lt;p&gt;It’s a high functioning roadmap giving users a detailed description of what’s happening, when it’s happening, allowing them to subscribe to updates or start a conversation on the community forum. It doesn’t show users what’s happening beyond the next quarter or what’s in the backlog.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Matt Knight for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;artfinder&quot;&gt;Artfinder&lt;/h3&gt;
+
+&lt;p&gt;Artfinder works quite closely with its community according to its &lt;a href=&quot;https://trello.com/b/TUuBHO78/community-roadmap&quot;&gt;roadmap&lt;/a&gt;. Users can see what’s in the backlog, what’s been prioritised, what they’re working on and what’s been released. They also suggestions that need further research, things they’ll work on later and things they will not do. One bug / operational improvement is listed, but that’s it. From the looks of it, Artfinder is making its full product pipeline openly available, which is great to see!&lt;/p&gt;
+
+&lt;p&gt;Artfinder use many of Trello’s features, such as commenting, voting and labels, to invite comment and collaboration from their users. They’re also good at adding reasons for why some roadmap items are in certain sections, e.g. won’t do.&lt;/p&gt;
+
+&lt;p&gt;It looks like the roadmap hasn’t been updated since August 2019, suggesting that they didn’t have the time or capacity to uphold this process (or maybe it was a one-off event).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Laurence Mallows for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;monzo-us&quot;&gt;Monzo US&lt;/h3&gt;
+
+&lt;p&gt;Monzo US use &lt;a href=&quot;https://trello.com/b/5vfbBl1a/monzo-us&quot;&gt;their roadmap&lt;/a&gt; quite actively. They show users what’s been launched, what they’re working on now, and what’s next. Everything else is described as ‘Ideas we might explore’. Operational work isn’t included, only features that appeal to users.&lt;/p&gt;
+
+&lt;p&gt;They’re using the range of Trello features to collaborate with users too, inviting comments and voting from users. They also link to their community form for conversation on features. And looking at the board’s activity, it’s kept up-to-date and users are invited to get involved often.&lt;/p&gt;
+
+&lt;p&gt;I wonder whether it’s easier for the Monzo US product people to keep their roadmap up-to-date as they might be able to port UK features over to the US market. Less time spent devising and developing features may mean there’s more time to focus on product ops – but that’s an assumption of mine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Paul O’Neill for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;buffer&quot;&gt;Buffer&lt;/h3&gt;
+
+&lt;p&gt;Another Trello &lt;a href=&quot;https://trello.com/b/PDIV7XW3/buffer-transparent-product-roadmap&quot;&gt;roadmap from Buffer&lt;/a&gt;, the social media management tool. It’s split up into ideas they’re exploring, work in progress, work they’ve shipped, things they’re leaving for now. Operational improvements such as optimising user journeys are included, but I couldn’t see anything about under-the-hood improvements.&lt;/p&gt;
+
+&lt;p&gt;Like Monzo and Artfinder, Buffer invite their users to comment on and vote for features. Buffer staff also invite users to have a chat over email (which might lead on to phone calls, video chats or user visits). It’s a really active board! Just yesterday, someone on Buffer’s product team added a card to the list of ideas to explore. And it’s been going for 4 years!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Chanel Can and Ben Unsworth for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-container-services&quot;&gt;AWS container services&lt;/h3&gt;
+
+&lt;p&gt;Amazon Web Services host the &lt;a href=&quot;https://github.com/aws/containers-roadmap/projects/1&quot;&gt;roadmap for container services&lt;/a&gt; on GitHub, similar to &lt;a href=&quot;https://github.com/orgs/alphagov/projects/5&quot;&gt;GDS’s Design System roadmap&lt;/a&gt;. It shows features they’re researching, stuff they’re working on, work that’s close to shipping, features in developer preview (private beta), and things they’ve shipped.&lt;/p&gt;
+
+&lt;p&gt;Roadmaps on GitHub require people to raise issues, giving a place for conversation to happen, in the open, and to be linked to code when it’s released (if you use GitHub to manage your code). It’s great for developer audiences but might be a barrier to anyone not using GitHub regularly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Dan Blundell for this suggestion!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-well-do-next&quot;&gt;What we’ll do next&lt;/h2&gt;
+
+&lt;p&gt;It’s been useful to see how other organisations approach roadmapping and the conversations they’re having with users, in the open. Miika Savela from the Mind the Product community shared an article from Shipright, a product feedback tool, on &lt;a href=&quot;https://www.shipright.co/post/feature-voting-board-messing-up-your-product&quot;&gt;why your feature voting board may be messing up your product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The article points out that you can’t rely solely on voting to help you set the roadmap, product teams should use many of the feedback signals coming in from the userbase to help set direction. So as long as a roadmap is used to start conversations with your users, one way to open up collaboration on prioritisation to show them the trade-offs you need to make, you’ll avoid relying on it as a Magic 8-Ball.&lt;/p&gt;
+
+&lt;p&gt;Since we’re looking at our engagement model and product pipeline right now, we’ll consider how we can fit an open roadmap into user group meetings and conversations over support channels.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-to-consider&quot;&gt;Things to consider&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How much time can we dedicate to keeping the open roadmap up-to-date?&lt;/li&gt;
+  &lt;li&gt;How will we encourage users to look at the roadmap? e.g. which support channels?&lt;/li&gt;
+  &lt;li&gt;What questions and concerns can the roadmap help us answer for users?&lt;/li&gt;
+  &lt;li&gt;Do users care about features only or is it useful to know about operational work?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</link>
+        <guid isPermaLink="true">https://visitmy.website/2020/07/10/open-collaborative-roadmaps/</guid>
+        
+        <category>Product management</category>
+        
+        <category>Agile delivery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kicking off a new quarter with your product team</title>
+        <description>&lt;p&gt;We work in a quarterly mission structure at GOV.UK. That means that every three months, we take stock of what we’ve been doing and where we’ve got to, taking the opportunity to set new objectives too. But given that it’s hard to make product work fit neatly inside 12-week windows, it’s important to plot your position on your roadmap accurately.&lt;/p&gt;
+
+&lt;p&gt;Here’s how I frame what we’ve achieved so far, what’s left to do and what’s next with product teams I manage at GOV.UK, the UK government’s website.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-over-the-last-quarter&quot;&gt;Going over the last quarter&lt;/h2&gt;
+
+&lt;p&gt;It’s good to summarise everything the team has already achieved; people feel better about their work when they realise it’s working towards something. An easy way to recap recent achievements is to play back the &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results&lt;/a&gt; from last quarter and the team’s progress against those.&lt;/p&gt;
+
+&lt;p&gt;Remind the team of your previous objective and the pieces of work that contributed to achieving that. Then list out what’s remaining to be done. What’s left to do to reach this milestone we were set? For example, you may need to collect some data, run a test, build a thing or achieve an outcome.&lt;/p&gt;
+
+&lt;p&gt;An objective isn’t complete until either the key results have been achieved or you’ve modified them based on what you’ve learned. (And it’s OK to adapt key results to be more realistic throughout the quarter, that’s what lean and agile product development is geared towards!)&lt;/p&gt;
+
+&lt;p&gt;Quarterly cycles provide useful checkpoints to remind yourselves where you’ve got to, how it’s contributing to achieving your product strategy, and what’s left to be done before starting the next milestone. Here’s &lt;a href=&quot;https://docs.google.com/presentation/d/1cet8v_qmCxo6bJOnnMZMITyR1BVsSU_gVZb7Tv0DqKc/&quot;&gt;a slide deck I use to frame the work we’ve done and what’s left&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-brief-overview-of-the-next-objective&quot;&gt;A brief overview of the next objective&lt;/h2&gt;
+
+&lt;p&gt;Setting the next objective – what you’re going to do – is simple enough, but laying out why you’re going to do it is harder. And that’s a good thing. This is where your skill as a product manager in setting the vision and upholding users’ needs comes into play. It’s also an opportunity for the team to see how everything they’ve discovered and learned about users will be played back to the organisation and other teams, giving them the opportunity to help shape the narrative.&lt;/p&gt;
+
+&lt;p&gt;For the last couple of quarters we’ve been using a mission brief template to frame what we’re going to be doing and why. It’s something our Head of Product, Leanne, put together and I’ve tweaked based on &lt;a href=&quot;https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec&quot;&gt;John’s one-pagers&lt;/a&gt;. The mission brief describes&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what we’ll be doing, in overview&lt;/li&gt;
+  &lt;li&gt;the problem we’re solving and who it’s a problem for&lt;/li&gt;
+  &lt;li&gt;the assumptions we have and unknowns we probably need to uncover&lt;/li&gt;
+  &lt;li&gt;the biggest challenges we expect to face&lt;/li&gt;
+  &lt;li&gt;how our work contributes to the goals of the organisation (in this case, the platform GOV.UK)&lt;/li&gt;
+  &lt;li&gt;the broad phases to our work and associated success criteria&lt;/li&gt;
+  &lt;li&gt;teams, people and organisations that can help or have input&lt;/li&gt;
+  &lt;li&gt;how we’re testing hypotheses and measuring outcomes&lt;/li&gt;
+  &lt;li&gt;any deadlines we’re working to&lt;/li&gt;
+  &lt;li&gt;how we’ll know when we’re done, and&lt;/li&gt;
+  &lt;li&gt;what we’d focus on if we only have four weeks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As product manager, I fill in the template and then workshop it with the team – as all the answers are based on work they’ve been doing. Originally the template was very project-oriented but the tweaks have made it feel more lean, like we’re considering the factors that a good product team should hold close. For example, the headings help us focus more on outcomes, testing hypotheses and learning rather than delivering outputs, building solutions and not taking risks.&lt;/p&gt;
+
+&lt;p&gt;Try it out. This should give your team shared direction or will at least create the space to develop it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/07/07/kicking-off-new-quarter-with-your-product-team/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Product teams deliver outcomes, not outputs</title>
+        <description>&lt;p&gt;A colleague at Government Digital Service recently told me that they’d adopted &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;objectives and key results (OKRs)&lt;/a&gt; in their team, but they were struggling with the objectives (plural) their leadership had set. The objectives just described the things that the leadership team wanted them to do rather than problems to solve. They had been given a list of outputs, not outcomes. This meant the team was finding it hard to buy into the mission and worried they might not explore the problem space enough.&lt;/p&gt;
+
+&lt;h2 id=&quot;outputs-vs-outcomes&quot;&gt;Outputs vs outcomes&lt;/h2&gt;
+
+&lt;p&gt;An output is a thing which a team produces or does. ‘Build this thing, upgrade this thing, change this thing.’ An outcome is an end result which a team delivers or reaches. ‘Improve this experience, increase this measure, explore this market.’ Setting outputs is easy, we’re all focussed on doing things. But doing things to reach an end result is a bit more complicated; achieving outcomes requires domain expertise, a willingness to explore the problem space, and a culture which supports experimentation.&lt;/p&gt;
+
+&lt;p&gt;Take apples as an example. I eat apples because they are tasty and healthy. All apples are alike, in that they are all tasty and healthy…until someone produces an apple which is tastier. Or an apple which is crisper. Or stores over winter longer. In an apple market with different varieties from different producers, I tend to buy products with the characteristics which appeal to me. These differentiators help me choose one eating experience from the others. Outputs are physical things but outcomes are the differences made by the outputs – a change that will occur as a result.&lt;/p&gt;
+
+&lt;p&gt;Producing an apple is an output. Producing a tastier apple that appeals to a specific audience is an outcome. Producing an output is manufacturing work, whereas producing an outcome is knowledge work.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-build-this-into-realise-that&quot;&gt;Turning ‘Build this’ into ‘Realise that’&lt;/h2&gt;
+
+&lt;p&gt;My colleague was looking for guidance on how an objective should relate to a known problem, and not just be things on the leadership team’s wish list, which &lt;a href=&quot;/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;my previous post on OKRs&lt;/a&gt; didn’t cover. In the past, I’ve found that instead of asking what you’re doing but why you’re doing it, leadership teams share some of their vision which helps you turn outputs into outcomes.&lt;/p&gt;
+
+&lt;p&gt;When asked to upgrade a part of our infrastructure, I used the &lt;a href=&quot;https://agileleanlife.com/5-whys/&quot;&gt;5 Whys&lt;/a&gt; to dig into the root reason why the GOV.UK programme team wanted us to do it. They said it was because it was out-of-support and hadn’t been upgraded in a while, because we manage the servers ourselves. Upgrading search ate up a lot of time and effort, which would be better spent on making GOV.UK a more unique and special corner of the web.&lt;/p&gt;
+
+&lt;p&gt;Understanding their vision meant we could set an outcome-focussed objective together. Instead of upgrading Elasticsearch, the team ended up making our search functionality more supportable in the future, and we improved our perspective of the resilience and performance of our search infrastructure.&lt;/p&gt;
+
+&lt;p&gt;That example was a delivery mission but it’s also possible write outcomes for discovery missions too. When we were asked to explore personalisation on GOV.UK, again I asked the leadership team why we were doing it. They wanted to understand whether it should be a direction to head in, and they also had some questions from government ministers to answer. So we came up with this: ‘Manifest the opportunities, if any, for a more coherent, personalised experience of interacting with government.’ Our key results were almost entirely research initiatives.&lt;/p&gt;
+
+&lt;p&gt;A great way to frame user needs and outcomes in your day-to-day product work is by using problem statements and hypotheses&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;unlearn-your-output-based-leadership-style&quot;&gt;Unlearn your output-based leadership style&lt;/h2&gt;
+
+&lt;p&gt;It’s a change in mindset for leadership to manage outcomes or results, instead of the traditional way of managing effort and output. But knowledge workers focus on outcomes because it sets the goal in their mind, enables them to better track their progress, and enables them to learn. For leadership teams, setting outcome-based objectives is a protection against having to micro-manage.&lt;/p&gt;
+
+&lt;p&gt;An output communicates the piece of value a product team is delivering, but an outcome helps communicate the context and priorities a product team will need to grapple with to be successful. If your product teams aren’t clear on the desired outcomes of your organisation, how can they ever help you achieve it?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I’ll write about this soon. Very soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2019 00:00:00 +0100</pubDate>
+        <link>https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/04/27/product-teams-deliver-outcomes-not-outputs/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How we use OKRs on GOV.UK</title>
+        <description>&lt;p&gt;Objectives and key results (OKRs) is a simple tool to create measurable goals for agile teams. It provides a framework for defining objectives, how teams will achieve those outcomes, and tracking their progress. It’s a light-touch way of setting goals and focus. It was originally developed by Andy Grove at Intel and has since been adopted by other product organisations such as Google, LinkedIn, Twitter and Uber.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we use OKRs on GOV.UK, the UK government’s website. Teams are trusted to deliver value for users, and this framework reduces tension between agile delivery professionals and senior management.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-an-objective&quot;&gt;What is an objective?&lt;/h2&gt;
+
+&lt;p&gt;An objective is a bold and qualitative goal that the company or organisation wants to achieve. For example, ‘Prepare the GOV.UK platform for the scale demands of Brexit’ or ‘Make it easier for users to start using our product’. It’s best that they’re ambitious, not easy to achieve or audacious in nature; they are not sales targets. These objectives make up your product strategy.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Objectives are usually set by the CEO or Head of Product and set the direction for the company or programme. Objectives shouldn’t be dictatorial goals, they should be missions that every team member can buy in to and get behind. Because they’re ambitious, it’s not healthy to set deadlines for when a product team should achieve an objective. Since CEOs aren’t on the frontlines, they can’t accurately say how long it will take a team to reach a goal.&lt;/p&gt;
+
+&lt;p&gt;Objectives may be put on a roadmap and make up part of an organisation’s strategy for getting nearer to its vision.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-key-result&quot;&gt;What is a key result?&lt;/h2&gt;
+
+&lt;p&gt;A key result is a tangible and quantitative goal for how a product team will achieve an objective. For example ‘Benchmark the speed and reliability of the publishing pipeline, improve it by 10%’ or ‘10% of new users will publish a document within 5 days of creating an account’. There may be one or many key results that contribute towards achieving an objective. It’s best that they’re specific, measurable, achievable and realistic, to help a team answer the questions ‘How will we reach the objective?’ and ‘How will we know when we’re done?’&lt;/p&gt;
+
+&lt;p&gt;Key results are usually set by the product team which helps them be objective about the scope and prioritisation of their goals. Teams shouldn’t be beholden to accomplishing a key result by a deadline or by a certain amount; they are not quotas, key deliverables or a list of tasks. Key results are lines in the sand that teams can reach in a healthy way, by not burning out. It’s possible to change a key result later down the line, and some teams often will as they get closer to understanding the problem. Since teams are on the frontlines, they’ll often be able to set more realistic key results as they mature.&lt;/p&gt;
+
+&lt;p&gt;Key results are often made up of lots of little initiatives, epics to be pulled into sprints or a series of experiments to reach a goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-okrs-look-like&quot;&gt;What do OKRs look like?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/okr-template.png&quot; alt=&quot;A template OKR slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We use the OKR template above to set objectives and key results for product teams on GOV.UK. You can copy this &lt;a href=&quot;https://docs.google.com/presentation/d/1M_k6LATfoNBkaAPLSV5ayrSo5weGD095H50gIW2d00M/&quot;&gt;open slide deck&lt;/a&gt; to use with your team.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-okrs-in-practice&quot;&gt;How to use OKRs in practice&lt;/h2&gt;
+
+&lt;p&gt;When a product team starts a new mission, we add the objective to the template. We get together as a team and ask ourselves ‘What does success look like?’ This produces a set discovery and delivery goals&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; to be reached, which usually shape our key results. Since the key results have been produced and agreed collectively by every team member, we have a shared view of how we’ll achieve the objective.&lt;/p&gt;
+
+&lt;p&gt;Every fortnight a product team will meet with the GOV.UK programme team – senior management for the platform – and report on how they’re progressing. It’s also an opportunity to raise any risks they’ve come across or anything they need from the programme team. Meetings are light-touch and only take 30 minutes. Product teams have more time to spend solving problems, and the programme team can offer help where it’s needed.&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK programme team may take the opportunity to set new objectives each quarter. It’s sensible to take a temperature check of work underway at regular intervals, in case there are new priorities. This also gives product teams a chance to play back to management their findings from a discovery, which means that some times the objective set is based entirely on the team’s work.&lt;/p&gt;
+
+&lt;h3 id=&quot;reporting-confidence-and-progress&quot;&gt;Reporting confidence and progress&lt;/h3&gt;
+
+&lt;p&gt;Product teams will report how confident they feel in being able to achieve the objective, and teams will also report their progress in the discovery or delivery threads of their work. It’s a ‘finger in the air’ score to give the programme team a sense of how well they’re progressing. By taking this reading fortnightly, the programme team can see when confidence drops or progress halts, which is an opportunity for them to help the team remove blockers.&lt;/p&gt;
+
+&lt;p&gt;It’s a good idea to check the team’s confidence during a sprint retrospective. You can work out the team’s progress by counting how many cards on the sprint board have been done and how many are left to do. It’s a simple method, and it’s OK for you to create more cards after some discovery work – that’s agile!&lt;/p&gt;
+
+&lt;h2 id=&quot;why-use-okrs&quot;&gt;Why use OKRs?&lt;/h2&gt;
+
+&lt;p&gt;What’s great about OKRs is that they pull top-down leadership together with bottom-up knowledge workers, giving them a space to communicate and reach a shared vision. They help everyone move together in the right direction, creating alignment between product teams in an organisation. It requires &lt;a href=&quot;/2019/04/27/product-teams-deliver-outcomes-not-outputs/&quot;&gt;a shift in mindset from outputs to outcomes&lt;/a&gt;. Teams can understand how they’re contributing to the organisation’s strategy, and leadership can better set realistic short-term goals. Product teams are inspired and empowered to deliver value in interesting ways, and leadership can foster a culture of determination, boldness and psychological safety.&lt;/p&gt;
+
+&lt;p&gt;Setting OKRs can expose some discomfort and issues you might not have encountered before. But that’s a good thing, and working through problems brings people closer together. OKRs are an empowerment technique to give product teams clear problems to solve and the space to solve them.&lt;/p&gt;
+
+&lt;p&gt;OKRs are not an instant solution, nor are they designed to create perfect unity. Instead, they give space for leadership to set ambitious goals that teams can buy into, and the framework gives space for product teams to solve problems in creative ways.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading! Don’t hesitate to reach out with any questions on &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/stevenjmesser/&quot;&gt;LinkedIn&lt;/a&gt;, and let me know if there’s anything else which would be helpful.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;After writing this post, someone reached out to me and asked ‘What if all the objectives are too grand and unattainable?’ to which we found out that their leadership didn’t have a product strategy. If objectives are not clear or can’t realistically be worked on, this is a fault of leadership. I’ll write a little more on what to do about that soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A few people have asked me whether they should set and report key results in the &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works&quot;&gt;discovery phase&lt;/a&gt; for a new product or service, and I’d say no. Discoveries are projects in which you explore ideas and gather information to help you decide what to deliver. You might have a set of key tasks to do in a discovery, but the only key result is having a better idea for what to do next. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</link>
+        <guid isPermaLink="true">https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/</guid>
+        
+        <category>Agile delivery</category>
+        
+        <category>Product management</category>
+        
+        <category>Popular</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

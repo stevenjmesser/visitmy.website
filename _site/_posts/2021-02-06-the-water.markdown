@@ -1,0 +1,58 @@
+---
+layout: post
+title: "The Water"
+sub-title: "Weeknotes S10E10"
+date: 2021-02-06
+description: "We've reached the end of series 10 with the closure of one mission, the beginning of a discovery starting next week. Thoughts on communities of practice, Zoom fatigue and collaboration."
+image: /assets/images/IMG_5324.jpeg
+image_title: "Sunrise in February, North Wales"
+image_artist: "Steve Messer"
+image_source: 
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+We've reached the end of series 10 with the closure of one mission, a discovery unfolding from next week. 
+
+## Things I shuffled along
+
+The mission to make Pay and its partner services compliant with Strong Customer Authentication regulations is all wrapped up, and we know what we'd do next to iterate the paying user journey. For now we'll focus on releasing improvements for accessibility only, because the paying user journey works well enough for everyone else. 
+
+It's always preferable to implement changes after research and design, of course, so that you keep that momentum, but there are two higher priority things to be working on. Working in digital is all about making trade-offs, and we're consciously shifting capacity towards things that will pay off in the future rather than have an immediate impact. 
+
+I made the last few tweaks to the discovery kick-off session and our loose plans, after running it past our user researcher, Nick, who came back off paternity leave. I'm confident that we're in good shape for the discovery now, and lining up people to interview in the weeks before kick-off should pay off. A good thing to have learned from previous discoveries!
+
+The minimum viable product (MVP) for telephone payment links is making progress and will be ready for private beta participants soon.
+
+I had the second training session with General Assembly for becoming a lead instructor. Teachers do so much, and so well, eh? Arfah and I also ran through the moderating training with Mary, in readiness for the public launch of the Introduction to Product Management course on FutureLearn. Look out for the blog post in 2–3 weeks' time!
+
+## Things I started
+
+I started an analysis of people's contributions to the Work–Life Impact workshops. I'll save the insights for another blog post, but the most striking finding was how much people aren't leaning on their [community of practice](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook#what-a-community-of-practice-is) for support – the people you can go to whenever personal or professional struggles become more acute.
+
+There are a few reasons for this that spring to mind, and the communities have been degrading for some time. First slowly, then all at once. But I do think they're in a position to be built up back to strength. Immediately I'm reminded of Matt Edgar's meeting with an aquarium curator and to [look after the water](https://blog.mattedgar.com/2018/06/06/look-after-the-water-reflections-1-year-into-my-work-at-nhs-digital/). It was pleasing to see people at this month's PM community meet-up, so there's something we can build on there. (And big thanks to Miriam and JP for carrying the torch through a tough period!)
+
+In the spirit of 'Audience is one-to-many, community is many-to-many', I've arranged a community session for local authority teams taking payments. [Come along](https://twitter.com/stevenjmesser/status/1357254417104441346) if you'd find that useful.
+
+## Some puzzles
+
+Still wondering lots about Zoom fatigue and how to create spaces for collaboration during our discovery. I'm enjoying using Mural and it's massive, seemingly endless whiteboard space. I think the trick might be to encourage regular breaks and maybe even a walk-and-talk over Slack audio for gnarly problems. Not having a delivery manager means I'm thinking about other people's energy a lot more, which can only be a good thing.
+
+## Other things
+
+My interview date for a senior product manager role at GDS came through, which I'm really excited about. Fingers crossed. 🤞
+
+My running is progressing and on Monday I ran my first 10K on a gloriously sunny day. Spoilt! My left calf was tight afterwards and the following day too, which meant on Wednesday I only ran 6K – and a lot slower – despite planning to run the same route. The extra rest should mean I can do another 10K today though.
+
+On drinking, I had three cans of beer to celebrate finishing a booze-free January and then started a booze-free February. I nearly caved last night but when it came time to actually go to the shops, I didn't really want one any more. Not having 24-hour corner stores a 1-minute walk away is helping snacking and boozing! 
+
+Took a day off on Friday, but did close to nothing with it. I actually did some work but hey, what else is there to do? Looking forward to being able to go to Snowdonia again, cannot wait!
+
+## Bookmarks
+
+- [Rethinking Dominic Cummings](https://www.politics.co.uk/comment/2021/01/29/rethinking-dominic-cummings/), 5 mins
+- [Twitter’s decentralized social network project takes a baby step forward](https://www.theverge.com/2021/1/21/22242718/twitter-bluesky-decentralized-social-media-team-project-update), 2 mins
+- [Why do so many professional, middle-class Brits insist they're working class?](https://www.theguardian.com/commentisfree/2021/jan/18/why-professional-middle-class-brits-insist-working-class), 4 mins
+- [A time for big questions: lockdown life and late-stage communism](https://on.ft.com/3j9ILe1), 5 mins
+

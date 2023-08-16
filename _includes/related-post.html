@@ -1,0 +1,6 @@
+<span class="post-meta">{%- if post.sub-title -%}{{ post.sub-title }}&nbsp;–&nbsp;{%- endif -%}{{ post.date | date: "%e %B %Y" }}</span>
+
+<h3>
+  <a class="post-link" href="{{ post.url | relative_url }}" onclick="window.fathom.trackGoal('3T2PDDS0', 0);">{{ post.title | escape }}</a>
+</h3>
+<p>{{ post.description }}</p>

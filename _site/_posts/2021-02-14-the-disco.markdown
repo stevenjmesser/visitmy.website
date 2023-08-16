@@ -1,0 +1,54 @@
+---
+layout: post
+title: "The Disco"
+sub-title: "Weeknotes S11E01"
+date: 2021-02-14
+description: "This week we kicked off the discovery into new payment types and channels, ending the week on a shared view and a plan for the next 8 weeks."
+image: /assets/images/IMG_5368.jpeg
+image_title: "Bwlch bus stop, Llanengan"
+image_artist: "Steve Messer"
+image_source: 
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+## Things I shuffled along
+
+I finished off the analysis of people's contributions to the Work–Life Impact workshops. When reading back the findings, many of the things we want to try seem obvious – get feedback early and often, make time to chat about non-work things, set a daily schedule, etc. – which highlights just how easy it is to not keep up good working habits. Official blog post coming soon.
+
+The local government community session I mentioned last week went really well, and it was great to see the community helping out other members – even when the solution wasn't GOV.UK Pay! I think that's important to emphasise as we're not an all-in-one solution, and if anything seeking out The One Platform to Rule Them All is what got so many organisations locked in to exploitative contracts. 
+
+## Things I started
+
+Most of my week was spent kicking off the discovery into new payment types and channels, which will help inform GOV.UK Pay's strategy over the next couple of years. Currently the platform only offers one-off card payments and two channels, digital and telephone, but we know that services need more. 
+
+I invited our stakeholders to join the team in the inception workshop, meaning that our director and deputy director could pitch ideas alongside senior management and specialists working on the frontline, in my team. Though some were worried about the psychological safety of that, it didn't seem to impede people's contributions. It hopefully made our new leadership feel closer to its product teams too, helping them better understand the decisions we weigh up each week.
+
+The hardest job was keeping the conversation moving and raising questions on people's Post-its. (We used a Mural board for the workshop.) You're often thinking on your feet when facilitating a workshop, reviewing people's contributions and working out what questions to ask to make things more specific. The 5 Whys help, as well as asking people to elaborate more. And writing down points as people expand on them helps, as they instantly see things recorded. 
+
+Once that was done, I wrote down some 'Discovery is done when' objectives and we discussed those as a team the next day. Over an hour or two, we discussed the approach we wanted to take as a team and refocused the perspective of our objectives to talking about value, motivations and pain points rather than anything related to a specific solution. This is glorious as it shows the team is in the same headspace, thinking in the same way, which gives me a lot of hope for the next 8 weeks!
+
+It's worth saying too that this discovery is more like customer development than researching users' needs. We're looking at questions of value and viability most, learning more about why services hire GOV.UK Pay to solve their problems and how common those problems are across services. 
+
+We ended the week with a really decent plan for the next 8 weeks and with placeholder events in our calendars, so I'm feeling really confident that we'll make good progress and use the time well.
+
+## Some puzzles
+
+No puzzles this week. Nothing on my mind, which is good.
+
+## Other things
+
+My interview for a senior product manager role at GDS seemed to go well, and I hear back on Tuesday. There's a new approach to interviews where people are being sent the interview questions beforehand, which I think was really inclusive. It really helps not having to scramble around for stories related to the questions, knowing the questions in advance means you can bring well formed responses. 
+
+Ran a personal best for a 5K last week, at 22 minutes and 53 seconds. I'm aiming to get that down to 22 minutes so spent the week working on form and pace, pushing myself more than I usually do. 
+
+## Bookmarks
+
+- [Distributed-First Is the Future of Work at Spotify](https://newsroom.spotify.com/2021-02-12/distributed-first-is-the-future-of-work-at-spotify/), 4 mins
+- [Remote Design Work: Top Challenges](https://www.nngroup.com/articles/remote-design-challenges/), 6 mins
+- [Why Am I Talking?](https://medium.com/@tombarrett/why-am-i-talking-1ca0e92bb359), 3 mins
+- [B2B Payments in 2021: What’s Next?](https://www.emergingpayments.org/article/b2b-payments-in-2021-whats-next/), 2 mins
+- [Becoming a senior Product Manager](https://www.lennysnewsletter.com/p/senior-product-manager), 8 mins
+- [Post-Pandemic Silicon Valley Isn’t A Place](https://blog.initialized.com/2021/01/data-post-pandemic-silicon-valley-isnt-a-place/), 6 mins
+- [Why England Sucks, According to People from Wales, Scotland and Northern Ireland](https://www.vice.com/en/article/xgzm3a/why-england-sucks-according-to-wales-scotland-northern-ireland), 14 mins

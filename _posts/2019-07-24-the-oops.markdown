@@ -1,0 +1,68 @@
+---
+layout: post
+title: "The Oops!"
+sub-title: "Weeknotes S05E03"
+date: 2019-07-24
+description: "These notes come to you earlier than usual. It's my birthday and I've got a few days off. Initiate Maximum Chill."
+image: /assets/images/4269078815_bd22280121_b.jpg
+image_title: "like a broken wrist"
+image_artist: "Steve Messer"
+image_source: https://www.flickr.com/photos/renegatus/4269078815/sizes/l
+image_credit: "Steve Messer"
+tags:
+ - Weeknotes
+---
+
+These notes come to you earlier than usual. It's my birthday and I've got a few days off. Initiate Maximum Chill.
+
+## Three Things That Happened
+
+*We did more things than this*
+
+### One
+
+Following on from [last week]({% post_url 2019-07-20-the-milestone %}), I got together with Andy and Jeremy, our frontender and interaction designer respectively, to prioritise those problems with the new search interface designs. The main issue was that there were quite a few conflicts between the designs, and it was unclear which should take precedence. We needed to cut through to the big problems, so I helped them on a bit of wayfinding.
+
+First off, I listed the user personas we have for our search products. They're really general because [we design things for everyone](https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone) but the distinctions, no matter how general, help us remember that there can be competing needs. So we have 
+
+- general users (looking to do a thing with government)
+- accessible users (also looking to do a thing with government)
+- civil servants in departments (looking for that document they published to advise on something)
+- support staff in call centres and on webchat (looking to advise people over the phone or chat)
+- journalists (looking to check what Government has said)
+- think-tanks, advisors, and other scrutineers (looking to find records and change the way Government does things)
+
+using our search products. We mapped their needs to the different products. For example, general users tend to opt for [site search](https://www.gov.uk/search/all), whereas journalists will keep an eye on Government's [news and communications](https://www.gov.uk/search/news-and-communications). This showed us that the problems with the organisations filter were more of a concern on the category finders than site search, where people expect a result relevant to their keywords rather than using the filters.
+
+After zooming out a little, we'd been able to see a priority order for the problems. Most people used site search so that took precedence, but it was time to zoom out a little further. We were still feeling conflicts between the desktop interface and the mobile interface. We know that [mobile use is now more popular than desktop use](https://www.gov.uk/performance/site-activity/device-type) across the website and that [search results are obscured on mobile](http://quirktools.com/screenfly/#u=https%3A//www.gov.uk/search/all%3Fkeywords%3Dtake+your+pet+abroad%26order%3Drelevance&w=375&h=667&a=37) – which really sucks.
+
+So we decided that sorting out the experience on mobile would take priority, and sorting out those issues would likely mean that the desktop version would follow suit. That re-scoping started to make the way forward a lot more clear.
+
+But we still needed a plan of attack. We sketched some research sessions to check our assumptions, meaning we'll be asking some of our user groups to complete tasks on GOV.UK, interacting with site search and finders. That's likely to be some of the public in train stations, people in passport offices, and a few civil servants to boot. We're really looking to see whether they uncover the same howlers we see with the current design. And then we'll know which pain points to design away.
+
+It'll take the rest of the week and a day next week to do this, but it's worth getting some evidence before ploughing on. I hate the idea of building on our own assumptions. 
+
+### Two
+
+That said, the way I'd planned it we'd be building some bias into the sessions. Louise, one of the user researchers in our product group (working across a couple of product teams), was bold enough to grab me and tell me that. Which I'm really thankful for. She sat down with Jeremy and Andy to go over the sessions and gave them some pointers on the number of people to approach, where to meet them, how to write a discussion guide, note-taking, removing bias from our sample, etc.
+
+I'm glad she did that. Imagine we'd pressed ahead with our [guerrilla research](https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/) and hadn't chatted to a statistically robust sample, one of the [weaknesses of guerrilla testing](https://webarchive.nationalarchives.gov.uk/20130629184453/https://www.gov.uk/service-manual/users/user-research/guerilla-testing.html#weaknesses-and-when-not-to-use). Darn my Bolshy product management! 
+
+Thank you, Louise.
+
+### Three
+
+Someone from the [Alexa](https://developer.amazon.com/alexa) team came in to chat about hobbyist developers building Alexa Skills. He was interested in any APIs we had that didn't just provide one-shot answers to questions, but we don't really have much of that. Our [smart answers](https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/) turn policy into tools that give users answers to questions like ['How much maternity pay can I get?'](https://www.gov.uk/maternity-paternity-calculator), but we don't have a public API for those – it's all logic written in a GitHub repo.
+
+Since we don't advertise them much, we gave him a list of our other [public APIs](https://www.gov.uk/maternity-paternity-calculator) and said that we looked forward to seeing what people made, but to me it's a signal that we need to promote these more. They're there to be used and can seriously cut complexity and build time for government product teams, let alone hobbyists.
+
+## Bookmarks
+
+- [Five Habits of Design Thinking](https://medium.com/@cwodtke/five-habits-of-design-thinking-45bb61b30393), 10 mins
+- [When local councils use data tools to classify us, what price freedom?](https://www.theguardian.com/commentisfree/2019/jul/21/technology-has-tempted-us-to-walk-willingly-into-a-modern-panopticon), 3 mins (although this article sucks)
+- [7 things I wish every search box did](https://www.intercom.com/blog/7-things-wish-every-search-did/), 5 mins
+- [In defence of boring UX](https://ux.shopify.com/in-defence-of-boring-ux-ad32acd4d437), mins
+- [Why you need to stop obsessing about your MVP](https://medium.com/swlh/why-you-need-to-stop-obsessing-about-your-mvp-555bad1ebd9f), 5 mins
+- [Simultaneous Triangulation: Mixing User Research & Data Science Methods](https://spotify.design/articles/2019-07-17/simultaneous-triangulation-mixing-user-research-data-science-methods/), 10 mins
+- [Practical Methods for Evaluating Prediction Accuracy](https://productcraft.com/best-practices/practical-methods-for-evaluating-prediction-accuracy/), 5 mins
+- [SERP Seasonality: Managing User Intent to Maintain Rankings](https://www.stateofdigital.com/serp-seasonality-managing-user-intent-maintain-rankings/), 7 mins

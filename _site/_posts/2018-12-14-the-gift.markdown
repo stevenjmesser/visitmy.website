@@ -1,0 +1,70 @@
+---
+layout: post
+title: "The Gift"
+sub-title: "Weeknotes S02E08"
+date: 2018-12-14
+description: "Another sterling week working at pace on important problems. Turning up to work is fun now, it's not just a job. I am incredibly lucky to be able to say that."
+image: /assets/images/SW_ANEUR_RG_PCF11.jpg
+image_title: "Gift of Life Series: Transition"
+image_artist: "Andrew N. Lanning"
+image_source: https://artuk.org/discover/artworks/gift-of-life-series-transition-152955
+image_credit: "Aneurin Bevan Health Board"
+tags:
+  - Weeknotes
+---
+
+Another sterling week working at pace on important problems. One of our senior product managers, Antonia, went on maternity leave this week and said she hoped I'd be around when she returned. I told her I probably would be: 'Turning up to work is fun now, it's not just a job.' I am _incredibly_ lucky to be able to say that.
+
+## Four Things That Happened
+
+*We did more things than this*
+
+### One
+
+We met our objective and finished the spin-up mission in 6 days. It's a great achievement for everyone, especially pulling together in such a short space of time and, for much of the team, working on a new product. What was most impressive was how each person brought forward their own expertise, adding a unique and valuable facet to our research, testing and analysis.
+
+Though we had three developers on the team, they covered hardware, computer science and creativity in code well. Our technical architect, Vitalie, was great in looking at the underlying, latent issues too, putting forward cards that prompted us to explore our support model. This was particularly great for me because I was about to ask him to do that, but he'd come about that slice of work through his own volition.
+
+It was my first time working closely with a performance analyst too, which I really relished. Being able to ask product questions and getting evidence in return, evidence to support our endeavours, was fantastic. And my delivery manager, Nila, has been excellent in supporting the team and keeping things moving. She's been so great that we're going to see more of her next quarter. Woo!
+
+On Thursday we hooked up with my other team, Platform Health, to run through some load-testing. We were really pleased to see that the three short-term optimisations we'd made had had an effect, allowing us to serve 400 unique users per second for 20 consecutive minutes. There's still more to be done to work out when it'll fall over, but we've removed the most immediate risk – the rest is just long-term optimisation.
+
+
+### Two
+
+Jen, Head of GOV.UK, raised a prescient point during one of our catch-ups. There's been some trepidation in Government Digital Service about how the organisation will be treated in next year's spending review, the worry being that we might have less budget to do more things. What we've been doing over the past few weeks, delivering beneficial work for the country at a considerable pace during an unprecedented period, has really impressed Cabinet Office (apparently) and Government as a whole to show them what we're capable of.
+
+Our work has upheld the GDS principles and elements of the Service Standard, which just goes to prove the way we work and that transformation hasn't finished, we've just entered a second age. We can all be really proud of that.
+
+
+### Three
+
+For the first time, I had to give a firm 'No' to someone senior at GDS. It was a simple case of solutionising, really, and so quite easy to shift and redirect towards the desired outcome, but it's uncommon to need to do it. They had proposed that a retention period should be applied to blog posts and that we could remove them after _n_ years. That goes completely against the point of blogging in government and reeks of newspeak: we don't alter history to make it fit the narrative we want to tell. We're open, honest and accountable.
+
+Anyway, it turned out they were just worried about GDPR compliance and ensuring that people could exercise their right to have personal data removed, which I found out after some digging. I explained the platform, how it works and why we have it, then showed how their different policies apply to different sections of the platform and blogging activity. They saw how to reach their outcome then, so we're updating the privacy notice and internal HR policies. A good improvement!
+
+
+### Four
+
+Friday was a busy day with two interviews: one at HMRC, one phone interview at GDS. Both went really well, and I got along with everyone in the HMRC interview. Their work in London is particularly interesting, using product management practices to help shape policy – avant-garde work in government, if you ask me! I'm hoping that GDS pull their finger out and arrange a face-to-face interview next week, should I be successful, rather than waiting until after Christmas.
+
+
+## Reflections
+
+### What I Learned
+
+Continued to learn how to work with team members from diverse backgrounds and with different emotional needs. Looking forward to hearing comments from people in our remote retro, so I can learn more.
+
+
+### What I Could Do Better
+
+It's hard to say without that retro, to be honest, we've been so immediately focussed on the work in front of us, there hasn't been time to think about much else.
+
+
+## Bookmarks
+
+- [Donate to the commons this holiday season](https://blog.ldodds.com/2016/11/10/donate-to-the-commons-this-holiday-season/)
+- [250 pages of internal Facebook files were just dumped online – here are the 6 key takeaways](https://www.technologyreview.com/the-download/612518/250-pages-of-internal-facebook-files-were-just-dumped-online-here-are-the-6-key/)
+- [Four Internets: The Geopolitics of Digital Governance](https://www.cigionline.org/publications/four-internets-geopolitics-digital-governance)
+- [Evelyn Berezin, 93, Dies; Built the First True Word Processor](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html)
+- [Porn sites collect more user data than Netflix or Hulu. This is what they do with it.](https://qz.com/1407235/porn-sites-collect-more-user-data-than-netflix-or-hulu-this-is-what-they-do-with-it/)

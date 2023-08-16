@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Jam London 2019"
+date: 2019-11-02
+description: "Notes I made during Jam London 2019, a product and design conference."
+tags:
+ - General
+---
+
+For the past few years I've been going to [Jam London](https://www.jamlondon.io/events/), a product and design conference sharing the stories behind great products. It's great to hear from product and design leaders from across the world, and I've always learned a thing or two that I take back to my practice. 
+
+Here's some rough notes I made on my phone during the talks, in case it's helpful for others. The full line-up is [here](https://www.jamlondon.io/events/jam-london-2019). The talks from Jamie Nicholson, Chelsea Bullock and Susana Lopes were best for me that day. Lots about navigating uncertainty, trust, empathy and failure.
+
+---
+
+## Building with Stories
+### Jeff Gardner, Intercom
+Stories the best way to organise people around a single idea. But why do we think we’re not capable of building stories? Here’s some tips on building better stories.
+
+The type of story we’re telling is a business parable, driving someone’s behaviour to reach an outcome. 
+
+Good stories must have
+
+- a clear message
+- emotionally engaging
+- simple enough to be retold 
+
+A story is an idea virus, and good stories are contagious. It can be easy to make a story short, quicker to tell, retell and understand. Make stories short.
+
+Focus on feelings, rather than details. How do you want the audience to feel? 
+
+Adapt to your audience. Comedians spend lots of time seeing jokes bomb to understand which will work. You need to try to be good. Saying ‘Anyway, it’s a long story’ can help you understand whether anyone wants to hear it.
+
+Make storytelling a practice, learn from what doesn’t work. 
+
+- Start with the point
+- Set the scene, quickly
+- Use dialogue 
+- Surprise!
+- Restate the point
+
+Of all the animals, we’re the only ones that live in a dual reality: the world in front of us and the world in our heads.
+
+## Building trust with research teams
+### Chelsea Bullock, Mailchimp
+Team dynamics are different when teams have trust between the members. New teams have lower trust; teams with trust move fast.
+
+Worked on a project based on a VP’s idea with a team that had high trust. Tried to reframe the feature proposal but kept running into dead ends, it wasn’t going to work. They were asked how to do it, not whether to do it or not. Users didn’t fundamentally see the problem so the feature didn’t need it. High trust team only spiralled for a while and they quickly pivoted to saying ‘This won’t work’ and the company was grateful, saved money and time.
+
+Mutual trust meant they could move from discovery to validation to learning very quickly.
+
+How do you know if you’re working in a trust vacuum?
+
+- No one knows what you’re doing there
+- Deliverables feel safer than learnings
+- Doubts and suspicions about motivations and goals of team-mates
+
+Trust gap can cause problems. Build empathy and trust to move forward together.
+
+Stage Zero collaboration: or, where to start when you don’t know how to begin. First step in building trust between research partners is asking ‘What decision will these findings enable you to make?’ Gives you
+
+- clarity of mission
+- buy-in on the stakes
+- alignment in prioritisation 
+
+Successfully answering that requires
+
+- curiosity 
+- vulnerability & compassion
+- clear vision
+
+Stories clarify our expectations of each other and acknowledge the value we all bring to the work. It energises teams and renews trust.
+
+It’s really easy to keep our heads down and deliver, but we should turn these into collective stories. Show & tell often.
+
+Trust over tools. Tools and frameworks are easy, but understanding and communication is most useful. Empathy.
+￼
+Trust is better for team health. If there’s low trust, establish clarity of mission and get leadership involved. 
+
+![Building trust with your research team](/assets/images/IMG_1836.png)
+
+## How research inspires new products
+### Jamie Nicholson, Instagram
+Design for and with people. Understand needs, desires and wants. Do research early, not after building.
+
+Testing ideas and getting feedback is very important, but it’s easy to get lost and not move the needle (meet business objectives). What’s the problem you’re solving? How is that part of people’s lives?
+
+Moved from ‘Why do you use Instagram?’ to ‘How do you make friends?’
+
+Looked at how the different features fit into making friendships. You might like an acquaintance’s photo, but you’ll send a DM to a best friend.
+
+- Ask big questions. (How do they want to feel? Uncover behaviours and mental models, to see how this things sits in someone’s life.)
+- Get beneath the surface of what is said, people don’t know what they want. Go deep to find the magic they need.
+- Talk to extremes. Start at the edges and move inwards. Don’t go for average behaviours.
+
+Personas are hard, you can’t design for the average with millions of users. Instead tell the stories of people you find that represent a broader group of people. It drives empathy in the team.
+
+## Agile for Everybody, Everybody Hates Agile
+### Matt LeMay, Sudden Compass
+Agile is a completely made-up thing that 17 people dreamed up on a ski weekend, so `¯\_(ツ)_/¯`
+
+Agile methods ask people to think and, frankly, that’s a hard sell. So be brave, get started and change the way you’re working until it works.
+
+## How to scale globally 
+### Kaarel Kuddu, Transferwise
+Launched in a country based on World Bank data. Didn’t work because they didn’t know their customers and how TransferWise fit into their lives.
+
+Ran an experiment to see if people would choose currencies to send. Got some data, saw demand for currencies, launched those and tracked uptake. No correlation between demand and uptake because product experience wasn’t approached in the same way in different countries.
+
+## Failure 
+### Maryam Mazraei, Autopsy
+4 years of work ended in failure, which got her interested in taking lessons from failure. Survivor bias creates problems for people who follow the ‘playbook’.
+
+Looking at the common components of failure help you to spot patterns.
+
+Data from Crunchbase, OpenCorporates, Companies House, etc.
+
+## Keep pace, master product at BMW (100 years old)
+### Sabrina Rzepka, BMW
+Working with cars different: no feature flags, no Build-Measure-Learn, no fail fast. Features have many dependencies.
+
+- Make a vision visible
+- Gain speed with a co-pilot
+- Focus on the essentials 
+
+## You didn’t fail, your product did 
+### Susana Lopes, Onfido
+Behind pristine LinkedIn profiles are our bruised egos and failed projects. They’re lurking there and we never talk about our shadow careers.
+
+Grew up with the ‘Failure is not an option’ mantra but it turned her into a dictator. Worked at Huddle, they had quarterly commitments for sales people, things they’d deliver on time that didn’t exist yet. Made her think that success = shipping on time. Efficiency theatre.
+
+By thinking that failure was not an option, she chose the easiest route to success - instead of actually delivering value to customers.
+
+Fear of failure creates high pressure and clouded judgement. You need to release that pressure to succeed.
+
+Swapped ‘Failure is not an option’ for ‘Fail fast, fail early’, de-risking aspects of the product. 
+
+Spoke to customers using web product on Android to collect problems, hoping to rebuild the Android app and convert those people. De-risked problem and value.
+
+De-risked usability. De-risked feasibility. Kept shipping and growing, de-risking beforehand...until the numbers stalled. Value plateaued.
+
+Didn’t validate that the problem existed for enough people, enough of the time. But blamed herself. Emotional resilience held her back.
+
+But she didn’t fail, the product did. And she learned and can do better next time. Separate self-worth from product-worth, maybe by creating product success metrics and personal success metrics. Creates emotional distance by being product’s worst critic.
+
+![Failing forward](/assets/images/IMG_1838.png)

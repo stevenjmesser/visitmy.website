@@ -1,0 +1,71 @@
+---
+layout: post
+title: "The High"
+sub-title: "Weeknotes S04E12"
+date: 2019-06-29
+description: "Back on the wagon! Writing weeknotes last week did wonders for my brain, it'd be silly not to carry on this week."
+image: /assets/images/tumblr_n2qmuefa0F1s5e0ymo1_1280.jpg
+image_title: "Untitled"
+image_artist: "Luke Winter"
+image_source: https://brokebroadbeat.tumblr.com/post/80164761959/back-when-my-little-guy-was-a-baby-hes-dead-now
+image_credit: "Luke Winter"
+tags:
+ - Weeknotes
+---
+
+Back on the wagon! Writing weeknotes last week did wonders for my brain, it'd be silly not to carry on this week. Especially when we've had such a banging last two weeks! This week started off a bit muggy but ended on a high. I'm really proud of the position we're in as a team and being able to deliver value quickly next quarter. 
+
+## Five Things That Happened
+
+*We did more things than this*
+
+### One
+
+The [GOV.UK roadmap for quarter two, 2019/20](https://twitter.com/Jen_Allum/status/1143558267412582400) was revealed! It'll be released in the open shortly, but this is the first time in about six months that we've had a roadmap up and on the wall. Already people are asking questions and getting involved in thinking about where we're headed, which is the point really. We're a community of change-makers, not a meritocracy of idea-havers. 
+
+The roadmap features my two mission briefs for the coming quarter: increase the relevancy of search results from 58 per cent to 70 per cent, and explore the factors that distinguish users' perception of government as a trustworthy handler of personal data. Simply: make search better and carry on exploring 'personalisation' by applying the [Jurassic Park test](https://twitter.com/stevenjmesser/status/1121122464799625217).
+
+### Two
+
+I ran a Product People at the Home Office (2 Marsham St), thinking about [refocusing on agile](https://www.eventbrite.co.uk/e/product-people-london-tickets-63102641700#). James spoke about getting buy-in from commissioners in NHS Digital and I was most impressed by their programme-wide prioritisation sessions of external requests. Triaging and responding to product requests really needs improving at GOV.UK, so their approach could work for us. 
+
+Ben spoke about setting up agile teams and proving the value of experiments at the Royal Navy, which was absolutely fascinating. He's setting up a Product People in Portsmouth which I'm looking forward to attending, he's a really charismatic person. And Greg spoke about the napkin of trust at Home Office, getting the rest of the organisation to buy in to what you're doing. 
+
+Afterwards I caught up with Rose and Si about what Product People could do next. We're keen to explore how government's agile and digital methods have seeped into other sectors; I've certainly been to conferences where the [Design Principles](https://www.gov.uk/design-principles) are lauded highly and Government's approach to creating a [Design System](https://design-system.service.gov.uk) has been copied. It's easy to forget that we're respected innovators.
+
+### Three
+
+We had a think about how to run the team next quarter. It's been kinda tough joining an established team and trying to tweak some of its habits, removing some of the bad behaviours, but there's definitely been lessons on both sides. It's easy to waste those lessons and not act on them, so sitting down and pulling out good aspects and things to work on gives us objectives for improving next quarter.
+
+The one bad thing was that despite people's regular complaints, we'd not actively done anything to improve remote-working for the team. Personally I think we need some principles around that. For example, always book rooms in advance with closed walls, ask remote people to lead sessions, etc. It would also be helpful for my own sanity if events weren't dropped in my calendar without warning and without agendas, over the top of pre-booked events. 
+
+The good thing was that we've improved planning and the team is more engaged. We did this simply by asking people to shut their laptops and get involved in hearing about cards, tweaking them, thinking about next steps, etc. Quite simply, being in the room not in their computers. It's all about respecting each other as humans, our time together, and making meetings effective so that we don't waste time. Respect plays a key part in that, I think.
+
+### Four 
+
+I had an absolutely fascinating chat with [Marc Hebert](https://www.linkedin.com/in/marc-hebert-0662bb1/), Director of the [Innovation Office at the City and County of San Francisco's Human Services Agency](https://medium.com/designinghumanservices). He'd seen [my post about OKRs]({% post_url 2019-02-21-how-we-use-okrs-gov-uk %}) and wanted to ask about my thoughts on North Star metrics for governments redesigning services around users – which was serendipitous as I'd been thinking about a lightning talk on that during the morning! 
+
+Hoping to write a post on that soon, after running my ideas past some civic-minded intellectual heavyweights, so watch this space.
+
+### Five
+
+We closed Q1 2019/20 on a bang. The team have done really well this quarter and dealt with a fair amount of changes – not only of priorities but of perspective too. They're now entirely focused on delivering evidence-based value, ready to improve things rapidly. 
+
+We're nail-bitingly close to achieving our objective for this quarter: for GOV.UK to have a data-informed, repeatable approach to rapidly improving search for users and government in the coming months. 
+
+That’s comprised of 
+
+- our A/B testing abilities on live search, which previously crippled the stack
+- performance data detailing the relevancy of results based on users’ clicks on over 220,700 unique search queries
+- knowledge of users’ search intent and use of filters to limit the results
+- the deprecation of Whitehall finders for a new, trackable finder frontend across all content, and
+- a supported version of Elasticsearch to boot!
+
+We also managed to uncover, unpack and unhinge a domain authority exploit that a porn tube site was dirceting at our pages. I may write about that as it's a rather sophisticated blackhat SEO exploit made up of a few coordinated tactics.
+
+## Bookmarks
+
+- [Making what you do explicitly political](https://medium.com/@blangry/making-what-you-do-explicitly-political-cf6dbddad6fb), 6 mins
+- [David Cameron aims to make happiness the new GDP](https://www.theguardian.com/politics/2010/nov/14/david-cameron-wellbeing-inquiry), 4 mins
+- [How Britain's welfare state has been taken over by shadowy tech consultants](https://www.theguardian.com/commentisfree/2019/jun/27/britain-welfare-state-shadowy-tech-consultants-universal-credit), 5 mins
+- [Exploring emerging design for government](https://medium.com/@Martin_Jordan/exploring-emerging-design-for-government-25c21eb73d27), 9 mins
