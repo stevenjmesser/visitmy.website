@@ -4,11 +4,10 @@ title: "The Faces and Places"
 sub-title: "Weeknotes S15E03"
 date: 2023-08-21 13:28:22+01:00
 description: "When you join a team, you want to know how it works and what it needs you to do. So I've been looking at roles and responsibilities."
-image: /assets/images/
-image_title: ""
-image_artist:
-image_source:
-image_credit:
+image: /assets/images/IMG_0355.jpg
+image_title: "Magic"
+image_artist: Steve Messer
+image_credit: Steve Messer
 tags:
 - Weeknotes
 ---
