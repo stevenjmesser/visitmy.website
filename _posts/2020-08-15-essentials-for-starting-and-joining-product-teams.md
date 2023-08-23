@@ -3,7 +3,7 @@ layout: post
 title: "Must-haves when starting or joining a product team"
 description: "These are the must-haves and key things to remember which help me hit the ground running when starting or joining a product team."
 date: 2020-08-15
-modified_date: 2022-06-23
+modified_date: 2023-08-21
 image: /assets/images/IMG_1774.jpeg
 image_title: "Government, more or less"
 image_artist: "Steve Messer"
@@ -35,6 +35,8 @@ As product manager, you look after the environment that the team needs to succee
 ## Working in a team
 
 - Establish your team’s shared principles and ways of working early. Refer back to these guidelines often, and iterate where needed.
+- Find or map the product development model, and make sure that roles and responsibilities are clear to everyone on the team.
+- When it comes to ground rules and ways of working, don’t assume shared understanding or expectations. Make the implicit explicit.
 - Set up a regular check-in with your delivery manager (or whoever is looking after delivery), twice a week if possible.
 - Planning should involve tech lead, design lead, and delivery manager (at least).
 - Don’t risk doing the classic retro mistake of trying to change everything after one sprint.
@@ -64,4 +66,3 @@ As product manager, you look after the environment that the team needs to succee
 Do these resonate with you? What would you add or change? Let me know on [Twitter](https://twitter.com/stevenjmesser), it'd be great to hear from people.
 
 [^1]: At GDS we tend not to use the term 'customers' but it's still applicable if you're running B2B or platform products.
-[^2]: This applies to the Scrum methodology which is widely practised at GDS. I’m looking forward to starting to use [Shape Up](https://basecamp.com/shapeup).
