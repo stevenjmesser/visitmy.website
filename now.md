@@ -7,8 +7,8 @@ permalink: /now/
 <p>Right now I'm
   <ul>
     <li>working on the GOV.UK Design System</li>
-    <li>reading <i>The Dawn of Everything</i> by David Graeber & David Wengrow</li>
-    <li>training for a marathon</li>
+    <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig and <i>Acceptance</i> by Jeff VanderMeer</li>
+    <li>about to run my first marathon</li>
     <li>sketching out a redesign for this website on Figma</li>
   </ul>
 </p>
@@ -17,7 +17,7 @@ permalink: /now/
   <ul>
     <li>learn about CSS grid systems</li>
     <li>update my website with a new theme</li>
-    <li>start a training programme for a marathon</li>
+    <li>start a training programme for an ultramarathon</li>
     <li>add a portfolio of product work to my website</li>
     <li>research the similarities between digital strategy and guerrilla warfare</li>
     <li>pick up where I left off learning Welsh</li>
