@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Why I’m hyped about working at Claimer"
-description: "After three and a half years working at Government Digital Service, last week I started a new job at Claimer. Here’s why I’m hyped about working there."
+title: 'Why I’m hyped about working at Claimer'
+description: 'After three and a half years working at Government Digital Service, last week I started a new job at Claimer. Here’s why I’m hyped about working there.'
 date: 2021-07-21
 modified_date: 2022-10-14
 image: /assets/images/claimer-dab.jpeg
-image_title: ""
-image_artist: ""
+image_title: ''
+image_artist: ''
 image_source:
-image_credit: ""
+image_credit: ''
 tags:
   - General
 ---
 
 _Note: This was a short relationship in the end, and I returned to public service in August 2022. If I’m honest, I was kidding myself when I wrote this. I could have stayed at GDS and continued the good work we were doing on GOV.UK Pay, but also I don’t regret the experiences I had at Claimer. It’s always good to learn things. Onwards!_
 
-* * *
+---
 
-After three and a half years working at Government Digital Service (GDS), last week I started a new job at [Claimer](https://app.claimer.com/signup/intro?ref=54hqy1ju) as their first product manager. We’re building a product that makes it effortless for startups to find and claim [R&D tax relief](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) and other government incentives. 
+After three and a half years working at Government Digital Service (GDS), last week I started a new job at [Claimer](https://claimer.com/) as their first product manager. We’re building a product that makes it effortless for startups to find and claim [R&D tax relief](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) and other government incentives.
 
 I’ve only been in the job a week but it’s a really exciting place, and I wanted to write down what’s got me hyped so I can look back over these early, energy-filled bursts of enthusiasm in the future.
 
@@ -73,6 +73,7 @@ there are plenty of pioneers, inventors and visionaries out there looking to low
 In fact, it has already helped out [Unmind](https://unmind.com), a workplace wellbeing platform that wants to help people to live more fulfilling and balanced lives. It’s humbling to hear those endeavours mentioned in the weekly town hall.
 
 It reminds me of something Mariana Mazzucato said in _The Value of Everything_:
+
 > “It’s worth recalling something basic: there is no point to the economy unless it helps people to lead better lives – and that quite reasonably means, at least in part, happier lives.”
 
 ## We’re hiring

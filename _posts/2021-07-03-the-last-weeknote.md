@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "The Last Weeknote?"
-sub-title: "Weeknotes S12E03"
+title: 'The Last Weeknote?'
+sub-title: 'Weeknotes S12E03'
 date: 2021-07-03
-description: "So there you go, my time at Government Digital Service has come to an end."
+description: 'So there you go, my time at Government Digital Service has come to an end.'
 image: /assets/images/IMG_6028.jpeg
 image_title: “Scribblings from Conor"
-image_artist: "Steve Messer"
+image_artist: 'Steve Messer'
 image_source:
-image_credit: "Steve Messer"
+image_credit: 'Steve Messer'
 tags:
- - Weeknotes
+  - Weeknotes
 ---
 
 So there you go, my time at Government Digital Service has come to an end.
@@ -29,7 +29,7 @@ I’m grateful to Tom for lending an ear to me through those times, and for teac
 
 In the last 15 months on GOV.UK Pay, I’ve learned an awful lot from working with some excellent people. Antonia, Xander, David and Miriam have all helped me grow. And it’s such a cool platform that people rarely talk about. They’re doing a hard job in a complicated space! It deserves more limelight, so too does the work that Dom, Alex, Iqbal, Oz, Nim, Dan, Kat, Crispin, Leon, Justin, Antonia, Arindra, Chris and Nathan do daily.
 
-Anyway, time for new pastures. I’m really looking forward to the challenge at [Claimer](https://app.claimer.com/signup/intro?ref=54hqy1ju).
+Anyway, time for new pastures. I’m really looking forward to the challenge at [Claimer](https://claimer.com/).
 
 Though I’m going to take the time to reflect on my practice, it’ll be hard to openly publish weeknotes in the new job – it’s quite a competitive space – and so I’ll probably default to a different form of blogging. More writing about thoughts as they bubble up, rather than just covering what I did in a week.
 

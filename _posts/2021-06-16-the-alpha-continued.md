@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "The Alpha Continued"
-sub-title: "Weeknotes S12E02"
+title: 'The Alpha Continued'
+sub-title: 'Weeknotes S12E02'
 date: 2021-06-16
-description: "I haven’t written any notes in a while, but there’s a few things I should jot down about the alpha."
+description: 'I haven’t written any notes in a while, but there’s a few things I should jot down about the alpha.'
 image: /assets/images/IMG_6064.jpeg
-image_title: "Cilan from the sky"
-image_artist: "Steve Messer"
+image_title: 'Cilan from the sky'
+image_artist: 'Steve Messer'
 image_source:
-image_credit: "Steve Messer"
+image_credit: 'Steve Messer'
 tags:
- - Weeknotes
+  - Weeknotes
 ---
 
 I haven’t written any weeknotes in a couple of months, mainly because I’ve not found it necessary to reflect on what I’m doing. Having said that, things have been going well and I should write that down so I remember these things later.
@@ -37,7 +37,7 @@ The plan for private beta is starting to come together, and I’m really proud o
 
 ## Some puzzles
 
-In July I’ll be leaving GDS to join [Claimer](https://app.claimer.com/signup/intro?ref=54hqy1ju), so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!
+In July I’ll be leaving GDS to join [Claimer](https://claimer.com/), so I’m working out how to hand over my responsibilities. I figure now’s the time to start a doc where I can just note things down. If you have any helpful pointers, let me know!
 
 ## Other things
 
