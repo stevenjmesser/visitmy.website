@@ -3,7 +3,7 @@ layout: post
 title: "Must-haves when starting or joining a product team"
 description: "These are the must-haves and key things to remember which help me hit the ground running when starting or joining a product team."
 date: 2020-08-15
-modified_date: 2023-08-21
+modified_date: 2023-09-13
 image: /assets/images/IMG_1774.jpeg
 image_title: "Government, more or less"
 image_artist: "Steve Messer"
@@ -48,6 +48,7 @@ As product manager, you look after the environment that the team needs to succee
 ## Being agile
 
 - We need to know how big the problem is, it'll help us work out when we're done.
+- Estimation can be a useful exercise. Be clear on why estimates are needed and how they’ll be used. 
 - If you’ve got no idea how to build something, start in the middle with a time-boxed alpha. Then re-plan. Progress is better than perfection.
 - Reach, impact, confidence, effort, and urgency are universal prioritisation criteria.
 - Try not to rush cards through: take time to gather context and understand the problem holistically.
