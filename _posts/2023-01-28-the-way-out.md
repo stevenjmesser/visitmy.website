@@ -29,7 +29,7 @@ So, what value did I squeeze out of the Stone of Potential this week?
 - Chatted to our community designer about Design System Day 2023
 - Chatted to our user researcher and technical writer about auditing the content on our website
 - Had coffee and chatted product & raves with [Oliver](https://oliverhannan.carrd.co)
-- Chatted about the ‘why’ a lot with my ~line~ contract manager, [Martin](https://www.martinlugton.com)
+- Chatted about the ‘why’ a lot with my ~~line~~ contract manager, [Martin](https://www.martinlugton.com)
 - Took notes in the [design systems catchup](https://design-system.service.gov.uk/community/)
 - Chatted to the Data Services team about making it easier for us to track performance objectives and economic benefits
 - Talked through next steps on our [accessibility strategy](https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/), including how we’ll help service teams create their own plans
