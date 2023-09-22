@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'The Coming Horizon'
-sub-title: 'Weeknotes S15E07'
+title: "The Coming Horizon"
+sub-title: "Weeknotes S15E07"
 date: 2023-09-22 06:09:48+01:00
-description: 'You need time for big thinking: in service assessments and strategy work. That’s the subject for today.'
+description: "You need time for big thinking: in service assessments and strategy work. That’s the subject for today."
 image: /assets/images/IMG_0692.png
-image_title: 'Porchetta, fig and blue cheese pizza'
+image_title: "Porchetta, fig and blue cheese pizza"
 image_artist: Steve Messer
 image_source:
 image_credit: Steve Messer
