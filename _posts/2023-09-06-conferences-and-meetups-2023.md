@@ -24,10 +24,10 @@ Anyway, here’s a list of all the things I’m going to this year. Drop me a li
 
 | Date                   | Event                                                  | Location                        |
 | ---------------------- | ------------------------------------------------------ | ------------------------------- |
-| 4 October 2023         | International Design in Government community gathering | Berlin, Germany                 |
+| ~~4 October 2023~~         | ~~International Design in Government community gathering~~ | ~~Berlin, Germany~~                 |
 | 10 and 11 October 2023 | Design System Day 2023                                 | Edinburgh, Scotland, and online |
 | 16 to 20 October 2023  | Global Intrapreneur Week 2023                          | Online                          |
-| 20 October 2023        | WDC 2023                                               | Bristol, England                |
+| ~~20 October 2023~~        | ~~WDC 2023~~                                               | ~~Bristol, England~~                |
 | 10 November 2023       | ffconf 2023                                            | Brighton, England               |
 | ?? November 2023       | Product for the People Unconference 2023 #3            | Manchester, England             |
 
