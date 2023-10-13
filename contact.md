@@ -4,6 +4,8 @@ title: Contact me
 permalink: /contact/
 ---
 
-Social media is a good first port of call if you want to contact me. I'm using Twitter less these days, but my handle is [@stevenjmesser](https://twitter.com/stevenjmesser). It could take me a few days to notice and reply to a message, so try Mastodon instead – I'm [@stevenjmesser@indieweb.social](https://indieweb.social/@stevenjmesser). For the professional touch, try me on [LinkedIn](https://www.linkedin.com/in/stevenjmesser/).
+Social media is a good first port of call if you want to contact me. I'm using Mastodon more these days and my handle is [@stevenjmesser@indieweb.social](https://indieweb.social/@stevenjmesser). You can try me on Bluesky too ([@stevenjmesser.bsky.social](https://bsky.app/profile/stevenjmesser.bsky.social)). For the professional touch, try me on [LinkedIn](https://www.linkedin.com/in/stevenjmesser/).
 
-Still not sure about sharing my email address, although I do have a good spam-filtering system. Maybe I should just share it...
+You can get me on ste@renegatus.com if you like email. (Since people usually ask, it's an old domain from when I was 13. :facepalm:)
+
+I'm using Twitter less these days, but my handle is [@stevenjmesser](https://twitter.com/stevenjmesser). It could take me a few days to notice and reply to a message, so use the above instead.

@@ -38,14 +38,12 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
 <hr>
+<p>Got comments? <a href="{{ site.url }}/contact">Contact me</a>, let’s talk.</p>
+
 <h2>Related posts</h2>
 <ul class="post-list">
   {% for post in site.related_posts %}
