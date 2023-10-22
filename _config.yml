@@ -48,7 +48,10 @@ markdown: kramdown
 webmentions:
   username: visitmy.website
   throttle_lookups:
-    last_month: daily
+    last_week: weekly
+    last_month: monthly
+    last_year: monthly
+    older: every 3 months
 
 pagination:
   enabled: true
