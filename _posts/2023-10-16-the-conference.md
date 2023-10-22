@@ -44,7 +44,6 @@ I’ll get back out this week, but that was a successful season: my first marath
 
 - [Is it selfish to run a marathon?](https://on.ft.com/3Q6XJ6n)
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with light-dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
-- [Introducing Innovation Labs: bringing the BBC together to solve problems](https://www.bbc.co.uk/rd/blog/2023-10-innovation-labs)
 - [Week Four – I’m Listening ](https://digitalbydefault.com/2023/10/13/week-four-im-listening/), 3 mins
 - [The hub and spoke design system model](https://shinytoyrobots.substack.com/p/the-hub-and-spoke-design-system-model), 4 mins
 - [Make your team miserable with one of these popular project-management anti-patterns](https://www.rubick.com/three-anti-patterns-for-project-management/), 8 mins
