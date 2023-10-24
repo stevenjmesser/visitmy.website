@@ -3,6 +3,7 @@ layout: post
 title: "The Renewal"
 sub-title: "Weeknotes S16E03"
 date: 2023-10-22 07:12:29+01:00
+modified_date: 2023-10-23
 description: "A quieter week. Less done. Unless you count recuperation as an activity, by which we did lots. Energy requires space and attention to renew."
 image: /assets/images/IMG_0817.png
 image_title: "Rain falling on Petticoat Lane Market in Shoreditch."
@@ -50,6 +51,8 @@ The toll a purpose-driven job takes on people is widely regarded [in health and 
 So people and organisations need to be aware of that and focus on prevention of mental, physical and emotional burnout.
 
 But if you zoom out from the organisation, you can see that everyone went through the same pandemic, but not everyone recovered in the same way. So now is probably a good time to be a little more cognisant of how people are coping and whether they’re doing well or not.
+
+Matt’s published his talk [on his website](https://blog.mattedgar.com/2023/10/22/the-humans-of-digital-transformation-a-talk-for-digital-government-north-and-reprised-for-the-gds-speaker-series/).
 
 ## Solo
 
