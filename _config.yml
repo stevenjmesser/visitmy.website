@@ -30,7 +30,8 @@ minima:
 header_pages:
  - topics.md
  - about.md
- - cv.md
+ - work.md
+ - contact.md
 
 # Build settings
 theme: minima
