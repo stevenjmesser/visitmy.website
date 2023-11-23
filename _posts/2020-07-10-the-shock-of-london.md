@@ -27,7 +27,7 @@ Alongside the operational improvements and reducing errors, I'll be doing some g
 
 And besides that, we're also looking into Open Banking, more on Direct Debit, and how we might take recurring payments. That strategy work is mostly desk research and meeting with stakeholders, though there may be opportunity to build some prototypes.
 
-I started using the [Bets & Learning board](https://trello.com/b/18auwW8U) to keep track of new features and opportunities, giving me a place to record learning over time. It's provided a useful, actionable framework so far. Each feature or opportunity has a doc to record what we know, what we need to find out and next steps, so that we can keep a chronology of learning and evidence-building. I've already added snippets of emails to it, and I'll invite people to comment on the doc next week. Asynchronous communication and [creating alignment]((https://tobiogunsina.com/creating-alignment-during-product-discovery/))!
+I started using the [Bets & Learning board](https://trello.com/b/18auwW8U) to keep track of new features and opportunities, giving me a place to record learning over time. It's provided a useful, actionable framework so far. Each feature or opportunity has a doc to record what we know, what we need to find out and next steps, so that we can keep a chronology of learning and evidence-building. I've already added snippets of emails to it, and I'll invite people to comment on the doc next week. Asynchronous communication and [creating alignment](https://tobiogunsina.com/creating-alignment-during-product-discovery/)!
 
 ## Not-work stuff
 

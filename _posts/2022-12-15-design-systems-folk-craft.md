@@ -32,7 +32,7 @@ Many of the components we interact with on the web behave the same, regardless o
 
 A design system can provide a foundation for your product or service’s user experience – a base kit of solutions to common problems which you can build on top of.
 
-In this sense, a design system could be considered a digital folk craft. [Yanagi Sōetsu](https://en.wikipedia.org/wiki/Yanagi_Sōetsu), in _The Beauty of Everyday Things_, said that folk crafts have two principal features:
+In this sense, a design system could be considered a digital folk craft. [Yanagi Sōetsu](https://en.wikipedia.org/wiki/Yanagi_S%C5%8Detsu), in _The Beauty of Everyday Things_, said that folk crafts have two principal features:
 > One is that they are things made for daily use. Second is that they are common, ordinary things.
 
 A button is such a common, ordinary thing. It’s going to be used daily...probably more. It’s not worth spending hours tweaking and perfecting something like that. 

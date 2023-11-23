@@ -39,7 +39,7 @@ Met with our current programme manager and our service owner to talk through nex
 
 Our user researcher working on user support did a playback of findings from our first round of testing on other concepts we’d put together. These were all concepts to help us improve proactive support, better onboarding users to help them feel confident and competent using the platform at the heart of our service. The feedback has been great! I’m looking forward to talking with our designer on Monday about how we might iterate our concepts based on the feedback, allowing us to test those higher fidelity designs and gain more clairty.
 
-Our designs were supported by wider research, so we’ll think through how to link that to our prototypes. Our researcher is combing through academic studies on the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect), the [four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) and [instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding) for anything useful. 
+Our designs were supported by wider research, so we’ll think through how to link that to our prototypes. Our researcher is combing through academic studies on the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), the [four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) and [instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding) for anything useful. 
 
 ## Some puzzles
 

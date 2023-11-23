@@ -63,7 +63,7 @@ This covers everything I read over the break, so it’s a long list.
 - [The 5 Phases of Figma’s Community-Led Growth: From Stealth to Enterprise](https://review.firstround.com/the-5-phases-of-figmas-community-led-growth-from-stealth-to-enterprise), 16 mins
 - [How TikTok Became a Diplomatic Crisis](https://www.nytimes.com/2022/12/20/magazine/tiktok-us-china-diplomacy.html), 40 mins
 - [Britain’s winter of discontent is the inevitable result of austerity](https://www.ft.com/content/b2154c20-c9d0-4209-9a47-95d114d31f2b), 4 mins
-- [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/), 2 mins
+- [I Don’t Believe in Sprints](https://robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/), 2 mins
 - [Microblogging migration: my New Year list of people whose every post I want to see](https://blog.mattedgar.com/2023/01/02/microblogging-migration/), 2 mins
 - [2022 Reading List](http://jlzych.com/2023/01/02/2022-reading-list/), 4 mins
 - [2022 yearnotes](https://matthewsheret.wordpress.com/2023/01/02/2022-yearnotes/), 4 mins
