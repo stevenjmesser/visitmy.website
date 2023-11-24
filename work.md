@@ -8,7 +8,7 @@ redirect_from: /cv/
 
 As a creative product manager, I specialise in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1. These skills help me bring new products & services to market and take established products & services in new directions. I’m passionate about innovation for the public good and open, ethical product design.
 
-Here’s a list of notable projects I’ve worked on over the last five years. You can <a href="https://standardresume.co/stevenjmesser" target="_blank" onclick="window.fathom.trackGoal('YEQH7NTS', 0);">view my CV</a> for a full history.
+Here’s a list of notable projects I’ve worked on over the last five years. You can <a href="https://standardresume.co/stevenjmesser" target="_blank" onclick="window.fathom.trackGoal('YEQH7NTS', 0);">view my CV</a> for a full history, and read recommendations others have written about me [on LinkedIn](https://www.linkedin.com/in/stevenjmesser/){:target="_blank"}.
 
 ## GOV.UK Design System at Government Digital Service
 **December 2022 to February 2024**
