@@ -20,21 +20,13 @@ I’ve been signing up for other events too. This morning I booked tickets to a 
 
 Anyway, here’s a list of all the things I’m going to this year. Drop me a line on [Mastodon](https://indieweb.social/@stevenjmesser)/[Bluesky](https://bsky.app/profile/stevenjmesser.bsky.social)/[Twitter](https://twitter.com/stevenjmesser) if you’ll be at any of these, it’d be cool to say hi. And if there’s something I should be going to, let me know!
 
-## Coming up
-
-| Date                   | Event                                                  | Location                        |
-| ---------------------- | ------------------------------------------------------ | ------------------------------- |
-| ~~4 October 2023~~         | ~~International Design in Government community gathering~~ | ~~Berlin, Germany~~                 |
-| 10 and 11 October 2023 | Design System Day 2023                                 | Edinburgh, Scotland, and online |
-| 16 to 20 October 2023  | Global Intrapreneur Week 2023                          | Online                          |
-| ~~20 October 2023~~        | ~~WDC 2023~~                                               | ~~Bristol, England~~                |
-| 10 November 2023       | ffconf 2023                                            | Brighton, England               |
-| ?? November 2023       | Product for the People Unconference 2023 #3            | Manchester, England             |
-
 ## Attended
 
-| Date             | Event                                                         | Location        |
-| ---------------- | ------------------------------------------------------------- | --------------- |
-| 12 January 2023  | Product for the People Unconference 2023 #1                   | London, England |
-| 21 February 2023 | International Design in Government call – working in the open | Online          |
-| 29 June 2023     | Product for the People Unconference 2023 #2                   | Cardiff, Wales  |
+| Date                   | Event                                                         | Location                        |
+| ---------------------- | ------------------------------------------------------------- | ------------------------------- |
+| 12 January 2023        | Product for the People Unconference 2023 #1                   | London, England                 |
+| 21 February 2023       | International Design in Government call – working in the open | Online                          |
+| 29 June 2023           | Product for the People Unconference 2023 #2                   | Cardiff, Wales                  |
+| 10 and 11 October 2023 | Design System Day 2023                                        | Edinburgh, Scotland, and online |
+| 10 November 2023       | ffconf 2023                                                   | Brighton, England               |
+| 23 November 2023       | Product for the People Unconference 2023 #3                   | Manchester, England             |
