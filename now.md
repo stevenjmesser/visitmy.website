@@ -15,8 +15,6 @@ permalink: /now/
 <p>Later I'd like to
   <ul>
     <li>learn about CSS grid systems</li>
-    <li>update my website with a new theme</li>
-    <li>add a portfolio of product work to my website</li>
     <li>research the similarities between digital strategy and guerrilla warfare</li>
     <li>pick up where I left off learning Welsh</li>
     <li>walk the Llŷn Peninsula section of the Wales Coast Path</li>
