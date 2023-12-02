@@ -4,7 +4,7 @@ title: "Not sober, just not drinking"
 date: 2023-01-31 06:58:19
 image: /assets/images/Mhh.h.p14.300.jpg
 tags:
- - Notes
+ - General
 ---
 
 Today marks the last day of Dry January, a month-long abstinence from drinking alcohol that has grown in popularity in recent years. This is my fourth time doing the challenge, but this year I have a different goal. I’ve set out to not drink alcohol in 2023.

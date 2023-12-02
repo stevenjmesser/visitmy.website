@@ -4,7 +4,7 @@ title: "3 months, no booze"
 date: 2023-04-03 13:17:50+01:00
 description: "A small victory: I’ve not been drunk this year. 3 months without booze. I’m well on my way to achieving my goal of 12 months without alcohol."
 tags:
- - Notes
+ - General
 ---
 
 A small victory: I’ve not been drunk this year. 3 months without booze. I’m well on my way to achieving my goal of [12 months without alcohol]({% post_url 2023-01-31-not-sober-just-not-drinking %}).
