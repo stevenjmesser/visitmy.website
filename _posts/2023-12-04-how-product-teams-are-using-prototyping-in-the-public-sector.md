@@ -48,6 +48,8 @@ One team asked if there could be a print-out-and-cut-out version of GOV.‌UK De
 
 ## So what?
 
+> Like I said, this was scrappy research and it’s not massively reliable data. But I’d safely bet on all this being sensible and worthwhile to do.
+
 I had a hunch that Figma was being used by the majority of teams, so it’s good to have uncovered that thread. If all the departments building the Top 75 services use Figma, I’d say it’d be worth GDS investing in an officially supported Figma component library, kept up-to-date with GOV.‌UK Design System.
 
 Only one team mentioned building scrappy technical prototypes, and only half the teams mentioned prototyping beyond the interaction layer. That’s a shame because joining the front-end up to the back-end in the alpha phase can result in a quicker beta phase, because there’s less back and forth between design and development. Aim for tangible, demoable prototypes as early as possible and [integrate one slice](https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice) of a step or service.
