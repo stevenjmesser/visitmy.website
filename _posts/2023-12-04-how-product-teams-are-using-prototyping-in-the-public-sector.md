@@ -62,6 +62,8 @@ Paper prototyping is quick, fun and, most importantly, really helpful! An offici
 
 While generative AI could help teams build more detailed prototypes more quickly, it won’t build capability. Better training, better pay, and better tools will bridge the gap between teams in the public and private sector.
 
+As GOV.UK Forms offers more components and patterns to services, it’ll become a more helpful prototyping tool for teams with little funding and little digital training and experience. For example, it doesn’t expect users to know the difference between radio buttons and checkboxes, it simply asks if users should choose one option or many.
+
 ## What do you think?
 
 Does any of above ring true for your organisation? Or have you learned something you might take back to base? I’d love to hear from more people!
