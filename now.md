@@ -8,7 +8,7 @@ permalink: /now/
   <ul>
     <li>working on the GOV.UK Design System</li>
     <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig, <i>Acceptance</i> by Jeff VanderMeer and <i>Company of One</i> by Paul Jarvis</li>
-    <li>learning driving theory again</li>
+    <li>preparing for my practical driving test</li>
   </ul>
 </p>
 
