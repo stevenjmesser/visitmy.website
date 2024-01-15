@@ -7,6 +7,7 @@ permalink: /now/
 <p>Right now I'm
   <ul>
     <li>working on the GOV.UK Design System</li>
+    <li>looking for a new contract to start in February 2024 (check out my <a href="https://visitmy.website/work" target="_blank">portfolio</a>)</li>
     <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig, <i>Acceptance</i> by Jeff VanderMeer and <i>Company of One</i> by Paul Jarvis</li>
     <li>preparing for my practical driving test</li>
   </ul>
