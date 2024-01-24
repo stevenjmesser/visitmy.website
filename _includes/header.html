@@ -5,7 +5,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <span class="h-card">
-      <a class="site-title u-url u-uid" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a class="site-title u-url u-uid" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <span class="p-name" rel="author" hidden>{{ site.author.name }}</span>
+      <img src="/assets/images/8a595a78177bf62b.jpeg" class="u-photo" hidden>
     </span>
 
     {%- if titles_size > 0 -%}
