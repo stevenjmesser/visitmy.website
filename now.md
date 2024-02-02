@@ -10,18 +10,16 @@ permalink: /now/
     <li>looking for a new contract to start in February 2024 (check out my <a href="https://visitmy.website/work" target="_blank">portfolio</a>)</li>
     <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig, <i>Acceptance</i> by Jeff VanderMeer and <i>Company of One</i> by Paul Jarvis</li>
     <li>preparing for my practical driving test</li>
+    <li>migrating this website to a new design</li>
   </ul>
 </p>
 
 <p>Later I'd like to
   <ul>
-    <li>learn about CSS grid systems</li>
-    <li>research the similarities between digital strategy and guerrilla warfare</li>
     <li>pick up where I left off learning Welsh</li>
     <li>walk the Llŷn Peninsula section of the Wales Coast Path</li>
     <li>finish walking the South Downs Way</li>
     <li>take and pass my driving test</li>
-    <li>sketch out a redesign for this website on Figma</li>
   </ul>
 </p>
 
