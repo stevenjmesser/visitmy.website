@@ -15,9 +15,9 @@ Here’s a list of notable projects I’ve worked on over the last five years. Y
 
 Provided maternity cover as Senior Product Manager for the [GOV.‌UK Design System](https://gov.uk/design-system), the design system that brings a consistent look and feel to digital services in the GOV.UK ecosystem. 
 
-A large part of my role was to design a ‘more intentional’ strategy that would grow the design system’s impact. Taking influence from open-source software, community-led growth, lean product management and strategic design, I created a strategic model that could be validated and iterated through a discovery. 
+A large part of my role was to design a ‘more intentional’ strategy that would grow the design system’s impact. Taking influence from open-source software, community-led growth, lean product management and strategic design, I created a strategic model that could be validated and iterated through a discovery. I also established the [team's playbook](https://team-playbook.design-system.service.gov.uk), the ways of working to deliver the strategy.
 
-Another significant part of my role was to work with a coach and the delivery manager to create a coaching programme that would decrease risk-aversion and decrease imposter syndrome on the team over a 6-month period. I also helped devise, plan and organise a 2-day conference for 1,200 digital and UX professionals called [Design System Day 2023](https://design-system.service.gov.uk/community/design-system-day-2023/).
+Another significant part of my role was to work with a coach and the delivery manager to create a coaching programme that would decrease risk-aversion and decrease imposter syndrome on the team over a 6-month period. I also helped devise, plan and organise a 2-day conference for 1,200 digital and UX professionals called [Design System Day 2023](https://design-system.service.gov.uk/community/design-system-day-2023/). 
 
 _Skills: Strategy, leadership, coaching, organisation design, design management, product management._
 
