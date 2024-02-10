@@ -37,7 +37,7 @@ On Friday I went over the contract objectives I set with [Martin](https://www.ma
 
 And that’s it, I guess. My time on the team is done.
 
-I’m chatting to people about my next role now and hopefully something will come together shortly, so a big thank-you to everyone who’s come to me. I really appreciate it! I’ll open up slots for product coaching over the next few weeks, so [contact me]({{ “/contact” | relative_url }}) if you’d like to get in early. (I’ll publish more details next week but can answer any questions over email.)
+I’m chatting to people about my next role now and hopefully something will come together shortly, so a big thank-you to everyone who’s come to me. I really appreciate it! I’ll open up slots for product coaching over the next few weeks, so [contact me]({{ "/contact" | relative_url }}) if you’d like to get in early. (I’ll publish more details next week but can answer any questions over email.)
 
 ## Running 
 
