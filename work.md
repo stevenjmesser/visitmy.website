@@ -10,6 +10,8 @@ As a creative product manager, I specialise in modern product methodologies, des
 
 Here’s a list of notable projects I’ve worked on over the last five years. You can <a href="https://standardresume.co/stevenjmesser" target="_blank" onclick="window.fathom.trackGoal('YEQH7NTS', 0);">view my CV</a> for a full history, and read recommendations others have written about me [on LinkedIn](https://www.linkedin.com/in/stevenjmesser/){:target="_blank"}.
 
+You can find out how to hire me at the bottom of the page.
+
 ## GOV.UK Design System at Government Digital Service
 **December 2022 to February 2024**
 
@@ -73,3 +75,7 @@ After joining Government Digital Service (GDS) in 2018, I started helping organi
 Luckily it went well, and the community across government lapped it up. This gave me the bug and I’ve been organising events, mentoring programmes and other good things for the public-sector product community ever since. In 2023, I co-organised 3 events under the [Product for the People](https://productforthepeople.xyz/about) banner alongside Debbie Blanchard and Matt Jukes.
 
 _Skills: community-building, events management, networking, foolhardiness._
+
+## Hire me
+
+If you have a project that could use my skills, please contact me through the [Boring Magic](https://boringmagi.cc) website.
