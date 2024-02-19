@@ -50,3 +50,4 @@ On the scale of public services they're not _that_ important, obviously. They're
 - [The why of weeknotes](https://stamanfar.medium.com/the-why-of-weeknotes-cf4d7e8ad4e5) by Sam Villis
 - [Tips for writing good weeknotes](https://gilest.org/2020/tips-for-writing-good-weeknotes/)
 - [Why these Welsh weeknotes are so good](https://gilest.org/wra-weeknotes.html)
+- [Why I write weeknotes](https://neilojwilliams.net/about/week-notes/) by Neil Williams
