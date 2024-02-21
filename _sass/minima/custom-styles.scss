@@ -1,2 +1,33 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.top-bar {
+    background-color: #020202;
+    color: #eeeeee;
+  }
+
+.boring-magic {
+	font-family: "HelveticaNeueLTPro-Ext", system-ui, sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+    color: #eeeeee;
+
+    &:visited {
+        color: #eeeeee;
+      }
+    
+    &:hover {
+        color: #eeeeee;
+        text-decoration: underline;
+      }
+
+    &:focus {
+        color: #eeeeee;
+    }
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTPro-Ext';
+	src: url('/assets/fonts/Helvetica Neue LT Pro 53 Extended.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+  }
