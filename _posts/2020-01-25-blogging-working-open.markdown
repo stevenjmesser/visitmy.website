@@ -2,7 +2,7 @@
 layout: post
 title: "Blogging and working in the open"
 date: 2020-01-25
-modified_date: 2021-12-16
+modified_date: 2024-02-23
 description: "This is a talk I gave to the GDS product management community in 2019. There’s lots of ways of working in the open, blogging is just one of them."
 image: /assets/images/blog-header.png
 tags:
@@ -12,7 +12,7 @@ tags:
  - Working in the open
 ---
 
-This is a talk I gave to the GDS product management community a year ago. It's mostly aimed at other people working in digital transformation of government, but actually I think everyone should blog a bit.
+This is a talk I gave to the GDS product management community in 2019. It's mostly aimed at other people working in digital transformation of government, but actually I think everyone should blog a bit.
 
 There’s lots of ways of working in the open, blogging is just one of them.
 
@@ -38,7 +38,7 @@ I’ll expand on that...
 
 ## What’s the point of being open?
 
-The [Government Transformation Strategy](https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy-tools-processes-and-governance) says that 'a culture of open, digitally enabled policy making and service delivery is critical to our future success.' It’s written into our values as an organisation too: [‘Make things open, it makes things better.’](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)
+The [Government Transformation Strategy](https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy-tools-processes-and-governance){:target="_blank"} says that 'a culture of open, digitally enabled policy making and service delivery is critical to our future success.' It’s written into our values as an organisation too: [‘Make things open, it makes things better.’](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better){:target="_blank"}
 
 Being open is about the importance of working across organisational boundaries to make things better for users.
 
@@ -52,7 +52,7 @@ And these don’t just cover blogging, they can be attributed to our day-to-day 
 
 ### The goals of openness
 
-These come from [Open Matt](https://openmatt.org/2011/04/06/how-to-work-open/).
+These come from [Open Matt](https://openmatt.org/2011/04/06/how-to-work-open/){:target="_blank"}.
 
 ![](/assets/images/blog-participation.png)
 
@@ -82,7 +82,7 @@ By putting our experiences out there and talking about the new challenges we’r
 
 And we should be more open to talking about failure too, or announcing when things didn’t go to plan. Not to call ourselves out but help others later down the line.
 
-This is an excellent [quote](https://www.dxw.com/2019/02/discovery-embracing-the-unknowns/) from Ellie Craven who used to be the PM on GOV.UK Registers. 
+This is an excellent [quote](https://www.dxw.com/2019/02/discovery-embracing-the-unknowns/){:target="_blank"} from Ellie Craven who used to be the PM on GOV.UK Registers. 
 
 > 'The more we obscure how we work, and why it’s valuable, the harder we’ll find it to gain broad organisational support for the next project, and the one after that.'
 
@@ -104,7 +104,7 @@ So going back to what I said before, blogging helps to
 
 Some principles (for civil servants) then.
 
-The [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code) underpins everything. Stick by that.
+The [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code){:target="_blank"} underpins everything. Stick by that.
 
 But the first real rule, **don’t be a dick**.
 
@@ -122,21 +122,21 @@ Hopefully that’s done enough to convince you to get started. So here’s a few
 
 Add a ‘Blog’ column to your kanban board. It’ll help you consider which pieces of work are worth sharing and talking about. You might even build up a few stories per sprint to talk about. Break it down into smaller chunks, it’s much easier.
 
-If you want to start small and maybe try something more personal, [weeknotes](https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842) are a great way to get going. Weeknotes are personal reflections on your working week to learn from what you’ve done and improve your practice from week to week. You simply write about what you’ve done and how you feel about how it went.
+If you want to start small and maybe try something more personal, [weeknotes](https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842){:target="_blank"} are a great way to get going. Weeknotes are personal reflections on your working week to learn from what you’ve done and improve your practice from week to week. You simply write about what you’ve done and how you feel about how it went.
 
-There’s an excellent community on the [#weeknotes](https://twitter.com/search?q=%23weeknotes) hashtag on Twitter who can give you ideas, but you can also just ask for help. They’re super friendly. 
+There’s used to be an excellent community on the [#weeknotes](https://twitter.com/search?q=%23weeknotes){:target="_blank"} hashtag on Twitter, which can give you ideas, but you can also just ask for help. They’re super friendly. 
 
-It’s worth saying that blogging isn’t an easy thing to start, you’ll probably get ‘the fear’ about receiving criticism on your work or thoughts. But that’s fine, my advice is to just dive in and have a go. Usually your fears don’t match reality, and there’s [an amazing community](https://weeknot.es) there to comment and help if you’re struggling anyway.
+It’s worth saying that blogging isn’t an easy thing to start, you’ll probably get ‘the fear’ about receiving criticism on your work or thoughts. But that’s fine, my advice is to just dive in and have a go. Usually your fears don’t match reality, and there’s [an amazing community](https://weeknot.es){:target="_blank"} there to comment and help if you’re struggling anyway.
 
-And if you're worried about writing about work in the public domain, don't. It's OK. You have permission. People high up at director level are doing it, just take a look at what [Matt Edgar](https://blog.mattedgar.com/category/weeknotes/), [Rox Heaton](https://roxane-m-heaton.medium.com/weeknotes-s01e01-4e7f2ffe760f) and [Ross Ferguson](https://rossferg.medium.com/week-1-on-gov-uk-6b40e14d5c1e) are doing.
+And if you're worried about writing about work in the public domain, don't. It's OK. You have permission. People high up at director level are doing it, just take a look at what [Matt Edgar](https://blog.mattedgar.com/category/weeknotes/){:target="_blank"}, [Rox Heaton](https://roxane-m-heaton.medium.com/weeknotes-s01e01-4e7f2ffe760f){:target="_blank"} and [Ross Ferguson](https://rossferg.medium.com/week-1-on-gov-uk-6b40e14d5c1e){:target="_blank"} are doing.
 
-You don’t need any money to get started, really, you can spin up a blog in minutes using platforms like [Wordpress](https://wordpress.com) and [Medium](https://medium.com). It’s a quick way to test out the practice and see if it’s right for you. 
+You don’t need any money to get started, really, you can spin up a blog in minutes using platforms like [Wordpress](https://wordpress.com){:target="_blank”}, [Ghost](https://ghost.org/creators/){:target="_blank"} and [Medium](https://medium.com). It’s a quick way to test out the practice and see if it’s right for you. 
 
 Alternatively, take a no-tech approach and use [Paper Website](https://paperwebsite.com/). Write in a notebook, take a photo of your writing and it’ll create a page for you. Magic!
 
-If you’d like to create your own website, static site generators like [Jekyll](https://jekyllrb.com) and [Hugo](https://gohugo.io) are low-tech ways to get started. You might have heard of [GitHub Pages](https://pages.github.com) which runs on Jekyll. You simply feed it some Markdown files and it builds a website for you. GitHub Pages is free too, and it’s a good way to become more familiar with Git in general.
+If you’d like to create your own website, static site generators like [Jekyll](https://jekyllrb.com){:target="_blank”} and [Eleventy](https://www.11ty.dev){:target="_blank”} are low-tech ways to get started. You might have heard of [GitHub Pages](https://pages.github.com){:target="_blank”} which runs on Jekyll. You simply feed it some Markdown files and it builds a website for you. GitHub Pages is free too, and it’s a good way to become more familiar with Git in general.
 
-And you needn’t worry about having to promote your blog posts either. Services like [Missinglettr](https://lttr.ai/Mg8L), [Zapier](https://zapier.com) and [Quuu Promote](https://quuu.co/promote) will syndicate your blog posts on social media automatically, helping your posts to get a greater reach.
+And you needn’t worry about having to promote your blog posts either. Services like [Missinglettr](https://lttr.ai/Mg8L){:target="_blank”}, [Zapier](https://zapier.com){:target="_blank”} and [Quuu Promote](https://quuu.co/promote){:target="_blank”} will syndicate your blog posts on social media automatically, helping your posts to get a greater reach.
 
 ![A scene from Nathan Barley](/assets/images/self-facilitating-media-node.gif)
 
@@ -148,15 +148,15 @@ At the end of the talk, I asked members of the audience to raise their hand if t
 
 ---
 
-_Thank you to [Matt Jukes](https://digitalbydefault.com), [Amanda Smith](https://twitter.com/ayymanduh), [Giles Turnbull](https://gilest.org), [Neil Williams](https://twitter.com/neillyneil), [Dan Barrett](https://danbarrett.posthaven.com), [Ellie Craven](https://medium.com/@Ellayanor), [Sam Villis](https://medium.com/@stamanfar), [Jonathan Kerr](https://www.caffeinatedpunctuation.co.uk) and the #weeknotes folks, stalwarts of the blogging and working in the open community who inspired this._
+_Thank you to [Matt Jukes](https://digitalbydefault.com){:target="_blank”}, [Amanda Smith](https://twitter.com/ayymanduh){:target="_blank”}, [Giles Turnbull](https://gilest.org){:target="_blank”}, [Neil Williams](https://twitter.com/neillyneil){:target="_blank”}, [Dan Barrett](https://danbarrett.posthaven.com){:target="_blank”}, [Ellie Craven](https://medium.com/@Ellayanor){:target="_blank”}, [Sam Villis](https://medium.com/@stamanfar){:target="_blank”}, [Jonathan Kerr](https://www.caffeinatedpunctuation.co.uk){:target="_blank”} and the #weeknotes folks, stalwarts of the blogging and working in the open community who inspired this._
 
 ## Further reading
 
-- [Agile communication tips](https://gilest.org/agile-comms-tips.html)
-- [On writing](https://gds.blog.gov.uk/2019/08/27/podcast-on-writing/)
-- [The importance of being open](https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9)
+- [Agile communication tips](https://gilest.org/agile-comms-tips.html){:target="_blank”}
+- [On writing](https://gds.blog.gov.uk/2019/08/27/podcast-on-writing/){:target="_blank”}
+- [The importance of being open](https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9){:target="_blank”}
 - [Why I write weeknotes]({% post_url 2020-11-01-why-i-write-weeknotes %})
-- [Let's write more blog posts](https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/)
-- [Small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
-- [Blogging is great](https://web.archive.org/web/20061128082434/http://dig.csail.mit.edu/breadcrumbs/node/170)
-- [Tips for writing good weeknotes](https://gilest.org/2020/tips-for-writing-good-weeknotes/)
+- [Let's write more blog posts](https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/){:target="_blank”}
+- [Small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/){:target="_blank”}
+- [Blogging is great](https://web.archive.org/web/20061128082434/http://dig.csail.mit.edu/breadcrumbs/node/170){:target="_blank”}
+- [Tips for writing good weeknotes](https://gilest.org/2020/tips-for-writing-good-weeknotes/){:target="_blank”}
