@@ -9,14 +9,14 @@
   <meta name="description" itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
   <meta name="twitter:site" content="{{ site.title }}">
@@ -34,7 +34,7 @@
   <script src="https://cdn.usefathom.com/script.js" data-site="LSWRESZO" defer></script>
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}">
-  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
 
   {% webmentions_head %}
   <!-- MailerLite Universal -->
