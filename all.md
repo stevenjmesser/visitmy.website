@@ -4,6 +4,8 @@ title: All posts
 permalink: /all/
 ---
 
+<p>You can use Cmd+F or Ctrl+F to find words and phrases in post descriptions and titles.</p>
+
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
