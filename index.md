@@ -10,7 +10,7 @@ layout: home
 
 Hello!
 
-I'm Steve. For the day job I'm a digital product manager and I'm looking for my next role after working on the <a href="https://design-system.service.gov.uk" target="_blank">GOV.UK Design System</a>. But here's some other [things I'm doing now]({{ "/now" | relative_url }}).
+I'm Steve. For the day job I'm a digital product manager and I'm working on making land and housing data easier to find, use and trust. But here's some other [things I'm doing now]({{ "/now" | relative_url }}).
 
 You might be interested to read what I've written about [product management]({{ "/tag/product-management" | relative_url }}). Often I'll write weeknotes about my work and my personal life. You can read my [weeknotes]({{ "/tag/weeknotes" | relative_url }}), or check out [other topics I write about]({{ "/topics" | relative_url }}).
 

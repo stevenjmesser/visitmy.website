@@ -6,7 +6,7 @@ permalink: /now/
 
 <p>Right now I'm
   <ul>
-    <li>looking for a new contract to start in February or March 2024 (check out my <a href="https://visitmy.website/work" target="_blank">portfolio</a>)</li>
+    <li>working on making land and housing data easier to find, use and trust at DLUHC</li>
     <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig, <i>Acceptance</i> by Jeff VanderMeer and <i>Company of One</i> by Paul Jarvis</li>
     <li>preparing for my practical driving test</li>
     <li>migrating this website to a new design</li>
