@@ -2,7 +2,7 @@
 layout: post
 title: "Why I write weeknotes"
 date: 2020-11-01
-modified_date: 2022-06-10
+modified_date: 2024-03-11
 description: "Each weekend I spend around 2 hours writing about what I did in the ~38 hours I spent at work that week. Why? Good question."
 image: /assets/images/avery-evans-oeNMHzJ6odw-unsplash.jpg
 image_title: "A desk with pencils and small field notes notebook. Computer and mouse. A workspace."
@@ -44,10 +44,12 @@ On the scale of public services they're not _that_ important, obviously. They're
 
 ## Further reading
 
-- [Weeknotes: personal, public logs in the tradition of early blogging](https://boingboing.net/2018/07/25/deep-nerd-ruminations.html)
-- [A pre-history of weeknotes, plus why I write them and perhaps why you should too](https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0)
-- [The why of weeknotes](https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842) by Jukesie
-- [The why of weeknotes](https://stamanfar.medium.com/the-why-of-weeknotes-cf4d7e8ad4e5) by Sam Villis
-- [Tips for writing good weeknotes](https://gilest.org/2020/tips-for-writing-good-weeknotes/)
-- [Why these Welsh weeknotes are so good](https://gilest.org/wra-weeknotes.html)
-- [Why I write weeknotes](https://neilojwilliams.net/about/week-notes/) by Neil Williams
+Giles Turnbull has written an excellent handbook on [doing weeknotes](https://doingweeknotes.com){:target="_blank"} that will help you get started. He helped shape how we communicate in the public digital world, so he’s a ideal source.
+
+- [Weeknotes: personal, public logs in the tradition of early blogging](https://boingboing.net/2018/07/25/deep-nerd-ruminations.html) by Cory Doctorow covers the basics
+- [A pre-history of weeknotes, plus why I write them and perhaps why you should too](https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0) by Matt Webb covers the history
+- [The why of weeknotes](https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842) by Jukesie continues the spirit but in the public sector
+- [The why of weeknotes](https://stamanfar.medium.com/the-why-of-weeknotes-cf4d7e8ad4e5) by Sam Villis set some loose standards for public-sector weeknoting
+- [Tips for writing good weeknotes](https://gilest.org/2020/tips-for-writing-good-weeknotes/) is a small collection of tips from Giles, mentioned previously
+- [Why these Welsh weeknotes are so good](https://gilest.org/wra-weeknotes.html) is a small analysis of what makes weeknotes good, also from Giles
+- [Why I write weeknotes](https://neilojwilliams.net/about/week-notes/) is newer and comes from Neil Williams, who used to be Head of GOV.UK

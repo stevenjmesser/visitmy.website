@@ -2,7 +2,7 @@
 layout: post
 title: "Blogging and working in the open"
 date: 2020-01-25
-modified_date: 2024-02-23
+modified_date: 2024-03-11
 description: "This is a talk I gave to the GDS product management community in 2019. There’s lots of ways of working in the open, blogging is just one of them."
 image: /assets/images/blog-header.png
 tags:
@@ -124,7 +124,9 @@ Add a ‘Blog’ column to your kanban board. It’ll help you consider which pi
 
 If you want to start small and maybe try something more personal, [weeknotes](https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842){:target="_blank"} are a great way to get going. Weeknotes are personal reflections on your working week to learn from what you’ve done and improve your practice from week to week. You simply write about what you’ve done and how you feel about how it went.
 
-There’s used to be an excellent community on the [#weeknotes](https://twitter.com/search?q=%23weeknotes){:target="_blank"} hashtag on Twitter, which can give you ideas, but you can also just ask for help. They’re super friendly. 
+Giles Turnbull has written an excellent handbook on [doing weeknotes](https://doingweeknotes.com){:target="_blank"} that will help you get started. He helped shape how we communicate in the public digital world, so he’s a ideal source.
+
+There used to be an excellent community on the [#weeknotes](https://twitter.com/search?q=%23weeknotes){:target="_blank"} hashtag on Twitter, which can give you ideas, but you can also just ask for help. A lot of people are on Bluesky now. They’re super friendly. 
 
 It’s worth saying that blogging isn’t an easy thing to start, you’ll probably get ‘the fear’ about receiving criticism on your work or thoughts. But that’s fine, my advice is to just dive in and have a go. Usually your fears don’t match reality, and there’s [an amazing community](https://weeknot.es){:target="_blank"} there to comment and help if you’re struggling anyway.
 
