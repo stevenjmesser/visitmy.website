@@ -44,6 +44,8 @@ And purely by chance, I topped off this data-heavy week by going out to dinner w
 
 ## Other things
 
+We’re running another unconference for product people in the public sector on [19 April in London](https://productforthepeople.xyz/product-for-the-people-4-london-d1d1cc92ebdc). Join us!
+
 ### Running 
 
 I’ve missed several workouts in my marathon training plan due to injury, going hiking, and starting a new job. I’m trying not to beat myself up for it too much. This will be my second marathon and there’s still 10 weeks to go. Plus the northward equinox is nearly upon us, bringing with it earlier sunrises and longer days, meaning I can run in the morning rather than lunchtime. 
