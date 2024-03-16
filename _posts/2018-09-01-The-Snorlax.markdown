@@ -56,5 +56,5 @@ It doesn’t change our strategy on Platform Health much, we’re still focused 
 ## What I’m Reading
 
 - [How did privacy come to be enshrined as a human right?](https://medium.com/if-policy-research/how-did-privacy-come-to-be-enshrined-as-a-human-right-286d97344008)
-- [A pizza shop used facial recognition in its ads and they're pretty sexist](https://theoutline.com/post/1528/this-pizza-billboard-used-facial-recognition-tech-to-show-women-ads-for-salad)
+- [A pizza shop used facial recognition in its ads and they’re pretty sexist](https://theoutline.com/post/1528/this-pizza-billboard-used-facial-recognition-tech-to-show-women-ads-for-salad)
 - [Microdosing Isn’t a Shortcut to Professional Success](https://medium.com/@ericaavey/microdosing-lsd-made-me-quit-my-job-ba425aa86fcb)

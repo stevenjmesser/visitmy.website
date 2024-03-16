@@ -76,4 +76,4 @@ I stormed into the SLO-setting session without much of a plan except what was in
 - [To fight fake news on WhatsApp, India is turning off the internet](https://www.wired.co.uk/article/whatsapp-web-internet-shutdown-india-turn-off)
 - [Achieving Extraordinary Results with Ordinary People](https://www.martinlugton.com/achieving-extraordinary-results-with-ordinary-people-marty-cagan/)
 - [Regulating for Responsible Technology: Introducing the Office for Responsible Technology](https://link.medium.com/VfkSxU6JgR)
-- [How we used deep learning to structure GOV.UK's content](https://dataingovernment.blog.gov.uk/2018/10/19/how-we-used-deep-learning-to-structure-gov-uks-content/)
+- [How we used deep learning to structure GOV.UK’s content](https://dataingovernment.blog.gov.uk/2018/10/19/how-we-used-deep-learning-to-structure-gov-uks-content/)

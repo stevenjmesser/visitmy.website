@@ -1,10 +1,10 @@
 ---
 layout: page
-title: What I'm doing now
+title: What I’m doing now
 permalink: /now/
 ---
 
-<p>Right now I'm
+<p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at DLUHC, making land and housing data easier to find, use and trust</li>
     <li>reading <i>The Goods of Design</i> by Ariel Guersenzvaig, <i>Acceptance</i> by Jeff VanderMeer and <i>Company of One</i> by Paul Jarvis</li>
@@ -13,7 +13,7 @@ permalink: /now/
   </ul>
 </p>
 
-<p>Later I'd like to
+<p>Later I’d like to
   <ul>
     <li>pick up where I left off learning Welsh</li>
     <li>walk the Llŷn Peninsula section of the Wales Coast Path</li>
@@ -22,4 +22,4 @@ permalink: /now/
   </ul>
 </p>
 
-<p>If I finish the projects in the top list, I'll have time to take on projects in the bottom list. That, I'm told, is the point of a <a href="https://nownownow.com/about" target="_blank">now page</a>.</p>
+<p>If I finish the projects in the top list, I’ll have time to take on projects in the bottom list. That, I’m told, is the point of a <a href="https://nownownow.com/about" target="_blank">now page</a>.</p>

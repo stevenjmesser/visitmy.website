@@ -49,7 +49,7 @@ Those key results have KPIs for product (we’ll know we’re done when we’ve 
 
 We tried a new thing with our team Show & Tell: lightning talks on what you’ve been working on. It’s a simple concept. People take 3–5 minutes sharing their work, whether that’s a new application, the finer details of a pull request, knowledge or research. Anything really, but mostly to share context: the unit of delivery is the team, so spread knowledge in more detail because stand-ups aren’t enough. It seemed to go well but we’ll see if there’s any way we can iterate on it.
 
-I must call myself out for some bad practice though. During [a big publishing event](https://www.gov.uk/technicalnotices) later on, I got involved without being asked, and possibly just added extra noise. The team would have found the solution anyway, so my buzzing around was pointless. No one’s complained about it, it’s just that I wasn't needed, so should have stayed away. An important lesson to learn though.
+I must call myself out for some bad practice though. During [a big publishing event](https://www.gov.uk/technicalnotices) later on, I got involved without being asked, and possibly just added extra noise. The team would have found the solution anyway, so my buzzing around was pointless. No one’s complained about it, it’s just that I wasn’t needed, so should have stayed away. An important lesson to learn though.
 
 Lesson learned, I moved on to where my input _was_ needed, in a meeting with the awesome [Simon](https://twitter.com/simoneverest). We’re going to help a department with a thorny thing, and he was very, very relieved, because now he can think about the rest of their Brexit thornbush. And theirs is fucking massive, to be fair. This work will give me time to think about a consultancy model for ‘selling’ our products into other transformation programmes.
 
@@ -84,5 +84,5 @@ _Recipes we made that we liked, either borrowed or invented_
 ## What I’m Reading
 
 - [The four ways that ex-internet idealists explain where it all went wrong](https://www.technologyreview.com/s/611805/the-four-ways-that-ex-internet-idealists-explain-where-it-all-went-wrong/)
-- [Turbo Island is a 'space left over after planning' - and Bristolians want it back](https://www.theguardian.com/cities/2018/aug/21/turbo-island-is-a-space-left-over-after-planning-and-bristolians-want-it-back-gentrification)
+- [Turbo Island is a ’space left over after planning’ - and Bristolians want it back](https://www.theguardian.com/cities/2018/aug/21/turbo-island-is-a-space-left-over-after-planning-and-bristolians-want-it-back-gentrification)
 - [Rise of the Data Product Manager](https://medium.com/@treycausey/rise-of-the-data-product-manager-2fb9961b21d1)

@@ -75,7 +75,7 @@ Delegating work to the most appropriate agents. I am very much an ideas man – 
 
 ## Bookmarks
 
-- [This isn't for everyone](http://smethur.st/posts/176135868)
-- [What is Article 13? The EU's divisive new copyright plan explained](https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban)
-- [Why Facebook's Breach Should Mean #DeleteFacebook But Won't](https://www.forbes.com/sites/kalevleetaru/2018/10/12/why-facebooks-breach-should-mean-deletefacebook-but-wont/)
+- [This isn’t for everyone](http://smethur.st/posts/176135868)
+- [What is Article 13? The EU’s divisive new copyright plan explained](https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban)
+- [Why Facebook’s Breach Should Mean #DeleteFacebook But Won’t](https://www.forbes.com/sites/kalevleetaru/2018/10/12/why-facebooks-breach-should-mean-deletefacebook-but-wont/)
 - [The Coders Programming Themselves Out of a Job](https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/)

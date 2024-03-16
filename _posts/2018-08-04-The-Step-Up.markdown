@@ -85,5 +85,5 @@ But that was the silver lining. Wont to get stressed, forgetting to take a step 
 ## What I’m Reading
 
 - [The 6 Types of Product Teams You’ll be Working In](https://medium.com/swlh/the-6-types-of-product-teams-youll-be-working-in-e6f6e300834d)
-- [Positioning Is the Part of "Product Market Fit" You're Likely Ignoring](https://growandconvert.com/marketing/positioning/)
+- [Positioning Is the Part of "Product Market Fit" You’re Likely Ignoring](https://growandconvert.com/marketing/positioning/)
 - [The EventHorizon Saga](https://codeascraft.com/2018/05/29/the-eventhorizon-saga/)

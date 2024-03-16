@@ -12,4 +12,4 @@ When I realised that [my website was killing the planet]({% post_url 2020-07-13-
 
 <img src="https://api.thegreenwebfoundation.org/greencheckimage/visitmy.website?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
 
-There is [a grove of trees planted for this website](https://treesforlife.org.uk/groves/249395/) that will capture carbon from the atmosphere for years to come. Each year I'll donate 1 to 2 trees based on how much carbon the website creates.
+There is [a grove of trees planted for this website](https://treesforlife.org.uk/groves/249395/) that will capture carbon from the atmosphere for years to come. Each year I’ll donate 1 to 2 trees based on how much carbon the website creates.

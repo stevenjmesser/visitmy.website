@@ -8,7 +8,7 @@ image: /assets/images/platform-health-show-and-tell.jpg
 tags:
   - General
 ---
-[Dan](https://twitter.com/dasbarrett) wanted to see how I work, so here's what I do, based on [Jukesie’s](https://twitter.com/jukesie) rip-off of the Lifehacker 'How I Work' series. Other public service folk have written about [how they work](https://medium.com/@jukesie/this-is-how-we-work-give-or-take-6c8964cac85f) too.
+[Dan](https://twitter.com/dasbarrett) wanted to see how I work, so here’s what I do, based on [Jukesie’s](https://twitter.com/jukesie) rip-off of the Lifehacker 'How I Work' series. Other public service folk have written about [how they work](https://medium.com/@jukesie/this-is-how-we-work-give-or-take-6c8964cac85f) too.
 
 
 **Location**: London, UK.  
@@ -72,7 +72,7 @@ The details of what actually happens can be found in [my weeknotes](https://week
 Recently I’ve been using [Pocket](https://getpocket.com) a fair amount to save blogs to read. Medium’s Reading List also comes in handy, but I’m trying to move away from the platform.
 
 
-But [Twitter](https://twitter.com), too. It’s the app I use most. To both fill time productively and waste it. [My Social Summary](https://mysocialsummary.com) is great for catching up on Twitter without needing to scroll through Twitter. It looks for the most engaging tweets from lists you've built and sends you a daily digest. Definitely worth £3 a month.
+But [Twitter](https://twitter.com), too. It’s the app I use most. To both fill time productively and waste it. [My Social Summary](https://mysocialsummary.com) is great for catching up on Twitter without needing to scroll through Twitter. It looks for the most engaging tweets from lists you’ve built and sends you a daily digest. Definitely worth £3 a month.
 
 
 I’ve really taken to Post-it notes as a to-do list. I tried Trello but you’re not always able to add cards in meetings or ceremonies. Post-its are always at hand in GDS, so I can quickly capture sudden thoughts.

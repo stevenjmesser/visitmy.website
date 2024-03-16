@@ -3,7 +3,7 @@ layout: post
 title: "The Reshuffle"
 sub-title: "Weeknotes S01E01"
 date: 2018-07-14
-description: "Reading people’s weeknotes was one of the main inspirations for me to join the Civil Service. So here's me giving it a go."
+description: "Reading people’s weeknotes was one of the main inspirations for me to join the Civil Service. So here’s me giving it a go."
 image: https://cdn-images-1.medium.com/max/2560/1*jQAChdKFphczeVpwdjKCLA.jpeg
 image_title: ""
 image_artist: "Delaney Allen"
