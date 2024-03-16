@@ -69,7 +69,7 @@ The work – we’re calling them initiatives – is framed using hypothesis sta
 
 It bakes outcomes and positive impact for users into our model. And it feeds into a collective understanding of how progress is made, showing how we all contribute to (and are accountable for) achieving these outcomes for users.
 
-It feels like the right sort of framework for our current challenge: growing and scaling the platform. But we’ll see.
+It feels like the right sort of framework for our current challenge: growing and scaling the platform. But we’ll see. There is still some discovery-type activity to do – because the platform is yet to hit product-market fit, in my opinion – which doesn’t fit the framework except at the initiative level. As I've said [previously]({% post_url 2019-02-21-how-we-use-okrs-gov-uk %}), the only key result to come from discoveries is knowing what to do next. 
 
 ## Be the bridge
 
