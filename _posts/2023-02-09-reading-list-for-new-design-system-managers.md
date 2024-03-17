@@ -10,11 +10,11 @@ tags:
  - Product management
 ---
 
-Back in December 2022, I became the product manager for the [GOV.UK‌ Design System](https://design-system.service.gov.uk), providing maternity cover for [the team’s](https://design-system.service.gov.uk/design-system-team/) excellent PM. I wasn’t a complete newbie to the design system as I’d used it as the baseline for design decisions when I was Head of Product at a startup. 
+Back in December 2022, I became the product manager for the [GOV.UK‌ Design System](https://design-system.service.gov.uk), providing maternity cover for [the team’s](https://design-system.service.gov.uk/design-system-team/) excellent PM. I wasn’t a complete newbie to the design system as I’d used it as the baseline for design decisions when I was Head of Product at a startup.
 
-I hadn’t thought much about what it might be like to manage a design system though. It was a mystery: would working as a product manager on a design system be like working on other products, platforms and services? I needed to read up and get prepared, and the articles and blog posts below were really helpful in my first few weeks on the team. 
+I hadn’t thought much about what it might be like to manage a design system though. It was a mystery: would working as a product manager on a design system be like working on other products, platforms and services? I needed to read up and get prepared, and the articles and blog posts below were really helpful in my first few weeks on the team.
 
-This **is not** a canonical list of what everyone new to managing design systems should read, it’s just a list of things that helped _me_. Hopefully you’ll find them useful, and let me know on [Twitter](https://twitter.com/stevenjmesser), [Mastodon](https://indieweb.social/@stevenjmesser) or [LinkedIn](https://www.linkedin.com/in/stevenjmesser/) if there’s anything you recommend I read too!
+This **is not** a canonical list of what everyone new to managing design systems should read, it’s just a list of things that helped *me*. Hopefully you’ll find them useful, and let me know on [Twitter](https://twitter.com/stevenjmesser), [Mastodon](https://indieweb.social/@stevenjmesser) or [LinkedIn](https://www.linkedin.com/in/stevenjmesser/) if there’s anything you recommend I read too!
 
 These are presented in no particular order. Open all the links and get reading!
 

@@ -10,17 +10,17 @@ People have been moving from Twitter to Mastodon over the last few days, and lot
 
 A bump in the road many people are running in to is discovery: finding people or conversations to follow. The [toot thread](https://mastodon.social/@danieldurrans/109261770172423487) below sums it up well.
 
-> It's the discoverability, or lack of, that I am finding difficult to deal with. You get glimpses of other communities but to be part of them it feels like you have to split your personality by creating a new 'you' specific to that community. I guess it is similar to the old forum model except forums really were separate with nothing at all joining them together (apart from the really big ones like SomethingAwful, Reddit, etc.)
-> 
-> With Twitter you could curate the people you follow, but also search the entire global community and jump into a topic. I follow a lot of people in my physical local area, but I also have searches set up to show me tweets posted from my geographic locality or that mention the name of the city I live in. With Mastodon I can't do that so I feel I am unable to fully engage with a particular topic.
-> 
-> Perhaps my frustration would be mitigated somewhat if I could follow not just a person but an entire instance, joining two communities together into something more than a Local timeline. Or be able to follow a hashtag that pulled data from all federated instances rather than just what my current instance happens to 'see'.
+> It’s the discoverability, or lack of, that I am finding difficult to deal with. You get glimpses of other communities but to be part of them it feels like you have to split your personality by creating a new ‘you’ specific to that community. I guess it is similar to the old forum model except forums really were separate with nothing at all joining them together (apart from the really big ones like SomethingAwful, Reddit, etc.)
+>
+> With Twitter you could curate the people you follow, but also search the entire global community and jump into a topic. I follow a lot of people in my physical local area, but I also have searches set up to show me tweets posted from my geographic locality or that mention the name of the city I live in. With Mastodon I can’t do that so I feel I am unable to fully engage with a particular topic.
+>
+> Perhaps my frustration would be mitigated somewhat if I could follow not just a person but an entire instance, joining two communities together into something more than a Local timeline. Or be able to follow a hashtag that pulled data from all federated instances rather than just what my current instance happens to ‘see’.
 
 It’s a fair point. It is jarring! But it feels like it’s by design.
 
 The centralised nature of Twitter means that everything is indexed and searchable, whereas with Mastodon you have to rely on links between federated instances. If you want to find interesting people talking about topics you like, you’re less likely to find them all in one place (and easily) on Mastodon. It takes longer to find people to follow.
 
-This is slow discovery. It’s a paradigm shift from fast discovery, which so many products have treated us to/ruined us with over the last ~8 years. 
+This is slow discovery. It’s a paradigm shift from fast discovery, which so many products have treated us to/ruined us with over the last ~8 years.
 
 That shift from fast to slow discovery creates a jolt, a point of friction.
 

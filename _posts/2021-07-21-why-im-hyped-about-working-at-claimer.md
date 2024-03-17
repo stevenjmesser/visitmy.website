@@ -13,7 +13,7 @@ tags:
   - General
 ---
 
-_Note: This was a short relationship in the end, and I returned to public service in August 2022. If I’m honest, I was kidding myself when I wrote this. I could have stayed at GDS and continued the good work we were doing on GOV.UK Pay, but also I don’t regret the experiences I had at Claimer. It’s always good to learn things. Onwards!_
+*Note: This was a short relationship in the end, and I returned to public service in August 2022. If I’m honest, I was kidding myself when I wrote this. I could have stayed at GDS and continued the good work we were doing on GOV.UK Pay, but also I don’t regret the experiences I had at Claimer. It’s always good to learn things. Onwards!*
 
 ---
 
@@ -37,7 +37,7 @@ One of the founding design principles for GOV.UK was that [‘there should be no
 
 It’s something I call [‘boring magic’]({% post_url 2020-01-08-boring-magic %}). And it’s exactly the same with Claimer.
 
-No one _really_ wants to spend hours understanding complicated tax rules in order to claim back some money: they just want to submit a claim, get the money, and go back to making new things. So it’s our job to make that as effortless as possible.
+No one *really* wants to spend hours understanding complicated tax rules in order to claim back some money: they just want to submit a claim, get the money, and go back to making new things. So it’s our job to make that as effortless as possible.
 
 ### The team is full of wonderful people
 
@@ -72,7 +72,7 @@ there are plenty of pioneers, inventors and visionaries out there looking to low
 
 In fact, it has already helped out [Unmind](https://unmind.com), a workplace wellbeing platform that wants to help people to live more fulfilling and balanced lives. It’s humbling to hear those endeavours mentioned in the weekly town hall.
 
-It reminds me of something Mariana Mazzucato said in _The Value of Everything_:
+It reminds me of something Mariana Mazzucato said in *The Value of Everything*:
 
 > “It’s worth recalling something basic: there is no point to the economy unless it helps people to lead better lives – and that quite reasonably means, at least in part, happier lives.”
 

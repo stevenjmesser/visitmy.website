@@ -13,7 +13,7 @@ tags:
  - Weeknotes
 ---
 
-The title isn’t about me, it’s about [the news](https://www.bbc.co.uk/news/uk-63328000). Suffice to say it was a pretty wild week for UK politics, and there were some ‘developments’ at work too. Good ones, mind. 
+The title isn’t about me, it’s about [the news](https://www.bbc.co.uk/news/uk-63328000). Suffice to say it was a pretty wild week for UK politics, and there were some ‘developments’ at work too. Good ones, mind.
 
 ## Things I started
 
@@ -27,33 +27,33 @@ Our alpha is uncovering areas of the service that could benefit from improvement
 
 I prepared a diagram of the stages of our service and which teams owned or contributed to those stages. This was to help in a conversation me and our lead PM had with our service owner on where the gaps might be. There’s a couple of areas that need a multidisciplinary team to own it and develop things, but we wanted to get their perspective on things first. We got consensus, but further chats needed on teams and staffing.
 
-With our UCD pair looking at user support, I pulled together a model for reactive user support. Users reported that it was hard to get an answer to queries currently, and that they don’t know who to turn to for particular types of query. There are five contact emails on the service’s website! Relatedly, the support teams involved are being peppered with queries left, right and centre, so we needed to look at creating a more consistent, scalable model. After an hour on a whiteboard, we had the beginnings of a model we can get feedback on, to see what works and what doesn’t. 
+With our UCD pair looking at user support, I pulled together a model for reactive user support. Users reported that it was hard to get an answer to queries currently, and that they don’t know who to turn to for particular types of query. There are five contact emails on the service’s website! Relatedly, the support teams involved are being peppered with queries left, right and centre, so we needed to look at creating a more consistent, scalable model. After an hour on a whiteboard, we had the beginnings of a model we can get feedback on, to see what works and what doesn’t.
 
-Going back to something I mentioned last week, the conversation around strategy and objectives is going to happen. This is really good. There’s also an opportunity to adjust how the programme works together, to feed richer, clearer information to our service owner and between teams, and to create the space for collaboration. I’ll need to suggest what I’ve seen work well to our service owner and programme manager, but it’s up to them to decide how we work in practice. 
+Going back to something I mentioned last week, the conversation around strategy and objectives is going to happen. This is really good. There’s also an opportunity to adjust how the programme works together, to feed richer, clearer information to our service owner and between teams, and to create the space for collaboration. I’ll need to suggest what I’ve seen work well to our service owner and programme manager, but it’s up to them to decide how we work in practice.
 
 ## Things I shuffled along
 
-The majority of my week was dedicated to our upcoming alpha assessment. 
+The majority of my week was dedicated to our upcoming alpha assessment.
 
-Spent the majority of Monday and Tuesday preparing our slide deck for the alpha assessment. Initially I structured the Q&A section around the points in the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), so that we could pull out stories and work that shows we’re meeting the standard. But after reviewing the slides with our lead PM, I switched to the usual structure of user needs, team, design & content, service performance and technology. Although, it _was_ useful to have thought about which aspects of our work conforms to the standard, it should make it easier to prepare the bulk of the deck. 
+Spent the majority of Monday and Tuesday preparing our slide deck for the alpha assessment. Initially I structured the Q&A section around the points in the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), so that we could pull out stories and work that shows we’re meeting the standard. But after reviewing the slides with our lead PM, I switched to the usual structure of user needs, team, design & content, service performance and technology. Although, it *was* useful to have thought about which aspects of our work conforms to the standard, it should make it easier to prepare the bulk of the deck.
 
 On Wednesday I started shaping the service overview part of the deck, so that we can tell the panel about our service, its policy background and the value the service provides. I wanted to get the story of how the service meets NHS Digital’s goals in there and make sure that’s understood. You see, if you look at the needs our users have, our service isn’t an obvious solution. In fact, it undoubtedly creates friction for users. But the purpose of the service spans wider than its users’ needs, it’s meeting needs for society too. That’s a good thing, I want to highlight it.
 
-On Friday I observed a recording of an alpha assessment. Our team joined and other people from our directorate did too, including our service owner, so that everyone could familiarise themselves with what happens at a service assessment. It was good to get a refresher, it’s been ages since I’ve observed an assessment. However, it did make me feel less confident about what we’re taking to assessment; we’ve got a show & tell with the Assurance folks on Monday, when they’ll decide whether now is the right time for an assessment or not. 
+On Friday I observed a recording of an alpha assessment. Our team joined and other people from our directorate did too, including our service owner, so that everyone could familiarise themselves with what happens at a service assessment. It was good to get a refresher, it’s been ages since I’ve observed an assessment. However, it did make me feel less confident about what we’re taking to assessment; we’ve got a show & tell with the Assurance folks on Monday, when they’ll decide whether now is the right time for an assessment or not.
 
-We had an ideation session within the team to think about ways we could improve the application journey, in response to the How Might We statements written last week. There were some good ideas in there, and the designers structured the workshop well. Our plan was to share these ideas and get feedback from our service owner and the head of another programme (who ‘owns’ the application journey), but had to cancel it at the last minute. There’s a worry that effort is being duplicated, which is a fair concern, although there’s not enough detail being shared between teams for a nuanced, shared understanding to develop. This is an opportunity to encourage more working in the open, which does all that hard work. 
+We had an ideation session within the team to think about ways we could improve the application journey, in response to the How Might We statements written last week. There were some good ideas in there, and the designers structured the workshop well. Our plan was to share these ideas and get feedback from our service owner and the head of another programme (who ‘owns’ the application journey), but had to cancel it at the last minute. There’s a worry that effort is being duplicated, which is a fair concern, although there’s not enough detail being shared between teams for a nuanced, shared understanding to develop. This is an opportunity to encourage more working in the open, which does all that hard work.
 
 ## Some puzzles
 
 Related to the above, my line manager asked if I was OK with not having a greenfield space to work in. I had a lot of autonomy at GDS, and at Claimer it was my job to build the product function, so I was blessed with greenfield there; at NHS Digital, in our directorate at least, it feels like the UCD & PM skilled team is helping bring about the digital transformation that kicked off over a decade ago across the rest of government. There’s lots of politics, consensus-building, and a mix of methods. No shared playbook. It’s hard, and when we take two steps forward we tend to take one step back soon after. But that’s what I came to learn how to do: how to advocate for our methods by showing them working, and by being part of an organisation as it evolved. Nothing tests a theory like practice.
 
-I want to stick this out but it’s going to be tiring, which means I might need a side project for a hit of fast gratification. It popped into my head that if my experiment with compressed hours goes well, I could go freelance for one day a week, working on other projects. And looking at the economy, I could do with the extra money. 
+I want to stick this out but it’s going to be tiring, which means I might need a side project for a hit of fast gratification. It popped into my head that if my experiment with compressed hours goes well, I could go freelance for one day a week, working on other projects. And looking at the economy, I could do with the extra money.
 
 ## Other things
 
 UKHealthCamp last weekend was loads of fun. I need to write a post about that.
 
-There’s much less daylight available now, and the weekends feel like a time for resting. That’s going to be hard with marathon training coming up, but I’m looking forward to cooking more soups and stews, loading the freezer with leftovers. 
+There’s much less daylight available now, and the weekends feel like a time for resting. That’s going to be hard with marathon training coming up, but I’m looking forward to cooking more soups and stews, loading the freezer with leftovers.
 
 Next weekend I’m racing [a half-marathon on the South Downs](https://www.maverick-race.com/products/maverick-adidas-terrex-frontier-south-downs-2022) and after a couple of lazy weeks, I might need to revise my goals. Using the ABC goal format, I’m going for
 

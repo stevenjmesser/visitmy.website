@@ -19,14 +19,14 @@ It’s my fourth week at NHS Digital in the Data Services directorate, and let i
 
 I submitted our service to one of the many assurance processes that exist. This particular process is more akin to a networked series of sub-processes. It has about 5 layers and each layer has 2 to 9 assurance boards. And you’ve got to prepare for a GDS-style assessment alongside that.
 
-I don’t think this is by design, rather it’s the state of things that has come about by not refining or iterating the gated processes teams have to go through. I’m not annoyed by it anyway, it’s not like I can do anything about it. 
+I don’t think this is by design, rather it’s the state of things that has come about by not refining or iterating the gated processes teams have to go through. I’m not annoyed by it anyway, it’s not like I can do anything about it.
 
 There was a chat about ‘how we engage with customers and users’, which is a pretty broad topic, but people across the programme were worried about
 - not taking up too much of our customers’ and users’ limited attention
 - making sure that any engagements were consistent, so that we don’t give them mixed messages or duplicate things, and
 - having high-quality communications, so that we learn or land everything that needs to be learned or landed.
 
-Which, when you think about it, are decent concerns to have. It’s easy for meetings to jump straight to talking about solutions though, and the idea of a central register of communication activity reared its ugly head. No one wants that. A document to update every time you talk to someone or think you might need to? A document to check, to see what other people are doing? _Nah, man!_ 
+Which, when you think about it, are decent concerns to have. It’s easy for meetings to jump straight to talking about solutions though, and the idea of a central register of communication activity reared its ugly head. No one wants that. A document to update every time you talk to someone or think you might need to? A document to check, to see what other people are doing? *Nah, man!*
 
 What we need is a set of principles. Principles are lightweight, provide boundaries and promote autonomy. ‘Individuals and interactions over processes and tools.’ So I put together a simple framework for people to fill in with engagements to make, how and when. It’ll take 10 minutes to fill in, and from that we can write a set of principles for speaking with customers and users. Then the framework (read: spreadsheet) can be deleted. We trust each other to stick to the principles. Everything will be good.
 
@@ -36,7 +36,7 @@ I spent time with both of our UCD pairs, who are working on the risky areas of t
 
 Our show & tell was great, and we presented the emerging themes coming from our work. For $reasons, we’re kind of doing a discovery at the same time as doing the alpha, but it’s not that bad. I don’t think we’re at risk of missing detail because our alpha is well scoped. And anyway, I have said before that [alpha is discovery]({% post_url 2022-04-09-alpha-is-discovery %}).
 
-Something that became clear this week was how to solve the puzzle from [last week]({% post_url 2022-08-31-the-forest %}). Namely: making change happen on a programme without ideal ways of working, and without the air cover to radically rewrite the rulebook. After running my ideas past our lead PM and head of community, they were onboard with the approach I wanted to take.  This was super pleasing because, if I’m honest, I felt like I was relying on fresh, new skills rather than a playbook I’ve followed before. (And as a senior PM, you’re following an internal playbook the majority of the time and inventing new approaches for a small slice of stuff.)
+Something that became clear this week was how to solve the puzzle from [last week]({% post_url 2022-08-31-the-forest %}). Namely: making change happen on a programme without ideal ways of working, and without the air cover to radically rewrite the rulebook. After running my ideas past our lead PM and head of community, they were onboard with the approach I wanted to take. This was super pleasing because, if I’m honest, I felt like I was relying on fresh, new skills rather than a playbook I’ve followed before. (And as a senior PM, you’re following an internal playbook the majority of the time and inventing new approaches for a small slice of stuff.)
 
 The key influences in devising these approaches were:
 - the work on [service communities](https://gds.blog.gov.uk/2019/01/28/what-service-communities-are-achieving-across-government/) done by Kuba, Ignacia and Will
@@ -47,7 +47,7 @@ Anyway, next week I’ve got to put it into practice. And that’s the real test
 
 ## Some puzzles
 
-Making my running harmonise with my in-office days is the next puzzle. This week I ran to Lewisham DLR with my laptop and clothes in a backpack, and now I’ve got a friction burn on my back. What was good was getting to work before 8.30 a.m. What sucked was how much back pain I had that day! 
+Making my running harmonise with my in-office days is the next puzzle. This week I ran to Lewisham DLR with my laptop and clothes in a backpack, and now I’ve got a friction burn on my back. What was good was getting to work before 8.30 a.m. What sucked was how much back pain I had that day!
 
 I probably just need to leave my laptop at work on one of my in-office days, so I can run in with a lighter pack. I mean, last week I ran 41km with clothes, food, water and shelter on my back. Removing the errant laptop will solve the back-pain problem.
 
@@ -55,7 +55,7 @@ I probably just need to leave my laptop at work on one of my in-office days, so 
 
 Working remotely has been good and hybrid-working is doable, but this week I got enormous pleasure from being around one of our UCD pairs as they were doing analysis and preparing slides for show & tell. Being able to hear their thoughts out loud allowed me to get to know them more, and we got the chance to chat about different types of framing and next steps for the alpha.
 
-You can do that remotely, you don’t have to be in the same room. All of the alpha for recurring payments on GOV.UK Pay was done remotely, and it worked. But it’s a welcome change of energy to be around people, to soak up vibes...to look someone in the eye and have their eyes lock on yours! 
+You can do that remotely, you don’t have to be in the same room. All of the alpha for recurring payments on GOV.UK Pay was done remotely, and it worked. But it’s a welcome change of energy to be around people, to soak up vibes…to look someone in the eye and have their eyes lock on yours!
 
 Thursday morning’s goal pace run was harder than it should have been. It’s not a pace I struggle with, but my legs were tired from last weekend’s distance and the previous day’s trip to Lewisham with a bag. Looking forward to clocking up some miles near Manchester this weekend.
 

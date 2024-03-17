@@ -9,9 +9,9 @@ tags:
  - Weeknotes
 ---
 
-You know what, I’ve been up for two hours already, let’s write some weeknotes. It’s the fault of a pizza with huge amounts of blue cheese on it – that or the cat – but I’ll assume it’s the _formaggio_. The cat’s having a bad time with one of his neighbours, no need to add to his load.
+You know what, I’ve been up for two hours already, let’s write some weeknotes. It’s the fault of a pizza with huge amounts of blue cheese on it – that or the cat – but I’ll assume it’s the *formaggio*. The cat’s having a bad time with one of his neighbours, no need to add to his load.
 
-Once again, I missed writing last week’s notes, so you’ve got a double episode today. There won’t be any notes next week as I’m taking time off to [fastpack](https://irunfar.com/the-definitive-guide-to-fastpacking) from Machynlleth to Penryndeudraeth, and then hang out with the ‘in-laws’. And there might not be any notes after that if I die in south Snowdonia, but fingers crossed...
+Once again, I missed writing last week’s notes, so you’ve got a double episode today. There won’t be any notes next week as I’m taking time off to [fastpack](https://irunfar.com/the-definitive-guide-to-fastpacking) from Machynlleth to Penryndeudraeth, and then hang out with the ‘in-laws’. And there might not be any notes after that if I die in south Snowdonia, but fingers crossed…
 
 Over the last two weeks, I
 
@@ -32,14 +32,14 @@ Over the last two weeks, I
 - had a one-to-one with a coach we’ve hired to help the team and team leads
 - did more work on strategy slide decks
 - went deeper into the slidehole and prepared two other decks: a show & tell on how we’ve adapted our ways of working, and a simple intro to this Friday’s community call
-- chatted to a designer about a discovery we’re going to start, which will look at doing organisation design for our directorate 
+- chatted to a designer about a discovery we’re going to start, which will look at doing organisation design for our directorate
 - refined the comms plan for [Exit this Page](https://github.com/alphagov/govuk-design-system-backlog/issues/213) with the epic leads
 - shared notes with [Richard](https://richardpope.org) on what future services could do and look like, and
 - crystallised how we might kill sprint cycles in favour of epic cycles
 
 Today I’m going to
 
-- write an RFC for adjusting GOV.‌UK Frontend’s delivery pattern 
+- write an RFC for adjusting GOV.‌UK Frontend’s delivery pattern
 - kick off one of the prerequisite epics for our work on [v5.0](https://github.com/alphagov/govuk-frontend/milestone/46)
 - facilitate the Friday community call, and
 - dip into the slidehole once more and do an asynchronous check-in with our senior management team
@@ -48,7 +48,7 @@ Today I’m going to
 
 Every team documents how it does things. It can happen on the fly, meaning team processes and principles live inside people’s heads and multiple documents. But once it gets hard to find or share that information, you need to rethink where it lives.
 
-I started building [our playbook at Claimer](https://twitter.com/stevenjmesser/status/1430436547371929602) very early, which made it easier to update whenever the way we worked changed. And that happens _a lot_ at an early-stage startup. How the GOV.‌UK Design System team works has changed a lot over the years, and it’s hard to find docs for things. So when Kelly, our DM, said she’d wanted to get something online for a while, we span up a new home for the [team playbook](https://github.com/alphagov/design-system-team-docs).
+I started building [our playbook at Claimer](https://twitter.com/stevenjmesser/status/1430436547371929602) very early, which made it easier to update whenever the way we worked changed. And that happens *a lot* at an early-stage startup. How the GOV.‌UK Design System team works has changed a lot over the years, and it’s hard to find docs for things. So when Kelly, our DM, said she’d wanted to get something online for a while, we span up a new home for the [team playbook](https://github.com/alphagov/design-system-team-docs).
 
 There’s a lot to get in there, but it feels right to make this open. We want the community to see how we work, feed back on it, and use our methods if they’d like. It’s how we can open up the design system and transfer some power to the community.
 
@@ -62,9 +62,9 @@ Tom lead a great community session using a slide deck of principles from his tim
 
 ## Delivery patterns
 
-I’m f-ing bored of Scrum and Kanban. They have their uses but I’m sick to death of trudging through each work week in the same style, all the time. More pragmatically, we’re using Scrum on a squad where we don’t need to adapt to user feedback, so it’s just the wrong methodology. 
+I’m f-ing bored of Scrum and Kanban. They have their uses but I’m sick to death of trudging through each work week in the same style, all the time. More pragmatically, we’re using Scrum on a squad where we don’t need to adapt to user feedback, so it’s just the wrong methodology.
 
-Therefore, I’d like to change things. 
+Therefore, I’d like to change things.
 
 Any plan you form for a piece of work is a set of imagined tasks, and as you start doing the work you discover new tasks that have to happen. This makes it hard to work out how long something will take or when you’ll be done. Which means the sprint goals and end dates keep changing: that’s demoralising for the team and eyebrow-raising for senior management.
 
@@ -84,7 +84,7 @@ On the positive side, I learned that I have more mental fortitude than I origina
 
 ## Bookmarks
 
-- [I Love DNFs...](https://leave-the-road-and.run/i-love-dnfs/), 4 mins
+- [I Love DNFs…](https://leave-the-road-and.run/i-love-dnfs/), 4 mins
 - [You Probably Shouldn’t Work at a Startup](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-2ed96ceb-c907-489a-8dd8-f07ed8c77bd0), 16 mins
 - [2023 State of Design Systems and Where We Take Them Next](https://ianfrostweather.com/web/2023-state-of-design-systems/), 7 mins
 - [Becoming Realists of a Larger Reality](https://fo.am/blog/2021/06/19/becoming-realists-of-a-larger-reality/), 3 mins

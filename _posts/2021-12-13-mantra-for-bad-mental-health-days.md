@@ -16,12 +16,12 @@ This is definitely one for those people who find safety in being a tiny speck of
 
 This mantra is an abstraction. As Alan Watts says:
 
-> Abstraction is...a necessity for communication, since it enables us to represent our experiences with simple and rapidly made “grasps” of the mind. 
+> Abstraction is…a necessity for communication, since it enables us to represent our experiences with simple and rapidly made “grasps” of the mind.
 
 This mantra is also a haiku. It doesn’t have the usual syllable and line count, but it is the essence of an image in words.
 
 It was written by Jack Kerouac, and it made me smile on a bad mental health day, over a decade ago.
 
-> Useless! Useless!  
-> —heavy rain driving  
+> Useless! Useless!\
+> —heavy rain driving\
 > into the sea

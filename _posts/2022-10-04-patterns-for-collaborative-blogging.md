@@ -16,7 +16,7 @@ For the past couple of days I’ve been thinking about how you might make bloggi
 
 > Blogging still feels very single player. Despite the fact that almost all of my longer writing goes through Google Docs and a heavy process of notes, comments and discussion - when I publish a blog post it’s “flat” in a way that a Google Doc is “alive”. How do we bring this co-creation, collaboration and discussion to the web?
 
-This was all born out of the start of National Blog Posting Month encroaching in November. I tried it in 2020 and it was hard, so I wondered about strategies for making it easier. Collaborative blogging is one way of lightening the load, by working on things together with other people. 
+This was all born out of the start of National Blog Posting Month encroaching in November. I tried it in 2020 and it was hard, so I wondered about strategies for making it easier. Collaborative blogging is one way of lightening the load, by working on things together with other people.
 
 So how does collaborative blogging happen? What are patterns for blogging together?
 
@@ -38,7 +38,7 @@ A key part of my creative writing degree (yes, I know, I don’t often mention i
 
 ### Missives
 
-Writing long letters to each other about a topic. For example, you and a partner choose to write about self-driving cars. One person writes and publishes the first post, and their partner writes a response the following day. It could go on for a month or you could choose to cap it, after a week or so. They key is that there’s a back and forth, a call and response, a conversation happening over long-form. You could introduce fun constraints like spending no more than 15 minutes writing, supporting points with no more than 2 quotes, etc. 
+Writing long letters to each other about a topic. For example, you and a partner choose to write about self-driving cars. One person writes and publishes the first post, and their partner writes a response the following day. It could go on for a month or you could choose to cap it, after a week or so. They key is that there’s a back and forth, a call and response, a conversation happening over long-form. You could introduce fun constraints like spending no more than 15 minutes writing, supporting points with no more than 2 quotes, etc.
 
 Shout-out to [Trilly](https://twitter.com/TrillyC) on this one. He got the idea from a podcast, I think, I’ll check.
 

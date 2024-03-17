@@ -13,9 +13,9 @@ tags:
   - Design
 ---
 
-_These are my notes from a short class on [visual design fundamentals](https://generalassemb.ly/education/visual-design-fundamentals-e5aac13e-0e76-47f9-8fde-1ffd9b802aca/online/187328). I wanted to learn the purpose of visual design, the theory behind design and how it related to UX design._
+*These are my notes from a short class on [visual design fundamentals](https://generalassemb.ly/education/visual-design-fundamentals-e5aac13e-0e76-47f9-8fde-1ffd9b802aca/online/187328). I wanted to learn the purpose of visual design, the theory behind design and how it related to UX design.*
 
-_I played with Flash, Dreamweaver and Fireworks as a teenager, and later got into photography and designing photo books, but I’ve never had any formal design training. I’ve worked with some great designers at GDS, but would love to develop my skills further._
+*I played with Flash, Dreamweaver and Fireworks as a teenager, and later got into photography and designing photo books, but I’ve never had any formal design training. I’ve worked with some great designers at GDS, but would love to develop my skills further.*
 
 ## What is visual design?
 
@@ -27,7 +27,7 @@ You need to know about a project before jumping in and designing things. This us
 
 ### Research
 
-Whenever you begin a project, you should always be starting off with research. Take a collaborative approach because you need information from clients and stakeholders to understand their objectives, set constraints, set goals for when work begins and ends, and get useful feedback on your work. 
+Whenever you begin a project, you should always be starting off with research. Take a collaborative approach because you need information from clients and stakeholders to understand their objectives, set constraints, set goals for when work begins and ends, and get useful feedback on your work.
 
 Research looks like
 
@@ -42,7 +42,7 @@ Anything that helps you better understand what you’re making and who you’re 
 
 ### Create the objective
 
-Craft an objective to answer the questions: What are we trying to communicate? Who are we communicating this to? 
+Craft an objective to answer the questions: What are we trying to communicate? Who are we communicating this to?
 
 Use plain language to communicate purpose clearly. Throughout the project, consider whether the design is helping meet this objective.
 
@@ -54,11 +54,11 @@ Not everyone has the same process, and not every process is applicable to each b
 
 Moodboarding is a good way to curate design elements that speak to the overall look and feel, and define constraints to work within. If you’re looking to copy a website design, for example, the design decisions won’t be obvious and objectives will definitely be different. So try to look at raw designs: photography, illustration, books, typography, icons, colours, patterns, shapes, textures, etc. These provide different directions to go in and can generate feedback from a client.
 
-You can refine moodboards as you move in a certain direction, e.g. ‘neon’, ‘big, bold and yellow’, etc.
+You can refine moodboards as you move in a certain direction, e.g. ‘neon’, ‘big, bold and yellow’, etc.
 
 ### Define constraints
 
-This will contain the scope of the work and can limit scope creep. We want to narrow focus and purpose to make the design as effective as possible. 
+This will contain the scope of the work and can limit scope creep. We want to narrow focus and purpose to make the design as effective as possible.
 
 - Timeline and budget
 - Technical considerations
@@ -75,7 +75,7 @@ The Rule of Least Effective Difference urges designers to use the smallest visua
 
 Use contrast to convey information and importance. Our brains are wired to pick up on contrast. But use it sparingly: decide which few elements need to stand out and make those different to everything else.
 
-You can use design patterns so that you don’t have to reinvent the wheel every time. 
+You can use design patterns so that you don’t have to reinvent the wheel every time.
 
 Colour is one of the strongest forms of contrast.
 

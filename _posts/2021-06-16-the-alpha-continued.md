@@ -23,7 +23,7 @@ I started a paper with our user researcher and an economist describing how we mi
 
 ## Things I shuffled along
 
-Our alpha looking at recurring payments functionality for GOV.UK Pay has been going well. We called out the risky assumptions we were making about how it would work, dived into those assumptions to pull out specific research questions, wireframed and prototyped our ideas, and we’ve been testing these with service teams. Tomorrow we’ve got a session to check on what we’ve learned so far and on Monday we’ll check on progress against our ‘Alpha is done when...’ objectives.
+Our alpha looking at recurring payments functionality for GOV.UK Pay has been going well. We called out the risky assumptions we were making about how it would work, dived into those assumptions to pull out specific research questions, wireframed and prototyped our ideas, and we’ve been testing these with service teams. Tomorrow we’ve got a session to check on what we’ve learned so far and on Monday we’ll check on progress against our ‘Alpha is done when…’ objectives.
 
 The team have gelled well and they’re collaborating excellently. They’re good at helping each other get on the same page, and there’s enough trust to admit when you don’t know something.
 
@@ -60,7 +60,7 @@ Feeling blessed tbh.
 - [Lean UX Documentation for Tracking and Communicating in Agile](https://www.nngroup.com/articles/lean-agile-documentation/), 5 mins
 - [Ditch the bullet journal and stay in bed as long as you like](https://on.ft.com/3b8y0pp), 4 mins
 - [Can virtual meeting spaces save us all from Zoom fatigue?](https://www.theguardian.com/technology/2021/may/08/work-can-virtual-meeting-spaces-save-us-all-from-zoom-fatigue), 17 mins
-- ['It's Crazy' – Patients Say the UK's Medical Cannabis System Is Not Working](https://www.vice.com/en/article/z3xmye/uk-medical-cannabis-production-prescription), 4 mins
+- [‘It’s Crazy’ – Patients Say the UK’s Medical Cannabis System Is Not Working](https://www.vice.com/en/article/z3xmye/uk-medical-cannabis-production-prescription), 4 mins
 - [Utopia Inc](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why), 18 mins
 - [The Great Online Game](https://www.notboring.co/p/the-great-online-game), 19 mins
 - [Your ability to focus may be limited to 4 or 5 hours a day. Here’s how to make the most of them.](https://www.washingtonpost.com/lifestyle/wellness/productivity-focus-work-tips/2021/05/31/07453934-bfd0-11eb-b26e-53663e6be6ff_story.html), 6 mins

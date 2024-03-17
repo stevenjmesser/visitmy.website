@@ -16,7 +16,7 @@ tags:
 
 Good holiday sailing around the southeastern Spanish coast last week. It wasn’t as windy as we’d hoped but we managed to do a few trips out of Cartagena. One highlight was sailing from Cabo de Palos to La Manga, just in time to enter the marina as they raised the bridge for the final time that day. We anchored off of an island in the Mar Menor, a coastal lagoon, for a restful night in nature.
 
-And I need to talk about Restaurante Salzillo in Murcia. It’s an absolute dream. Chefs work behind a bar, which you can dine at (a bit like Barrafina), and there’s a large, glass-fronted refrigerator stocked with some of the sweetest prawns and seafood you’ve ever had. Plenty of good Spanish food and wine. I was in heaven. We had clams, octopus, artichokes, John Dory, tuna, and a lovely Albariño. My _postres_ was unique: _paparajote_, a battered lemon leaf dipped in sugar and cinnamon. Very delicate flavours. 
+And I need to talk about Restaurante Salzillo in Murcia. It’s an absolute dream. Chefs work behind a bar, which you can dine at (a bit like Barrafina), and there’s a large, glass-fronted refrigerator stocked with some of the sweetest prawns and seafood you’ve ever had. Plenty of good Spanish food and wine. I was in heaven. We had clams, octopus, artichokes, John Dory, tuna, and a lovely Albariño. My *postres* was unique: *paparajote*, a battered lemon leaf dipped in sugar and cinnamon. Very delicate flavours.
 
 This week I was back to work, and amongst many other things I haven’t noted down, I
 
@@ -42,7 +42,7 @@ This week I was back to work, and amongst many other things I haven’t noted do
 
 ## Treading water
 
-A couple of times this week I said ‘I feel like I’m treading water’, which means I feel like I’m just about managing to keep on top of things. Weeknoting is helping by giving me time to reflect on the week, but if I’m still feeling like too much is going on, something else is amiss. My current theory is that it’s because I’m not setting goals and tracking my tasks well enough. 
+A couple of times this week I said ‘I feel like I’m treading water’, which means I feel like I’m just about managing to keep on top of things. Weeknoting is helping by giving me time to reflect on the week, but if I’m still feeling like too much is going on, something else is amiss. My current theory is that it’s because I’m not setting goals and tracking my tasks well enough.
 
 That’s silly because each morning I have time to set my daily goals, I just don’t do it. Sure, I block out my calendar for certain tasks and I stash things in Slack reminders for later, but I don’t know whether all that busyness is laddering up to achieving my main objectives.
 
@@ -52,7 +52,7 @@ I don’t think it’s anything to do with being the only product person on a te
 
 ## Asking for estimates
 
-Asking for estimations of when a project might be complete feels grubby. It shouldn‘t have to, but no one likes it. Heck, when someone asks me for estimations, I know it could be useful but it still feels...off. 
+Asking for estimations of when a project might be complete feels grubby. It shouldn‘t have to, but no one likes it. Heck, when someone asks me for estimations, I know it could be useful but it still feels…off.
 
 My approach usually is to explain how it‘s a useful exercise and how the estimation will be used, but I didn‘t do that a couple of weeks ago. I got uncomfortable and skipped over it, just saying I needed an estimate of when the project might finish, and it irked a colleague. Calling that out as a mistake I made, because there is value in estimation.
 
@@ -60,19 +60,19 @@ I’ve written up some light [rules for estimation]({% post_url 2023-09-13-estim
 
 ## Retros as an attack vector
 
-We start each retrospective with the Agile Prime Directive: everyone did their best under the circumstances. That‘s supposed to set the tone, so that people can discuss issues openly, with empathy, to find a solution together. But some times this doesn‘t happen and it can feel like someone‘s complaining about you, right in front of you, without saying explicitly that you‘re the problem. 
+We start each retrospective with the Agile Prime Directive: everyone did their best under the circumstances. That‘s supposed to set the tone, so that people can discuss issues openly, with empathy, to find a solution together. But some times this doesn‘t happen and it can feel like someone‘s complaining about you, right in front of you, without saying explicitly that you‘re the problem.
 
-Sure, you‘re not supposed to make it personal or take it personally. But it‘s hard not to be human. 
+Sure, you‘re not supposed to make it personal or take it personally. But it‘s hard not to be human.
 
-One guideline I find useful for making feedback constructive instead of critical is to suggest remedial actions or solutions whenever I raise a problem or issue. _This thing could have been better, and here‘s a suggestion for how._
+One guideline I find useful for making feedback constructive instead of critical is to suggest remedial actions or solutions whenever I raise a problem or issue. *This thing could have been better, and here‘s a suggestion for how.*
 
-There is a time and a place for critical feedback, and it‘s usually in a one-to-one meeting, not in a group setting. 
+There is a time and a place for critical feedback, and it‘s usually in a one-to-one meeting, not in a group setting.
 
 Maybe agreeing some norms around retro hygiene would be good, rather than continuing to rely on the Agile Prime Directive. Its intent is right but when you‘re too familiar with a phrase, it‘s easy to ignore.
 
 ## First marathon
 
-Tomorrow I‘m running my first marathon. 42km across the Shropshire hills with 1,000m of elevation. My race strategy is quite simple. 
+Tomorrow I‘m running my first marathon. 42km across the Shropshire hills with 1,000m of elevation. My race strategy is quite simple.
 
 Goal: to finish. No time-based goal, but the course limit is 7 hours.
 
@@ -94,7 +94,7 @@ EDIT: Strategy worked a dream. I could have done with more water, given it was 2
 - [Trying to make sense of the UK’s sudden economic correction](https://on.ft.com/3Pl3UDr)
 - [X/Twitter has updated its Terms of Service to let it use Posts for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/), 3 mins
 - [WCAG 2.2 — It’s finally here](https://uxdesign.cc/wcag-2-2-its-finally-here-cd07862a192f)
-- [Just Build It...](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
+- [Just Build It…](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
 - [I built my first AI NPC teammates and here’s what I learnt](https://interconnected.org/home/2023/09/01/npcs), 10 mins
 - [Taking aim: ICO & CMA on harmful design](https://cennydd.com/writing/taking-aim-ico-amp-cma-on-harmful-design)
 - [Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807), 3 mins

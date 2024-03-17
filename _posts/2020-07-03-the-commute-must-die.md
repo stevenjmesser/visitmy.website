@@ -13,9 +13,9 @@ tags:
  - Weeknotes
 ---
 
-It’s firebreak week! Haven’t had a firebreak since January 2019, if you can believe it. (Check out [S02E12]({% post_url 2019-01-12-the-new-cross %}) to see what I did then. And you can [find out what a firebreak is](https://insidegovuk.blog.gov.uk/2015/02/06/gov-uks-firebreak-why-and-how-we-spent-a-month-working-differently/) on the GOV.UK blog.) 
+It’s firebreak week! Haven’t had a firebreak since January 2019, if you can believe it. (Check out [S02E12]({% post_url 2019-01-12-the-new-cross %}) to see what I did then. And you can [find out what a firebreak is](https://insidegovuk.blog.gov.uk/2015/02/06/gov-uks-firebreak-why-and-how-we-spent-a-month-working-differently/) on the GOV.UK blog.)
 
-But what if firebreak never ended? What if teams were empowered to work on what they were passionate about all the time? Chuck that on the thoughtasbord and let’s snack on it...
+But what if firebreak never ended? What if teams were empowered to work on what they were passionate about all the time? Chuck that on the thoughtasbord and let’s snack on it…
 
 ## Work stuff
 
@@ -25,7 +25,7 @@ Most of my week will be spent getting ready for next quarter, probably, but I de
 
 I chatted with Faith Reynolds, the independent consumer representative for Open Banking, about how we can make things better for users. There’s been a huge push to make money out of Open Banking but it’s only right that we stick up for the users, encouraging the banks to make things usable, accessible and trustworthy.
 
-In a product managers’ meeting, [Pete](https://twitter.com/yahoo_pete) said that we should proudly bring the Government as a Platform name back into being, and FUCKIN’ A. 🙌 It’s used in digital government circles, in academia, in all sorts of places _except_ the programme names in GDS. So bun that, we’re bringing it back. (I’ve been using it on my Twitter and LinkedIn because it’s something I believe in.)
+In a product managers’ meeting, [Pete](https://twitter.com/yahoo_pete) said that we should proudly bring the Government as a Platform name back into being, and FUCKIN’ A. 🙌 It’s used in digital government circles, in academia, in all sorts of places *except* the programme names in GDS. So bun that, we’re bringing it back. (I’ve been using it on my Twitter and LinkedIn because it’s something I believe in.)
 
 Based on John Cutler’s ideas on framing product opportunities as bets, creating value and flow over time, and doing the learning upfront (discovery, not constant delivery), I put together [a Trello board to help us frame our product strategy](https://trello.com/b/18auwW8U). It’s a draft right now but the idea is to add our possible work on this board, categorise and label it, and have conversations about how we’d start realising some of the outcomes. It helps us think about what we need to do next to learn about an opportunity and frames big bets against small bets. The hope is that it will make strategy and roadmap planning easier. Let me know what you think.
 
@@ -35,17 +35,17 @@ The Reforge post in the reading list below is 🔥 by the way.
 
 ## Not-work stuff
 
-We’re heading back to London this weekend, so moods are up and down. Not just at the prospect of having to spend 6 hours in the car, but also because, well, we’ve grown to love it here. And though I do love where we are in New Cross, there have been numerous benefits to living here. 
+We’re heading back to London this weekend, so moods are up and down. Not just at the prospect of having to spend 6 hours in the car, but also because, well, we’ve grown to love it here. And though I do love where we are in New Cross, there have been numerous benefits to living here.
 
 - No commute
 - Not woken up by sirens, ever
 - Don’t need to wear earplugs at night
 - Mountains to walk in are right there! *points*
-- Some mornings I can smell the sea on the air 
+- Some mornings I can smell the sea on the air
 
 Not being close to friends has been a bummer, but like most other folk we’ve filled in that social gap with video calls and virtual pubs and tabletop RPGs. In a way, we’ve just been nudged towards things we could have been mostly doing anyway.
 
-Can’t wait to get back and have a mix though. Good thing about lockdown: I've started buying records[^1] again. Mad to think that I would gladly spend £20 a week on records in 2007–10 but in recent years I've been like, 'Hmm, is £2 on that digital single sensible?' No more of that. Getting back into mixing and splashing out on music. Making more time to enjoy music without Spotify. Roll da bass!
+Can’t wait to get back and have a mix though. Good thing about lockdown: I’ve started buying records[^1] again. Mad to think that I would gladly spend £20 a week on records in 2007–10 but in recent years I’ve been like, ‘Hmm, is £2 on that digital single sensible?’ No more of that. Getting back into mixing and splashing out on music. Making more time to enjoy music without Spotify. Roll da bass!
 
 I’ll actually be able to update my website too. Because I left my main machine at home I’ve been writing these weeknotes on a Google Doc, so expect a flurry of posts when I get back.
 
@@ -69,4 +69,4 @@ I’ll actually be able to update my website too. Because I left my main machine
 - [TBM 7/53: Learning Backlogs](https://cutlefish.substack.com/p/tbm-753-learning-backlogs), 3 mins
 - [Product Work Beyond Product-Market Fit — Reforge](https://www.reforge.com/blog/product-work-beyond-product-market-fit), 24 mins
 
-[^1]: OK, files off Bandcamp, but that's fine. Not sure a vinyl habit is OK in the climate crisis?
+[^1]: OK, files off Bandcamp, but that’s fine. Not sure a vinyl habit is OK in the climate crisis?

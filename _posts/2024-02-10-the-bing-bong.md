@@ -13,15 +13,15 @@ tags:
  - Weeknotes
 ---
 
-This week I finished my time on the GOV.‌UK Design System and handed the product role back to Trang. 
+This week I finished my time on the GOV.‌UK Design System and handed the product role back to Trang.
 
-The first thing to say is that I feel incredibly blessed to have been able to work on the design system. It has prestige, it’s well regarded across the tech industry, and it’s [a key component of the GOV.‌UK ecosystem]({% post_url 2024-02-10-how-far-weve-come %}). 
+The first thing to say is that I feel incredibly blessed to have been able to work on the design system. It has prestige, it’s well regarded across the tech industry, and it’s [a key component of the GOV.‌UK ecosystem]({% post_url 2024-02-10-how-far-weve-come %}).
 
 The second thing to say is that I’m grateful to the team. For letting me be their product person temporarily, for the trust we formed together, and for the lovely messages they left in my leaving card.
 
 I haven’t written weeknotes in a while as I’ve been pouring all thoughts and the knowledge I’ve built over the last 14 months into various documents and meetings. But this week I handed it all over (and Mark’s post on [closing out projects](https://markdalgarno.medium.com/closing-out-agile-projects-aaa65f672388) was helpful).
 
-On Monday I gave Trang my handover document to read. And on Tuesday we went over some of the detail. She commented on how clear it was and how it made sense (phew), and it was nice to acknowledge how we’d been thinking about the same things. 
+On Monday I gave Trang my handover document to read. And on Tuesday we went over some of the detail. She commented on how clear it was and how it made sense (phew), and it was nice to acknowledge how we’d been thinking about the same things.
 
 Being product manager for a design system is unlike product management on a regular product or service. But the team leads and senior management team gave me great feedback on the strategic model I’d put together and they’re ready to take it forward.
 
@@ -33,17 +33,17 @@ On Thursday I gave some product advice to folks in the Cabinet Office [Incubator
 
 It was fun to round off my time on the team by joining a panel about design systems at the [In Product meetup](https://www.linkedin.com/feed/update/urn:li:activity:7161713127577890817/) on Thursday. It was lovely to hear so many people in the room, working across the private sector, sing the praises of the GOV.‌UK Design System and tell me how often they looked to it for advice.
 
-On Friday I went over the contract objectives I set with [Martin](https://www.martinlugton.com), our Head of Product, and  I’d achieved them all. I didn’t have a statement of work but the objectives fulfilled that purpose, so it felt pretty good to tick those off. 
+On Friday I went over the contract objectives I set with [Martin](https://www.martinlugton.com), our Head of Product, and I’d achieved them all. I didn’t have a statement of work but the objectives fulfilled that purpose, so it felt pretty good to tick those off.
 
 And that’s it, I guess. My time on the team is done.
 
 I’m chatting to people about my next role now and hopefully something will come together shortly, so a big thank-you to everyone who’s come to me. I really appreciate it! I’ll open up slots for product coaching over the next few weeks, so [contact me]({{ "/contact" | relative_url }}) if you’d like to get in early. (I’ll publish more details next week but can answer any questions over email.)
 
-## Running 
+## Running
 
 I’ve been sticking to the training plan and my fitness is coming back after a relatively lazy November and December. It’s been nice to venture out to the countryside every Sunday for a jaunt across the North Downs. I’ve been taking an ultralight stove with me and brewing a cup of tea at the end, which has been delightful!
 
-Been limiting my calorie intake this week, to try and shed some Christmas weight, and the calorie deficit has been _very_ apparent. I didn’t realise how much energy you burn going in to the office. Makes me realise that buying a chocolate bar after lunch in the office is totally justified!
+Been limiting my calorie intake this week, to try and shed some Christmas weight, and the calorie deficit has been *very* apparent. I didn’t realise how much energy you burn going in to the office. Makes me realise that buying a chocolate bar after lunch in the office is totally justified!
 
 ## Bookmarks
 

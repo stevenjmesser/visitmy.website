@@ -9,7 +9,7 @@ tags:
  - Weeknotes
 ---
 
-Nothing much to share from last week. I was off sick for two days and did little of note at work: 
+Nothing much to share from last week. I was off sick for two days and did little of note at work:
 
 - covered user support for a day
 - iterated the survey for assessing WCAG 2.2’s impact on a service, and

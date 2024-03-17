@@ -21,10 +21,10 @@ Lyu says that the products margins are good but people could spend $15 a month o
 
 - **Subscription model**: So users can avoid transaction fees. Probably just pass the ChatGPT costs on to users, so $15 a month.
 
-- **Tip your rabbit**: If you tip your rabbit, it’ll do a better, more accurate job. Hilariously this is a [real thing](https://blog.finxter.com/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis/)! Just like in [_Ubik_](https://www.goodreads.com/quotes/7444685-the-door-refused-to-open-it-said-five-cents-please).
+- **Tip your rabbit**: If you tip your rabbit, it’ll do a better, more accurate job. Hilariously this is a [real thing](https://blog.finxter.com/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis/)! Just like in [*Ubik*](https://www.goodreads.com/quotes/7444685-the-door-refused-to-open-it-said-five-cents-please).
 
-- **Adverts on the free tier**: ‘And now a word from our sponsors’ but coming out of an orange box in your pocket. Again, _Ubik_.
+- **Adverts on the free tier**: ‘And now a word from our sponsors’ but coming out of an orange box in your pocket. Again, *Ubik*.
 
-- **Biz dev**: Special offers from other brands. Or access to unique products from luxury brands, considering this may be adopted mostly by rich folk. For the aspirational middle-earners, Bloomberg will describe this as ‘democratising luxury’ or something similarly saccharine. 
+- **Biz dev**: Special offers from other brands. Or access to unique products from luxury brands, considering this may be adopted mostly by rich folk. For the aspirational middle-earners, Bloomberg will describe this as ‘democratising luxury’ or something similarly saccharine.
 
 - **Rabbit store**: Taking a percentage of revenue from user-built rabbits, like Apple’s App Store. [According to Lyu](https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware#:~:text=As%20users%20sell%20their%20own%20rabbits%2C%20Rabbit%20OS%20will%20take%20a%20cut%2C%20just%20like%20Apple%20does%20with%20its%20App%20Store.%20“We’re%20not%20reinventing%20any%20business%20models%2C”%20says%20Lyu.), this is one business model they will actually pursue. (Although they’ll need a name that doesn’t sound like a dildo shop.)

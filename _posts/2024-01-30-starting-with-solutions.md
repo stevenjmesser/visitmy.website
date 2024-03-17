@@ -14,7 +14,7 @@ tags:
 
 Over the years I’ve written a lot about starting with solutions. Like when we needed to [improve publishing times on GOV.‌UK]({% post_url 2018-09-22-The-Finale %}), [when we thought structured data might help with ‘personalisation’]({% post_url 2019-01-26-the-reminder %}) and [early ideas for what ‘personalisation’ features might be]({% post_url 2019-01-26-the-reminder %}), plus the time we saw [an opportunity to make GOV.‌UK Pay available for call centre staff]({% post_url 2020-07-18-the-productivity-hack %}).
 
-Realistically these weren’t final solutions but early ideas – hypothetical solutions – that we could test out and refine (or throw away) based on what we learned. 
+Realistically these weren’t final solutions but early ideas – hypothetical solutions – that we could test out and refine (or throw away) based on what we learned.
 
 I like starting with hypothetical solutions and using those to learn more about the problem because they give you a starting point. This comes from using Lean product methods in my work a lot, [thinking big and starting small]({% post_url 2022-11-09-a-team-for-thinking-big-and-starting-small %}).
 

@@ -9,7 +9,7 @@ tags:
  - Weeknotes
 ---
 
-The last time I wrote weeknotes was three weeks ago, and these are hanging over my head somewhat – so I want to get something out there to clear brain space. 
+The last time I wrote weeknotes was three weeks ago, and these are hanging over my head somewhat – so I want to get something out there to clear brain space.
 
 Over the last three weeks I
 
@@ -31,7 +31,7 @@ Over the last three weeks I
 - had a couple of catch-ups with our deputy director, Amanda (who’s awesome), and
 - planned kicking off the new quarter, including adapting our sprint cycle and introducing an epic WIP limit
 
-It felt like I was a part of a lot of change. It did feel a bit heavy, which is why I didn’t find time to write weeknotes. But it’s all good change in the right direction. 
+It felt like I was a part of a lot of change. It did feel a bit heavy, which is why I didn’t find time to write weeknotes. But it’s all good change in the right direction.
 
 I’m getting involved in a few strategic projects, which is exciting and where I feel my best. It’s been very rewarding to see how all the thinking we did on ‘personalisation’ – which was never and still isn’t the right term – has progressed. And I’ve been grateful to get involved in it some more now that I’m back at GDS.
 
@@ -39,7 +39,7 @@ One thing I’m very conscious of is my contract end date. With the changes we�
 
 For the higher level stuff, the Digital Service Platforms strategy and the cross-GDS strategy, I’m mostly feeding in to projects in motion. So the knowledge won’t leave with me, which is good. (Although I would really like to stick around on those.)
 
-This is making me think back to a previous note about [thinking big and starting small]({% post_url 2022-11-09-a-team-for-thinking-big-and-starting-small %}), which is the sort of work I’d like to do going forward. I’m not sure what job title encapsulates that work: strategy consultant has too many bad connotations, and I’d want to own the failures (more than the successes) of anything I worked on. 
+This is making me think back to a previous note about [thinking big and starting small]({% post_url 2022-11-09-a-team-for-thinking-big-and-starting-small %}), which is the sort of work I’d like to do going forward. I’m not sure what job title encapsulates that work: strategy consultant has too many bad connotations, and I’d want to own the failures (more than the successes) of anything I worked on.
 
 Perhaps I need to work up my innovation chops. Get a bit more experience hearing a brief, setting to work on it, and delivering something after a few months. Agency work, I suppose, but in-house stuff would be nice. I don’t want to be managing teams for ever, I don’t get to use my creative juices enough on that (mostly managerial) work. (Although it is good when a team needs a new strategic direction and all the culture work that goes with it.)
 
@@ -47,7 +47,7 @@ Didn’t expect to do any reflection this morning but there it is.
 
 ## Bookmarks
 
-- [There's a lot to like about the Web Share API](https://www.bryanbraun.com/2023/03/17/theres-a-lot-to-like-about-the-web-share-api/), 3 mins
+- [There’s a lot to like about the Web Share API](https://www.bryanbraun.com/2023/03/17/theres-a-lot-to-like-about-the-web-share-api/), 3 mins
 - [The Worry Police](https://randsinrepose.com/archives/the-worry-police/), 4 mins
 - [Digital transformation in government: addressing the barriers to efficiency](https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/), 3 mins
 - [Designing proactively](https://chasem.co/2018/02/designing-proactively/), 3 mins
@@ -66,7 +66,7 @@ Didn’t expect to do any reflection this morning but there it is.
 - [The machinery, structure and output of the British state need reform](https://www.economist.com/leaders/2023/03/23/the-machinery-structure-and-output-of-the-british-state-need-reform), 4 mins
 - [Vicarious trauma: signs and strategies for coping](https://www.bma.org.uk/advice-and-support/your-wellbeing/vicarious-trauma/vicarious-trauma-signs-and-strategies-for-coping), 3 mins
 - [“I’m Blogging Right Now”](https://thejaymo.tumblr.com/post/713127336999043072/im-blogging-right-now), 1 mins
-- ['Prohibition doesn't work': UK club community responds to proposed nitrous oxide ban](https://ra.co/news/78759), 3 mins
+- [‘Prohibition doesn’t work’: UK club community responds to proposed nitrous oxide ban](https://ra.co/news/78759), 3 mins
 - [Italian regulators order ChatGPT ban over alleged violation of data privacy laws](https://www.theverge.com/2023/3/31/23664451/italy-bans-chatgpt-over-data-privacy-laws), 2 mins
 - [Mess](https://www.vickyteinaki.com/newsletter/27-mess/), 3 mins
 - [Becoming a Power Reader: Battling Information Overload, Developing Skills, and Building a Personal Brand](https://valchanova.me/power-reader/), 10 mins

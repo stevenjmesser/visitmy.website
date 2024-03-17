@@ -4,13 +4,13 @@ title: "Best, not first"
 date: 2023-10-24 07:16:57+01:00
 ---
 
-Related to Sunday’s notes about not being driven by hype-cycles, this phrase ‘Best, not first’ feels like a good one to follow for public services implementing new or greenfield technologies. 
+Related to Sunday’s notes about not being driven by hype-cycles, this phrase ‘Best, not first’ feels like a good one to follow for public services implementing new or greenfield technologies.
 
-It’s from a piece on [Apple and their relative inaction on AI compared to Microsoft and Google](https://daringfireball.net/2023/10/apple_and_ai?utm_source=pocket_saves). While Google and Microsoft have built generative AI versions of their search engines, Apple has “only” applied AI to their autocorrect feature. 
+It’s from a piece on [Apple and their relative inaction on AI compared to Microsoft and Google](https://daringfireball.net/2023/10/apple_and_ai?utm_source=pocket_saves). While Google and Microsoft have built generative AI versions of their search engines, Apple has “only” applied AI to their autocorrect feature.
 
-But that’s good. Autocorrect is a feature with a wide surface area, used every day by billions of people, right at the core of the experience in almost every app on iOS. 
+But that’s good. Autocorrect is a feature with a wide surface area, used every day by billions of people, right at the core of the experience in almost every app on iOS.
 
-That’s important. That’s utility over being flashy. 
+That’s important. That’s utility over being flashy.
 
 And here’s the ‘Best, not first’ phrase making an appearance.
 

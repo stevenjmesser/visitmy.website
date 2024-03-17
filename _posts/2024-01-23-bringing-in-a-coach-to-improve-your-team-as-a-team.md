@@ -14,7 +14,7 @@ tags:
 
 Last year we brought in a coach to help the GOV.‌UK Design System team make improvements – as a team, collectively.
 
-Coaching and mentoring is one of the soft skills that product managers and delivery managers – at senior level and above – are expected to do. Just looking at [agile working](https://ddat-capability-framework.service.gov.uk/skills.html#agile-working) and [product ownership](https://ddat-capability-framework.service.gov.uk/skills.html#product-ownership) in the government’s digital skills framework, or do a quick search for ‘product manager coaching’. 
+Coaching and mentoring is one of the soft skills that product managers and delivery managers – at senior level and above – are expected to do. Just looking at [agile working](https://ddat-capability-framework.service.gov.uk/skills.html#agile-working) and [product ownership](https://ddat-capability-framework.service.gov.uk/skills.html#product-ownership) in the government’s digital skills framework, or do a quick search for ‘product manager coaching’.
 
 But it can be hard to do alongside all that delivery work. And what if you could benefit from some coaching too?
 

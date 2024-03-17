@@ -11,11 +11,11 @@ tags:
 
 Recently I’ve been setting some professional development objectives, so that I can continue developing skills and adding value to the service I’m working on. And maybe work towards a promotion.
 
-Based on what I’m working on and the context we’re in, I’m thinking it’d be sensible to mix and match skills from two [capability profiles](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework)...
+Based on what I’m working on and the context we’re in, I’m thinking it’d be sensible to mix and match skills from two [capability profiles](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework)…
 
-For context, I’m working in a service redesign team on an end-to-end service. That means we’re looking at how to iterate the minimum viable service and make it more scalable over time. 
+For context, I’m working in a service redesign team on an end-to-end service. That means we’re looking at how to iterate the minimum viable service and make it more scalable over time.
 
-I’ve been hired as a senior product manager, but I’m not the only product manager working on the service. That’s because [a service is everything a user needs to do to achieve a goal](https://medium.com/@teropsv/products-deliver-outputs-services-deliver-outcomes-845f964ba1ff), and a service can be made up of products, platforms and enabling services. 
+I’ve been hired as a senior product manager, but I’m not the only product manager working on the service. That’s because [a service is everything a user needs to do to achieve a goal](https://medium.com/@teropsv/products-deliver-outputs-services-deliver-outcomes-845f964ba1ff), and a service can be made up of products, platforms and enabling services.
 
 So while I don’t tell other product or service managers what to do, I am involved in how their areas knit together. I’m the glue.
 
@@ -27,13 +27,13 @@ How the DDaT skills profile describe strategic ownership/thinking for product ma
 
 Strategic ownership for product managers:
 
-> You can develop a long-term vision and objectives. You can take a discerning and disciplined approach to focusing on what is important and most relevant. You can develop the capability of others. 
+> You can develop a long-term vision and objectives. You can take a discerning and disciplined approach to focusing on what is important and most relevant. You can develop the capability of others.
 
 Strategic thinking for service designers:
 
 > You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met.
 
-The definition for service designers is more what I do: designing strategies, ensuring they deliver value and meet requirements. It’s pragmatic. Which is more than developing visions and objectives...although I also do that.
+The definition for service designers is more what I do: designing strategies, ensuring they deliver value and meet requirements. It’s pragmatic. Which is more than developing visions and objectives…although I also do that.
 
 Am I doing two jobs?
 

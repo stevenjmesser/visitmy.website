@@ -9,27 +9,27 @@ tags:
  - Weeknotes
 ---
 
-This week went by quickly, too quickly. There were also lots of bitty things that took up time, and I didn’t get all the focus I needed to finish tying together our performance framework, quarterly objectives and roadmap. That’s something I can finish next week. 
+This week went by quickly, too quickly. There were also lots of bitty things that took up time, and I didn’t get all the focus I needed to finish tying together our performance framework, quarterly objectives and roadmap. That’s something I can finish next week.
 
 It’s hanging over me, hence calling it out early on. Apart from that, this week I
 
 - lightly scoped our service design discovery with our user researcher
-- had several one-to-ones, including coaching a member of the product community on an interview 
+- had several one-to-ones, including coaching a member of the product community on an interview
 - had a check-in with the Digital Service Platforms leadership
 - iterated our objectives for quarter 4
 - started stitching a golden thread between our benefits model, performance metrics, quarterly objectives and roadmap
 - joined the workshop on the remaining risky assumptions for [Exit this Page](https://github.com/alphagov/govuk-design-system-backlog/issues/213)
 - had a day off for my partner’s birthday
-- tinkered with the new GitHub Projects to see what data it offers 
+- tinkered with the new GitHub Projects to see what data it offers
 - tinkered with ProductPlan for creating roadmaps
 - started researching the size of design system teams and maturity models
 - iterated our product development model with our senior designer and community designer
 
-Looking back on it, that’s a lot. 4 weeks into the new role and I’m still getting my head into the team, how it works, and the value it provides. The model is starting to become clearer, but I am piecing together work done before, by different people, to avoid duplicating effort. 
+Looking back on it, that’s a lot. 4 weeks into the new role and I’m still getting my head into the team, how it works, and the value it provides. The model is starting to become clearer, but I am piecing together work done before, by different people, to avoid duplicating effort.
 
 ## Product development model
 
-There’s a misconception with the GOV.UK Design System: the team doesn’t create components and patterns. Instead, the team reviews contributions from the community, common components and patterns, and makes these consistent with the GOV.UK aesthetic, guidance on HTML, CSS and JavaScript, and reviews accessibility. It’s a value add: take something the community has developed and make it re-usable for others. 
+There’s a misconception with the GOV.UK Design System: the team doesn’t create components and patterns. Instead, the team reviews contributions from the community, common components and patterns, and makes these consistent with the GOV.UK aesthetic, guidance on HTML, CSS and JavaScript, and reviews accessibility. It’s a value add: take something the community has developed and make it re-usable for others.
 
 There are plenty of contributions in the backlog to work on, and the model for selecting those and starting work is clear. However, the team approaches each piece of work in a different way, depending on the size and complexity of the thing. That’s a normal agile approach, of course, but in order to work through the backlog more quickly, there’s an opportunity to refine the model and make clear the stages and decision points.
 
@@ -43,11 +43,11 @@ The number of people in our team has grown over the years, but at times there ha
 
 But in the economic model, there’s a question mark around the team size. How big should it be? In lieu of piecing together data from GitHub Projects over the years to do simple productivity calculations, I’m researching the sizes of other design system teams and the maturity of their system.
 
-This week I spoke to a product manager for the Just Eat Takeaway.com design system, who had launched a design system at a previous employer. I won’t reveal their numbers – and I need to speak with at least 5 teams to get a decent spread of figures – but it’s fair to say that government gets good value for money from our team! 
+This week I spoke to a product manager for the Just Eat Takeaway.com design system, who had launched a design system at a previous employer. I won’t reveal their numbers – and I need to speak with at least 5 teams to get a decent spread of figures – but it’s fair to say that government gets good value for money from our team!
 
 I learned a lot from our chat and they’re sending over a bunch of links and things for me to check out.
 
-Love how much you can learn from sending people a message and having a coffee. 
+Love how much you can learn from sending people a message and having a coffee.
 
 ## Rye, East Sussex
 

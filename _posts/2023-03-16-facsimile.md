@@ -6,7 +6,7 @@ tags:
  - Notes
 ---
 
-_Another note about writing weeknotes. Sorry._
+*Another note about writing weeknotes. Sorry.*
 
 Taking notes at the right time is hard. For a while I was good at it, but that stopped happening and now I write weeknotes as a reflective practice. I don’t scribble notes throughout my working day.
 

@@ -9,7 +9,7 @@ tags:
 
 Today marks the last day of Dry January, a month-long abstinence from drinking alcohol that has grown in popularity in recent years. This is my fourth time doing the challenge, but this year I have a different goal. I’ve set out to not drink alcohol in 2023.
 
-_The whole year?!_ is what most people say when I tell them I’m not drinking. Yeah, I reply. I’m going to try, anyway. 
+*The whole year?!* is what most people say when I tell them I’m not drinking. Yeah, I reply. I’m going to try, anyway.
 
 People are surprised because they know me as a drinker. If we’re together, in the pub, or a restaurant, or at their houses, I’ll more than likely have a pint of lager or glass of wine. Usually several.
 
@@ -17,14 +17,14 @@ This isn’t the first time I’ve done a dry stretch, so I’ve got a bit of ex
 
 This year-long abstinence from booze comes from a similar place, but I have two other goals with it.
 
-1. I have an ultramarathon to train for and run in July.
-2. I want to remove that post-alcohol fug and see if I feel different.
+1.  I have an ultramarathon to train for and run in July.
+2.  I want to remove that post-alcohol fug and see if I feel different.
 
-Running has helped me reduce my alcohol intake, I’m sure of that. Running on a hangover is horrible for the first 45 minutes, if you manage to get out of bed at all. But I can’t let my relationship with alcohol get in the way of my goal of running 50 miles. 
+Running has helped me reduce my alcohol intake, I’m sure of that. Running on a hangover is horrible for the first 45 minutes, if you manage to get out of bed at all. But I can’t let my relationship with alcohol get in the way of my goal of running 50 miles.
 
 And why am I running an ultramarathon? Dunno. Part YOLO, part spirituality. It’s also an excuse to eat a lot.
 
-Getting rid of that haze from booze is something I’m interested to experience. Thinking back, I reckon I’ve had a drink every week – at some points, every day – since I was 16. And they say that your mind doesn’t get clear of the effects of alcohol, the tiredness and everything, until 60–90 days without alcohol. So I’d like to try that. 
+Getting rid of that haze from booze is something I’m interested to experience. Thinking back, I reckon I’ve had a drink every week – at some points, every day – since I was 16. And they say that your mind doesn’t get clear of the effects of alcohol, the tiredness and everything, until 60–90 days without alcohol. So I’d like to try that.
 
 The reason all this is weird or hard is because alcohol – and, to a large extent, getting wasted – is a big part of British culture. When I was a teenager, there was a frenzy around getting booze, fags and drugs. Getting shitfaced was a cool thing to do. That’s been a big part of my generation and the people who were older than us.
 

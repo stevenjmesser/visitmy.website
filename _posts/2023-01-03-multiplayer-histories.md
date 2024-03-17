@@ -9,8 +9,8 @@ tags:
  - Notes
 ---
 
-Over the winter break I started reading Che Guevara’s diaries from the Cuban revolution. These were scribblings he made during the war, turned into fuller notes later to be published. 
+Over the winter break I started reading Che Guevara’s diaries from the Cuban revolution. These were scribblings he made during the war, turned into fuller notes later to be published.
 
 There’s a lovely note in the foreword that seemed to be a disclaimer one could apply to their weeknotes, but also a call for more people to write.
 
-> “I do not wish that this fragmentary history, based on memories and a few hasty notes, should be regarded as a full account. On the contrary, I hope that those who also lived through these events will further elaborate.” Ernesto ‘Che’ Guevara, _Reminiscences of the Cuban Revolutionary War_
+> “I do not wish that this fragmentary history, based on memories and a few hasty notes, should be regarded as a full account. On the contrary, I hope that those who also lived through these events will further elaborate.” Ernesto ‘Che’ Guevara, *Reminiscences of the Cuban Revolutionary War*

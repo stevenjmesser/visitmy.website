@@ -33,21 +33,21 @@ This week I chatted to a product manager from Sainsbury’s Digital about their 
 
 ## Ecocycle planning
 
-Originally I was going to use a [sailboat workshop](https://miro.com/guides/retrospectives/how-to-run-sailboat-retrospective) to review the Frontend squad’s ways of working, looking at what we might change or add to better meet our goals, but I went with [ecocycle planning](https://www.liberatingstructures.com/31-ecocycle-planning/) instead. 
+Originally I was going to use a [sailboat workshop](https://miro.com/guides/retrospectives/how-to-run-sailboat-retrospective) to review the Frontend squad’s ways of working, looking at what we might change or add to better meet our goals, but I went with [ecocycle planning](https://www.liberatingstructures.com/31-ecocycle-planning/) instead.
 
-They’re similar workshops but ecocycle planning is oriented around taking actions rather than simply identifying what might be holding us back. It encourages people to think about which activities we’ll redesign and how. I’m more in favour of action-oriented workshops because they’re more productive and proactive – other structures promote complaining without suggesting remedial actions. 
+They’re similar workshops but ecocycle planning is oriented around taking actions rather than simply identifying what might be holding us back. It encourages people to think about which activities we’ll redesign and how. I’m more in favour of action-oriented workshops because they’re more productive and proactive – other structures promote complaining without suggesting remedial actions.
 
 ## Constraints, compromise and creativity
 
-This week I’ve been thinking a lot about constraints, compromise and creativity: creating the conditions that make it safe to fail or get things wrong, that enable quicker decision-making and lower risk-aversion, as well as supporting the creative endeavours of the team. 
+This week I’ve been thinking a lot about constraints, compromise and creativity: creating the conditions that make it safe to fail or get things wrong, that enable quicker decision-making and lower risk-aversion, as well as supporting the creative endeavours of the team.
 
-Product teams are staffed with creative people who work inside constraints and have to make compromises. This is true of all the disciplines on a cross-functional team: designers, developers, researchers, specialists and managers alike. Design the right stuff and build it right. Balance user needs with organisational demands. Make something valuable that’s feasible to implement. Weigh up competing priorities and commit to what will deliver the most value for the least effort. 
+Product teams are staffed with creative people who work inside constraints and have to make compromises. This is true of all the disciplines on a cross-functional team: designers, developers, researchers, specialists and managers alike. Design the right stuff and build it right. Balance user needs with organisational demands. Make something valuable that’s feasible to implement. Weigh up competing priorities and commit to what will deliver the most value for the least effort.
 
 When you look at the neuroscience behind creativity, it’s a muscle that needs to be exercised, playing off the Imagination and Salience networks against the Executive Attention network. These are neural pathways in your brain that will only get better through exercise. So while you can partly rely on team members to exercise these parts of their brain, it’s only fair to shape their working environment to encourage that exercise too.
 
 The Double Diamond model balances creativity with constraints by creating a space for divergent ideas and encouraging convergence on a small set or mix of ideas. Agile phases allow us to work through risk mitigation activities, and a bunch of factors contribute to the compromises we need to make.
 
-Anyway, all of that research led me to look into how psychedelic drugs impact the brain and encourage new neural pathways to fire up, hence the hallucinations. We experience images or modes of thinking that our Executive Attention network might inhibit. I guess this is how some people are utilising large language models, as a kind of hallucination without needing to do shrooms, acid, mescaline or DMT. 
+Anyway, all of that research led me to look into how psychedelic drugs impact the brain and encourage new neural pathways to fire up, hence the hallucinations. We experience images or modes of thinking that our Executive Attention network might inhibit. I guess this is how some people are utilising large language models, as a kind of hallucination without needing to do shrooms, acid, mescaline or DMT.
 
 ## Bookmarks
 

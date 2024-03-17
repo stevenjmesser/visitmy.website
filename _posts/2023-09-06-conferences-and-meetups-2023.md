@@ -22,11 +22,18 @@ Anyway, here’s a list of all the things I’m going to this year. Drop me a li
 
 ## Attended
 
-| Date                   | Event                                                         | Location                        |
-| ---------------------- | ------------------------------------------------------------- | ------------------------------- |
-| 12 January 2023        | Product for the People Unconference 2023 #1                   | London, England                 |
-| 21 February 2023       | International Design in Government call – working in the open | Online                          |
-| 29 June 2023           | Product for the People Unconference 2023 #2                   | Cardiff, Wales                  |
-| 10 and 11 October 2023 | Design System Day 2023                                        | Edinburgh, Scotland, and online |
-| 10 November 2023       | ffconf 2023                                                   | Brighton, England               |
-| 23 November 2023       | Product for the People Unconference 2023 #3                   | Manchester, England             |
+  -----------------------------------------------------
+  Date                     Event                                                           Location
+  ------------------------ --------------------------------------------------------------- ---------------------------------
+  12 January 2023          Product for the People Unconference 2023 #1                     London, England
+
+  21 February 2023         International Design in Government call – working in the open   Online
+
+  29 June 2023             Product for the People Unconference 2023 #2                     Cardiff, Wales
+
+  10 and 11 October 2023   Design System Day 2023                                          Edinburgh, Scotland, and online
+
+  10 November 2023         ffconf 2023                                                     Brighton, England
+
+  23 November 2023         Product for the People Unconference 2023 #3                     Manchester, England
+  -----------------------------------------------------

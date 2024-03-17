@@ -22,7 +22,7 @@ Yesterday I ran my first race, a virtual race, the [SeaWheeze 10K](https://www.s
 
 The race organisers provided a [training plan](https://pnimages.lululemon.com/content/dam/seawheeze/EN_SW21_Training%20Guide_10K_CAN_Updated_1.pdf?icid=cdp-story:seawheeze-virtual-run;5;12lrgmasonry;campaigns) that encouraged you to run 4 times a week, mostly easy runs, with one long run and some pace work. It felt like quite a light program, but I figure it uses the [80/20 rule](https://www.runnersworld.com/uk/training/motivation/a27718661/what-is-80-20-running/). The only changes I made to the program were to swap yoga days for recovery runs or swimming, and I occasionally ran longer than you were supposed to for a long run.
 
-I ran longer on long runs because I’ve been getting into off-road/trail/fell running[^1], and I’m really loving it, but I made up for it by reducing my easy run miles and taking recovery runs really slowly. (I’m still not sure if easy runs and recovery runs are the same thing...)
+I ran longer on long runs because I’ve been getting into off-road/trail/fell running[^1], and I’m really loving it, but I made up for it by reducing my easy run miles and taking recovery runs really slowly. (I’m still not sure if easy runs and recovery runs are the same thing…)
 
 ### First attempt
 
@@ -38,7 +38,7 @@ Towards the 9km mark I had to stop as a trailer was blocking the path, but it al
 
 After the trailer left, I started off again and ran through the golf course towards the beach. Running on sand is no fun, but I’d timed my run with the tide and got onto flat, wet sand near the tide line after jumping over the groynes.
 
-Then my watch buzzed that I’d finished the course, so I stopped and took a look at my time. I’d averaged 4:36 per km, not as good as I’d hoped but still a personal best! And then I realised I’d only run 9.6km...
+Then my watch buzzed that I’d finished the course, so I stopped and took a look at my time. I’d averaged 4:36 per km, not as good as I’d hoped but still a personal best! And then I realised I’d only run 9.6km…
 
 Annoyed and confused, I headed home to try it again after rest and recovery. After looking at the course and my route, I realised I hadn’t turned right at the golf course, I’d run straight onto the beach instead. At least I knew where I’d gone wrong and could correct it.
 
@@ -71,4 +71,5 @@ Next week I’m going to Innsbruck, Austria, to have some fun running on their m
 When I get back, I’ll start training for a marathon. I’d like to run that distance along the coastal path here, from Abersoch to Aberdaron, before we leave Wales.
 
 ---
+
 [^1]: I don’t like saying ‘trail running’ to people in the UK, it feels like North American terminology. Much the same as I never say I’m going hiking, I’m just going for a walk.

@@ -13,4 +13,4 @@ tags:
 
 From the [Môrwelion](https://museum.wales/cardiff/whatson/11790/The-Sea-Horizon/) exhibition at the National Museum of Wales:
 
-> The horizon is a symbolic and spiritual form that has occupied Garry Fabian Miller's creative practice throughout his career: "The horizon is a speculative subject – what exists beyond? What is the future? Where are we travelling? With The Sea Horizon, I was trying to understand myself by looking at the horizon and I knew that if I looked for long enough, I'd begin to understand how I should be functioning in the world, and the emotional condition of being human and being alive."
+> The horizon is a symbolic and spiritual form that has occupied Garry Fabian Miller’s creative practice throughout his career: “The horizon is a speculative subject – what exists beyond? What is the future? Where are we travelling? With The Sea Horizon, I was trying to understand myself by looking at the horizon and I knew that if I looked for long enough, I’d begin to understand how I should be functioning in the world, and the emotional condition of being human and being alive.”

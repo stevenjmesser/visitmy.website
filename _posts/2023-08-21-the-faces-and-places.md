@@ -39,14 +39,14 @@ That’s one thing I’ve been learning through coaching the team, that you real
 - going over the different roles and their responsibilities in making things (by following the mode), and
 - helping each discipline on the team form contracts with other disciplines to outline what they need from each other.
 
-It's stuff I know but that's easy to forget, so I've updated my [essentials for starting and joining product teams]({% post_url 2020-08-15-essentials-for-starting-and-joining-product-teams %}).
+It’s stuff I know but that’s easy to forget, so I’ve updated my [essentials for starting and joining product teams]({% post_url 2020-08-15-essentials-for-starting-and-joining-product-teams %}).
 
 ## Not-work things
 
-- _Medusa Deluxe_ on Mubi is quite fun
-- _Henpocalypse!_ on BBC iPlayer is chaotic fun, with a very Wolverhampton sense of humour (written by Caroline Moran)
-- Wasn't ready for the ultramarathon in July, so training for two marathons in September instead – it's going well!
-- Every Sunday is pizza day, and this Sunday I learned that the M&S pizza base mix is better than making your own out of '00' flour (will try strong white bread flour next time)
+- *Medusa Deluxe* on Mubi is quite fun
+- *Henpocalypse!* on BBC iPlayer is chaotic fun, with a very Wolverhampton sense of humour (written by Caroline Moran)
+- Wasn’t ready for the ultramarathon in July, so training for two marathons in September instead – it’s going well!
+- Every Sunday is pizza day, and this Sunday I learned that the M&S pizza base mix is better than making your own out of ‘00’ flour (will try strong white bread flour next time)
 
 ## Bookmarks
 

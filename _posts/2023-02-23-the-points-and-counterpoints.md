@@ -9,7 +9,7 @@ tags:
  - Weeknotes
 ---
 
-Writing these on Thursday instead of Saturday because I’m heading to Cardiff tomorrow. 
+Writing these on Thursday instead of Saturday because I’m heading to Cardiff tomorrow.
 
 This week I
 
@@ -36,27 +36,27 @@ Tomorrow I will
 - continue prototyping a survey to help teams assess the impact of WCAG 2.2 on their services
 - welcome [Tom](https://www.leaningforward.com) back to the GDS product community – yay!
 
-I’ve expanded on a couple of thoughts below but, as ever, if you want to talk or learn about any of the above, let me know. 
+I’ve expanded on a couple of thoughts below but, as ever, if you want to talk or learn about any of the above, let me know.
 
 ## Meetings, workshops, communication and sense-making
 
 This was a hot topic on the team this week, and I think it’s always a contentious discussion these days. Yes, there are loads of meetings that could have been emails. Yes, spending a lot of time on video is draining. Yes, we have to try and juggle thinking with doing. Yes, some types of thinking are best not done in-person.
 
-But I don’t think meetings are inherently bad. Or that every time people get together it’s a meeting, sometimes it’s a [workshop](https://www.nngroup.com/articles/workshops-vs-meetings/). There’s nuance to all this. So I don’t think meetings should always be spoken about negatively. 
+But I don’t think meetings are inherently bad. Or that every time people get together it’s a meeting, sometimes it’s a [workshop](https://www.nngroup.com/articles/workshops-vs-meetings/). There’s nuance to all this. So I don’t think meetings should always be spoken about negatively.
 
-We [experimented with getting rid of meetings](https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/) when I was on GOV.UK Pay, and the results were really interesting. The experiment helped us understand that nuance, so that we could better design methods for making decisions, collaborating on designs, sharing information and collecting thoughts. 
+We [experimented with getting rid of meetings](https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/) when I was on GOV.UK Pay, and the results were really interesting. The experiment helped us understand that nuance, so that we could better design methods for making decisions, collaborating on designs, sharing information and collecting thoughts.
 
-Coincidentally, Elizabeth Ayer from 18F published a post on why meetings _are_ integral to knowledge work (see the bookmarks below), which was good because it was rooted in research. Good timing too. I don’t think it drew a divide on synchronous and asynchronous meetings, which is fine because a lot of what she’s saying applies to both styles of communication (in my opinion).
+Coincidentally, Elizabeth Ayer from 18F published a post on why meetings *are* integral to knowledge work (see the bookmarks below), which was good because it was rooted in research. Good timing too. I don’t think it drew a divide on synchronous and asynchronous meetings, which is fine because a lot of what she’s saying applies to both styles of communication (in my opinion).
 
-Anyway, I guess this is ground we’ll probably re-tread in every team over the next few years. Or perhaps forever. And that’s fair, right? Each team is staffed with individuals, individual styles and individual lives. 
+Anyway, I guess this is ground we’ll probably re-tread in every team over the next few years. Or perhaps forever. And that’s fair, right? Each team is staffed with individuals, individual styles and individual lives.
 
-Let’s design our ways of working intentionally, to help us balance our work and our real lives. 
+Let’s design our ways of working intentionally, to help us balance our work and our real lives.
 
-## Broadcast versus engagement 
+## Broadcast versus engagement
 
 In the directorate town hall I asked about how some governance processes were being redesigned. The meeting last week where deputy directors read roadmaps back to teams was badged as a way to create more accountability and look sideways across the directorate. Which is fair. But, to be honest, it came out of the blue and felt like it wouldn’t achieve more accountability on its own. There had to be other changes in mind, surely?
 
-For what it’s worth, I think it’s a good thing in general. We have our [roadmap](https://design-system.service.gov.uk/community/roadmap/), [backlog](https://github.com/alphagov/govuk-design-system-backlog/issues) and [sprint board](https://github.com/orgs/alphagov/projects/53/views/36) available openly. And I’m a giant nerd who writes about work at 6 p.m. on a Thursday. 
+For what it’s worth, I think it’s a good thing in general. We have our [roadmap](https://design-system.service.gov.uk/community/roadmap/), [backlog](https://github.com/alphagov/govuk-design-system-backlog/issues) and [sprint board](https://github.com/orgs/alphagov/projects/53/views/36) available openly. And I’m a giant nerd who writes about work at 6 p.m. on a Thursday.
 
 There had been some changes to the directorate weeknote meaning teams didn’t have as much space to tell the stories of their work, that everything they shared had to be focussed around directorate objectives. Again, that’s not necessarily a bad thing, but it does reduce teams’ ability to look sideways – which I challenged our director on.
 

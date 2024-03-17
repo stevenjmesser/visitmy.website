@@ -19,13 +19,13 @@ The Economics team presented on how they measure the benefits of the [Government
 
 We tested the paying user journey to see what happens during [3D Secure 2](https://3dsecure2.com), so that we know the impact it will have on users. It’s hard to step through this journey without using real card details, so I ended up sharing my debit card details with the team. Heck of a way to build trust! Unfortunately I didn’t need to do any verification, so we might have to try again with a different card and a higher transaction amount.
 
-I used Tobi’s kick-off document template to [create alignment during product discovery](https://tobiogunsina.com/creating-alignment-during-product-discovery/), which nicely framed all the knowns and unknowns we need to pull out and talk about. 
+I used Tobi’s kick-off document template to [create alignment during product discovery](https://tobiogunsina.com/creating-alignment-during-product-discovery/), which nicely framed all the knowns and unknowns we need to pull out and talk about.
 
-We met with our new senior responsible owner, Rox, who has been a fan of GOV.UK Pay for years and is excited about the strategic possibilities we’re exploring. She empathised with our need for customer success/growth capabilities too. We made the link with her through our weeknotes, which she said were clearly written and easy to understand. I'm proud of that. :)
+We met with our new senior responsible owner, Rox, who has been a fan of GOV.UK Pay for years and is excited about the strategic possibilities we’re exploring. She empathised with our need for customer success/growth capabilities too. We made the link with her through our weeknotes, which she said were clearly written and easy to understand. I’m proud of that. :)
 
 Government Finance Function chatted to us about Direct Debit and Government Banking Service, ahead of a meeting we have scheduled. It’s good to have their support in making it easier for service teams to take payments from users without access to a credit or debit card.
 
-My delivery manager and I roadmapped the quarter: some loose dates and what might happen. Laying that out and talking it through with someone helps to either firm up plans or move things around. Strategies are adaptive and playing out the possible futures is an exercise in adaptability. 
+My delivery manager and I roadmapped the quarter: some loose dates and what might happen. Laying that out and talking it through with someone helps to either firm up plans or move things around. Strategies are adaptive and playing out the possible futures is an exercise in adaptability.
 
 ## Bookmarks
 

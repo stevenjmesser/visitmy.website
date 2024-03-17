@@ -14,21 +14,21 @@ tags:
  - Leadership
 ---
 
-_Part 1 of 3_
+*Part 1 of 3*
 
 Memes are a common concept to most people with an Internet connection these days. But before the multiplier effects of the Web, these morsels of communication were known as mottos, mantras, banners and phrases.
 
 Recently I’ve been thinking about how these soundbites are used in leadership. I’m going to use an example from Government Digital Service (GDS) – where I work – as it’s one that’s closest to me. It’s rarely mentioned now but in the early days it was mantra to spur people on[^1].
 
-‘Trust, Users, Delivery.’ 
+‘Trust, Users, Delivery.’
 
-It filled the gap between management and teams, where the necessity was to act autonomously, with very little opportunity for communication between the two group. People were busy! As I see it, the motto represented a way for management to address teams’ concerns as they went through great change, and a way for teams to express their pride in what they were creating. 
+It filled the gap between management and teams, where the necessity was to act autonomously, with very little opportunity for communication between the two group. People were busy! As I see it, the motto represented a way for management to address teams’ concerns as they went through great change, and a way for teams to express their pride in what they were creating.
 
 It was a meme – collective communication – to reduce the burden of having many, tailored, low-impact messages exchanged between teams and management. A phrase to rally around. It set the direction and the culture of the movement, with rumour and misinformation counteracted by collaboration and quality information.
 
 ## The motto
 
-The sum of these words were stronger than their individual messages, but in effect formed the constraints within which transformation could successfully happen. 
+The sum of these words were stronger than their individual messages, but in effect formed the constraints within which transformation could successfully happen.
 
 ### Trust
 
@@ -36,7 +36,7 @@ Trust was all about teams believing in management to make the right decisions, a
 
 ### Users
 
-The Users pillar was dedicated to making [users’ needs](https://webarchive.nationalarchives.gov.uk/20120405091731/https://www.gov.uk/designprinciples#first) prominent in any discussion, design decision or product delivery. GDS was attempting to digitally transform government to make interacting with government simpler, clearer and faster for people. Like user personas, which remind digital teams who they’re creating things for, making users a part of the motto made them central to any considerations. 
+The Users pillar was dedicated to making [users’ needs](https://webarchive.nationalarchives.gov.uk/20120405091731/https://www.gov.uk/designprinciples#first) prominent in any discussion, design decision or product delivery. GDS was attempting to digitally transform government to make interacting with government simpler, clearer and faster for people. Like user personas, which remind digital teams who they’re creating things for, making users a part of the motto made them central to any considerations.
 
 ### Delivery
 
@@ -44,8 +44,8 @@ The Delivery aspect to the mantra captured the overall strategy. By using small,
 
 ---
 
-_Read [part 2]({% post_url 2020-11-07-rhetoric %})._
+*Read [part 2]({% post_url 2020-11-07-rhetoric %}).*
 
 ---
 
-[^1]: I wasn't around in those days so these are my own assumptions having reverse-engineered the history and culture of GDS.
+[^1]: I wasn’t around in those days so these are my own assumptions having reverse-engineered the history and culture of GDS.

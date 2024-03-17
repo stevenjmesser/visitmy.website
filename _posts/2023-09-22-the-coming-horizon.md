@@ -86,7 +86,7 @@ A light week. Trialled running with a local club which was fun, a 13K jaunt thro
 
 ## Pizza
 
-In other news, I am refining my _pizzaiolo_ skills. Last weekend I cranked out some decent porchetta, fig and blue cheese pizzas. The dough was baked just right but the crusts were a little too puffy. Might benefit from being wider. And I’m overdoing it with the toppings...but who doesn’t want boatloads of cheese?
+In other news, I am refining my *pizzaiolo* skills. Last weekend I cranked out some decent porchetta, fig and blue cheese pizzas. The dough was baked just right but the crusts were a little too puffy. Might benefit from being wider. And I’m overdoing it with the toppings…but who doesn’t want boatloads of cheese?
 
 ## Bookmarks
 

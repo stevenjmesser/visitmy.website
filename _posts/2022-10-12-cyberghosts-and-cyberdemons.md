@@ -15,10 +15,10 @@ Matt wrote about [hosting your website on a server in your bedroom](https://inte
 
 The devs at GOV.UK harrumphed when I mentioned looking after a server: as you would when you’ve been at the sharp end of nginx timeouts and unauthorised access for a decade or two. But it’s an exciting concept for an amateur nerd like me.
 
-Matt said:
+Matt said: 
 > I want to feel like my room is haunted by miniature cyberghosts whenever someone reads my blog!
 
-Which reminds me of when folks at [Simpleweb](https://simpleweb.co.uk/) added a secret page to their site that allowed you to fire small Nerf darts at people in the office. And a site in the early 2000s when someone pointed a webcam at a CRT monitor you could send messages to. Most people sent rude messages. Or the time a family in south-east England (it was Kent or Essex; it was 2008, I can’t remember) dotted webcams around their kitchen and broadcast everything on justin.tv –￼ a neighbour found out and published their phone number online, so  the household had to endure multiple phone-based pranks.
+Which reminds me of when folks at [Simpleweb](https://simpleweb.co.uk/) added a secret page to their site that allowed you to fire small Nerf darts at people in the office. And a site in the early 2000s when someone pointed a webcam at a CRT monitor you could send messages to. Most people sent rude messages. Or the time a family in south-east England (it was Kent or Essex; it was 2008, I can’t remember) dotted webcams around their kitchen and broadcast everything on justin.tv –￼ a neighbour found out and published their phone number online, so the household had to endure multiple phone-based pranks.
 
 All right, I’ll hold my hands up. At least 6 pizzas have arrived at homes visible in the livestream of Abbey Road because of me. It was a waste and it was silly, but Domino’s system was very exploitable when it was all cash-on-delivery.
 

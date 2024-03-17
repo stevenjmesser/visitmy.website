@@ -19,9 +19,9 @@ We’ve been a mostly tech team until now, but this week we welcomed an interact
 
 In the Leads team we used [ecocycle planning](http://www.liberatingstructures.com/31-ecocycle-planning/) to assess our areas of work and which were stagnating or ripe for renewal, or where we had too little capacity to focus on something important. It was great to get a sense of our flow, the work we do about the work, and gave us ideas for improving certain business processes. For example, the model for how GDS engages with other bits of government has changed, which doesn’t necessarily suit our ‘sales and marketing’ needs – so our engagement and growth model is ripe for renewal.
 
-Xander and I published a blog post about the week the team experimented with asynchronous communication: [what happened when we stopped having meetings and sending emails](https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/). We also had our first batch of no-meetings days, on Tuesday and Friday, and I really appreciated the time to get my head down. It allowed me to read up on Strong Customer Authentication and consider a few different approaches. 
+Xander and I published a blog post about the week the team experimented with asynchronous communication: [what happened when we stopped having meetings and sending emails](https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/). We also had our first batch of no-meetings days, on Tuesday and Friday, and I really appreciated the time to get my head down. It allowed me to read up on Strong Customer Authentication and consider a few different approaches.
 
-On Friday I worked from a co-working space and got a lot done. It was mildly worrying whenever someone sneezed or coughed, but I’m hoping that the 2m+ distancing and good air flow in the building means I’m relatively safe. It’s a really nice space and is managed very well, so if you need an affordable desk space in south-east London, do check out [Hatcham House](https://www.hatchamhouse.com). 
+On Friday I worked from a co-working space and got a lot done. It was mildly worrying whenever someone sneezed or coughed, but I’m hoping that the 2m+ distancing and good air flow in the building means I’m relatively safe. It’s a really nice space and is managed very well, so if you need an affordable desk space in south-east London, do check out [Hatcham House](https://www.hatchamhouse.com).
 
 ## Bookmarks
 
@@ -36,5 +36,4 @@ On Friday I worked from a co-working space and got a lot done. It was mildly wor
 - [The smashing of the British state](https://on.ft.com/2I7CssS), 10 mins
 - [Performative leadership](https://lethain.com/performative-leadership/), 2 mins
 - [Work on what matters](https://lethain.com/work-on-what-matters/), 10 mins
-- [Uncharted: How to Map the Future Together – a plea for fresh thinking
-](https://www.ft.com/content/0401d240-4f43-11ea-95a0-43d18ec715f5), 4 mins
+- [Uncharted: How to Map the Future Together – a plea for fresh thinking](https://www.ft.com/content/0401d240-4f43-11ea-95a0-43d18ec715f5), 4 mins

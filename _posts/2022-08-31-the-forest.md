@@ -27,25 +27,27 @@ I’ll refine the board I created for the workshop and share it here.
 
 ## Things I shuffled along
 
-Making connections and forging relationships with people across the programme (read: end-to-end service) continued, and it was really, _really_ productive!
+Making connections and forging relationships with people across the programme (read: end-to-end service) continued, and it was really, *really* productive!
 
-Had an awesome chat with one of our Comms people, who’s a gem. Similarly with one of my fellow PMs, who I’ll be working closely with to understand and meet users’ needs. The best thing about these conversations, though, was how I validated a niggling feeling. There is a stark absence of performance metrics – or what success looks like – and there’s also a lack of alignment amongst the teams (both in terms of a uniting strategy and each team’s delivery). I mentioned to a few folks that I was struggling to understand what people were working towards or how we’d know when they were done, and without prompting people mentioned an ‘alignment gap’. 
+Had an awesome chat with one of our Comms people, who’s a gem. Similarly with one of my fellow PMs, who I’ll be working closely with to understand and meet users’ needs. The best thing about these conversations, though, was how I validated a niggling feeling. There is a stark absence of performance metrics – or what success looks like – and there’s also a lack of alignment amongst the teams (both in terms of a uniting strategy and each team’s delivery). I mentioned to a few folks that I was struggling to understand what people were working towards or how we’d know when they were done, and without prompting people mentioned an ‘alignment gap’.
 
 That’s a part of the dark matter I need to work on sooner rather than later. But first I need to work out how to make it land.
 
 ## Some puzzles
 
- Yeah, as above. Making the dark matter work. But, going back to [last week’s puzzle]({% post_url 2022-08-21-the-assimilation %}), how to change culture without air cover.
+Yeah, as above. Making the dark matter work. But, going back to [last week’s puzzle]({% post_url 2022-08-21-the-assimilation %}), how to change culture without air cover.
 
 ## Other things
 
-On my bucket list for this summer was to go wild camping. There’s nothing like it. You don’t sleep properly, if I’m honest, and you have to travel far to find a secluded spot. It’s tiring. But it’s also incredibly restorative. 
+On my bucket list for this summer was to go wild camping. There’s nothing like it. You don’t sleep properly, if I’m honest, and you have to travel far to find a secluded spot. It’s tiring. But it’s also incredibly restorative.
 
 So I was glad to tick that off the summer bucket list on Saturday and Sunday. I ran from Edenbridge to Forest Row, on the edge of Ashdown Forest, and camped in the forest overnight. Up at dawn the next day, I ran through the forest to Buxted. 41km in total, over two days. Made it home for Sunday, just before noon, and spent the rest of the day horizontal with a smile on my face.
 
 Two notable things from Bank Holiday Monday:
+
 1. The Edvard Munch exhibition at the Courtald gallery is good, but you need to follow the paintings around the wall in chronological order, otherwise it doesn’t work.
-2. _The Feast_, a Welsh language film, is an excellent meditation on ecocide, forgetting our roots and (probably) folklore’s role in preserving both of those. (It reminded me of the ‘gwlad, GWLAD!’ bit of the Welsh national anthem.)
+
+2. *The Feast*, a Welsh language film, is an excellent meditation on ecocide, forgetting our roots and (probably) folklore’s role in preserving both of those. (It reminded me of the ‘gwlad, GWLAD!’ bit of the Welsh national anthem.)
 
 ## Bookmarks
 

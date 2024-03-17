@@ -21,7 +21,7 @@ After two weeks I was sick and tired of running around the common, breathing in 
 
 ## ‘Trail’ running
 
-First of all, I can’t stand the phrase ‘trail running’. Even though I really do love running in the countryside, calling it ‘trail running’ feels way too American. We don’t have trails, we just have...paths?
+First of all, I can’t stand the phrase ‘trail running’. Even though I really do love running in the countryside, calling it ‘trail running’ feels way too American. We don’t have trails, we just have…paths?
 
 Anyway, having all that countryside on your doorstep in North Wales was truly a privilege, and if I’m honest it’s what I loved most about running. Getting to explore the outdoors without needing tarmac underneath you.
 

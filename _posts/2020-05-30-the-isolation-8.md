@@ -15,7 +15,7 @@ tags:
 
 ## Work stuff
 
-Much more work on Direct Debit this week. I don’t think you can spend 1.5 weeks on something and make a big strategic decision, so I broke the work down into 
+Much more work on Direct Debit this week. I don’t think you can spend 1.5 weeks on something and make a big strategic decision, so I broke the work down into
 
 - decisions we’d need to make immediately
 - evidence we’d need to collect to support long-term decisions
@@ -34,9 +34,9 @@ And I’m heartened to see that much of the vision we stoked into the personalis
 
 Really don’t have the same energy for weeknotes at the moment, so I’m going to read through my early notes to pick up some enthusiasm. Maybe it’s just that writing about work feels like a chore. There was a point earlier in the year when a friend asked how I separated my work self from myself – and we realised I didn’t, I invested my whole person in The Job. Adding more personal reflections has caused a useful separation though. That’s good.
 
-Finished reading _Count Zero_. Found it preferable to _Neuromancer_, the prequel, as there’s much less shifting about scenes at a rapid pace, instead spending time building moods and tension. The intertwining of the stories is done well, though I did lose track of Turner (one of the characters). And this book really shows you how much Gibson’s Sprawl trilogy had an influence on _The Matrix_, the Wachowskis took plenty of inspiration from these books. Looking forward to starting _Mona Lisa Overdrive_ next.
+Finished reading *Count Zero*. Found it preferable to *Neuromancer*, the prequel, as there’s much less shifting about scenes at a rapid pace, instead spending time building moods and tension. The intertwining of the stories is done well, though I did lose track of Turner (one of the characters). And this book really shows you how much Gibson’s Sprawl trilogy had an influence on *The Matrix*, the Wachowskis took plenty of inspiration from these books. Looking forward to starting *Mona Lisa Overdrive* next.
 
-The riots in the US are worrying, uncomfortably similar to the 2011 riots in the UK. Seems like as good a time as any to check your privilege. This [address to the people of Atlanta by Killer Mike](https://www.reddit.com/r/videos/comments/gt6myh/killer_mike_addresses_the_people_of_atlanta/) is so moving, metered and on-the-money. 
+The riots in the US are worrying, uncomfortably similar to the 2011 riots in the UK. Seems like as good a time as any to check your privilege. This [address to the people of Atlanta by Killer Mike](https://www.reddit.com/r/videos/comments/gt6myh/killer_mike_addresses_the_people_of_atlanta/) is so moving, metered and on-the-money.
 
 ## Bookmarks
 
@@ -44,7 +44,7 @@ The riots in the US are worrying, uncomfortably similar to the 2011 riots in the
 - [Location, location, location part 1: communication and working effectively in remote teams](https://www.dxw.com/2020/04/location-location-location-part-1-communication-and-working-effectively-in-remote-teams/), 4 mins
 - [Delivering public and voluntary sector projects in a remote world](https://www.dxw.com/2020/04/delivering-public-and-voluntary-sector-projects-in-a-remote-world/), 4 mins
 - [Location, location, location part 2: establishing communication patterns and working rhythms](https://www.dxw.com/2020/04/location-location-location-part-2-establishing-communication-patterns-and-working-rhythms/), 5 mins
-- [A year of working from home: Home Office's post-coronavirus lockdown plan revealed](https://www.civilserviceworld.com/articles/news/year-working-home-home-offices-post-coronavirus-lockdown-plan-revealed), 4 mins
+- [A year of working from home: Home Office’s post-coronavirus lockdown plan revealed](https://www.civilserviceworld.com/articles/news/year-working-home-home-offices-post-coronavirus-lockdown-plan-revealed), 4 mins
 - [Location, location, location part 3: understanding that your team is bigger than the people building stuff](https://www.dxw.com/2020/04/location-location-location-part-3-understanding-that-your-team-is-bigger-than-the-people-building-stuff/), 3 mins
 - [Outrage Grows Over Boris Johnson Aide’s 260-Mile Trip During Lockdown](https://www.nytimes.com/2020/05/23/world/europe/dominic-cummings-lockdown.html), 5 mins
 - [Dominic Cummings Offers a Sorry-Not-Sorry for U.K. Lockdown Breach](https://www.nytimes.com/2020/05/25/world/europe/dominic-cummings-boris-johnson-coronavirus.html), 6 mins

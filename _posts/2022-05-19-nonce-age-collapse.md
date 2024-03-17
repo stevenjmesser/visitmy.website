@@ -12,7 +12,7 @@ tags:
  - General
 ---
 
-Humans like shiny things. We become wowed by anything new or innovative. In our excitement, we tell other people how they should also be thrilled by this thing. 
+Humans like shiny things. We become wowed by anything new or innovative. In our excitement, we tell other people how they should also be thrilled by this thing.
 
 It’s a pattern of behaviour that humans have displayed around technology for millions of years. Fire. Rocks smashed into hand-axes. Bits of flint used as small knives.
 
@@ -32,14 +32,16 @@ What I find interesting about cryptocurrencies and NFTs is that this pattern has
 
 But this tweet made it really clear that history was repeating itself.
 
-> I'm selling most of my NFTs. 
+> I’m selling most of my NFTs.
 >
-> I don't believe that communities centered primarily around owning an NFT have longevity.
-> 
-> I'm still open to the possibility that communities built around something more meaningful can use NFTs as a tool.[^1]
+> I don’t believe that communities centered primarily around owning an NFT have longevity.
+>
+> I’m still open to the possibility that communities built around something more meaningful can use NFTs as a tool.[^1]
 
 Wow. A technology as a tool rather than a status object! Imagine that![^2]
 
 ---
+
 [^1]: https://twitter.com/DavidSpinks/status/1526978132053372928
-[^2]: To be fair, it’s not like everything I own is purely utilitarian, but one should consider function over form with most things. 
+
+[^2]: To be fair, it’s not like everything I own is purely utilitarian, but one should consider function over form with most things.

@@ -37,19 +37,19 @@ What happened this week then?
 
 ## Tracking work
 
-Did 22 things this week, which is close to the average. A couple of unplanned things diverted my attention away from important stuff. 
+Did 22 things this week, which is close to the average. A couple of unplanned things diverted my attention away from important stuff.
 
-Achieved over half of my weekly goals, and progressed one more. Two goals I didn’t make a start on but ones isn’t urgent, it’s fine. The other can be done next week. 
+Achieved over half of my weekly goals, and progressed one more. Two goals I didn’t make a start on but ones isn’t urgent, it’s fine. The other can be done next week.
 
 Only achieved 40% of my monthly goals, progressed around 25%, leaving 35% not achieved. Some of those weren’t important goals to achieve though, they were nice-to-haves at the start of the month. I definitely added more goals to my list as the month went on. So probably I just need to define stretch goals versus core goals?
 
-It was a busy month with lots of travelling around the country, a couple days’ holiday, and lots of face-to-face. So it’s no wonder I’m shattered and didn’t get as much done as I’d expected. 
+It was a busy month with lots of travelling around the country, a couple days’ holiday, and lots of face-to-face. So it’s no wonder I’m shattered and didn’t get as much done as I’d expected.
 
 Good food has kept me going the last 2 weeks. Good food and good humour.
 
 ## Ugh, Slack
 
-It’s far too easy to get distracted by all those unread messages. But some of those unread messages are important to read; others less so. 
+It’s far too easy to get distracted by all those unread messages. But some of those unread messages are important to read; others less so.
 
 There are benefits to using instant messaging tools, and it’s good to be able to see messages in team channels not private ones, but some times you just want to know which messages are safe for you to skip.
 
@@ -59,7 +59,7 @@ Might just put Slack use on a schedule. 30 mins in the morning, some time in the
 
 ## Wine
 
-Anyway, let me break up the long slog of work chat with some wine chat. In early July we went to Croatia on holiday and I got to try some of the local wines. _Proper_ local: the variety is specific to a little island. 
+Anyway, let me break up the long slog of work chat with some wine chat. In early July we went to Croatia on holiday and I got to try some of the local wines. *Proper* local: the variety is specific to a little island.
 
 [Pošip](https://en.wikipedia.org/wiki/Pošip) grows near Smokvica, on the island of Korčula, and it’s lovely. It’s earthy, fruity, with the hint of almond and plenty of minerals. Light, not too much alcohol. Perfect when cold. It’s like a Verdicchio, maybe. But better because it’s got a [unique story](https://croatia.hr/en-gb/food-and-drink/posip).
 
@@ -81,11 +81,11 @@ I did nothing this week. Bad. On reflection, the idea of going out in the rain a
 
 ## Saltburn
 
-Saw this on a whim last Saturday as I had time to kill before going out with [Kelv](https://www.chao-xian.co.uk). It’s a rich person’s view of what a working class person might do, but it’s a fun watch. Very Shakespearean. I watched _Othello_ the next day as a result (and forgot just how racist it is).
+Saw this on a whim last Saturday as I had time to kill before going out with [Kelv](https://www.chao-xian.co.uk). It’s a rich person’s view of what a working class person might do, but it’s a fun watch. Very Shakespearean. I watched *Othello* the next day as a result (and forgot just how racist it is).
 
 ## Bookmarks
 
-The first link in the list below is a must-read, like _The Thick of It_ for anyone doing digital in a big organisation.
+The first link in the list below is a must-read, like *The Thick of It* for anyone doing digital in a big organisation.
 
 There’s a bunch of OpenAI guff from last weekend at the bottom too.
 

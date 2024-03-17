@@ -69,7 +69,7 @@ Initiatives don’t have to fit neatly into key results, or you will have to do 
 
 ### What I Could Do Better
 
-I stormed into the SLO-setting session without much of a plan except what was in my head. I’ll need to firm that up for the next time we run a session, so that there’s less _umm_ing and _ahh_ing.
+I stormed into the SLO-setting session without much of a plan except what was in my head. I’ll need to firm that up for the next time we run a session, so that there’s less *umm*ing and *ahh*ing.
 
 ## Bookmarks
 

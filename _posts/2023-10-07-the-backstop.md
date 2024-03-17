@@ -13,15 +13,15 @@ tags:
  - Weeknotes
 ---
 
-Let’s roll on to series 16. 
+Let’s roll on to series 16.
 
 A 4-day week with travelling and socialising, so I’m feeling tired. Buzzing about Design System Day next week though, it’s gonna be a blast.
 
-What did I do this week? 
+What did I do this week?
 
 - Caught up with one of our delivery managers, who came back from holiday
 - Met the other leads on the team to discuss a move away from traditional Scrum
-- Contributed to  speaker biographies and session information being on separate pages on the Design System website
+- Contributed to speaker biographies and session information being on separate pages on the Design System website
 - Ran the fortnightly team reflection session
 - Sketched out a narrative for the Design System team showcase at Design System Day
 - Refined the epic for [Show password](https://github.com/alphagov/govuk-frontend/issues/4063), a new component we’re adding to the design system
@@ -43,13 +43,13 @@ Of the 7 goals I set this week, I achieved 1 goal, progressed 3 goals, and didn�
 
 I’m also taking some work into the weekend, so it’s clear I didn’t prioritise the right work for the week. Having said that, if I’d dropped the Q3 roadmap work for more time on Design System Day, I’d be worried about what we’re going to do after DS Day – but now I’m not.
 
-Tell you what, tracking my work like this and having a feedback loop to see whether I did the right stuff or not is working well. 
+Tell you what, tracking my work like this and having a feedback loop to see whether I did the right stuff or not is working well.
 
 ## Moving away from Scrum
 
 Our delivery manager pitched this as a move away from the 2-week cycle to 4-week cycle, with 1 of those weeks as a reflection and planning week. It should give more time and space for planning – sketching out how we’ll tackle a piece of work and the skills needed – and continuous improvement – collaborating on changes to our ways of working.
 
-It’s a good suggestion, as we don’t spend nearly enough time planning work and discussing process improvements as we should. I’ve spent more time on elaboration and planning in teams outside of GDS, and you _had_ to adapt ways of working every cycle at the startup, so I was adapting our playbook every week.
+It’s a good suggestion, as we don’t spend nearly enough time planning work and discussing process improvements as we should. I’ve spent more time on elaboration and planning in teams outside of GDS, and you *had* to adapt ways of working every cycle at the startup, so I was adapting our playbook every week.
 
 I think there’s room to adapt some other aspects of our ways of working, mainly a move to the team pitching work rather than being recipients of work requests. The [Betting Table](https://basecamp.com/shapeup/2.2-chapter-08), where people pitch work, is how we might do this but one of our developers shared a similar process from Valve.
 
@@ -57,25 +57,25 @@ No doubt we’ll work on this more in November, so keep an eye out for developme
 
 ## Data in Slack
 
-There’s key data about our community and engagement in Slack, but we don’t have access to it. This sucks as we need those metrics, it all feeds in to our community strategy: how we make the community a key actor in iterating and evolving the GOV.‌UK Design System. 
+There’s key data about our community and engagement in Slack, but we don’t have access to it. This sucks as we need those metrics, it all feeds in to our community strategy: how we make the community a key actor in iterating and evolving the GOV.‌UK Design System.
 
-There’s two options: get more data from cross-government Slack or splinter off and create our own workspace. We’d rather not do the latter and there are switching costs for the community who already use cross-government Slack. But luckily CDDO is trialling paying for cross-gov Slack to see whether it’s valuable, and I’ve been able to liaise with the customer success folks at Slack who can empathise with what we’re trying to do. 
+There’s two options: get more data from cross-government Slack or splinter off and create our own workspace. We’d rather not do the latter and there are switching costs for the community who already use cross-government Slack. But luckily CDDO is trialling paying for cross-gov Slack to see whether it’s valuable, and I’ve been able to liaise with the customer success folks at Slack who can empathise with what we’re trying to do.
 
-I suspect we wouldn’t have to do this if the Communications and Engagement functions hadn’t been shrunk so drastically by previous deputy directors, but there you go. It’s still ludicrous to me that an organisation building digital products and services, and trying to grow those products and services, doesn’t have enough people doing digital marketing. You can build whatever you want, but if no one knows about it no one will use it. 
+I suspect we wouldn’t have to do this if the Communications and Engagement functions hadn’t been shrunk so drastically by previous deputy directors, but there you go. It’s still ludicrous to me that an organisation building digital products and services, and trying to grow those products and services, doesn’t have enough people doing digital marketing. You can build whatever you want, but if no one knows about it no one will use it.
 
-So, anyway, putting the rant aside, Slack are going to send us the aggregated data we need and look at giving us access to it too. I’ll be setting some OKRs with our community designer at the end of the month, as part of our community strategy (which is also part of our growth strategy), and many of the key results will use data from Slack as indicators or input metrics. 
+So, anyway, putting the rant aside, Slack are going to send us the aggregated data we need and look at giving us access to it too. I’ll be setting some OKRs with our community designer at the end of the month, as part of our community strategy (which is also part of our growth strategy), and many of the key results will use data from Slack as indicators or input metrics.
 
 ## Running
 
-I’m in Shrewsbury for a half-marathon on Sunday. Haven’t done as much running this week as I’d have liked, but just going to trust that all the training I did for the marathon is still hanging around. 
+I’m in Shrewsbury for a half-marathon on Sunday. Haven’t done as much running this week as I’d have liked, but just going to trust that all the training I did for the marathon is still hanging around.
 
-My A goal is to finish in under 1 hour 40 minutes, my B goal is to beat my previous personal best of 1 hour 51 minutes, and my C goal under 2 hours. 
+My A goal is to finish in under 1 hour 40 minutes, my B goal is to beat my previous personal best of 1 hour 51 minutes, and my C goal under 2 hours.
 
 ## Not-drinking
 
-Now that the marathon is out of the way, I’ve been enjoying the odd tipple here and there. After months off the booze, you can definitely feel how tired and sluggish alcohol makes you. 
+Now that the marathon is out of the way, I’ve been enjoying the odd tipple here and there. After months off the booze, you can definitely feel how tired and sluggish alcohol makes you.
 
-I have found old behaviours creeping back that I’d like to nix. After attending lightning talks on AI safety on Thursday, I walked to the train station drinking a can. It breaks an emergent rule of only drinking with other people. I’ll write more about this, other rules have emerged too. 
+I have found old behaviours creeping back that I’d like to nix. After attending lightning talks on AI safety on Thursday, I walked to the train station drinking a can. It breaks an emergent rule of only drinking with other people. I’ll write more about this, other rules have emerged too.
 
 ## Bookmarks
 
@@ -91,5 +91,5 @@ I have found old behaviours creeping back that I’d like to nix. After attendin
 - [Emoji code](https://muan.co/posts/emoji-code), 6 mins
 - [What the BBC learned about trialling Mastodon](https://fediforum.org/2023-09/session/1-b/), 5 mins
 - [4chan Uses Bing to Flood the Internet With Racist Images](https://www.404media.co/4chan-uses-bing-to-flood-the-internet-with-racist-images/), 3 mins
-- [s16e07 : It Sounds Like You're Jealous; Scale Considered Harmful](https://newsletter.danhon.com/archive/s16e07-it-sounds-like-youre-jealous-scale/)
-- [Stripe founder on WFH: glad to be rid of "remote tourists"](https://www.efinancialcareers.com/news/2023/10/stripe-work-from-home-culture)
+- [s16e07 : It Sounds Like You’re Jealous; Scale Considered Harmful](https://newsletter.danhon.com/archive/s16e07-it-sounds-like-youre-jealous-scale/)
+- [Stripe founder on WFH: glad to be rid of “remote tourists”](https://www.efinancialcareers.com/news/2023/10/stripe-work-from-home-culture)

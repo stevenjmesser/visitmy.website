@@ -19,4 +19,4 @@ That’s what worked for me. Getting other perspectives. Changing my mind.
 
 > “Despair is really a failure of perspective. Despair is a moment that pretends to be permanent. There are good reasons to be hopeful; there is a place beyond this moment, and we can, if we choose to, get up off our knees and go there together.”
 >
->  – ￼Frankie Boyle, _The Future of British Politics_
+> – ￼Frankie Boyle, *The Future of British Politics*

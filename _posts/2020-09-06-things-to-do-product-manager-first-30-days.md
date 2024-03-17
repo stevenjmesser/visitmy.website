@@ -17,7 +17,7 @@ tags:
 
 Your first 30 days joining a new team or organisation as a product manager are really exciting, and there’s an easy way to set yourself up for success.
 
-The aim is to get your feet under the table, becoming confident and comfortable in your new position. Your job is going to be [deciding what to do and why](https://digitalbydefault.com/2020/05/06/it-takes-two/), with the help of your team, and that needs evidence, intelligence and ideas. 
+The aim is to get your feet under the table, becoming confident and comfortable in your new position. Your job is going to be [deciding what to do and why](https://digitalbydefault.com/2020/05/06/it-takes-two/), with the help of your team, and that needs evidence, intelligence and ideas.
 
 At Government Digital Service (GDS), we use a Trello board to help new product managers gather that context. It builds understanding of what the product is, why it exists, how it got to this point and which direction it’s headed in.
 
@@ -35,6 +35,6 @@ Open the [Trello board](https://trello.com/b/UjAn4OBa) or the [Notion board](htt
 
 ---
 
-Do these tasks resonate with you? What would you add or change? Let me know on [Twitter](https://twitter.com/stevenjmesser), it'd be great to hear from people.
+Do these tasks resonate with you? What would you add or change? Let me know on [Twitter](https://twitter.com/stevenjmesser), it’d be great to hear from people.
 
-[^1]: [https://twitter.com/rossferg/status/960974335002468353](https://twitter.com/rossferg/status/960974335002468353)
+[^1]: <https://twitter.com/rossferg/status/960974335002468353>

@@ -17,7 +17,7 @@ Week five at NHS Digital’s Data Services directorate. As I’m very tired, the
 
 ## Things I started
 
-As we’re hanging out in the office as a team once a week at most, I carved out time in our calendars for more collaboration.  It’s optional but creates two opportunities each week for us to get together when we’re working from home. It’s up to the group what we cover, but it’s time set aside to 
+As we’re hanging out in the office as a team once a week at most, I carved out time in our calendars for more collaboration. It’s optional but creates two opportunities each week for us to get together when we’re working from home. It’s up to the group what we cover, but it’s time set aside to 
 - play back to the group and get feedback
 - share thoughts and ideas, and
 - discuss or plan workshops or initiatives.
@@ -26,7 +26,7 @@ Based on [Tero’s article about products and services](https://medium.com/@tero
 
 ## Things I shuffled along
 
-In between meetings and things, I spent the majority of the week preparing for the three (!) governance and assurance processes we’ve got to go through: spend controls, a service assessment and an internal assurance board. It’s pretty easy preparing for the GDS processes as I know the territory and everything is very well documented. The internal assurance process is not documented, which isn’t helpful. 
+In between meetings and things, I spent the majority of the week preparing for the three (!) governance and assurance processes we’ve got to go through: spend controls, a service assessment and an internal assurance board. It’s pretty easy preparing for the GDS processes as I know the territory and everything is very well documented. The internal assurance process is not documented, which isn’t helpful.
 
 The team made great progress on the alpha and we’ll be doing ideation and prioritisation next week, I think, before we spend the rest of the alpha phase designing, building and testing prototypes. Which means we’re getting close to the fun stuff!
 
@@ -36,11 +36,11 @@ None this week. It turned out I didn’t need to put into practice my plans as m
 
 ## Other things
 
-I’m getting old, and I can’t drink as much any more! I’m drinking much less than I used to pre-pandemic, before I was running four or five times a week. But damn, a few pints at a wedding in Cheshire did me in last weekend. This weekend was boozy too, in Bristol for the start of the rugby season. 
+I’m getting old, and I can’t drink as much any more! I’m drinking much less than I used to pre-pandemic, before I was running four or five times a week. But damn, a few pints at a wedding in Cheshire did me in last weekend. This weekend was boozy too, in Bristol for the start of the rugby season.
 
-Glad that I got out for my long run today though. I was close to  postponing until tomorrow but, had I done that, I wouldn’t have been able to enjoy Selsdon woods in the late summer afternoon light. 
+Glad that I got out for my long run today though. I was close to postponing until tomorrow but, had I done that, I wouldn’t have been able to enjoy Selsdon woods in the late summer afternoon light.
 
-My speed repeats were fun on Thursday morning. I had to run 800m very fast, followed by jogging for 400m, and did that 8 times. It was hard but I felt good, strong. The workout was fun because it was raining and a bit muddy, and you can always smell the outdoors when it’s like that. Makes you forget you’re in London. Even reminded me of being in north Wales. 
+My speed repeats were fun on Thursday morning. I had to run 800m very fast, followed by jogging for 400m, and did that 8 times. It was hard but I felt good, strong. The workout was fun because it was raining and a bit muddy, and you can always smell the outdoors when it’s like that. Makes you forget you’re in London. Even reminded me of being in north Wales.
 
 The Queen died on Thursday. I’m not a fan of the monarchy or what it represents, but fair play to the Queen for being a public-spirited person. Kinda tempted to go to the lying in state, see the coffin and all that. Not to pay my respects, more to see all the pomp and ceremony.
 

@@ -8,11 +8,12 @@ image: /assets/images/IMG_8929.jpg
 tags:
  - Weeknotes
 ---
-Trying out a new set of questions to help frame my weeknotes and inspire [better reflection]({% post_url 2023-01-04-questions-for-better-reflection %}). 
+
+Trying out a new set of questions to help frame my weeknotes and inspire [better reflection]({% post_url 2023-01-04-questions-for-better-reflection %}).
 
 ## What did I do for the people and planet?
 
-This was my first week properly getting my head into the GOV.UK Design System team’s work and its objectives over the next 12 months. As a widely adopted design system across government, the styles, components and patterns do a lot to set the standard for digital government services in the UK, which improves the experience of users across the four nations. 
+This was my first week properly getting my head into the GOV.UK Design System team’s work and its objectives over the next 12 months. As a widely adopted design system across government, the styles, components and patterns do a lot to set the standard for digital government services in the UK, which improves the experience of users across the four nations.
 
 The work this year comes in three buckets and is very much focused around the experience of users:
 1. Compliance with WCAG 2.2
@@ -31,7 +32,7 @@ The team’s decisions often have to weigh up not only the impact on users but a
 
 ## What did I do for my well-being? What was ‘just enough’?
 
-My exercise routine took a downturn in December, partly due to the weather and mostly due to being sick over the winter break. So I tried out Zwift yesterday and went for a run today. Already feeling better. 
+My exercise routine took a downturn in December, partly due to the weather and mostly due to being sick over the winter break. So I tried out Zwift yesterday and went for a run today. Already feeling better.
 
 ## What happened through play or intuition?
 
@@ -43,11 +44,11 @@ Honestly, motivating myself at the start of the week. Changing gears from 10 day
 
 ## What did I learn?
 
-I learned about our team’s value stream, what it does to produce styles, components and patterns for the community. There’s a lot to it and it’s unlike other product teams I’ve worked on. One challenge is cycle time: working through the backlog with enough pace that users can find what they need, but without churning out poor quality work. I’ve done some thinking on how we might speed that up without sacrificing quality, but it’s something I’ll need to round off with the team. 
+I learned about our team’s value stream, what it does to produce styles, components and patterns for the community. There’s a lot to it and it’s unlike other product teams I’ve worked on. One challenge is cycle time: working through the backlog with enough pace that users can find what they need, but without churning out poor quality work. I’ve done some thinking on how we might speed that up without sacrificing quality, but it’s something I’ll need to round off with the team.
 
 ## Bookmarks
 
-This covers everything I read over the break, so it’s a long list. 
+This covers everything I read over the break, so it’s a long list.
 
 - [Government Digital Service: updates on our 2021-2024 strategy](https://gds.blog.gov.uk/2022/12/20/government-digital-service-updates-on-our-2021-2024-strategy/), 6 mins
 - [Out with the old, in with the new: GDS head Tom Read looks to the future](https://www.civilserviceworld.com/in-depth/article/out-with-the-old-in-with-the-new-gds-head-tom-read-looks-to-the-future), 3 mins
@@ -67,7 +68,7 @@ This covers everything I read over the break, so it’s a long list.
 - [Microblogging migration: my New Year list of people whose every post I want to see](https://blog.mattedgar.com/2023/01/02/microblogging-migration/), 2 mins
 - [2022 Reading List](http://jlzych.com/2023/01/02/2022-reading-list/), 4 mins
 - [2022 yearnotes](https://matthewsheret.wordpress.com/2023/01/02/2022-yearnotes/), 4 mins
-- [Intensive vs. Extensive Growth – and more – Peter Thiel at Stanford](https://sjl.us/2010/12/01/intensive-vs-extensive-growth-and-more/), 2 mins
+- [Intensive vs. Extensive Growth – and more – Peter Thiel at Stanford](https://sjl.us/2010/12/01/intensive-vs-extensive-growth-and-more/), 2 mins
 - [The Growth Competency Model: Build Stronger Growth Teams](https://www.reforge.com/blog/the-growth-competency-model), 28 mins
 - [New Year’s rituals (and other everyday magic)](https://weeknot.es/new-years-rituals-and-other-everyday-magic-9769c8a470df), 6 mins
 - [On Internet Silos](https://pxlnv.com/linklog/on-internet-silos/), 3 mins

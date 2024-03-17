@@ -9,7 +9,7 @@ tags:
  - Weeknotes
 ---
 
-Though I’d like to write these weeknotes this morning (Monday), my brain is nagging me to get started with the working day. These notes _are_ a part of my work, brain! But I’m going to give in to you, partly, so let me get a vague outline down first.
+Though I’d like to write these weeknotes this morning (Monday), my brain is nagging me to get started with the working day. These notes *are* a part of my work, brain! But I’m going to give in to you, partly, so let me get a vague outline down first.
 
 Last week I
 
@@ -20,7 +20,7 @@ Last week I
 - turned up to a screening of a [running film](https://www.youtube.com/watch?v=hSntTASmKxc) too late and couldn’t see it (which made me sad)
 - chatted to a colleague in the GOV.‌UK policy team about non-government websites using [GDS Transport](https://designnotes.blog.gov.uk/2015/03/11/can-i-use-the-gov-uk-fonts/)
 - chatted to another colleague in the GOV.‌UK policy team about the GOV.‌UK ‘brand’
-- was part of [zeroheight](https://zeroheight.com)’s research on design system teams 
+- was part of [zeroheight](https://zeroheight.com)’s research on design system teams
 - gave feedback to people on the team, as they prepare for end-of-year reviews and skills assessments
 - thought about how we might re-jig our sprint cycles (along with our delivery manager)
 - wrote down why we think it’ll be beneficial and what problems the team raised in retros that it’s designed to solve
@@ -40,17 +40,17 @@ It was a busy week of doing bitty things, not finishing anything significant, wh
 
 ## Service assessments
 
-Scribbling down shower-thoughts on service assessments here. A service assessment provides two functions: for the service team, it’s a peer review; for the service organisation (the programme, the directorate, the organisation as whole, whatever), it’s an investor meeting. 
+Scribbling down shower-thoughts on service assessments here. A service assessment provides two functions: for the service team, it’s a peer review; for the service organisation (the programme, the directorate, the organisation as whole, whatever), it’s an investor meeting.
 
 The service team gets an opportunity to demonstrate its ways of working and get feedback from other people doing a similar job. If they’re stuck or struggling, the panel can ask questions, talk it through, and provide recommendations for what to do next time. If the team is doing well, they get applauded by other folks in the community and they feel good about their work.
 
-For the organisation, an assessment is an opportunity to show you’re using public money well and can deliver outcomes. This is a lot like an early-stage startup pitching to investors (for a Series A or beyond): you show not only your vision and the potential for creating value, but also how you’ve managed to create value so far. Investors don’t want you to haemorrhage money, and neither does the public. Investors only care about your vision if you have the ability to realise it. Venture capitalists these days are [betting on founders, not products](https://techcrunch.com/2021/09/20/vc-mark-suster-the-bet-were-making-now-is-on-founder-skills-not-customers-or-products/). 
+For the organisation, an assessment is an opportunity to show you’re using public money well and can deliver outcomes. This is a lot like an early-stage startup pitching to investors (for a Series A or beyond): you show not only your vision and the potential for creating value, but also how you’ve managed to create value so far. Investors don’t want you to haemorrhage money, and neither does the public. Investors only care about your vision if you have the ability to realise it. Venture capitalists these days are [betting on founders, not products](https://techcrunch.com/2021/09/20/vc-mark-suster-the-bet-were-making-now-is-on-founder-skills-not-customers-or-products/).
 
 ## GDS Transport
 
-The font on GOV.‌UK is part of the brand, it’s how people recognise government services on the web. There are controls around who can use it and in what circumstances, but sometimes the wrong people get their hands on it and create malicious websites. 
+The font on GOV.‌UK is part of the brand, it’s how people recognise government services on the web. There are controls around who can use it and in what circumstances, but sometimes the wrong people get their hands on it and create malicious websites.
 
-The benefits of making the GOV.‌UK Design System open source and easily available outweigh the benefits of closing it off. (And the Web is, by design, open by default anyway.) But I’m wondering if there’s more we can do to protect the font. Plus monitor misuse. 
+The benefits of making the GOV.‌UK Design System open source and easily available outweigh the benefits of closing it off. (And the Web is, by design, open by default anyway.) But I’m wondering if there’s more we can do to protect the font. Plus monitor misuse.
 
 If you know of decent open-source tools that act like web spiders and detect certain code fragments or resources loading, let me know.
 
@@ -58,13 +58,13 @@ If you know of decent open-source tools that act like web spiders and detect cer
 
 10 years ago, there were good reasons to all-but-ban government from making apps for mobile devices. The policy changed slightly over the years, and so did government’s ability to deliver cost-effective technology that meets users’ needs. So now there’s a good reason to look at making it easier for service teams to deliver consistent native apps.
 
-So we put [a call out for findings and insights from teams who have built apps](https://github.com/alphagov/govuk-design-system-backlog/issues/275). This’ll not only help us put together some guidance for the design system, but it’ll also feed into the strategy for mobile apps that CDDO is working on. 
+So we put [a call out for findings and insights from teams who have built apps](https://github.com/alphagov/govuk-design-system-backlog/issues/275). This’ll not only help us put together some guidance for the design system, but it’ll also feed into the strategy for mobile apps that CDDO is working on.
 
 Personal opinion: I think it’s a good thing, and I’ve heard ‘guardrails’ mentioned a few times, so there’s a good attitude towards this. A free-for-all on apps it ain’t. But another personal opinion: I think we need higher level guardrails.
 
-This is something that plagued me when I worked on personalisation, and I don’t think I can describe it well, but there’s a need to make sure that service provision and delivery is equitable. You shouldn’t have a better experience or reach a higher-quality outcome just because you have access to digital devices, have digital skills, or have shared some personal data.  We need a way to keep things consistent across online and offline channels.
+This is something that plagued me when I worked on personalisation, and I don’t think I can describe it well, but there’s a need to make sure that service provision and delivery is equitable. You shouldn’t have a better experience or reach a higher-quality outcome just because you have access to digital devices, have digital skills, or have shared some personal data. We need a way to keep things consistent across online and offline channels.
 
-Use computers to do things that computers do well, so that we can redeploy people to do things that people do well. Put a human touch back into government services. 
+Use computers to do things that computers do well, so that we can redeploy people to do things that people do well. Put a human touch back into government services.
 
 ## Friday lunch
 
@@ -78,9 +78,9 @@ Played around with OpenAI’s [whisper](https://github.com/openai/whisper), some
 
 ## Not drinking
 
-This year, I’ve only had low- or no-alcohol beverages to drink. As someone who loves a drop of booze, this is the longest I’ve gone without a drink since I was a teenager. So well done me. 
+This year, I’ve only had low- or no-alcohol beverages to drink. As someone who loves a drop of booze, this is the longest I’ve gone without a drink since I was a teenager. So well done me.
 
-Truth be told, it’s been easy so far. I do miss drinking wine in restaurants, but that’s the only time I’ve had a hankering for a drink. 
+Truth be told, it’s been easy so far. I do miss drinking wine in restaurants, but that’s the only time I’ve had a hankering for a drink.
 
 12 weeks booze-free though!
 

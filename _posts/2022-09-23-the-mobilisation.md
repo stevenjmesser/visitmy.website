@@ -33,13 +33,13 @@ They’re very receptive to focusing the programme on the MVP and being explicit
 
 ## Things I shuffled along
 
-Went over the problems, themes and insights we’d identified in research with one of our service designers. It was a simple case of adding the last few pieces to our running spreadsheet, which allowed us to talk over the problems, how big they were and who they affected. I like this bit. It’s when you get to dig into the specific problems users are facing and talk about potential solutions or a general direction to make things better. I used to think that was dangerous and you should prioritise problems before working on solutions, but I’ve learned that it’s OK to solutionise a tad. It’s creative work and you’re going to refine those ideas through design workshops and usability testing anyway. 
+Went over the problems, themes and insights we’d identified in research with one of our service designers. It was a simple case of adding the last few pieces to our running spreadsheet, which allowed us to talk over the problems, how big they were and who they affected. I like this bit. It’s when you get to dig into the specific problems users are facing and talk about potential solutions or a general direction to make things better. I used to think that was dangerous and you should prioritise problems before working on solutions, but I’ve learned that it’s OK to solutionise a tad. It’s creative work and you’re going to refine those ideas through design workshops and usability testing anyway.
 
 On Thursday we prioritised the problem areas to focus on for the rest of the alpha: the areas for which we’ll prototype solutions and then test with users. Our designer pulled everything from the spreadsheet out onto a Mural board, grouping the problems and insights into thematic areas. There were 5 of us in the workshop: service designer, user researcher, interaction designer (a new joiner), delivery manager and product manager (me). Instead of using a numbering system like RICE, I wanted us to have more of a conversation around what we might prioritise, to see where we might get consensus. So I asked everyone to vote in response to two prompts:
 - Where are we least likely to have an impact on the service? Where should we not focus our prototyping and testing?
 - Now that we have a reduced set of things, where are we most likely to have an impact? Or what’s most complicated to figure out and is deserving of prototyping & testing?
 
-It’s kind of like Impact/Effort rating, except without a 2x2 matrix. Doing it this way meant we spoke about our choices and the factors that played in to our decision-making. The responses were similar but different enough, and people weren’t parroting each other, which means we’re likely safe from groupthink. With a set of areas to focus on, we arranged a playback, ideation workshop and co-design workshop, to involve other teams in creating the solutions with us. 
+It’s kind of like Impact/Effort rating, except without a 2x2 matrix. Doing it this way meant we spoke about our choices and the factors that played in to our decision-making. The responses were similar but different enough, and people weren’t parroting each other, which means we’re likely safe from groupthink. With a set of areas to focus on, we arranged a playback, ideation workshop and co-design workshop, to involve other teams in creating the solutions with us.
 
 We tested a prototype with an internal team, but it didn’t go down well. That’s more attributable to how the workshop was framed instead of the content of the prototype. There was no scene-setting, no clear context on where in the service journey it would occur. We chalked it up as a learning and have put in another workshop for next week to try again.
 
@@ -51,7 +51,7 @@ For people who view service assessments as unnecessary or intrusive or user-cent
 
 ## Other things
 
-Since last week I’ve had the tiniest of coughs and the beginnings of a stuffy nose. That got worse over this week, as busy days and lots of running put strain on my body (if the stress levels recorded on my smartwatch are anything to go by). 
+Since last week I’ve had the tiniest of coughs and the beginnings of a stuffy nose. That got worse over this week, as busy days and lots of running put strain on my body (if the stress levels recorded on my smartwatch are anything to go by).
 
 We took today (Friday) off to go walk more of the [South Downs Way](https://southdownsway.org), but it’s raining all day. We’ll go tomorrow instead. (I could do with a rest day.) We started walking the national trail in 2017 and have done half of it. This weekend should see us complete the next quarter: from Amberley to Queen Elizabeth Country Park. I’m looking forward to camping on a ridge amongst the fir trees.
 
@@ -60,7 +60,7 @@ Since switching from Feedly to [NetNewsWire](https://netnewswire.com) for readin
 ## Bookmarks
 
 - [Weeknotes – series 06 episode 11](https://www.benjystanton.co.uk/blog/weeknotes-series-06-episode-11/), 5 mins
-- [Threeknotes S14 Ep11 (29th August to 16th September ‘22)](https://weeknot.es/threeknotes-s14-ep11-29th-august-to-16th-september-22-d656a103dbe5), 5 mins
+- [Threeknotes S14 Ep11 (29th August to 16th September ’22)](https://weeknot.es/threeknotes-s14-ep11-29th-august-to-16th-september-22-d656a103dbe5), 5 mins
 - [Design is compromise](https://stephanango.com/design-is-compromise), 2 mins
 - [Weeknotes 319](http://rogerswannell.com/weeknotes/weeknotes-319/), 3 mins
 - [12 September - 17 September](https://styledeficit.tumblr.com/post/695657846738698240/12-september-17-september), 3 mins

@@ -12,7 +12,7 @@ tags:
  - Weeknotes
 ---
 
-For the first time in ages, I’ve woken up at 4 a.m. thinking about work. It’s hard to keep a track on my work without writing it down too, which means a return to weeknoting and journalling what I’m doing will help. 
+For the first time in ages, I’ve woken up at 4 a.m. thinking about work. It’s hard to keep a track on my work without writing it down too, which means a return to weeknoting and journalling what I’m doing will help.
 
 But given I haven’t written any weeknotes since, ahem, late April, I’ve got a few months to catch up on. Loads happening, so these notes will be brief.
 
@@ -37,7 +37,7 @@ But given I haven’t written any weeknotes since, ahem, late April, I’ve got 
 - Low-alcohol life is going well! Granted I took a week off in July to enjoy wine in Croatia, the reason for visiting, but I have developed a new relationship to booze – I’ll write about that.
 - I haven’t been fastpacking or camping since April, must get a trip in the diary before summer is out.
 - My family treated me to a pizza oven for my birthday and, you know what, I don’t think I’ll need to spend £14 on a Napoli-style pizza ever again.
-- Went to my first Eisteddfod and had a _cracking_ time.
+- Went to my first Eisteddfod and had a *cracking* time.
 
 ## Bookmarks
 
@@ -52,7 +52,7 @@ My reading habit is obliterated. Need to fire up a routine again. Here’s what 
 - [Make me think!](https://ralphammer.com/make-me-think/), 4 mins
 - [“Deskilling” and AI as a Tool](https://www.laurahilliger.com/techie/deskilling-and-ai-as-a-tool/), 4 mins
 - [How to Launch a Mobile App Successfully](https://themindstudios.com/blog/how-to-launch-a-mobile-app-successfully/), 12 mins
-- [Native Apps vs. Mobile Web: Breaking Down the Mobile Ecosystem](https://www.wired.com/insights/2012/11/native-apps-vs-mobile-web/), 5 mins
+- [Native Apps vs. Mobile Web: Breaking Down the Mobile Ecosystem](https://www.wired.com/insights/2012/11/native-apps-vs-mobile-web/), 5 mins
 - [How to release a mobile app](https://runway.team/blog/how-to-release-a-mobile-app), 9 mins
 - [What Is a Hybrid App? (Detailed Guide for 2022)](https://www.upwork.com/resources/hybrid-app), 8 mins
 - [Why trust is more important than good UX](https://medium.com/writing-by-if/why-trust-is-more-important-than-good-ux-99eff4b4bba7), 5 mins
@@ -60,4 +60,3 @@ My reading habit is obliterated. Need to fire up a routine again. Here’s what 
 - [Hybrid combines the worst of office and remote work](https://world.hey.com/dhh/hybrid-combines-the-worst-of-office-and-remote-work-d3174e50)
 - [Creating rituals that reinforce focus & accountability](https://bynd.com/opinions/creating-rituals-that-reinforce-focus-and-accountability), 3 mins
 - [Intuitive decisions](https://interacciones.org/2013/06/14/intuitive-decisions/)
- 

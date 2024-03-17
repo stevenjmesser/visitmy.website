@@ -28,19 +28,19 @@ I asked the teams
 
 ## Headlines
 
-All teams used a mix of tools, except one team who only used Figma. 80% of teams used Figma. 70% of teams used Miro or Mural. 40% of teams used the GOV.‌UK Prototype Kit. 50% of teams used paper prototypes, which I was delighted to hear! A couple of teams used Powerpoint. Some folks built scrappy technical prototypes or edited existing services in the browser’s developer tools. 
+All teams used a mix of tools, except one team who only used Figma. 80% of teams used Figma. 70% of teams used Miro or Mural. 40% of teams used the GOV.‌UK Prototype Kit. 50% of teams used paper prototypes, which I was delighted to hear! A couple of teams used Powerpoint. Some folks built scrappy technical prototypes or edited existing services in the browser’s developer tools.
 
 Designers were always involved in prototyping, but only half the teams got developers involved. That wasn’t always dependent on whether the team used Prototype Kit or other technical methods, which suggests it’s down to another factor.
 
 A few teams were very mature in their prototyping practices. When they needed to move fast, try out loads of ideas and surface issues quickly, they used low-fidelity prototypes in paper, Powerpoint, and Mural or Miro. These helped them test out different journeys and flows. They progressed to Figma and Prototype Kit when they needed more fidelity or to test out technical approaches.
 
-Figma can be complicated but is worth learning and using, as prototypes can be iterated quickly and easily. Prototype Kit has a steeper learning curve but is more functional, feels more real. 
+Figma can be complicated but is worth learning and using, as prototypes can be iterated quickly and easily. Prototype Kit has a steeper learning curve but is more functional, feels more real.
 
 Teams using paper prototyping did so as a way to get non-digital colleagues from Policy and Communications involved. Usually those people would suggest approaches that couldn’t be implemented, helping the team catch and explain those assumptions early.
 
 Two teams went beyond the interaction and technical layers to prototype the operations layer of a service too, using Lean techniques like [Wizard of Oz and Concierge](https://www.oreilly.com/library/view/the-lean-entrepreneur/9781118331866/xhtml/sec17.html).
 
-Stakeholders like to see a ‘real’ thing, they struggle to make the leaps of imagination required to comprehend low-fidelity prototypes. However, they sometimes find clickable prototypes _too real_, not understanding that the finished thing may still change or will take a while to build properly.
+Stakeholders like to see a ‘real’ thing, they struggle to make the leaps of imagination required to comprehend low-fidelity prototypes. However, they sometimes find clickable prototypes *too real*, not understanding that the finished thing may still change or will take a while to build properly.
 
 ### My personal highlight
 
@@ -56,7 +56,7 @@ Only one team mentioned building scrappy technical prototypes, and only half the
 
 We need more stories of teams using different types of prototyping well. If your service looks the same as 80% of services just like it, ignore the interaction layer: jump to the technical or operational layer, you’ll learn more.
 
-Paper prototyping is quick, fun and, most importantly, really helpful! An officially supported resource might help more teams engage with Policy and Comms colleagues through collaborative prototyping. 
+Paper prototyping is quick, fun and, most importantly, really helpful! An officially supported resource might help more teams engage with Policy and Comms colleagues through collaborative prototyping.
 
 ### My hunch
 

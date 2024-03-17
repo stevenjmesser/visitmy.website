@@ -12,7 +12,7 @@ That’s still a ton of subscriptions but not every one is that active. I keep a
 
 Some feeds I stole from Matt Webb, another set were stolen from [Sidebar](https://sidebar.io), and the rest I’ve added myself. It’s full of digital government people, folks from the user-centred design and product worlds, plus galaxy brains from economics, politics, design and law. [There’s nee porn on it](https://www.youtube.com/watch?v=7ojox3nLkBE).
 
-You can download my [OPML file](https://visitmy.website/subscriptions.opml) and plonk it in your feed reader to get an injection of new RSS feeds to follow. 
+You can download my [OPML file](https://visitmy.website/subscriptions.opml) and plonk it in your feed reader to get an injection of new RSS feeds to follow.
 
 One day soon I’ll add a blogroll page. But that’s it for now.
 

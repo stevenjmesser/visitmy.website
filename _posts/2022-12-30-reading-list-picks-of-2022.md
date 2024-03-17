@@ -39,19 +39,19 @@ Read [On Principles](https://technogoggles.com/2022/06/21/on-principles/), 3 min
 
 ### Products deliver outputs, services deliver outcomes
 
-If you orient your work around meeting users’ needs and improving their experience, the semantic debate over what is a service and what is a product feels like a moot point. A product mindset and the tenets of user-centred service design are the same. But for organisations going through digital transformation and not fully understanding all the lingo, definitions can help. This definition from Tero Väänänen is really useful, and the diagram helped me explain our service to technology-minded stakeholders at NHS Digital. (I also like the idea of platforms as enabling services.) 
+If you orient your work around meeting users’ needs and improving their experience, the semantic debate over what is a service and what is a product feels like a moot point. A product mindset and the tenets of user-centred service design are the same. But for organisations going through digital transformation and not fully understanding all the lingo, definitions can help. This definition from Tero Väänänen is really useful, and the diagram helped me explain our service to technology-minded stakeholders at NHS Digital. (I also like the idea of platforms as enabling services.)
 
 Read [Products deliver outputs, services deliver outcomes](https://medium.com/@teropsv/products-deliver-outputs-services-deliver-outcomes-845f964ba1ff), 7 mins
 
 ### 10 good design reads that aren’t written by white men
 
-Does what it says on the tin. 
+Does what it says on the tin.
 
 Read [10 good design reads that aren’t written by white men](https://uxdesign.cc/10-good-design-reads-that-arent-written-by-white-men-58943255d04e), 10 mins
 
 ### List of inclusive design books
 
-A similar list from Benjy Stanton that’s all about doing design inclusively. 
+A similar list from Benjy Stanton that’s all about doing design inclusively.
 
 Read [List of inclusive design books](https://www.benjystanton.co.uk/blog/list-of-inclusive-design-books/), 2 mins
 
@@ -65,13 +65,13 @@ Read [Why Figma is selling to Adobe for $20 billion](https://www.theverge.com/20
 
 ### What Do We Know About Time Pressure in Software Development?
 
-Some times you’ll need to work to a strict deadline when shipping software. Launching an MVP, for example, or meeting a regulatory change. The problem with deadline-driven development is that it makes people think that deadlines are a good thing, that you’ll always ship great software when working under time pressure. This literature review shows how though time pressure _can_ be useful, it is negative in the long run.  
+Some times you’ll need to work to a strict deadline when shipping software. Launching an MVP, for example, or meeting a regulatory change. The problem with deadline-driven development is that it makes people think that deadlines are a good thing, that you’ll always ship great software when working under time pressure. This literature review shows how though time pressure *can* be useful, it is negative in the long run.
 
 Read [What Do We Know About Time Pressure in Software Development?](https://www.computer.org/csdl/magazine/so/2021/05/09184214/1mLHZkBtQiI), 10 mins
 
 ### Shipping Great Work
 
-Being the first product manager at a startup basically means you’re the delivery manager too. Although I think I’ve got a really good grasp of the role and how to deliver software, there’s an added pressure when you’re doing all the product thinking, the design _and_ you’re looking after delivery. This was a great resource covering many of the activities that go in to shipping great software beyond adopting something like Scrum or Kanban.
+Being the first product manager at a startup basically means you’re the delivery manager too. Although I think I’ve got a really good grasp of the role and how to deliver software, there’s an added pressure when you’re doing all the product thinking, the design *and* you’re looking after delivery. This was a great resource covering many of the activities that go in to shipping great software beyond adopting something like Scrum or Kanban.
 
 Read [Shipping Great Work](https://koolaidfactory.com/zines/shipping-great-work/), 30 mins
 
@@ -83,7 +83,7 @@ Read [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://
 
 ### How to disappoint people
 
-The idea that ‘every project starts with a fixed amount of disappointment’ was a real mind-blown moment for me. Too often I’ve kidded myself into thinking we’ll pull it off. This is a more realistic framing, one that works particularly well on teams with low strategic autonomy. If you’re handed some ideas to build or very specific goals to reach, this set of posts from Neil Vass will likely be helpful. (The links go to the Web Archive as Neil’s site seems to be broken at the moment.) 
+The idea that ‘every project starts with a fixed amount of disappointment’ was a real mind-blown moment for me. Too often I’ve kidded myself into thinking we’ll pull it off. This is a more realistic framing, one that works particularly well on teams with low strategic autonomy. If you’re handed some ideas to build or very specific goals to reach, this set of posts from Neil Vass will likely be helpful. (The links go to the Web Archive as Neil’s site seems to be broken at the moment.)
 
 Read [part 1](https://web.archive.org/web/20220913070750/https://neil-vass.com/?p=163) (5 mins), [part 2](https://web.archive.org/web/20220912193029/https://neil-vass.com/?p=174) (6 mins) and [part 3](https://web.archive.org/web/20220912193022/https://neil-vass.com/?p=196) (11 mins)
 
@@ -109,13 +109,13 @@ Read [Workplace serendipity, invention, and lessons from Prohibition 1920-1933](
 
 ### Complex Personhood
 
-This is all about how people’s lives aren’t as straightforward as they think. It’s about the culture wars, although it’s really about how that’s too simple a definition. What I took from it is that no matter how much you (or another person) try to define yourself, your personhood, things are much more complicated. 
+This is all about how people’s lives aren’t as straightforward as they think. It’s about the culture wars, although it’s really about how that’s too simple a definition. What I took from it is that no matter how much you (or another person) try to define yourself, your personhood, things are much more complicated.
 
 Read [Complex Personhood](https://caterina.net/2022/09/19/complex-personhood/), 3 mins
 
 ### The old internet
 
-Oddly found this a couple of weeks before everyone started migrating from Twitter over to Mastodon. It talks about the old internet, how centralised services weren’t the norm, and is a call for people to create their own websites. 
+Oddly found this a couple of weeks before everyone started migrating from Twitter over to Mastodon. It talks about the old internet, how centralised services weren’t the norm, and is a call for people to create their own websites.
 
 Read [The old internet](https://rebeccatoh.co/the-old-internet/), 2 mins
 
@@ -129,7 +129,7 @@ Read [Generating Agency Through Blogging](https://tomcritchlow.com/2022/08/29/bl
 
 ### Why we should work in the open
 
-This piece from the Co-op Digital blog, written by the excellent [Amy McNichol](https://twitter.com/AmyMcNichol), sums up 7 years of working in the open at the organisation. Most blog posts (including my own) give point-in-time reasonings for talking about your work, but this one condenses a long stint in the game. 
+This piece from the Co-op Digital blog, written by the excellent [Amy McNichol](https://twitter.com/AmyMcNichol), sums up 7 years of working in the open at the organisation. Most blog posts (including my own) give point-in-time reasonings for talking about your work, but this one condenses a long stint in the game.
 
 Read [Why we should work in the open](https://digitalblog.coop.co.uk/2022/10/19/why-we-should-work-in-the-open/), 6 mins
 
@@ -155,7 +155,7 @@ Read [Young People Are Lonelier Than Ever](https://www.vice.com/en/article/z3n5a
 
 ### Fleeing Twitter
 
-This article discusses the implications of Elon Musk's takeover of Twitter and the potential increase in trolling and hate speech on the platform. It draws attention to the fact that the majority of people leaving or threatening to leave the platform are white liberals, contrasting with the fact that it will be disproportionately not white people who will bear the brunt of the toxicity.
+This article discusses the implications of Elon Musk’s takeover of Twitter and the potential increase in trolling and hate speech on the platform. It draws attention to the fact that the majority of people leaving or threatening to leave the platform are white liberals, contrasting with the fact that it will be disproportionately not white people who will bear the brunt of the toxicity.
 
 Read [Fleeing Twitter](https://momentum.medium.com/fleeing-twitter-the-twexodus-is-about-white-liberal-fragility-3631cb2ac317), 6 mins
 
@@ -175,7 +175,7 @@ Read [Dominic Cummings: “I don’t like parties”](https://unherd.com/2022/05
 
 ### Inside the Pain Cave
 
-How to visualise discomfort and pain to work through it, while running or doing something else. This is an interview with Courtney Dauwalter, who’s a cool ultra-runner who pretty much came out of nowhere. Overnight ordinary superhero. 
+How to visualise discomfort and pain to work through it, while running or doing something else. This is an interview with Courtney Dauwalter, who’s a cool ultra-runner who pretty much came out of nowhere. Overnight ordinary superhero.
 
 Read [Inside the Pain Cave](https://www.theringer.com/sports/2022/8/30/23323367/courtney-dauwalter-ultra-running-marathon), 18 mins
 
@@ -187,16 +187,16 @@ Read [(Tele)pathy](https://boot-boyz.biz/products/telepathy), 13 mins
 
 ### Dear male ego
 
-Amy Hupe’s a fantastic writer and I hope she’ll start writing about other topics, because this piece about perceiving the male ego as a woman, and its impact, was pretty powerful. 
+Amy Hupe’s a fantastic writer and I hope she’ll start writing about other topics, because this piece about perceiving the male ego as a woman, and its impact, was pretty powerful.
 
 Read [Dear male ego](https://amyhupe.co.uk/articles/dear-male-ego/), 5 mins
 
 ### Could Consciousness Be a Memory System? New Theory Says Yes
 
-Everything we perceive could actually be a memory. Mind-blowing new theory. 
+Everything we perceive could actually be a memory. Mind-blowing new theory.
 
 Read [Could Consciousness Be a Memory System? New Theory Says Yes](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/), 6 mins
 
 ---
 
-_Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}) and [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %})_
+*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}) and [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %})*

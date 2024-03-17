@@ -9,7 +9,7 @@ tags:
  - Weeknotes
 ---
 
-An emptier week than usual due to the [civil service strike](https://www.bbc.co.uk/news/business-64241382) on Wednesday, which meant I had a day not working. 
+An emptier week than usual due to the [civil service strike](https://www.bbc.co.uk/news/business-64241382) on Wednesday, which meant I had a day not working.
 
 This week I
 

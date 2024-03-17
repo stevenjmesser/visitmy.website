@@ -12,7 +12,7 @@ tags:
  - Agile delivery
 ---
 
-Getting quicker at delivering software is something that many people working in tech face at some point. This can feel like an uphill struggle, especially when you’re starting out in Agile. 
+Getting quicker at delivering software is something that many people working in tech face at some point. This can feel like an uphill struggle, especially when you’re starting out in Agile.
 
 I can remember feeling overwhelmed when I started out, feeling like I had to get better and be pacy after a few weeks. But that wasn’t a helpful way to think about it.
 
@@ -20,7 +20,7 @@ Over the years I’ve worked on various different teams at various different spe
 
 ## “Think Easy, Light, Smooth, and Fast”
 
-This comes from _Born to Run_, Christopher McDougall’s book about ultra-runners and a tribe in Mexico.
+This comes from *Born to Run*, Christopher McDougall’s book about ultra-runners and a tribe in Mexico.
 
 > “Think Easy, Light, Smooth, and Fast. You start with easy, because if that’s all you get, that’s not so bad. Then work on light. Make it effortless, like you don’t give a shit how high the hill is or how far you’ve got to go. When you’ve practiced that so long that you forget you’re practicing, you work on making it smooooooth. You won’t have to worry about the last one—you get those three, and you’ll be fast.”
 
@@ -30,4 +30,4 @@ Then you can think about being light on your feet. Once you know the framework w
 
 After that, when it feels like you’re no longer practising and you’re into a great rhythm, focus on making things feel smooth. Pre-empt bumps in the road, mitigate risks early, and descope things as needed. Think in iterations rather than big-bang releases.
 
-Being fast will come naturally. 
+Being fast will come naturally.

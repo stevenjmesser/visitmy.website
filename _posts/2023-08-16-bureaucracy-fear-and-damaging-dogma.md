@@ -9,13 +9,13 @@ tags:
  - Digital government
 ---
 
-_Note: I wrote this back in February 2023 but didn’t press publish until now. Should have done it sooner._
+*Note: I wrote this back in February 2023 but didn’t press publish until now. Should have done it sooner.*
 
 There was a good talk run by UCL’s [Institute for Innovation and Public Purpose](https://www.ucl.ac.uk/bartlett/public-purpose/) towards the end of January that looked at why innovation needs bureaucracy. The event accompanied the launch of a [book](https://www.yalebooks.co.uk/page/detail/how-to-make-an-entrepreneurial-state/?k=9780300227277) that looks at ‘agile stability’: “that in order to successfully innovate, state organisations have to move nimbly like start-ups and yet ensure stability at the same time.”
 
 Amongst the academic chatter that, to be honest, often went over my head, there were examples shared of what that ‘agile stability’ means. Rules or principles that guide people, [which I’ve written about before]({% post_url 2020-11-06-users-trust-delivery %}). Not a playbook or a step-by-step, but some guardrails that keep you on track while giving space for creativity. For innovation.
 
-My guess is that that was the intention of the [Service Standard](https://www.gov.uk/service-manual/service-standard). It encourages teams to build services in a user-centred, iterative way. A [service assessment](https://www.gov.uk/service-manual/service-assessments/how-service-assessments-work) then gives teams the opportunity to tell the story of how they utilised those methods. 
+My guess is that that was the intention of the [Service Standard](https://www.gov.uk/service-manual/service-standard). It encourages teams to build services in a user-centred, iterative way. A [service assessment](https://www.gov.uk/service-manual/service-assessments/how-service-assessments-work) then gives teams the opportunity to tell the story of how they utilised those methods.
 
 The thing is, despite everyone’s best efforts to avoid this and [reframe service assessments](https://services.blog.gov.uk/2020/10/23/not-meeting-the-service-standard-doesnt-mean-you-failed/) as friendly reviews by digital peers, there is a culture of fear amongst service teams. And I think this stifles creativity and innovation.
 
@@ -27,7 +27,7 @@ Sure, you’ll get asked about using the design system in alpha and beta assessm
 
 What’s most interesting in this example is that the team asking about sign-off were working on a live service. Digging in to their thought patterns, they realised that there wasn’t a service assessment or anything similar to go through. They had been worried about being ‘pulled up’ on using a non-GOV.UK component, but realised there wasn’t a moment when they would be policed on this.
 
-This is one example in a pattern of questions about ‘GDS approved’ ways of doing things. It signals a culture of fear, where people find it hard to do their job for fear of misstepping. 
+This is one example in a pattern of questions about ‘GDS approved’ ways of doing things. It signals a culture of fear, where people find it hard to do their job for fear of misstepping.
 
 Another example: my service owner at NHS Digital was petrified of the alpha service assessment. They thought that if they failed the assessment, the service would be stopped. This caused them to focus more on boxes to tick in order to pass, rather than thinking about what good looked like, what our priorities should be, and how to empower teams to do their best work.
 

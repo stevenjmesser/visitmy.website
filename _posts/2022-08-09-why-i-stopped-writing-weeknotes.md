@@ -17,13 +17,9 @@ Around 12 months ago I stopped writing [weeknotes]({{ "/tag/weeknotes" | relativ
 
 But yeah, I stopped last year. And I worried about people noticing, but no one called me out on it. I wanted to write about why I’d stopped but just didn’t. Until [Martin](https://twitter.com/Martin_Jordan) gave me a prod last week:
 
-> Hey!
-> I talked to a friend who’s a product manager about weeknotes and how you are weeknoting.
-> I shared your why weeknotes blog post with him.
-> But then I discovered that you stopped last autumn.
-> What happened?
+> Hey! I talked to a friend who’s a product manager about weeknotes and how you are weeknoting. I shared your why weeknotes blog post with him. But then I discovered that you stopped last autumn. What happened?
 
-Here’s why I stopped, what I missed, and why I’m excited to get started again. 
+Here’s why I stopped, what I missed, and why I’m excited to get started again.
 
 ## My openness was neutered
 
@@ -41,7 +37,7 @@ Occasionally I add little personal notes too, so I lost the personal journalling
 
 ## Starting again
 
-This week I changed jobs. I’ve switched back to the public sector, working at NHS Digital now, so I’m gonna start writing weeknotes again. The culture was more widespread at GDS so I need to check it’ll be OK, make sure I’m not defying any policies. But I’m fairly certain even neutered notes will be possible. (And I’ve always been happy to read [Matt Edgar’s weeknotes](https://blog.mattedgar.com/tag/weeknotes/), so at least there’s some precedence[^1].) 
+This week I changed jobs. I’ve switched back to the public sector, working at NHS Digital now, so I’m gonna start writing weeknotes again. The culture was more widespread at GDS so I need to check it’ll be OK, make sure I’m not defying any policies. But I’m fairly certain even neutered notes will be possible. (And I’ve always been happy to read [Matt Edgar’s weeknotes](https://blog.mattedgar.com/tag/weeknotes/), so at least there’s some precedence[^1].)
 
 We don’t only write these notes for ourselves, we also write for those who come after us (hat-tip to [Ellie](https://medium.com/@Ellayanor)).
 
@@ -50,4 +46,5 @@ We don’t only write these notes for ourselves, we also write for those who com
 I’m sharing these thoughts to start a conversation, so drop me a line on Twitter if any of this resonates with you or you’ve found ways around it all.
 
 ---
+
 [^1]: Did a quick search to find weeknotes from other NHS Digital folk, but think my Google-fu was rubbish. If you’ve written some while at NHSD, please get in touch!

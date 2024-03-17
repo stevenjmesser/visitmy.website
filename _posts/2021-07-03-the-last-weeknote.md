@@ -43,9 +43,9 @@ Ran a half-marathon on Wednesday morning. Never thought I’d say that. Quite fu
 
 - [Why Cuba couldn’t control the internet](https://restofworld.org/2021/yoani-sanchez-cuba-internet/), 5 mins
 - [The Power of Product Thinking](https://future.a16z.com/product-thinking/), 10 mins
-- [Cuba Is Making Its Own Smartphone – With China's Help](https://www.vice.com/en/article/y3d37v/cuba-is-making-its-own-smartphone-with-chinas-help), 4 mins
+- [Cuba Is Making Its Own Smartphone – With China’s Help](https://www.vice.com/en/article/y3d37v/cuba-is-making-its-own-smartphone-with-chinas-help), 4 mins
 - [The Tyranny Of Time](https://www.noemamag.com/the-tyranny-of-time), 21 mins
-- ['Positive deviants': Why rebellious workers spark great ideas](https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas), 7 mins
+- [‘Positive deviants’: Why rebellious workers spark great ideas](https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas), 7 mins
 - [Octopus Energy’s Cutting-Edge Customer Service: An Interview with Jon Paull](https://www.bcg.com/en-gb/publications/2020/interview-with-octopus-energy-jon-paull-on-cutting-edge-customer-service), 9 mins
 - [How ‘creative destruction’ drives innovation and prosperity](https://on.ft.com/2ThzGqB), 4 mins
 - [Post-Covid data needs careful handling](https://on.ft.com/2TrepL0), 4 mins

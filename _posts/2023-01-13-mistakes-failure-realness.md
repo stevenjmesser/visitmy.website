@@ -14,10 +14,10 @@ And [this piece on design systems and mistakes](https://www.robinrendle.com/essa
 
 > The ugly truth is that design systems work is not easy. And what works for one company does not work for another. In most cases, copying the big tech company of the week will not make a design system better at all. And so instead we have to acknowledge how difficult our work is collectively and then we have to do something that seems impossible today—we must publicly admit to our mistakes. To learn from our community we must be honest with one another and talk bluntly about how we’ve screwed things up.
 
-He’s right. Much of the product management corpus is about success, not failure, but after a few weeks on the design system team, I’m seeing just how complicated the work is. And how much pressure the team feel to get everything, every little detail and atomic choice made with clarity, conviction and care. 
+He’s right. Much of the product management corpus is about success, not failure, but after a few weeks on the design system team, I’m seeing just how complicated the work is. And how much pressure the team feel to get everything, every little detail and atomic choice made with clarity, conviction and care.
 
 But having that pressure, striving for perfection throughout a life, is not the way to do things. Trying to control everything is an impossible task, when all you can really control is yourself. We’re all at the whims of the stuff happening around us.
 
 Admitting the mistakes we have made, and acknowledging how we have moved forward, is a form of self-development, self-acceptance. So I need to admit where I failed.
 
-> “Knowing the Way is to know your own faults. Discovering your imperfections with endless introspection and to remedy them by spending your life training body and mind (shugyō), that is the Way.” (Tsunetomo Yamamoto, _Hagakure_)
+> “Knowing the Way is to know your own faults. Discovering your imperfections with endless introspection and to remedy them by spending your life training body and mind (shugyō), that is the Way.” (Tsunetomo Yamamoto, *Hagakure*)

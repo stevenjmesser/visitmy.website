@@ -13,15 +13,15 @@ tags:
  - Weeknotes
 ---
 
-Currently in the throes of my second bout of coronavirus, which means I’ve been off work since Tuesday. The brain fog and fatigue has yet to lift, and despite trying to work this morning I’ve had to sign off for the rest of the week. 
+Currently in the throes of my second bout of coronavirus, which means I’ve been off work since Tuesday. The brain fog and fatigue has yet to lift, and despite trying to work this morning I’ve had to sign off for the rest of the week.
 
 These notes will act as a stake in the ground for next week, so I can get back to bed.
 
 ## Things I started
 
- Sent out a survey for the Product People unconference, to find out which date would work best for the community and to collect some volunteers. The provisional dates are 12 and 19 January, but I know that 19 January is UKGovCamp, so that might decide it for us. I’m grateful to the 14 people who’ve reached out to be volunteers already – if you’re reading this, you are a star!
- 
- Get in touch if you’d like to hear more about the unconference, it’s been kept within the Product People community for now but I know there’s folks working on product teams who aren’t on the mailing list.
+Sent out a survey for the Product People unconference, to find out which date would work best for the community and to collect some volunteers. The provisional dates are 12 and 19 January, but I know that 19 January is UKGovCamp, so that might decide it for us. I’m grateful to the 14 people who’ve reached out to be volunteers already – if you’re reading this, you are a star!
+
+Get in touch if you’d like to hear more about the unconference, it’s been kept within the Product People community for now but I know there’s folks working on product teams who aren’t on the mailing list.
 
 ## Things I shuffled along
 
@@ -38,9 +38,9 @@ Had a show & tell with the service assessment team, which is when they decide wh
 
 ## Other things
 
-Last weekend I bought [Joe](https://twitter.com/joelanman)’s Xbox. Finally got around to playing _Cyberpunk 2077_ which is...OK. Not the open world they promised. Very story-driven. All the classic cyberpunk tropes, geared towards high-octane action rather than immersing yourself in a detailed world. Enjoying _Chivalry II_ more.
+Last weekend I bought [Joe](https://twitter.com/joelanman)’s Xbox. Finally got around to playing *Cyberpunk 2077* which is…OK. Not the open world they promised. Very story-driven. All the classic cyberpunk tropes, geared towards high-octane action rather than immersing yourself in a detailed world. Enjoying *Chivalry II* more.
 
-My mind’s deteriorating as I write this, the brain fog is as bad  as the first time I had the ‘rona. Thought maybe my body would be used to it, but oh no. I’ll lie in bed for an hour, reading, then have to nap for two. Respiratory symptoms aren’t too bothersome, it’s the neurological effects that do you in.
+My mind’s deteriorating as I write this, the brain fog is as bad as the first time I had the ’rona. Thought maybe my body would be used to it, but oh no. I’ll lie in bed for an hour, reading, then have to nap for two. Respiratory symptoms aren’t too bothersome, it’s the neurological effects that do you in.
 
 Have had to pull out of the half-marathon this weekend, which I’m really gutted about. I’ll see about booking another one in, around the time I start marathon training in early November.
 

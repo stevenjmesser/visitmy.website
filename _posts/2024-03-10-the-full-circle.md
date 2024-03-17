@@ -13,21 +13,21 @@ tags:
  - Weeknotes
 ---
 
-New job, new series of weeknotes. 
+New job, new series of weeknotes.
 
-For new readers, a weeknote is a diary-style recap of what I got up to at work during the week. The main purpose is to help me reflect on what I did and whether I achieved my goals, which helps me work out what to do next week. It’s also a record of what I did that I can look back on later. 
+For new readers, a weeknote is a diary-style recap of what I got up to at work during the week. The main purpose is to help me reflect on what I did and whether I achieved my goals, which helps me work out what to do next week. It’s also a record of what I did that I can look back on later.
 
 There are [other reasons to write weeknotes]({% post_url 2020-11-01-why-i-write-weeknotes %}), and [lots of people in the public sector do it](https://neilojwilliams.net/about/week-notes/).
 
 ## What I did this week
 
-I joined the [Digital Land team](https://digital-land.github.io/about/) at the Department for Levelling Up, Housing and Communities (DLUHC) working on making land and housing data easier to find, use and trust. Right now, the team is working on [data standards](https://digital-land.github.io/data-standards/) and a [data platform](https://www.planning.data.gov.uk) for the planning ecosystem. 
+I joined the [Digital Land team](https://digital-land.github.io/about/) at the Department for Levelling Up, Housing and Communities (DLUHC) working on making land and housing data easier to find, use and trust. Right now, the team is working on [data standards](https://digital-land.github.io/data-standards/) and a [data platform](https://www.planning.data.gov.uk) for the planning ecosystem.
 
-Working in this space feels like coming home. Before joining Government Digital Service (GDS) in 2018, I was working at [Porism](https://porism.com) on open linked data for local government. I learned loads about open data and local government during my time there, but I was relatively new to all things digital and product management. 
+Working in this space feels like coming home. Before joining Government Digital Service (GDS) in 2018, I was working at [Porism](https://porism.com) on open linked data for local government. I learned loads about open data and local government during my time there, but I was relatively new to all things digital and product management.
 
 Now that I’ve got more experience under my belt, I feel like I can make a decent contribution to [data as infrastructure](https://theodi.org/insights/explainers/what-is-data-infrastructure/). This project plays on some of my strengths: platform-thinking, making things open, and using technology to create economic value. So I’m super grateful to [Paul](https://www.linkedin.com/in/pdowney/), [Stef](https://www.linkedin.com/in/stefanwebb/) and [Ann](https://annkempster.com) for bringing me in via [Boring Magic](https://boringmagi.cc). 🙏
 
-Anyway, that’s enough of that, what did I _actually_ do this week?!
+Anyway, that’s enough of that, what did I *actually* do this week?!
 
 - Read the service handbook and got up-to-speed on the team, the platform and our ways of working
 - Joined a workshop in the office to map our value stream and discuss opportunities to [unblock flow](https://digital-land.github.io/blog-post/beta-team/#slow-down-to-flow-fast)
@@ -46,11 +46,11 @@ And purely by chance, I topped off this data-heavy week by going out to dinner w
 
 We’re running another unconference for product people in the public sector on [19 April in London](https://productforthepeople.xyz/product-for-the-people-4-london-d1d1cc92ebdc). Join us!
 
-### Running 
+### Running
 
-I’ve missed several workouts in my marathon training plan due to injury, going hiking, and starting a new job. I’m trying not to beat myself up for it too much. This will be my second marathon and there’s still 10 weeks to go. Plus the northward equinox is nearly upon us, bringing with it earlier sunrises and longer days, meaning I can run in the morning rather than lunchtime. 
+I’ve missed several workouts in my marathon training plan due to injury, going hiking, and starting a new job. I’m trying not to beat myself up for it too much. This will be my second marathon and there’s still 10 weeks to go. Plus the northward equinox is nearly upon us, bringing with it earlier sunrises and longer days, meaning I can run in the morning rather than lunchtime.
 
-Desperately need to start doing strength & conditioning exercises again though. My feet and ankles have been playing up, likely because I started wearing Nike Air Max 97s – which have a significant heel drop compared to the zero-drop shoes I wear for running. 
+Desperately need to start doing strength & conditioning exercises again though. My feet and ankles have been playing up, likely because I started wearing Nike Air Max 97s – which have a significant heel drop compared to the zero-drop shoes I wear for running.
 
 ### IndieWeb
 
@@ -75,7 +75,7 @@ Anyway, like I said, it’s something I need to spend time thinking about in mor
 - [Apple will ‘break new ground’ in generative AI this year, Tim Cook teases](https://9to5mac.com/2024/02/28/apple-ai-break-new-ground/), 2 mins
 - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess), 6 mins
 - [What are Some Examples of How Copilot Can Help Blind Users?](https://blog.blackspheretech.com/?p=473), 6 mins
-- [On Jackpot Technologies, or, what Apple's new headset is actually *for*](https://davekarpf.substack.com/p/on-jackpot-technologies-or-what-apples?utm_source=substack&utm_medium=email), 7 mins
+- [On Jackpot Technologies, or, what Apple’s new headset is actually *for*](https://davekarpf.substack.com/p/on-jackpot-technologies-or-what-apples?utm_source=substack&utm_medium=email), 7 mins
 - [The Cult of AI](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/), 19 mins
 - [ChatGPT Started Speaking Complete Gibberish](https://www.404media.co/chatgpt-started-speaking-gibberish/), 1 mins
 - [Box110: We Just Haven’t Been Capitalisming Hard Enough](https://blog.tobiasrevell.com/2024/02/21/box110-we-just-havent-been-capitalisming-hard-enough/), 14 mins

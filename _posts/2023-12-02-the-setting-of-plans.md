@@ -13,7 +13,7 @@ tags:
  - Weeknotes
 ---
 
-Going to keep these brief as I was off sick yesterday and I’m still not feeling 100%. Don’t really want to spend time writing and thinking about work, I’d rather just convalesce under blankets. 
+Going to keep these brief as I was off sick yesterday and I’m still not feeling 100%. Don’t really want to spend time writing and thinking about work, I’d rather just convalesce under blankets.
 
 The theme of this week was all about setting plans based on the strategic work we’ve been doing, namely
 
@@ -21,11 +21,11 @@ The theme of this week was all about setting plans based on the strategic work w
 - forming an agenda for an away day next week and other TeamOps work, based on the coaching sessions, and
 - finalising the narrative for the Design System strategy for next year, including new capability and funding needs.
 
-We also discussed release dates for GOV.‌UK Frontend v5.0 and our WCAG 2.2 guidance. 
+We also discussed release dates for GOV.‌UK Frontend v5.0 and our WCAG 2.2 guidance.
 
 ## GOV.‌UK Frontend v5.0
 
-The Frontend squad have been doing excellent work on the new major release this year, and we’re in the final furlong before releasing it. There’s just a few tweaks and additions to make to the docs, but it’ll be out soon. 
+The Frontend squad have been doing excellent work on the new major release this year, and we’re in the final furlong before releasing it. There’s just a few tweaks and additions to make to the docs, but it’ll be out soon.
 
 If you want to get ahead and try out the [latest beta release](https://www.npmjs.com/package/govuk-frontend/v/5.0.0-beta.2), it’ll make it a lot easier to upgrade to v5.0 once the final release is ready. Teams in a couple of departments and across GDS have been trying it out already, and their feedback has been really useful in sanding the edges off.
 
@@ -37,7 +37,7 @@ As you’ll have seen from the [GOV.‌UK Design System’s accessibility strate
 
 This means we’re meeting a milestone 3 months ahead of our goal, which is fabulous work. It also means that teams across government will be spared the hassle of interpreting WCAG 2.2 guidelines for any components and patterns they’ve used from the design system, freeing up time to consider how the guidelines affect any custom or local elements they’ve built.
 
-It’s great work, and the team have also demonstrated how they can start with ideas, validated through light research, and improve the Design System website iteratively. A design sprint to look at how we might improve accessibility guidance has resulted in a new feature that I can’t wait for the team to share. 
+It’s great work, and the team have also demonstrated how they can start with ideas, validated through light research, and improve the Design System website iteratively. A design sprint to look at how we might improve accessibility guidance has resulted in a new feature that I can’t wait for the team to share.
 
 ## My next contract
 

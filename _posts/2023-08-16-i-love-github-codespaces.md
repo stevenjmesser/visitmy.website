@@ -6,7 +6,7 @@ tags:
  - Notes
 ---
 
-Restructured the git repository for my website this morning. 
+Restructured the git repository for my website this morning.
 
 Previously I had it tracking changes to HTML files only, for a reason I can’t remember. I didn’t publish the source code to my site on GitHub – no idea why.
 

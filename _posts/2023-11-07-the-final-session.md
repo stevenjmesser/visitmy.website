@@ -15,7 +15,7 @@ tags:
 
 It’s Tuesday morning. My alarm just went off, but I’m already standing on the platform at Norwood Junction railway station. My train doesn’t arrive for another 10 minutes so I might as well tap out last week’s weeknotes.
 
-And there’s not many tasks to list. Last week was full of face-time and working _with_ people instead of working near them, through tickets and docs and emails and instant messages. 
+And there’s not many tasks to list. Last week was full of face-time and working *with* people instead of working near them, through tickets and docs and emails and instant messages.
 
 What did we do?
 
@@ -27,15 +27,15 @@ What did we do?
 
 I took Friday off to travel to Llandeilo, on the western edge of the Bannau Brycheiniog, for a long weekend.
 
-## Feedback and gratitude 
+## Feedback and gratitude
 
 The main focus of the final coaching session was sharing feedback, recognising growth, and showing gratitude for each other. We’ve been on this journey for six months together, and it’s been excellent to step back and see the change. So we kicked off by acknowledging that. We’ve captured the feedback on letters to hand to people’s line managers too, it can feed into professional development reviews.
 
 There were two main goals with the coaching: reduce risk-aversion and increase confidence with engaging externally. We shared so many examples of that in the feedback, there really has been some growth. But I don’t believe it would have been possible without growing internal trust too.
 
-Next up, the team gave the leads some good feedback, and we all showed gratitude to each other. There’s a lot of trust amongst everyone now, you can feel it. You can see it too. No longer a group of skilled individuals but a unit, using their unique skills and perspectives to pull as one. 
+Next up, the team gave the leads some good feedback, and we all showed gratitude to each other. There’s a lot of trust amongst everyone now, you can feel it. You can see it too. No longer a group of skilled individuals but a unit, using their unique skills and perspectives to pull as one.
 
-Throughout the rest of the day everyone workshopped ideas for how we’ll make improvements elsewhere, for example, by iterating our ways of working or making it more clear when a specific is or isn’t needed. Continuous improvement, that’s sustainable beyond the end of the coaching sessions. 
+Throughout the rest of the day everyone workshopped ideas for how we’ll make improvements elsewhere, for example, by iterating our ways of working or making it more clear when a specific is or isn’t needed. Continuous improvement, that’s sustainable beyond the end of the coaching sessions.
 
 There’s a model starting to emerge in my mind that by improving the dark matter between people, the invisible stuff that holds the team together, the team can grow capability as a unit. You have to aim for functioning, not just building capability.
 
@@ -63,7 +63,7 @@ So we took different ethical theories and applied them to scenarios, which helpe
 
 Having not been running all week, neglecting my training plan due to busy days in the office, I made up for it with a 32km run in south Wales on Sunday. It was a beautiful day with very little rain, and I really do find being in the outdoors a tonic. When your route takes you past an old castle unexpectedly, how can you not?! Check out photos of Castell Carreg Cennen, it’s stunning.
 
-My route tied together parts of the Heart of Wales Trail, the Beacons Way, and some public rights of way. Very muddy at times but rather wet too, meaning the mud washed off in puddles and streams. It was cloudy on Tair Carn Isaf, the summit, but there were _plenty_ of good views before reaching that summit. 
+My route tied together parts of the Heart of Wales Trail, the Beacons Way, and some public rights of way. Very muddy at times but rather wet too, meaning the mud washed off in puddles and streams. It was cloudy on Tair Carn Isaf, the summit, but there were *plenty* of good views before reaching that summit.
 
 After 1,155km (about 717 miles) I retired my ASICS Gel-Trabuco 9 GTX shoes. The toe cap separated from the upper, the upper was ripped around the toe box, and although the tread was good they were starting to feel like flip-flops. They served me well on many adventures.
 
@@ -76,10 +76,10 @@ This week I’m in Manchester without any opportunity to get into the Peak Distr
 - [UX/Design Leaders: Understand the motivation of your peers and stakeholders the same way you do your users and customers](https://www.petermerholz.com/blog/ux-design-leaders-understand-the-motivation-of-your-peers-and-stakeholders-the-same-way-you-do-your-users-and-customers/), mins
 - [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards), 3 mins
 - [Bank of England holds interest rates at 5.25%](https://on.ft.com/47cgwmz), mins
-- [People's Panel on AI Bulletin 1](https://connectedbydata.org/news/2023/10/27/peoples-panel-bulletin-1), 3 mins
-- [People's Panel on AI Bulletin 2](https://connectedbydata.org/news/2023/10/31/peoples-panel-bulletin-2), 3 mins
-- [People's Panel on AI Bulletin 3](https://connectedbydata.org/news/2023/11/01/peoples-panel-bulletin-3), 5 mins
-- [People's Panel on AI Bulletin 4](https://connectedbydata.org/news/2023/11/02/peoples-panel-bulletin-4), 3 mins
+- [People’s Panel on AI Bulletin 1](https://connectedbydata.org/news/2023/10/27/peoples-panel-bulletin-1), 3 mins
+- [People’s Panel on AI Bulletin 2](https://connectedbydata.org/news/2023/10/31/peoples-panel-bulletin-2), 3 mins
+- [People’s Panel on AI Bulletin 3](https://connectedbydata.org/news/2023/11/01/peoples-panel-bulletin-3), 5 mins
+- [People’s Panel on AI Bulletin 4](https://connectedbydata.org/news/2023/11/02/peoples-panel-bulletin-4), 3 mins
 - [The Future of the Blogosphere](https://www.ribbonfarm.com/2023/11/02/the-future-of-the-blogosphere/), 10 mins
 - [The Future of RSS is Textcasting](https://kottke.org/23/11/the-future-of-rss-is-textcasting-1), 4 mins
 - [No Broken Browsers](https://www.jeremiahlee.com/posts/2023-eu-eidas-feedback/), 3 mins

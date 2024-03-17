@@ -8,17 +8,18 @@ tags:
   - Product management
 ---
 
-_Hagakure_, written by Yamamoto Tsunetomo in the 17th century, is a collection of commentaries on _bushido_, the way of the samurai. It posits that if a samurai accepts that they may die, they will never be afraid of acting in the moment.
+*Hagakure*, written by Yamamoto Tsunetomo in the 17th century, is a collection of commentaries on *bushido*, the way of the samurai. It posits that if a samurai accepts that they may die, they will never be afraid of acting in the moment.
 
-I first came across the book when I watched Jim Jarmusch’s [_Ghost Dog: The Way of the Samurai_](https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai) in the early 200s. Aside from being a great movie with an excellent soundtrack (produced by the RZA), the movie features snippets from _Hagakure_. Little maxims that, to be honest, I’ve used to help me through moments of struggle in the past.
+I first came across the book when I watched Jim Jarmusch’s [*Ghost Dog: The Way of the Samurai*](https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai) in the early 200s. Aside from being a great movie with an excellent soundtrack (produced by the RZA), the movie features snippets from *Hagakure*. Little maxims that, to be honest, I’ve used to help me through moments of struggle in the past.
 
 The one that helped the most was this:
 
-> In his book of maxims, _O-Kabegaki_ (“Wall writings”), Lord Naoshige wrote: “Deliberate lightly when deciding on weighty matters.” Ishida Ittei added a note to this axiom: “Be meticulous when deciding on affairs of minor importance.”
+> In his book of maxims, *O-Kabegaki* (“Wall writings”), Lord Naoshige wrote: “Deliberate lightly when deciding on weighty matters.” Ishida Ittei added a note to this axiom: “Be meticulous when deciding on affairs of minor importance.”
 
 Here’s some more cuttings from [the book](https://www.hive.co.uk/Product/Yamamoto-Tsunetomo/Hagakure--The-Secret-Wisdom-of-the-Samurai/17107515). I’ll add to this page as I carry on reading. Hopefully these maxims will help you some day.
 
 ---
+
 ## On being a generalist
 
 > No particular talent is needed. In a word, all that is required is the fortitude to declare that you alone will shoulder the burden of responsibility.

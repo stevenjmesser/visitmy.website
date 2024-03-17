@@ -10,11 +10,11 @@ tags:
 
 A show & tell, or sprint review, is an ‘opportunity to show the most important work you’ve done, talk about what you’ve learned, explain your plans for the next few weeks and answer questions’. It’s a way to invite people to hear about and feed back on your work.
 
-Show & tells also do an unexpected job: project documentation. If you work on something for 3 months and do a show & tell every fortnight, you’ll have documented all the important twists and turns and recorded all the decisions along the way. 
+Show & tells also do an unexpected job: project documentation. If you work on something for 3 months and do a show & tell every fortnight, you’ll have documented all the important twists and turns and recorded all the decisions along the way.
 
 We want to do this more often on the GOV.‌UK Design System team, both internally and on our [fortnightly community chats](https://design-system.service.gov.uk/community/#attend-our-events), so last week I pulled together a few storytelling formats that work well for digital teams.
 
-There are hundreds of ways to tell a story, but these formats are useful for getting started. There’s a few must-haves for a good show & tell though...
+There are hundreds of ways to tell a story, but these formats are useful for getting started. There’s a few must-haves for a good show & tell though…
 
 ## Must-haves
 
@@ -70,7 +70,7 @@ Reflection: Share the newfound skills or knowledge that you have. Would you do a
 
 A simple way of comparing expectations with reality. You can use it to share findings from research by stating the intended goals and what we actually discovered.
 
-It works well for experiments too. State your hypotheses first, then the results of the experiment. 
+It works well for experiments too. State your hypotheses first, then the results of the experiment.
 
 You can use it for comparing a future vision with where we are today. For example, you might use it at the start of a project to explain the current state of things and the end state we hope to achieve.
 
@@ -90,6 +90,6 @@ Screenshots, photos, and prototypes bring things to life. ‘Illustrate, don’t
 
 Make statements. Say what you actually think. This helps everyone concentrate on the main point, and it generates discussion.
 
-### Rehearse 
+### Rehearse
 
 Unless you’re a jazz musician or a mime, you probably don’t improvise that often. Be kind to yourself and rehearse your show & tell.
