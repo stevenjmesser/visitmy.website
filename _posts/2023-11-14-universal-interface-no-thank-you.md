@@ -10,6 +10,7 @@ image_source:
 image_credit: Steve Messer
 tags:
  - Design
+ - Artificial intelligence
 ---
 
 The other day I was reading a piece on Stratechery about [keynotes and OpenAI’s recent announcements](https://stratechery.com/2023/the-openai-keynote/).

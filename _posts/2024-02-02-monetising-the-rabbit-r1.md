@@ -7,6 +7,7 @@ image: /assets/images/rabbit-r1-money.png
 image_title: "A 🤑 emoji on the Rabbit R1’s sole button"
 tags:
  - Notes
+ - Artificial intelligence
 ---
 
 This has been on my mind all week, so getting these thoughts into a note will get them out of my brain. It’s a product fiction to play with monetisation strategies that Rabbit might adopt in future for its R1.

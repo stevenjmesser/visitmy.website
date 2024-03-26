@@ -11,6 +11,7 @@ image_credit: Rabbit
 tags:
  - Design
  - Product management
+ - Artificial intelligence
 ---
 
 After writing about the [universal interface]({% post_url 2023-11-14-universal-interface-no-thank-you %}) last November, I was surprised to see a real product take this idea further this year.
@@ -37,7 +38,13 @@ I feel like this is built for rich, time-poor people rather than the wider world
 
 Maybe it’s useful for common, repeatable tasks you do often. But you can get some of that out of things like Shortcuts. Right now, I can’t see this thing going deep on all the different tasks you use a smartphone or computer for.
 
-I think it’d be fun to think up scenarios where you might push this Large Action Model to its limits. for example, can I use it to - provision new machines in the cloud - write and categorise new tickets in JIRA (shudder) - renew my driving licence or apply for my passport - create and recite audio descriptions for illegally streamed sports games, or - split my shopping list and order items from whichever supermarket offers them cheapest that week?
+I think it’d be fun to think up scenarios where you might push this Large Action Model to its limits. for example, can I use it to 
+
+- provision new machines in the cloud 
+- write and categorise new tickets in JIRA (shudder) 
+- renew my driving licence or apply for my passport 
+- create and recite audio descriptions for illegally streamed sports games, or 
+- split my shopping list and order items from whichever supermarket offers them cheapest that week?
 
 And then I realised: this thing isn’t dissimilar to the [Semantic Agent that Tim Berners-Lee wrote about in 2001](https://www-sop.inria.fr/acacia/cours/essi2006/Scientific%20American_%20Feature%20Article_%20The%20Semantic%20Web_%20May%202001.pdf)! That was supposed to look like this:
 
