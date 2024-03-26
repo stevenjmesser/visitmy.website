@@ -15,7 +15,7 @@ And that’s easier said than done! [Quality can’t be rushed](https://bigmediu
 
 If you look at releases of GOV.‌UK Frontend – the code part of the GOV.‌UK Design System – you can see [it’s getting faster](https://github.com/alphagov/govuk-frontend/tags). In the last 6 months (March 2024 to October 2023) there have been 10 releases. In the 12 months before that, there were just 5 releases. 
 
-What does this tell us? **The team is releasing twice as much in half the time**. 
+What does this tell us? **The team is releasing twice as often in half the time**. 
 
 That’s awesome! 
 
