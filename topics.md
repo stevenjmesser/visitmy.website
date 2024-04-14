@@ -17,6 +17,7 @@ image:
   <li><a href="{{ '/tag/product-management' | relative_url }}" onclick="window.fathom.trackGoal('J7RMFDS8', 0);">Product management</a> – thoughts on product thinking, techniques, tools and anything related to product management.</li>
   <li><a href="{{ '/tag/working-in-the-open' | relative_url }}" onclick="window.fathom.trackGoal('JMNWR3G8', 0);">Working in the open</a> – things I’ve written about sharing your work online and why it's good.</li>
   <li><a href="{{ '/tag/design' | relative_url }}" onclick="window.fathom.trackGoal('U5YYUK14', 0);">Design</a> – covering techniques, tools, the basics and thoughts on interaction design, service design and design thinking.</li>
+    <li><a href="{{ '/tag/artificial-intelligence' | relative_url }}" onclick="window.fathom.trackEvent('Tag > AI', 0);">AI</a> – things I’ve written about artificial intelligence.</li>
   <li><a href="{{ '/tag/data' | relative_url }}" onclick="window.fathom.trackGoal('SYULHBL2', 0);">Data</a> – things I’ve written about data.</li>
   <li><a href="{{ '/tag/agile-delivery' | relative_url }}" onclick="window.fathom.trackGoal('PM67KKSQ', 0);">Agile delivery</a> – tools and techniques for managing agile delivery teams.</li>
   <li><a href="{{ '/tag/digital-government' | relative_url }}" onclick="window.fathom.trackGoal('HJABZYYL', 0);">Digital government</a> – thoughts on digital government.</li>
