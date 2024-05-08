@@ -3,11 +3,11 @@ layout: post
 title: "Rabbit in the headlights"
 date: 2024-05-08 07:33:48+01:00
 description: "Apple’s research on large language models looks set to ruin any chances the Rabbit R1 may have."
-image: /assets/images/
-image_title: ""
-image_artist: 
-image_source:
-image_credit: 
+image: /assets/images/Judgedoom-3923433442.PNG
+image_title: "Film screenshot from Who Framed Roger Rabbit"
+image_artist: Touchstone Pictures
+image_source: https://en.wikipedia.org/wiki/File:Judgedoom.PNG
+image_credit: Touchstone Pictures
 tags:
  - Artificial intelligence
 ---
