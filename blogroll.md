@@ -22,7 +22,7 @@ These are the blogs whose posts I always look forward to reading, whenever they 
 - [Matt Webb](https://interconnected.org/home){:target="_blank"}
 - [Kuba Bartwicki](https://www.kubabartwicki.com/){:target="_blank"}
 - [Lisa Koeman](https://lisakoeman.nl/blog){:target="_blank"}
-- [Manuel Moreale](https://manuelmoreale.com/){:target="_blank"}
+- [Mark Hurrell](https://mhurrell.co.uk/prospects/){:target="_blank"}
 - [Neil Williams](https://neilojwilliams.net/){:target="_blank"}
 - [Paul Downey](https://blog.whatfettle.com/){:target="_blank"}
 - [Richard Pope](https://richardpope.org/){:target="_blank"}
