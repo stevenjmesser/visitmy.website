@@ -24,6 +24,8 @@ There’s no way to do product management without explaining how you did it. And
 
 You can learn this stuff over time and start to feel it. It _can_ become intuitive, so you don’t need to get obsessive about the models. But they’re good training wheels for learning about strategy (how we go from idea to action to result). 
 
+The problem is when we rely on those frameworks or believe there is some truth about the world, about people, about systems, locked up in those frameworks. [All models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).
+
 So while you can become an unproduct person if you like, don’t become a black box. Don’t attribute success to magic or your special touch. That’s the bit about AI everyone’s afraid of, the unknowable machine. Don’t become a black box.
 
 Instead, get better at explaining a space and its dynamics, your methods, what won’t work and what might, and all the choices you made along the way to deliver a result. 
