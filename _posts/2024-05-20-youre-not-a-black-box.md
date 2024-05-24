@@ -22,7 +22,7 @@ Invariably that involves trade-offs. Calls you had to make or [ideas you dispose
 
 There’s no way to do product management without explaining how you did it. And that is the main function of the models and frameworks: they’re scaffolding for understanding a space and its dynamics, making choices based on some variables, and then observing and noting the results. 
 
-You can learn this stuff over time and start to feel it. It _can_ become intuitive, so you don’t need to get obsessive about the models. But they’re good training wheels for learning about strategy (how we go from idea to action to result). 
+You can learn this stuff over time and start to feel it. It _can_ become intuitive, so you don’t need to get obsessive about the models. But they’re good training wheels for learning about strategy (how we go from idea to action to result). You have to [follow the rules first, break the rules, and then you can transcend the rules](https://rogerswannell.com/blog/shuhari-for-product-managers/). 
 
 The problem is when we rely on those frameworks or believe there is some truth about the world, about people, about systems, locked up in those frameworks. [All models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).
 
