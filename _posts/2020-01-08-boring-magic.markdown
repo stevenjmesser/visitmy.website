@@ -40,4 +40,4 @@ When we’re thinking about digital public services of the future, we can temper
 
 ---
 
-_Thanks to [Jonathan](https://www.twitter.com/jonodrew) for his help in editing this, and thanks to [Conor](http://conordelahunty.com) for the sticker and this wonderful phrase._
+_A lot of people know me for this post, so I’ve named my company [Boring Magic](https://boringmagi.cc). If you want help with digital product strategy or product and design management, [get in touch](https://boringmagi.cc/contact)._
