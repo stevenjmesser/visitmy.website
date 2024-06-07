@@ -18,7 +18,7 @@ These are the blogs whose posts I always look forward to reading, whenever they 
 - [Benjy Stanton](https://www.benjystanton.co.uk/){:target="_blank"}
 - [Jukesie](https://digitalbydefault.com/){:target="_blank"}
 - [Frankie Roberto](https://frankieroberto.github.io/nhsnotes/){:target="_blank"}
-- [Hidde von Dries](https://hidde.blog/){:target="_blank"}
+- [Hidde de Vries](https://hidde.blog/){:target="_blank"}
 - [Matt Webb](https://interconnected.org/home){:target="_blank"}
 - [Kuba Bartwicki](https://www.kubabartwicki.com/){:target="_blank"}
 - [Lisa Koeman](https://lisakoeman.nl/blog){:target="_blank"}
