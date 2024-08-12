@@ -6,7 +6,7 @@ permalink: /now/
 
 <p>Right now I’m
   <ul>
-    <li>working on product strategy and leadership at DLUHC (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
+    <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
     <li>reading <i>The Three Body Problem</i> by Liu Cixin</li>
     <li>preparing for my practical driving test</li>
     <li>migrating this website to a new design</li>
