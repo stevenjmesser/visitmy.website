@@ -22,6 +22,7 @@ image:
   <li><a href="{{ '/tag/agile-delivery' | relative_url }}" onclick="window.fathom.trackGoal('PM67KKSQ', 0);">Agile delivery</a> – tools and techniques for managing agile delivery teams.</li>
   <li><a href="{{ '/tag/digital-government' | relative_url }}" onclick="window.fathom.trackGoal('HJABZYYL', 0);">Digital government</a> – thoughts on digital government.</li>
   <li><a href="{{ '/tag/run-notes' | relative_url }}" onclick="window.fathom.trackGoal('G50875J5', 0);">Run-notes</a> – notes about my running and long distance training.</li>
+  <li><a href="{{ '/tag/bike-notes' | relative_url }}" onclick="fathom.trackEvent('Topics > Bike-notes');">Bike-notes</a> – notes about my gravel cycling and bikepacking.</li>
 </ul>
 
 <p>Like scrolling? <a href="{{ '/all' | relative_url }}" onclick="fathom.trackEvent('View all posts');">View all posts</a>.</p>
