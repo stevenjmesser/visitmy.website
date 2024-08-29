@@ -31,6 +31,8 @@ I mean, we’re pretty good but we can always do better. The team published thre
 
 Like [Matt says](https://www.linkedin.com/pulse/what-we-mean-open-digital-planning-open-digital-planning-wzeve/?trackingId=RqTY6U08YdTUz21VLQafqQ%3D%3D), we recognise that no single individual, team, or organisation – whether private or public – can solve the systemic challenges in the sector alone. So the more we talk about our work, the easier it’ll be for those who come after us.
 
+Oh, I’m going to do some working in the open stickers too. [Let me know which ones you like best](https://forms.gle/q9zhmwBLauma99jSA).
+
 ## Team topology
 
 Our teams are modelled on concepts from Team Topologies, but I’ve always felt they weren’t implemented ideally. Also, the handover points between teams are getting a little gummed up, and there’s an opportunity to improve things. Given that Team Topologies is all about creating more flow and speed through the system, I started mapping the relationships between teams to see where we might iterate the model. 
