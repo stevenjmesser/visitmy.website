@@ -7,6 +7,8 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
+    <li>planning a trip to Japan</li>
+    <li>increasing my running gradually, after a hip injury</li>
     <li>reading <i>The Three Body Problem</i> by Liu Cixin</li>
     <li>preparing for my practical driving test</li>
     <li>migrating this website to a new design</li>
@@ -17,8 +19,7 @@ permalink: /now/
   <ul>
     <li>pick up where I left off learning Welsh</li>
     <li>walk the Llŷn Peninsula section of the Wales Coast Path</li>
-    <li>finish walking the South Downs Way</li>
-    <li>take and pass my driving test</li>
+    <li>re-take and pass my driving test</li>
   </ul>
 </p>
 
