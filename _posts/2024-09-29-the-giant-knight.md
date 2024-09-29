@@ -57,7 +57,7 @@ It’s been nice to read more blog posts this week, thoughts and notes on all so
 
 Like [Neil](https://neilojwilliams.net/week-notes-23-29-september-2024/#:~:text=mix%20things%20up%20with%20other%20types%20of%20blog%20posts), I’ve been thinking about mixing it up recently. Getting back to writing notes about things that aren’t work. Work is too consuming. I’m blessed to work a job I’m passionate about and good at, but like my Dad says ‘Work is just a way to pay the bills’.
 
-The drumbeat of weeknotes is a good spark plug, forcing me to stop and reflect. But I’m gonna have a crack at jotting thoughts down when they pop up. I had a good run of that in my [notes]({{ '/tag/notes' | relative_url }}) {:target="_blank"} from last year.
+The drumbeat of weeknotes is a good spark plug, forcing me to stop and reflect. But I’m gonna have a crack at jotting thoughts down when they pop up. I had a good run of that in my [notes]({{ '/tag/notes' | relative_url }}){:target="_blank"} from last year.
 
 ## Back to the Giant Knight
 
