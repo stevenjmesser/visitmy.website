@@ -37,6 +37,8 @@ Loads of good stuff happened: Bradford showed off their innovative mapping work,
 
 It’s an incredible building: think mid-century, and ‘60s Soviet. 
 
+
+
 Matt and Will ran a session on the future model for Open Digital Planning, which raised lots of questions amongst the attendees. The aim was to create some principles that might go in a manifesto, so I suggested an alternate version of the workshop. Stuffed myself up there, then they asked me to run it! People seemed to vibe with it, and we got plenty of material that could help shape a manifesto – or feed wider discussions. 
 
 ## Stakeholders
