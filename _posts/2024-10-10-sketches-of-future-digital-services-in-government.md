@@ -14,7 +14,7 @@ tags:
  - Design
 ---
 
-Throughout 2019 and early 2020, I was leading a team looking at [personalisation and what that might mean for users of digital public services]({% post_url 2020-09-11-personalisation-and-digital-government %}). Over the 14-month period, we explored a lot of avenues, some times finding dead-ends, but often finding more pathways to unexplored territories. 
+Throughout 2019 and early 2020, I was leading a team looking at [personalisation and what that might mean for users of digital public services]({% post_url 2020-09-11-personalisation-and-digital-government %}){:target="_blank"}. Over the 14-month period, we explored a lot of avenues, some times finding dead-ends, but often finding more pathways to unexplored territories. 
 
 We were grounded by a definition of personalisation that was appropriate for digital public services: We’re not trying to increase clicks or engagement, we’re interested in minimising the administrative burden of services so that people can get on with their lives. We wanted to join the dots between whole services that span multiple departments, yet expose the seams to maintain trust.
 
@@ -44,13 +44,13 @@ These recommendations were fairly basic. You don’t need to know anything about
 
 ![When applying for a passport, a user is given the option to re-use information they’ve already shared with government.](/assets/images/use-saved-information.png)
 
-Playing on the ‘tell us once’ legislation in Estonia, this sketch showed how users might be able to re-use information they’ve already shared with government, to save them retyping the information. We looked at privacy-protecting technologies that might enable this and how it might be achieved without a register of people, as per the Identity Documents Act.
+Playing on the [‘once-only’ legislation in Estonia](https://www.centreforpublicimpact.org/insights/ever-evolving-e-estonia#:~:text=The%20%E2%80%9Conce%2Donly%E2%80%9D%20principle){:target="_blank"}, this sketch showed how users might be able to re-use information they’ve already shared with government, to save them retyping the information. We looked at privacy-protecting technologies that might enable this and how it might be achieved without a register of people, as per the Identity Documents Act.
 
-### Tell us once
+### Tell us once only
 
 ![When applying for Guardian’s Allowance, a user is given the option to store their address which has changed recently.](/assets/images/tell-us-once.png)
 
-Another one playing on the ‘tell us once’ legislation in Estonia. Stored details could be updated if the system recognised that the details had changed, saving the user having to retype these. It’s a pattern that could work for a personal data store too.
+Another one playing on the ‘once-only’ legislation in Estonia. Stored details could be updated if the system recognised that the details had changed, saving the user having to retype these. It’s a pattern that could work for a personal data store too.
 
 ### Eligibility-based recommendations
 
