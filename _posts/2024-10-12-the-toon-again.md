@@ -71,7 +71,7 @@ Hadn’t realised that Actress had a new album out, [_Statik_](https://actress.b
 
 ## Pumpkin
 
-Tonight we’re hosting a pumpkin party. There’s roasted pumpkin with a green sauce, plus a large pumpkin stuffed with wild rice, grains, harissa and feta, all made by my partner. I’ve baked another pumpkin pie since last week’s was so successful. Unfortunately I had the oven up too high and it’s a little bit too ‘caramelised’! We’ll just have to add lashings of cream, eh?
+Tonight we’re hosting a pumpkin party. There’s roasted pumpkin with a green sauce, plus a large pumpkin stuffed with wild rice, grains, harissa and feta, all made by my partner from our homegrown pumpkins. I’ve baked another pumpkin pie since last week’s was so successful. Unfortunately I had the oven up too high and it’s a little bit too ‘caramelised’! We’ll just have to add lashings of cream, eh?
 
 All washed down with a magnum of pét-nat, [Astro Bunny 2022 from Wildman Wine](https://wildmanwine.com){:target="_blank"}. It’s ‘utterly frivolous’ according to Jancis Robinson, which is good because we’ve got six people coming over. I haven’t really thought about whether it’ll go with the food but it’s taking up too much room in the fridge. 
 
