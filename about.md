@@ -28,4 +28,5 @@ permalink: /about/
   <li><a href="https://www.linkedin.com/posts/foundbyfew_how-much-are-you-focusing-on-your-storytelling-activity-7029739389656170496-d3Gq?utm_source=share" target="_blank">How to get my job</a></li>
   <li><a href="https://www.youtube.com/watch?v=9h5aLCS3wJQ" target="_blank">Inspecting WCAG 2.2: Accessible authentication</a></li>
   <li><a href="https://www.youtube.com/watch?v=aXgIAtjq7zM" target="_blank">Design System Day 2023 – GOV.UK Design System: what we’ve been up to and where we’re heading</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1xhZnqF6dc8" target="_blank">Common direction, boring magic – NL Design Systems Week 2024</a></li>
 </ul>
