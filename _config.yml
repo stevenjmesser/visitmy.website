@@ -85,3 +85,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - 2fa
+
+jekyll-feed:
+  tag_feed:
+    path: "/feed.tag.xml"
