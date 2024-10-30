@@ -1,0 +1,48 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # Adjust if your default branch is not `main`
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Set up Ruby environment and install dependencies
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'  # Specify Ruby version compatible with Jekyll
+          bundler-cache: true
+
+      # Install gems from Gemfile.lock
+      - name: Install dependencies
+        run: |
+          bundle install --deployment --path vendor/bundle
+
+      # Build the Jekyll site
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      # Deploy to the server via SSH
+      - name: Deploy to server
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+          # Define server and path variables
+          server="${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_SERVER }}"
+          deploy_path="${{ secrets.DEPLOY_PATH }}"
+
+          # Sync the site files to the server using rsync over SSH
+          rsync -avz --delete -e "ssh -p ${{ secrets.DEPLOY_PORT }}" _site/ "$server:$deploy_path"
+        shell: bash
