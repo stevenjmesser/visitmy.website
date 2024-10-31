@@ -40,9 +40,9 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
- - jekyll-tfidf-related-posts
  - jekyll-redirect-from
  - jekyll-webmention_io
+ - jekyll_ai_related_posts
 
 markdown: kramdown
 
@@ -80,8 +80,13 @@ autopages:
       mode: raw
       cased: true
 
+ai_related_posts:
+  openai_api_key: 
+
 exclude:
   - .DS_Store
   - Gemfile
   - Gemfile.lock
   - 2fa
+  - .ai_related_posts_cache.sqlite3
+  - .ai_related_posts_cache.sqlite3-journal
