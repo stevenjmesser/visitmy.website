@@ -177,7 +177,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.1.1)
-  jekyll-environment-variables
   jekyll-feed (~> 0.12)
   jekyll-paginate-v2
   jekyll-redirect-from
