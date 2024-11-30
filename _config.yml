@@ -16,6 +16,7 @@ minima:
   date_format: "%e %B %Y"
 
   # generate social links in footer
+  # if you add any more platforms you'll have to fix and upload a new version of the icons svg in assets folder
   social_links:
     - { platform: rss,      user_url: "https://visitmy.website/feed.xml" }
     - { platform: bluesky,  user_url: "https://bsky.app/profile/visitmy.website" }
