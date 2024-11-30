@@ -7,9 +7,8 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
-    <li>planning a trip to Japan</li>
     <li>increasing my running gradually, after a hip injury</li>
-    <li>reading <i>The Three Body Problem</i> by Liu Cixin</li>
+    <li>reading <i>Travels with a Writing Brush: Classical Japanese Travel Writing from the Manyoshu to Basho</i>, selected and translated by Meredith McKinney</li>
     <li>preparing for my practical driving test</li>
     <li>migrating this website to a new design</li>
   </ul>
