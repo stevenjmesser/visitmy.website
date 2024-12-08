@@ -54,7 +54,7 @@ I don’t know what happened but people keep asking me about AI, what I think it
 
 But you’re supposed to, right? Product people need to be experts in their domain, and that measns following developments in the industry closely so you can understand potential value and the constraints.
 
-Anyway, I’ve been asked to do a lightning talk, an explainer for policy people, and more people are asking how I use it. It feels like writing ‘a position on AI’ for Boring Magic would be a good idea, explaining how I use it, what benefits it brings, the limitations (as opposed to the rhetoric), and no-go zones. 
+Anyway, I’ve been asked to do a lightning talk, an explainer for policy people, and more people are asking how I use it. It feels like writing [‘a position on AI’ for Boring Magic](https://boringmagi.cc/2024/12/08/our-positions-on-generative-ai/){:target="_blank"} would be a good idea, explaining how I use it, what benefits it brings, the limitations (as opposed to the rhetoric), and no-go zones. 
 
 On Wednesday I joined [ADPList’s AI Summit](https://aisummit.adplist.org){:target="_blank"} which was...OK? It was useful to hear how teams are using it to design and build products, and Vitaly Friedman did a detailed reflection on design patterns and UI design – or ‘AI patterns’. If people got paid it was worth the £20 ticket price. 
 
