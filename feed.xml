@@ -18,10 +18,10 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_campaign=rss&amp;utm_source=rss"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <id>{{ site.url }}{{ post.id }}?utm_campaign=rss&amp;utm_source=rss</id>
+   <content type="html">{{ post.content | xml_escape }}&lt;hr&gt;&lt;p&gt;Got comments? &lt;a href=&quot;{{ "/contact" | prepend: site.baseurl | prepend: site.url }}?utm_campaign=rss&amp;utm_source=rss&quot;&gt;Contact me&lt;/a&gt;, let’s talk. View &lt;a href=&quot;{{ post.url | prepend: site.baseurl | prepend: site.url }}{{ "#related-posts" | xml_escape }}?utm_campaign=rss&amp;utm_source=rss&quot;&gt;related posts&lt;/a&gt;.</content>
  </entry>
  {% endfor %}
 
