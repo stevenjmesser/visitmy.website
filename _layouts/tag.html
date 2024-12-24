@@ -1,44 +1,15 @@
 ---
 layout: default
 ---
-  <header class="post-header">
-    <h1 class="post-title">{{ page.autopages.display_name }}</h1>
-  </header>
 
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%e %B %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        {% if page.autopages %}
-          <p>{% if post.description %}{{ post.description | markdownify }}{% else %}{{ post.excerpt }}{% endif %}</p>
-        {% else %}
-          <p>{{ post.content }}</p>
-          {% include page_tags.html tags=post.tags %}
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-
-{% if paginator.total_pages > 1 %}
-  <div class="pager">
-    <ul class="pagination">
-    {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">Previous</a></li>
-    {%- endif %}
-    {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-    {%- endif %}
-      <li><div class="current-page">{{ paginator.page }}</div></li>
-    {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-    {%- endif %}
-    {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">Next</a></li>
-    {%- endif %}
+<section class="posts">
+<h2>On {{page.tag | downcase }}</h2>
+    <ul>
+      {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+      <li><a class="post" href="{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
+      {% endif %}
+      {% endfor %}
     </ul>
-  </div>
-{% endif %}
+	
+</section>

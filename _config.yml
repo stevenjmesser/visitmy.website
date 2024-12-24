@@ -1,52 +1,48 @@
-title: Harsh Browns
-author:
-  name: Steve Messer
-  email:
-  bio: Product manager. Web enthusiast, working in the open. Black Country boy.
-  url: https://visitmy.website
-description: Steve Messer’s website. Product manager. Web enthusiast, working in the open. Black Country boy living in London, UK.
+site: Harsh Browns
 url: https://visitmy.website
-permalink: /:year/:month/:day/:title/
+title: Harsh Browns
+description: Steve Messer’s website.
+default_img: /assets/images/8a595a78177bf62b.jpeg
+author:
+  twitter: stevenjmesser
+  name: Steve Messer
+  avatar:
+  email: #youremail
+  url: https://visitmy.website
+permalink: pretty
 
-show_excerpts: false # set to true to show excerpts on the homepage
+baseurl: ""
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%e %B %Y"
+highlighter: none
 
-  # generate social links in footer
-  # if you add any more platforms you'll have to fix and upload a new version of the icons svg in assets folder
-  social_links:
-    - { platform: rss,      user_url: "https://visitmy.website/feed.xml" }
-    - { platform: bluesky,  user_url: "https://bsky.app/profile/visitmy.website" }
-    - { platform: mastodon, user_url: "https://indieweb.social/@stevenjmesser" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/stevenjmesser" }
-    - { platform: github,   user_url: "https://github.com/stevenjmesser" }
-    - { platform: x,  user_url: "https://x.com/stevenjmesser" }
+exclude:
+  - .jekyll-cache
+  - .ai_related_posts_cache.sqlite3
+  - .ai_related_posts_cache.sqlite3-journal
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
- - topics.md
- - about.md
- - work.md
- - contact.md
-
-# Build settings
-theme: minima
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-sitemap
- - jekyll-redirect-from
- - jekyll-webmention_io
- - jekyll_ai_related_posts
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-webmention_io
+  - jekyll_ai_related_posts
 
-markdown: kramdown
-
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
 webmentions:
   username: visitmy.website
   throttle_lookups:
@@ -55,39 +51,26 @@ webmentions:
     last_year: monthly
     older: every 3 months
 
-pagination:
-  enabled: true
-  debug: false
-  per_page: 20
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-
-related_posts_count: 3
-
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts:
-      - 'tag.html'
-    permalink: '/tag/:tag'
-    slugify:
-      mode: raw
-      cased: true
-
 ai_related_posts:
   openai_api_key: 
 
-exclude:
-  - .DS_Store
-  - Gemfile
-  - Gemfile.lock
-  - 2fa
-  - .ai_related_posts_cache.sqlite3
-  - .ai_related_posts_cache.sqlite3-journal
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -1,11 +1,29 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}</title>
-
-  <meta itemprop="name author" content="{{ site.name }}">
+  <title>
+    {% if page.tag or page.title %}
+      {% if page.tag %}
+        {{ page.tag | escape }}
+      {% else %}
+        {% if page.sub-title %}
+          {{ page.title | escape }}: {{ page.sub-title | escape }}
+        {% else %}
+          {{ page.title | escape }}
+        {% endif %}
+      {% endif %}
+       -
+      {% endif %}
+      {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
+        Page {{ paginator.page }} of {{ paginator.total_pages }} -
+      {% endif %}
+      {{ site.title | escape }}
+      {% unless page.tag or page.title %}
+        - {{ site.description | escape }}
+      {% endunless %}
+    </title>
+    
   <meta name="description" itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
@@ -16,26 +34,23 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-  <meta name="twitter:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
-  <meta name="twitter:site" content="{{ site.title }}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
-  {% if site.twitter_username %}
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-  {% endif %}
-
   <meta name="google-site-verification" content="MixE0RdWuCoS1EFTIOCNODuOa70gx7EbfkJyO-Mw6xA" />
-  <meta name="pocket-site-verification" content="6cb4530b93fa17e039f8e9af1d0661" />
-
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
   <script src="https://cdn.usefathom.com/script.js" data-site="LSWRESZO" defer></script>
-
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.baseurl }}/sitemap.xml" />
   <link rel="blogroll" type="text/xml" href="{{ '/blogroll.opml' | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
 
   {% webmentions_head %}
+      
+  <style>
+    {% capture include_to_scssify %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+
 </head>

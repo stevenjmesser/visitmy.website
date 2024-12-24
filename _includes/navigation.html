@@ -1,0 +1,12 @@
+<header aria-hidden="true" class="no-print">
+      <h1 class="logo h-card"><a class="u-url u-uid" href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      <span class="p-name" rel="author" hidden>{{ site.author.name }}</span>
+      <img src="/assets/images/8a595a78177bf62b.jpeg" class="u-photo" hidden>
+      <nav role="navigation" aria-hidden="true">
+<ul>
+   {% for item in site.data.navigation.links %}
+      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+</nav>
+</header>
