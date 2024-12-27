@@ -4,7 +4,7 @@ html {
 
 *,:after,:before {
 	box-sizing:border-box;
-	background-color:inherit;
+	background-color:#fff;
 	color:inherit;
 	margin:0;
 	padding:0;
@@ -190,6 +190,26 @@ main {
 	padding: 1rem;
 }
 
+#search-container {
+	max-width: 100%;
+}
+
+input[type=text] {
+	font-size: normal;
+	outline: none;
+	padding: 1rem;
+	background: inherit;
+	width: 100%;
+	-webkit-appearance: none;
+	font-family: inherit;
+	font-size: 100%;
+	border: 1px solid rgb(22, 23, 26);
+}
+
+#results-container {
+	margin: .5rem 0;
+}
+
 @media screen and (max-width: 45rem ) {
 
 h1 {
@@ -234,4 +254,42 @@ figcaption {
     {
         display: none !important;
     }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+	*, :after, :before {
+		background-color: #000;
+	}
+	
+	body {
+		color: rgb(233, 232, 229);
+	}
+
+	nav ul {
+		border-right: 1px solid #120d08;
+	}
+
+	a {
+		color: #fff;
+	}
+
+	code,pre {
+		background: rgb(19, 18, 17);
+	}
+
+	hr {
+		background: #fff;
+	}
+
+	blockquote {
+		border-left: 5px solid #131313;
+	}
+
+	header ul {
+		border-bottom: 1px solid #120d08;
+	}
+
+	input[type=text] {
+		border: 1px solid rgb(233, 232, 229);
+	}
 }

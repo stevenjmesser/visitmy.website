@@ -4,27 +4,6 @@ title: Search
 permalink: /search/
 ---
 
-<style>
-	#search-container {
-	    max-width: 100%;
-	}
-
-	input[type=text] {
-		font-size: normal;
-	    outline: none;
-	    padding: 1rem;
-		background: none;
-	    width: 100%;
-		-webkit-appearance: none;
-		font-family: inherit;
-		font-size: 100%;
-		border: 1px solid rgb(22, 23, 26);
-	}
-	#results-container {
-		margin: .5rem 0;
-	}
-</style>
-
 <p>Search through all posts. Alternatively, browse <a href="{{ "/topics" | relative_url }}">topics</a>, or <a href="{{ "/all" | relative_url }}">view all posts</a> if you like scrolling.</p>
 
 <!-- Html Elements for Search -->
