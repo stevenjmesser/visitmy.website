@@ -2,7 +2,7 @@
 layout: page
 title: Topics
 description: Pick a topic to browse posts on that subject.
-permalink: /topics
+permalink: /topics/
 image:
 ---
 <p>Pick a topic to browse posts on that subject.</P>

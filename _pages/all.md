@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /all
+layout: page
+permalink: /all/
 ---
 
 <section class="posts">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sustainability
-permalink: /sustainability
+permalink: /sustainability/
 ---
 
 When I realised that [my website was killing the planet]({% post_url 2020-07-13-this-website-is-killing-the-planet %}) and pumping out nearly 7g of CO2 with every visit to the homepage, I decided to make a change. Instead of using images as decoration, JavaScript for fancy loading animations and GitHub Pages as a free host, I have

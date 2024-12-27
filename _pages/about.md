@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 <p>Hello, I’m Steve. I grew up in the Black Country where there used to be lots of factories and lots of smoke, the heart of the Industrial Revolution, where <a href="https://www.youtube.com/watch?v=-Mt80vikTxU" target="_blank">people talk different</a>. Nowadays I live in London.</p>
 

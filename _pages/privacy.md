@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /privacy
+permalink: /privacy/
 ---
 
 This website uses [Fathom](https://usefathom.com/ref/XKBW2Q) cookie-less analytics, a privacy-first product. It’s a great alternative to Google Analytics and I encourage everyone to use it. You can even use it for small projects or quick little prototypes because you don’t have to display cookie notices, simply gather the data you need and move on.

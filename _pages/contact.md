@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 
 You can get me on ste@renegatus.com if you like email. (Since people usually ask, it’s an old domain from when I was 13. :facepalm:)

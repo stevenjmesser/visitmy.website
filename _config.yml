@@ -9,9 +9,8 @@ author:
   avatar:
   email: #youremail
   url: https://visitmy.website
-permalink: pretty
 
-baseurl: ""
+permalink: pretty
 
 highlighter: none
 
@@ -32,16 +31,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-webmention_io
   - jekyll_ai_related_posts
 
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name/
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:year/:month/:day/:slug/
   
 webmentions:
   username: visitmy.website

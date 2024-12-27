@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What I’m doing now
-permalink: /now
+permalink: /now/
 ---
 
 <p>Right now I’m

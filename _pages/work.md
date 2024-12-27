@@ -2,7 +2,7 @@
 layout: page
 title: Work
 image:
-permalink: /work
+permalink: /work/
 redirect_from: /cv/
 ---
 
