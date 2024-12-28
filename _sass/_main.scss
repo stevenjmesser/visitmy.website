@@ -210,6 +210,15 @@ input[type=text] {
 	margin: .5rem 0;
 }
 
+#tag a {
+    border: 1px solid #000;
+    border-radius: 999rem;
+    padding: 0.2em 0.5em; // Optional: Add some padding for better appearance
+    text-decoration: none; // Optional: Remove underline from the link
+    color: inherit; // Optional: Inherit text color from parent
+	white-space: nowrap;
+}
+
 @media screen and (max-width: 45rem ) {
 
 h1 {
@@ -291,5 +300,9 @@ figcaption {
 
 	input[type=text] {
 		border: 1px solid rgb(233, 232, 229);
+	}
+
+	#tag a {
+		border: 1px solid #fff;
 	}
 }
