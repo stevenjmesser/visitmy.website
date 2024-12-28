@@ -1,10 +1,11 @@
 ---
 layout: default
-permalink: /all/
+permalink: /blog/
+redirect_from: /all/
 ---
 
 <section class="posts">
-<h2>All posts</h2>
+<h2>Blog</h2>
 <div id="tag-container">
 {% assign all_tags = "" %}
 {% for post in site.posts %}
