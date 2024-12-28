@@ -1,11 +1,10 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /writing/
 redirect_from: /all/
 ---
 
 <section class="posts">
-<h2>Blog</h2>
 <div id="tag-container">
 {% assign all_tags = "" %}
 {% for post in site.posts %}
@@ -20,6 +19,7 @@ redirect_from: /all/
   {% endif %}
 {% endfor %}
 </div>
+<h2>Writing</h2>
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>

@@ -1,11 +1,11 @@
 links:
 - title: About
   url: /about/
-- title: Work
-  url: /work/
-- title: Blog
-  url: /blog/
+- title: Writing
+  url: /writing/
 - title: Search
   url: /search/
+- title: Work
+  url: /work/
 - title: Contact
   url: /contact/
