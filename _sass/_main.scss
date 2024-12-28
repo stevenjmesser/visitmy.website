@@ -219,6 +219,18 @@ input[type=text] {
 	white-space: nowrap;
 }
 
+#tag a.active {
+    background-color: #000;
+    color: #fff;
+}
+
+#tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem; // Adjust the gap as needed
+	margin: 1rem 0;
+}
+
 @media screen and (max-width: 45rem ) {
 
 h1 {
@@ -304,5 +316,10 @@ figcaption {
 
 	#tag a {
 		border: 1px solid #fff;
+	}
+
+	#tag a.active {
+		background-color: #fff;
+		color: #000;
 	}
 }
