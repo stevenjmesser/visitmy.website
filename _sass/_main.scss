@@ -105,6 +105,13 @@ header,section {
 	padding:1rem;
 }
 
+header ul {
+	list-style:none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end; // Align links to the right on wider screens
+}
+
 blockquote {
 	font-style: italic;
     border-left: 5px solid #ececec;
@@ -186,7 +193,7 @@ main {
 	display: flex;
 	flex-wrap: wrap;
 	max-width: 60rem;
-	margin: 2rem auto 0;
+	margin: auto;
 	padding: 1rem;
 }
 
@@ -246,6 +253,9 @@ header li {
 header ul {
 	border-bottom: 1px solid #edf2f7;
 	padding-bottom: 2rem;	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start; // Align links to the left on smaller screens
 }
 nav ul {
     border-right: 0px;
