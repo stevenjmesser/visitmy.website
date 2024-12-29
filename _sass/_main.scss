@@ -99,6 +99,8 @@ header li {
 
 header a.active {
 	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-skip-ink: auto;
 }
 
 header,section {
@@ -238,21 +240,23 @@ input[type=text] {
 	margin: 1rem 0;
 }
 
-@media screen and (max-width: 45rem ) {
+@media screen and (max-width: 42rem ) {
 
 h1 {
 	text-align: left;
+	font-size: medium;
 }
 header li {
     display: inline;
 	margin-right: 1rem;
+	font-size: small;
 }
 .logo {
-	padding-bottom: 1rem;
+	padding-bottom: 0.2rem;
 }
 header ul {
 	border-bottom: 1px solid #edf2f7;
-	padding-bottom: 2rem;	
+	padding-bottom: 1rem;	
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: flex-start; // Align links to the left on smaller screens
