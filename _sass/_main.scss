@@ -85,6 +85,7 @@ header {
 	flex-basis:10rem;
 	flex-grow:1;
 	position:relative;
+	opacity: 0.8;
 }
 
 header a {
@@ -245,6 +246,10 @@ input[type=text] {
 h1 {
 	text-align: left;
 	font-size: medium;
+}
+header {
+	padding-top: 0rem;
+	padding-bottom: 0rem;
 }
 header li {
     display: inline;
