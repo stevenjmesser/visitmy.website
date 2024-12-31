@@ -13,7 +13,7 @@ permalink: /search/
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search.js" type="text/javascript"></script>
+<script src="js/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script type="text/javascript">
