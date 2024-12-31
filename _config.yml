@@ -32,6 +32,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll_ai_related_posts
+  - jekyll-webmention_io
 
 collections:
   pages:
@@ -43,6 +44,7 @@ collections:
   
 webmentions:
   username: visitmy.website
+  max_attempts: 3
   throttle_lookups:
     last_week: weekly
     last_month: monthly
