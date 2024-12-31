@@ -25,4 +25,4 @@ The effects of alcohol are best when shared. It’s a social activity, one that 
 
 Low- and no-alcohol drinks taste good, and they’re abundant these days. Instead of diving straight in to a boozy drink, I’ll quench my thirst with a low/no first. 
 
-In a bid to savour every drop, to be more mindful about my drinking, I’ll have 2 drinks maximum. That’s  a bottle of wine shared with a friend.
+In a bid to savour every drop, to be more mindful about my drinking, I’ll have 2 drinks maximum. That’s a bottle of wine shared with a friend.
