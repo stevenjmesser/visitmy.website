@@ -10,7 +10,6 @@ image_source:
 image_credit: "Unsplash"
 tags:
  - General
- - NaBloPoMo
 ---
 
 Over the years I’ve kept these silly ideas for apps and gadgets in a note on my phone.

@@ -11,7 +11,6 @@ image_source: https://unsplash.com/photos/oeNMHzJ6odw
 image_credit: "Unsplash"
 tags:
  - General
- - NaBloPoMo
  - Working in the open
  - Popular
 ---

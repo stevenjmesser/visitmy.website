@@ -10,7 +10,6 @@ image_source: https://unsplash.com/photos/J0ZD8r_ClGg
 image_credit: "Unsplash"
 tags:
  - General
- - NaBloPoMo
 ---
 
 Getting hold of knowledge is harder than we think. Most of what a search engine returns is information, and it’s our job to piece it together and generate knowledge: facts and things we know.

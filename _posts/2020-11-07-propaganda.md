@@ -10,8 +10,7 @@ image_source: https://unsplash.com/photos/_xOcdtcjAuE
 image_credit: "Unsplash"
 tags:
  - Digital government
- - NaBloPoMo
- - Leadership
+  - Leadership
 ---
 
 *Part 3 of 3*

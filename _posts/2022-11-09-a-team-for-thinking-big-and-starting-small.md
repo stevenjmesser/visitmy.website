@@ -6,7 +6,6 @@ description: "It sounds better than the alternative: paying consultants a hefty 
 image: /assets/images/first-step.png
 tags:
  - Notes
- - NaBloPoMo
  - Digital government
 ---
 

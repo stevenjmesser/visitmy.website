@@ -10,7 +10,6 @@ image_source: https://www.lensculture.com/articles/saul-leiter-saul-leiter-1950-
 image_credit: "Howard Greenberg Gallery, New York"
 tags:
  - General
- - NaBloPoMo
 ---
 
 A few years ago I worked with film-maker Tomas Leach on a book for his documentary, *[In No Great Hurry](https://www.youtube.com/watch?v=J7arEQR8PdA)*[^1]. The documentary is about the late Saul Leiter, a photographer who made the mundane magnificent.

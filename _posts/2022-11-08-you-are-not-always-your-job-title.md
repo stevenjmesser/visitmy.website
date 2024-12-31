@@ -6,7 +6,6 @@ description: "Some roles share similar skills. Let’s stop pigeonholing people.
 image: /assets/images/person-looks-in-mirror-in-two-minds-picasso.png
 tags:
  - Product management
- - NaBloPoMo
 ---
 
 Recently I’ve been setting some professional development objectives, so that I can continue developing skills and adding value to the service I’m working on. And maybe work towards a promotion.

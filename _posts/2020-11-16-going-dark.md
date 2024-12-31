@@ -11,7 +11,6 @@ image_source:
 image_credit: "Steve Messer"
 tags:
  - General
- - NaBloPoMo
 ---
 
 A few pieces I’ve written during NaBloPoMo 2020 have been fun to write. Others were more strained.

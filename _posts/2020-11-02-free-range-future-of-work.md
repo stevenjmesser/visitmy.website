@@ -11,7 +11,6 @@ image_source: https://unsplash.com/photos/Vd8jXvQtQFI
 image_credit: "Unsplash"
 tags:
  - Agile delivery
- - NaBloPoMo
 ---
 
 For organisations that use computers to get stuff done, the Internet means you can spread bits of your organisation out geographically (over a map) and temporally (over time).

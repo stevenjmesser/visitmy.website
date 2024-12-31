@@ -5,7 +5,6 @@ date: 2022-11-02 07:32:43
 description: "Something I miss about the Before Times, when most people were in the office the majority of the week, is lunchtime."
 tags:
  - General
- - NaBloPoMo
 ---
 
 Something I miss about the Before Times, when most people were in the office the majority of the week, is lunchtime. It had a social appeal. You could go out and spend time with your team or friends or meet up with someone new over lunch. It was easy to organise because a lot of people were in the office often. You could drop the idea sporadically, either taking your packed lunch to a park or finding a local café/restaurant/food stall to chow at.

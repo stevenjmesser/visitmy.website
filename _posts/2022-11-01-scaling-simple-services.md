@@ -5,7 +5,6 @@ date: 2022-11-01 13:41:00
 description: "A note on taking pride in your product or service, when it feels like you don’t have enough people, budget or time."
 tags:
  - Notes
- - NaBloPoMo
 ---
 
 This excerpt on scale from an interview with Meredith Whitaker, [Signal](https://signal.org)’s president, caught me.

@@ -10,7 +10,6 @@ image_source: https://www.flickr.com/photos/gdsteam/8484979419/
 image_credit: "Government Digital Service"
 tags:
  - Digital government
- - NaBloPoMo
  - Leadership
 ---
 
