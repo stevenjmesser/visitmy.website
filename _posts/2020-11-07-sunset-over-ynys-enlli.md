@@ -39,8 +39,6 @@ Me and a few other people from the Social Mobility Network chatted to folks at t
 
 I raised [an issue on the Kramdown repo](https://github.com/gettalong/kramdown/issues/692) about how footnotes aren’t accessible, and pointed to some [work](https://github.com/alphagov/govspeak/pull/192) [done](https://github.com/alphagov/govspeak/pull/198) by the GOV.UK Accessibility team to improve theirs. I *think* I’ve narrowed down what would need to change in Kramdown, so [I’ve raised a pull request](https://github.com/gettalong/kramdown/pull/693). Making footnotes more accessible across hundreds of thousands of blogs would be a win. It shows how government working in the open can make things better elsewhere. A few hundred quid of taxpayers’ money spent improving the government website also improves websites across the globe.
 
-NaBloPoMo has continued and I’ve written a post every day. Here’s an [index of blog posts from National Blog Writing Month 2020]({% post_url 2020-11-01-nablopomo-2020 %}).
-
 It’s now one week since I touched any booze. Only three more to go.
 
 [Ben](http://benterrett.com) got in touch to tell me how Conor’s ‘boring magic’ phrase had inspired [a talk with Michael Marriott](https://noisydecentgraphics.typepad.com/design/2020/11/rdi-insights-talk-tuesday-night.html), the furniture and product designer. Michael’s work looks a lot like it would suit a shop on Charing Cross Road selling things from the DIY section of Abbie Hoffman’s *Steal this Book*. It’s beautiful stuff. I grabbed a ticket, and I’m really looking forward to the talk about reuse.

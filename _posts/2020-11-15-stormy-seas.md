@@ -29,8 +29,6 @@ Having pulled together some top-line KPIs, my colleagues presented these in our 
 
 ## Other things
 
-I lost steam with NaBloPoMo, but would like to write some more considered posts. Here’s an [index of blog posts from National Blog Writing Month 2020]({% post_url 2020-11-01-nablopomo-2020 %}).
-
 Ben’s [talk with Michael Marriott](https://noisydecentgraphics.typepad.com/design/2020/11/rdi-insights-talk-tuesday-night.html), the furniture and product designer, about boring magic was really good. It was fun just hearing two people kick about and find inspiration in a phrase that had helped our thoughts crystallise too.
 
 Earlier in the week I was reading William Morris’s lectures on useful work versus useless toil and ‘the lesser arts’, which struck a chord during the talk. When Ben was talking about the open source movement possibly having a place in design, it reminded me of Morris’s talking about decoration, ‘the lesser art’, and how everyone could take a delight in making a bowl. Everyone shares the same basic method but has opportunity to augment and extend as they please.
