@@ -29,6 +29,11 @@ a {
     text-decoration: underline;
 }
 
+.post a:hover {
+    background-color: #000;
+	color: rgb(233, 232, 229);
+}
+
 pre {
 	margin: .5rem 0;
 	padding: .5rem;
@@ -315,6 +320,11 @@ figcaption {
 
 	a {
 		color: #fff;
+	}
+
+	.post a:hover {
+		background-color: rgb(233, 232, 229);
+		color: #000;
 	}
 
 	code,pre {
