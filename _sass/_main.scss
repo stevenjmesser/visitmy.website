@@ -184,6 +184,10 @@ strong, b {
 	list-style-position: inside;
 }
 
+.post ul li {
+	padding-bottom: 0.5rem; 
+}
+
 main {
 	flex-basis: 0;
 	flex-grow: 999;
