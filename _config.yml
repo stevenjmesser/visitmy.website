@@ -46,7 +46,6 @@ webmentions:
   username: visitmy.website
   max_attempts: 3
   throttle_lookups:
-    last_week: weekly
     last_month: monthly
     last_year: monthly
     older: every 3 months
