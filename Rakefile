@@ -6,3 +6,7 @@ end
 task :build do
     system("bundle exec jekyll build")
 end
+
+task :webmention do
+    system("npx webmention https://visitmy.website/feed.xml --send")
+end
