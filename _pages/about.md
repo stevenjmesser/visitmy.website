@@ -30,4 +30,5 @@ permalink: /about/
   <li><a href="https://www.youtube.com/watch?v=9h5aLCS3wJQ" target="_blank">Inspecting WCAG 2.2: Accessible authentication</a></li>
   <li><a href="https://www.youtube.com/watch?v=aXgIAtjq7zM" target="_blank">Design System Day 2023 – GOV.UK Design System: what we’ve been up to and where we’re heading</a></li>
   <li><a href="https://www.youtube.com/watch?v=1xhZnqF6dc8" target="_blank">Common direction, boring magic – NL Design Systems Week 2024</a></li>
+  <li><a href="https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/" target="_blank">Scaling the Planning Data service</a></li>
 </ul>
