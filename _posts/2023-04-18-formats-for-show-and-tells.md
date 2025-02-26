@@ -16,18 +16,6 @@ We want to do this more often on the GOV.‌UK Design System team, both internal
 
 There are hundreds of ways to tell a story, but these formats are useful for getting started. There’s a few must-haves for a good show & tell though…
 
-## Must-haves
-
-### Set the context
-
-Always introduce your project or epic. Who’s on the team? What are you working on? What problem are you solving? Who are your users? Why are you doing it?
-
-You don’t need to tell the full history, a 30-second overview is enough. A quick ‘elevator pitch’ of the problem you’re solving and why.
-
-### Leave time for questions
-
-The best show & tells have audience participation. Always leave time for questions, or figure out other ways to get folks involved, like a quiz or trivia.
-
 ## The formats
 
 Here’s four suggestions for getting started. What formats have you used that work well?
@@ -74,22 +62,6 @@ It works well for experiments too. State your hypotheses first, then the results
 
 You can use it for comparing a future vision with where we are today. For example, you might use it at the start of a project to explain the current state of things and the end state we hope to achieve.
 
-## Tips
+## Must-haves and tips
 
-A show & tell is like any other presentation, and there are some tips for doing presentations well. There’s a heap of advice over at [doingpresentations.com](http://doingpresentations.com) but I lifted out some favourites that work well for show & tells.
-
-### Always share unfinished thinking
-
-Show & tells are another way to collect feedback. Share new ideas and scrappy prototypes! Use a Sharpie to sketch it out in low detail. No polish.
-
-### Show the thing!
-
-Screenshots, photos, and prototypes bring things to life. ‘Illustrate, don’t decorate.’ Text is good, but too much text is messy and boring.
-
-### Be clear
-
-Make statements. Say what you actually think. This helps everyone concentrate on the main point, and it generates discussion.
-
-### Rehearse
-
-Unless you’re a jazz musician or a mime, you probably don’t improvise that often. Be kind to yourself and rehearse your show & tell.
+You can find tips on [doing show & tell well](https://boringmagi.cc/2025/01/30/tips-on-doing-show-and-tell-well/) over on the Boring Magic blog.
