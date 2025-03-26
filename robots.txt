@@ -96,10 +96,6 @@ Disallow: /
 User-agent: FriendlyCrawler
 Disallow: /
 
-
-User-agent: Go-http-client
-Disallow: /
-
 User-agent: Google-Extended
 Disallow: /
 
