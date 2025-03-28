@@ -159,7 +159,7 @@ GEM
     uglifier (4.2.1)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.5.0)
-    uri (1.0.2)
+    uri (1.0.3)
     webmention (7.0.0)
       http (~> 5.0)
       indieweb-endpoints (~> 8.0)
