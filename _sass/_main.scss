@@ -17,6 +17,9 @@ body {
 	line-height:1.5;
 	font-size: 1rem;
 	color: rgb(22, 23, 26);
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 // nav ul {
@@ -211,6 +214,7 @@ main {
 	max-width: 60rem;
 	margin: auto;
 	padding: 1rem;
+	flex: 1;
 }
 
 #search-container {
@@ -252,6 +256,16 @@ input[type=text] {
     flex-wrap: wrap;
     gap: 0.5rem; // Adjust the gap as needed
 	margin: 1rem 0;
+}
+
+footer {
+  margin-top: auto;
+  background-color: #fff;
+  text-align: right;
+  padding: 1rem 2rem;
+  font-size: 0.9rem;
+  color: rgb(22, 23, 26);
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 42rem ) {
@@ -359,4 +373,8 @@ figcaption {
 		background-color: #fefefe;
 		color: #536b29;
 	}
+	footer {
+		background-color: #536b29;
+		color: #fefefe;
+	  }
 }
