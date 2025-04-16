@@ -3,7 +3,6 @@ layout: page
 title: Work
 image:
 permalink: /work/
-redirect_from: /cv/
 ---
 
 As a creative product manager, I specialise in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1. These skills help me bring new products & services to market and take established products & services in new directions. I’m passionate about innovation for the public good and open, ethical product design.
