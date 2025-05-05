@@ -85,7 +85,7 @@ Read [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://
 
 The idea that ‘every project starts with a fixed amount of disappointment’ was a real mind-blown moment for me. Too often I’ve kidded myself into thinking we’ll pull it off. This is a more realistic framing, one that works particularly well on teams with low strategic autonomy. If you’re handed some ideas to build or very specific goals to reach, this set of posts from Neil Vass will likely be helpful. (The links go to the Web Archive as Neil’s site seems to be broken at the moment.)
 
-Read [part 1](https://web.archive.org/web/20220913070750/https://neil-vass.com/?p=163) (5 mins), [part 2](https://web.archive.org/web/20220912193029/https://neil-vass.com/?p=174) (6 mins) and [part 3](https://web.archive.org/web/20220912193022/https://neil-vass.com/?p=196) (11 mins)
+Read [part 1](https://neil-vass.com/how-to-disappoint-people-part-1/) (5 mins), [part 2](https://neil-vass.com/how-to-disappoint-people-part-2/) (6 mins) and [part 3](https://neil-vass.com/how-to-disappoint-people-part-3/) (11 mins)
 
 ### Levelling Up When You Can’t Get Headcount
 
@@ -200,3 +200,5 @@ Read [Could Consciousness Be a Memory System? New Theory Says Yes](https://singu
 ---
 
 *Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}) and [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %})*
+
+
