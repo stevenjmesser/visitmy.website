@@ -37,7 +37,7 @@ Having said that, it has all become much clearer thanks to papers written by a S
 
 This is the deep product work I enjoy. Delving into a domain and its policy, regulations, legislation and ethics. This is where Product is supposed to be, finding the constraints within which we must operate. (Design hangs out here too, obvs.)
 
-## A product operating model is (some of) yours ways of working
+## A product operating model is (some of) your ways of working
 
 I’ll write a fuller post about this, but I published our product operating model: how a team combines insights about users, expertise in design and technology, and a strategy to achieve outcomes for users and government.
 
