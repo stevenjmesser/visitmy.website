@@ -23,7 +23,7 @@ Making it easier to find, use and trust planning and housing open data in Englan
 - Implemented objectives and key results (OKRs), a performance dashboard, quarterly planning and prioritisation methods, driving data-informed decision-making and resulting in better outcomes
 - Coached and lead product managers, delivery managers, developers and designers
 - Delivered 6x increase in the quantity of open data available from trusted local government sources
-- Collaborated with Incubator for AI and Faculty AI on technical proofs-of-concept to resolve systemic bottlenecks
+- Lead on [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/) AI-powered product to unlock historic planning data
 
 ### Government Digital Service, Senior Product Manager (contract)
 *Dec 2022 - Feb 2024*

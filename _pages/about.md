@@ -32,3 +32,4 @@ You’ll mostly hear me yabbering on about: product management, user-centred des
 - [Common direction, boring magic – NL Design Systems Week 2024](https://www.youtube.com/watch?v=1xhZnqF6dc8){:target="_blank"}
 - [Scaling the Planning Data service](https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/){:target="_blank"}
 - [The benefits of open planning data for local planning authorities](https://youtu.be/8TaVbZ-QF2g?t=2363){:target="_blank"}
+- [Extract: Using AI to unlock historic planning data](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/){:target="_blank"}

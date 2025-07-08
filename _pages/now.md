@@ -7,8 +7,10 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
-    <li>planning a hiking trip across the Spanish Pyrenees</li>
+    <li>working with another client (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>)</li>
     <li>reading <i>Travels with a Writing Brush: Classical Japanese Travel Writing from the Manyoshu to Basho</i>, selected and translated by Meredith McKinney</li>
+    <li>learning about electric cars</li>
+    <li>training for a half-marathon in December</li>
   </ul>
 </p>
 

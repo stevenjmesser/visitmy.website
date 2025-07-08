@@ -24,14 +24,14 @@
       {% endunless %}
     </title>
     
-  <meta name="description" itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
   <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.sub-title %}{{ page.title }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
+  <meta property="og:title" content="{% if page.sub-title %}{{ page.title | escape }}: {{ page.sub-title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title}}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
   <meta name="google-site-verification" content="MixE0RdWuCoS1EFTIOCNODuOa70gx7EbfkJyO-Mw6xA" />
@@ -43,6 +43,30 @@
   <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.baseurl }}/sitemap.xml" />
   <link rel="blogroll" type="text/xml" href="{{ '/blogroll.opml' | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
+
+  {% if page.url == "/about/" %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "dateCreated": "2025-06-20T07:34:25+01:00",
+        "dateModified": "2025-06-20T07:34:25+01:00",
+        "mainEntity": {
+          "@type": "Person",
+          "name": "Steve Messer",
+          "description": "Digital product & design strategist. Founder of Boring Magic. Passionate about innovation for the public good and open, ethical product design.",
+          "image": "{{ '/assets/images/8a595a78177bf62b.jpeg' | absolute_url }}",
+          "sameAs": [
+            "https://boringmagi.cc/",
+            "https://twitter.com/stevenjmesser",
+            "https://www.linkedin.com/in/stevenjmesser/",
+            "https://bsky.app/profile/visitmy.website",
+            "https://github.com/stevenjmesser"
+          ]
+        }
+      }
+    </script>
+  {% endif %}
 
   {% webmentions_head %}
       
