@@ -1,4 +1,4 @@
-// Charging Calculator JavaScript
+// Empirical Charging Calculator based on real Nissan Leaf 40kWh user data
 document.addEventListener('DOMContentLoaded', function() {
   // Update slider values in real-time
   const startCharge = document.getElementById('startCharge');
@@ -45,31 +45,79 @@ function calculateChargingTime() {
   const targetSoC = parseInt(document.getElementById('targetCharge').value);
   const chargerType = document.querySelector('.charger-option.selected').dataset.charger;
   
-  // Battery specifications for Nissan Leaf 40kWh
-  const totalCapacity = 40; // kWh (actual usable ~39kWh)
-  const usableCapacity = 39; // kWh
+  // Calculate percentage increase
+  const percentageIncrease = targetSoC - startSoC;
   
-  // Calculate energy needed
-  const energyNeeded = (targetSoC - startSoC) / 100 * usableCapacity;
-  
-  let chargingPower, chargerName, efficiency;
+  let chargingTime, chargerName, avgPower, energyFromWall;
   
   if (chargerType === 'slow') {
-    chargingPower = 2.3; // kW
     chargerName = 'UK 3-Pin Plug';
-    efficiency = 0.85; // Lower efficiency for slow charging
+    
+    // Empirical formula based on real user data:
+    // 77% increase (17% to 94%) = 12 hours
+    // This gives us: time = percentage_increase × (12/77) × adjustment_factor
+    
+    // Base rate: 12 hours for 77% = 0.156 hours per percent
+    let baseRateHoursPerPercent = 12 / 77; // 0.156 hours per %
+    
+    // Apply charging curve adjustments
+    let adjustedTime = 0;
+    for (let i = 0; i < percentageIncrease; i++) {
+      const currentSoC = startSoC + i;
+      let timeForThisPercent = baseRateHoursPerPercent;
+      
+      // Minimal adjustments based on charging curve
+      if (currentSoC < 10) {
+        timeForThisPercent *= 1.15; // Slightly slower at very low SoC
+      } else if (currentSoC >= 90) {
+        timeForThisPercent *= 1.4; // Slower above 90%
+      } else if (currentSoC >= 85) {
+        timeForThisPercent *= 1.2; // Starts to slow above 85%
+      }
+      // 10% to 85% uses base rate (where your data sits)
+      
+      adjustedTime += timeForThisPercent;
+    }
+    
+    chargingTime = adjustedTime;
+    avgPower = (percentageIncrease * 39 / 100) / chargingTime; // kW to battery
+    energyFromWall = chargingTime * 2.3; // Assuming full 2.3kW draw
+    
   } else {
-    chargingPower = 6.5; // kW (limited by Leaf's 6.6kW onboard charger)
     chargerName = 'Type 2 Charger';
-    efficiency = 0.90; // Better efficiency for faster charging
+    
+    // For 6.6kW charger, scale based on power ratio and efficiency
+    // Assume 6.6kW is about 2.87x faster than 2.3kW with better efficiency
+    let slowChargerTime = (percentageIncrease * 12 / 77);
+    
+    // Apply same curve adjustments
+    let adjustedTime = 0;
+    let baseRateHoursPerPercent = slowChargerTime / percentageIncrease;
+    
+    for (let i = 0; i < percentageIncrease; i++) {
+      const currentSoC = startSoC + i;
+      let timeForThisPercent = baseRateHoursPerPercent;
+      
+      if (currentSoC < 10) {
+        timeForThisPercent *= 1.1;
+      } else if (currentSoC >= 90) {
+        timeForThisPercent *= 1.3;
+      } else if (currentSoC >= 85) {
+        timeForThisPercent *= 1.15;
+      }
+      
+      adjustedTime += timeForThisPercent;
+    }
+    
+    // 6.6kW is 2.87x more powerful, with better efficiency
+    chargingTime = adjustedTime / 2.87 * 0.95; // Small penalty for curve differences
+    avgPower = (percentageIncrease * 39 / 100) / chargingTime;
+    energyFromWall = chargingTime * 6.6 * 0.90; // 90% efficiency for L2
   }
   
-  // Apply charging curve effects (non-linear charging)
-  let adjustedTime = calculateNonLinearCharging(startSoC, targetSoC, chargingPower, efficiency);
-  
   // Display results
-  const hours = Math.floor(adjustedTime);
-  const minutes = Math.round((adjustedTime - hours) * 60);
+  const hours = Math.floor(chargingTime);
+  const minutes = Math.round((chargingTime - hours) * 60);
   
   let timeString;
   if (hours === 0) {
@@ -82,73 +130,25 @@ function calculateChargingTime() {
   
   document.getElementById('timeDisplay').textContent = timeString;
   document.getElementById('energyInfo').textContent = 
-    `Adding ${energyNeeded.toFixed(1)} kWh using ${chargerName}`;
+    `Adding ${(percentageIncrease * 39 / 100).toFixed(1)} kWh using ${chargerName}`;
   
   // Calculate completion time
   const now = new Date();
-  const completionTime = new Date(now.getTime() + adjustedTime * 60 * 60 * 1000);
+  const completionTime = new Date(now.getTime() + chargingTime * 60 * 60 * 1000);
   const timeStr = completionTime.toLocaleTimeString('en-GB', { 
     hour: '2-digit', 
     minute: '2-digit' 
   });
   
   // Additional details
-  const avgPower = energyNeeded / adjustedTime;
-  const rangeAdded = (targetSoC - startSoC) / 100 * 149; // ~149 miles WLTP range
+  const rangeAdded = percentageIncrease / 100 * 148; // miles
   
   document.getElementById('chargingDetails').innerHTML = `
     <p><strong>Charging will complete around:</strong> ${timeStr}</p>
     <p><strong>Range added:</strong> ~${Math.round(rangeAdded)} miles</p>
     <p><strong>Average charging power:</strong> ${avgPower.toFixed(1)} kW</p>
-    <p><strong>Efficiency loss:</strong> ~${Math.round((1-efficiency)*100)}%</p>
+    <p><strong>Energy from wall:</strong> ${energyFromWall.toFixed(1)} kWh</p>
   `;
   
   document.getElementById('result').classList.remove('hidden');
-}
-
-function calculateNonLinearCharging(startSoC, targetSoC, maxPower, baseEfficiency) {
-  // Nissan Leaf charging curve simulation
-  // Charging slows down significantly above 80% and below 10%
-  
-  let totalTime = 0;
-  const stepSize = 1; // 1% increments for accuracy
-  
-  for (let soc = startSoC; soc < targetSoC; soc += stepSize) {
-    let powerFactor = 1.0;
-    let efficiency = baseEfficiency;
-    
-    // Charging curve adjustments based on SoC
-    if (soc < 10) {
-      // Very slow at low SoC due to battery protection
-      powerFactor = 0.6;
-      efficiency *= 0.9;
-    } else if (soc < 20) {
-      // Slow ramp up
-      powerFactor = 0.8;
-      efficiency *= 0.95;
-    } else if (soc <= 70) {
-      // Optimal charging range
-      powerFactor = 1.0;
-    } else if (soc <= 80) {
-      // Start to slow down
-      powerFactor = 0.9;
-    } else if (soc <= 90) {
-      // Significant slowdown
-      powerFactor = 0.6;
-      efficiency *= 0.9;
-    } else {
-      // Very slow top-off
-      powerFactor = 0.3;
-      efficiency *= 0.85;
-    }
-    
-    // Calculate effective power and time for this segment
-    const effectivePower = maxPower * powerFactor * efficiency;
-    const energyForStep = (stepSize / 100) * 39; // kWh for 1%
-    const timeForStep = energyForStep / effectivePower; // hours
-    
-    totalTime += timeForStep;
-  }
-  
-  return totalTime;
 }
