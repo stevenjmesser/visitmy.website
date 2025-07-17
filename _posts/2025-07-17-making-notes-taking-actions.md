@@ -55,3 +55,9 @@ Plus, it all happens on a machine I own, I operate, with parameters I’ve defin
 I dunno. That’s a bit like saying all hammers are immoral and unethical. Really it depends on how they’re produced and how they’re used. You can make a sustainable hammer by lashing a rock to a sturdy stick, but if you use it to club someone to death, that’s a no-no. 
 
 Like a lot of things, there’s a spectrum. Finding and using Fairtrade large language models is probably a good next step, but I think other aspects of my setup and application are good and right. 
+
+## What about recording people without their consent?
+
+For personal use, where you don’t share anything with a third party, it’s legal. Some people will see that as perfectly ethical, but I think you should let people know. 
+
+I don’t keep audio recordings, only the summaries. Everything is stored on my computer, like a physical notebook, which limits who can get hold of it and steal information.
