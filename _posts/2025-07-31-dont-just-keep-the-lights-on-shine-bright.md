@@ -13,7 +13,7 @@ tags:
  - Digital government
 ---
 
-Users don’t have a choice to use government services. They can’t go anywhere else, so the services must work and _work well. It’s an adage that does well to remind us [why public services are not the same as private-sector ones](https://www.careful.industries/blog/2025-3-5-ways-public-sector-services-are-not-the-same-as-private-sector-onesnbsp){:target="_blank"}.
+Users don’t have a choice to use government services. They can’t go anywhere else, so the services must work and _work well_. It’s an adage that does well to remind us [why public services are not the same as private-sector ones](https://www.careful.industries/blog/2025-3-5-ways-public-sector-services-are-not-the-same-as-private-sector-onesnbsp){:target="_blank"}.
 
 However, the same isn’t true if you work on [digital service platforms](https://gds.blog.gov.uk/2023/08/08/how-common-platforms-deliver-brilliant-digital-services/){:target="_blank"}, or Government as a Platform. 
 
