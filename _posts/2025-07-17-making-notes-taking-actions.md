@@ -2,6 +2,7 @@
 layout: post
 title: "Making notes, taking actions"
 date: 2025-07-17T20:37:48+01:00
+modified_date: 2025-08-01T14:59:53+01:00
 description: "Rolling my own automation for transcribing and summarising meetings. It’s surprisingly simple with some free tools."
 image: /assets/images/IMG_5537.jpg
 image_title: "A joke to-do list reading: read unread emails; compose a literary masterpiece; make each day 1% less shit. The final task is ticked off as completed."
@@ -33,6 +34,10 @@ It’s surprisingly simple.
 From there, I’ve prepared a few prompts to summarise the various different meetings I have. Highlight decisions made, pull out things for me to add to my to-do list, remind me of anything to follow up on next time, and generally summarise the discussion. (I haven’t prepped anything for [workshops](https://www.nngroup.com/articles/workshops-vs-meetings/){:target="_blank"} yet but may do soon.)
 
 When I use one of these prompts on a transcript, MacWhisper makes a call to an [LM Studio](https://lmstudio.ai){:target="_blank"} server running on my Mac, which passes the prompt and context on to a large language model. The LLM does its thing, beep-booping, tumbling parts of words and decimal-point numbers around in its magical cement-mixer of dreams, until a couple of minutes later out pops a summary. 
+
+### A note on models
+
+In my experience, a 30-minute meeting is about 20,000 tokens. You’ll need a model and hardware that can handle at least that. I’ve been using IBM’s Granite 3.2 8B on a M4 Mac Mini and Meta’s Llama 3.2 3B on a M2 MacBook Air successfully, increasing the context length as required. If you’re using a reasoning model, turning off thinking can help too.
 
 ## What next?
 
