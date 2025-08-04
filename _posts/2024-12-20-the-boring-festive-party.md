@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Boring Festive Party"
-sub-title: "S19E03"
+sub-title: "Weeknotes S19E03"
 date: 2024-12-20T10:23:03Z
 description: "Wrapping up the year, things to do in 2025, time management and productivity, a National Data Service, and updates on personal development. Plus some food and music recommendations."
 image: /assets/images/IMG_3923.jpg

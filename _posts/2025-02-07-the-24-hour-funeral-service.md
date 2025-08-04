@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 24-Hour Funeral Service"
-sub-title: "S20E05"
+sub-title: "Weeknotes S20E05"
 date: 2025-02-07T21:30:03Z
 description: "A couple of days spent at State of Open conference, plus several days wrangling governance stuff. On a positive note, I kicked off a discovery and updated our roadmap."
 image: /assets/images/IMG_4102.jpg

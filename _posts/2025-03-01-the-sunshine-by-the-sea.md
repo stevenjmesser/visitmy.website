@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sunshine by the Sea"
-sub-title: "S20E08"
+sub-title: "Weeknotes S20E08"
 date: 2025-03-01T09:45:19Z
 description: "Spring is almost in the air. An inspiring conference has me thinking about renewal and the future. Open thoughts without conclusion."
 image: /assets/images/IMG_4201.jpg

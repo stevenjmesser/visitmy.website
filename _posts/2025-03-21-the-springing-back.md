@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Springing Back"
-sub-title: "S20E09"
+sub-title: "Weeknotes S20E09"
 date: 2025-03-21T18:13:01Z
 description: "More life updates than anything else. Good Welsh food, what’s coming up at Product for the People, plus other musings."
 image: /assets/images/IMG_4296.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gambas Rojas"
-sub-title: "S18E11"
+sub-title: "Weeknotes S18E11"
 date: 2024-10-27 14:58:16Z
 description: "Mapping dependencies, writing up processes, working in the open joy, plus getting ready to go on holiday."
 image: /assets/images/IMG_2989.jpg

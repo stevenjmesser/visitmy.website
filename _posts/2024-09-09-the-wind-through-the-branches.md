@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Wind Through the Branches"
-sub-title: "S18E04"
+sub-title: "Weeknotes S18E04"
 date: 2024-09-09 20:00:46+01:00
 description: "Leadership bits, progress on autonomy, the joy of knowing where one’s food comes from, and reminders to be mindful. Oh yeah, we’re gonna start a Croydon tech meetup too. Join us?"
 image: /assets/images/IMG_2732.jpg

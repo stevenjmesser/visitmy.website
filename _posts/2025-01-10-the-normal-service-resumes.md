@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Normal Service Resumes"
-sub-title: "S20E01"
+sub-title: "Weeknotes S20E01"
 date: 2025-01-10T17:35:57Z
 description: “The joys of returning to routine, from catching up with colleagues to tackling workshops in Manchester. Insights on creating focus time, the importance of a service handbook, and running roadmapping and future-spective workshops."
 image: /assets/images/IMG_3987.jpg

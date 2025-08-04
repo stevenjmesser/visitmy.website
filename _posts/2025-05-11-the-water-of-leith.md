@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Water of Leith"
-sub-title: "S20E12"
+sub-title: "Weeknotes S20E12"
 date: 2025-05-11T08:53:12+01:00
 description: "Attended Turing Fest in Edinburgh, a conference for start-ups and investors. The event emphasised the importance of user empathy and soft skills in tech companies, particularly in the context of AI. A talk on scaling up from start-up to growth provided valuable insights into the challenges faced during this transition."
 image: /assets/images/IMG_4605.jpg

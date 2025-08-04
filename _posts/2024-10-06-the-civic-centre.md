@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Civic Centre"
-sub-title: "S18E08"
+sub-title: "Weeknotes S18E08"
 date: 2024-10-06 18:10:55+01:00
 description: "Roadmapping, dependency mapping, stakeholders, plus an excellent open day with Open Digital Planning peeps."
 image: /assets/images/IMG_2839.jpg

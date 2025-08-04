@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hill Fort"
-sub-title: "S18E12"
+sub-title: "Weeknotes S18E12"
 date: 2024-11-03 15:40:55Z
 description: "Writing up our growth strategy and tying off loose ends before an extended break abroad. Ciao for now."
 image: /assets/images/IMG_3050.jpg

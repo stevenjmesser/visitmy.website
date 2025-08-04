@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Emerging Timelines"
-sub-title: "S19E01"
+sub-title: "Weeknotes S19E01"
 date: 2024-12-07T07:32:16Z
 description: "Back from Japan! Catching up on work, and plans for the next quarter. Milestones for 2025, stuff on AI, and a call to donate bone marrow."
 image: /assets/images/IMG_3871.jpg

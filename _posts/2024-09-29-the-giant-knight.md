@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Giant Knight"
-sub-title: "S18E07"
+sub-title: "Weeknotes S18E07"
 date: 2024-09-29 15:33:08+01:00
 description: "Work ain’t everything, but it did go well this week. More notes on music and idle thoughts."
 image: /assets/images/IMG_2817.jpg

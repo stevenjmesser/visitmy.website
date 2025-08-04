@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gravel"
-sub-title: "S20E13"
+sub-title: "Weeknotes S20E13"
 date: 2025-05-18T18:33:09+01:00
 description: "A (very) brief experiment with dictating weeknotes. Pushing our AI work forward, my next job, what I enjoyed at Interesting 2025, plus a fun gravel ride over south London."
 image: /assets/images/IMG_4691.jpg

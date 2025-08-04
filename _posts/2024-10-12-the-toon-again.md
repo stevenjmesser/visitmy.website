@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Toon Again"
-sub-title: "S18E09"
+sub-title: "Weeknotes S18E09"
 date: 2024-10-12 17:27:33+01:00
 description: "Adding to the conversation on the digital centre, another trip to Newcastle, and positive progress for one team’s experimentation."
 image: /assets/images/IMG_2877.jpg

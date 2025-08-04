@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The International Visit"
-sub-title: "S18E06"
+sub-title: "Weeknotes S18E06"
 date: 2024-09-20 18:23:32+01:00
 description: "Preparing quarterly objectives with impact-mapping and strategic context. Thoughts on founder mode. Catching up with peers."
 image: /assets/images/IMG_2784.jpg

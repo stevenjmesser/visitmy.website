@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Connection and Distraction"
-sub-title: "S20E02"
+sub-title: "Weeknotes S20E02"
 date: 2025-01-20T18:49:23Z
 description: "Two fun community events, how to reduce Slack usage, hype technology is killing innovation, plus film and food recommendations."
 image: /assets/images/IMG_4026.jpg

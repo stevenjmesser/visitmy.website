@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Explainer"
-sub-title: "S20E03"
+sub-title: "Weeknotes S20E03"
 date: 2025-01-25T15:56:40Z
 description: "Brief weeknotes on AI, blueprint for digital government, Rail Alphabet and _The Brutalist_."
 image: /assets/images/IMG_4030.jpg

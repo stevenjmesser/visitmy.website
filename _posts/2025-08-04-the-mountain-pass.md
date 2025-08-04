@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mountain Pass"
-sub-title: "S21E01"
+sub-title: "Weeknotes S21E01"
 date: 2025-08-04T17:17:48+01:00
 description: "Back at the coal face on the planning data service. Been thinking about vision, mission, roadmaps, the North Star, and how to design and build AI products."
 image: /assets/images/IMG_3123.jpg

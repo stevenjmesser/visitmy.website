@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Action is the Juice"
-sub-title: "S18E10"
+sub-title: "Weeknotes S18E10"
 date: 2024-10-22 05:02:28+01:00
 description: "Thoughts on product operating models, how you ship stuff, being strategic, being digital, and a tip on where to drink in Chingford."
 image: /assets/images/IMG_2937.jpg

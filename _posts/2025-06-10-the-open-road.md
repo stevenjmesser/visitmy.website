@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Open Road"
-sub-title: "S20E14"
+sub-title: "Weeknotes S20E14"
 date: 2025-06-10T11:40:43+01:00
 description: "The Prime Minister announced some of our work. And this is the last you’ll hear of me if I die in the Pyrenees next week!"
 image: /assets/images/IMG_5100.jpg

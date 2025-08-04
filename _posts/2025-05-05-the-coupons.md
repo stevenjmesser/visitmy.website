@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Coupons"
-sub-title: "S20E11"
+sub-title: "Weeknotes S20E11"
 date: 2025-05-05T07:27:14+01:00
 description: "Scaling the platform for an AI hackathon, researching administrative law, publishing a designed and tested product operating model, and plans for an upcoming hiking trip."
 image: /assets/images/IMG_4516.jpg

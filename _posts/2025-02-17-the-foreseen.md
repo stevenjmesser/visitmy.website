@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Foreseen"
-sub-title: "S20E06"
+sub-title: "Weeknotes S20E06"
 date: 2025-02-17T06:45:03Z
 description: "Adding more to our handbook, planning a discovery into data consumers, presenting to planners, our AI project, and a lacklustre data community session."
 image: /assets/images/IMG_4136.jpg

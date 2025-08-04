@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Journal Gap"
-sub-title: "S20E04"
+sub-title: "Weeknotes S20E04"
 date: 2025-02-01T07:24:28Z
 description: "Establishing and iterating a new team design, and sharing the key concepts underpinning our service."
 image: /assets/images/IMG_4047-2.jpg

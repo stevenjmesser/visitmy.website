@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Incubator"
-sub-title: "S19E02"
+sub-title: "Weeknotes S19E02"
 date: 2024-12-15T12:26:40Z
 description: "Electric Dreams, lazy Sundays, Q4 planning, experiments in AI, plus reckons on what digital gov needs to really change."
 image: /assets/images/IMG_3897.jpg
