@@ -6,8 +6,8 @@ permalink: /cv/
 ---
 
 **London, SE25**  
-visitmy.website/about
-boringmagi.cc/services
+[visitmy.website/about](/about/)
+[boringmagi.cc/services](https://boringmagi.cc/services)
 
 Passionate about innovation for the public good, making complex or tedious things more simple. Specialist in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1 or 1 → n.
 
@@ -22,8 +22,8 @@ Making it easier to find, use and trust planning and housing open data in Englan
 - Established and oversaw the strategy and product operating model for a data platform maturing from private to public beta
 - Implemented objectives and key results (OKRs), a performance dashboard, quarterly planning and prioritisation methods, driving data-informed decision-making and resulting in better outcomes
 - Coached and lead product managers, delivery managers, developers and designers
-- Delivered 6x increase in the quantity of open data available from trusted local government sources
-- Lead on [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/) AI-powered product to unlock historic planning data
+- Led product inception and strategy for [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/), one of the [Prime Minister’s AI exemplars](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025), in partnership with Incubator for AI
+- Delivered [6x increase](https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/#:~:text=Last%20year%20LPAs%20provided%20around%20200%20datasets%20–%20up%20from%20around%2030%20the%20year%20before.%20That’s%20a%20six%20fold%20leap) in the quantity of open data available from trusted local government sources
 
 ### Government Digital Service, Senior Product Manager (contract)
 *Dec 2022 - Feb 2024*
