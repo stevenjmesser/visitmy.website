@@ -2,7 +2,7 @@
 layout: post
 title: "Too many hands on the tiller"
 date: 2025-08-13T18:36:13+01:00
-description: "Lost at sea with too many opinions. This isn’t about hierarchy or control. It’s about vision, influence and unified leadership."
+description: "Lost at sea with too many opinions. This isn’t about hierarchy or control. Constantly shifting priorities, a lack of coordination and a hazy vision are fundamental challenges to overcome in any organisation. Big or small. Old or new."
 image: /assets/images/IMG_5668.jpg
 image_title: "A small sailboat with a bright blue sail is sailing on the sea. Other boats are visible in the distance under a grey sky."
 image_artist: Steve Messer
