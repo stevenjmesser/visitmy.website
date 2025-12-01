@@ -19,7 +19,9 @@ Spent a huge portion of the weekend in the garden, building raised beds and sowi
 
 Also picked up a book on permaculture by Graham Burnett, which is inspirational. Of course I’ve watched loads of videos on YouTube too, and it seems like a much better way of growing. 
 
-For the last few months I’ve been thinking I really need a slow hobby, something physical where it takes a while to see the fruits of your labour. Running counts, but I wanted time to make things too. Another bonus with gardening is that it makes use of our garden, which I neglected this year. (My partner did well to grow things, but all I mustered were some wildflowers.)
+For the last few months I’ve been thinking I really need a slow hobby, something physical where it takes a while to see the fruits of your labour. Running counts, but I wanted time to make and things too. And to care about maintenance, that was also important. So I picked gardening. 
+
+Another bonus with gardening is that it makes use of our garden, which I neglected this year. (My partner did well to grow things, but all I mustered were some wildflowers.)
 
 Promise this won’t turn into a garden blog. On to the work stuff, which is why you’re probably here.
 
