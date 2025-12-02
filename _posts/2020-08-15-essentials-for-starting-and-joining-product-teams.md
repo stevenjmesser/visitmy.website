@@ -3,7 +3,7 @@ layout: post
 title: "Must-haves when starting or joining a product team"
 description: "These are the must-haves and key things to remember which help me hit the ground running when starting or joining a product team."
 date: 2020-08-15
-modified_date: 2023-09-13
+modified_date: 2025-12-02
 image: /assets/images/IMG_1774.jpeg
 image_title: "Government, more or less"
 image_artist: "Steve Messer"
@@ -24,6 +24,7 @@ As product manager, you look after the environment that the team needs to succee
 
 ## Start with the basics
 
+- The biggest risk isn’t slow delivery, it’s being wrong at scale.
 - What is the product or service?
 - What problem does it solve, and for whom? Write that down in plain language.
 - What is the outcome we want users[^1] to reach? What is the outcome we want users to avoid?
@@ -31,6 +32,7 @@ As product manager, you look after the environment that the team needs to succee
 - Which of those points is most painful and needs removing first? Which one next?
 - What are the unknowns (discovery)? What are the knowns (delivery)?
 - Where’s the documentation? You’ll need to update it each week, if someone else doesn’t do that already.
+- The biggest risk isn’t slow delivery, it’s being wrong at scale.
 
 ## Working in a team
 
@@ -55,6 +57,12 @@ As product manager, you look after the environment that the team needs to succee
 - Start small, test risky assumptions, iterate and grow.
 - Keep a decision record and update it after each meeting or workshop. If you shave scope, make it clear.
 
+## Doing research
+
+- Don’t make big decisions off the back of one research or testing study. Trust the process and get some more evidence.
+- Care less about what people say and more about what people do. Behaviour tells the truth, everything else is noise.
+- Confidence is not a substitute for evidence. 
+
 ## Working with stakeholders
 
 - Be open about how the team expects to achieve its objective. Be open about not yet knowing how to achieve that too.
@@ -64,6 +72,6 @@ As product manager, you look after the environment that the team needs to succee
 
 ---
 
-Do these resonate with you? What would you add or change? Let me know on [Twitter](https://twitter.com/stevenjmesser), it’d be great to hear from people.
+Do these resonate with you? What would you add or change? Let me know on [the socials](/contact/), it’d be great to hear from people.
 
 [^1]: At GDS we tend not to use the term ‘customers’ but it’s still applicable if you’re running B2B or platform products.
