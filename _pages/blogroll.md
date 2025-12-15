@@ -20,6 +20,7 @@ These are the blogs whose posts I always look forward to reading, whenever they 
 - [Frankie Roberto](https://frankieroberto.github.io/nhsnotes/){:target="_blank"}
 - [Hidde de Vries](https://hidde.blog/){:target="_blank"}
 - [Matt Webb](https://interconnected.org/home){:target="_blank"}
+- [Mike Gallagher](https://mikegallagher.org){:target="_blank"}
 - [Kuba Bartwicki](https://www.kubabartwicki.com/){:target="_blank"}
 - [Lisa Koeman](https://lisakoeman.nl/blog){:target="_blank"}
 - [Mark Hurrell](https://mhurrell.co.uk/prospects/){:target="_blank"}
