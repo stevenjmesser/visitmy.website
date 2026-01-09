@@ -3,6 +3,7 @@ layout: post
 title: "Dunno which social network to join? Follow the news"
 sub-title: "On finding one’s herd"
 date: 2023-10-19 06:28:29+01:00
+modified_date: 2026-01-05
 tags:
  - Notes
 ---
@@ -28,3 +29,5 @@ The civil service reform piece went off on Bluesky. That seems to be where the p
 I guess I’m probably going to keep looking at Twitter but I dount I’ll post there much, unless it’s about music. Mastodon has been where I feel a bit more at home, so I’m spending more time there. And Bluesky is OK but it was dead for a while. But now I’m thinking it’s probably a more social extension of LinkedIn, just without all the talk about doing ordinary things in extraordinary ways.
 
 Anyway, do with that information what you will.
+
+**Update:** [Ofcom has made urgent contact with X and xAI](https://bsky.app/profile/lizziedearden.bsky.social/post/3mbonhwzmyc2t) to find out what steps they've taken to stop Grok creating child sexual abuse materials and other non-consensual sharing of intimate images, which is a crime according to the Online Safety Act. Just in case you were still wondering about what platform to use.
