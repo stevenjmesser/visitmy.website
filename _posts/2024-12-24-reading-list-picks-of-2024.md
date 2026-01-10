@@ -207,4 +207,4 @@ Read [Sometimes, Democratic Design Doesn’t “Look” Like Anything](https://w
 
 [Canteenlessness](https://diamondgeezer.blogspot.com/2024/10/canteenlessness.html){:target="_blank"} – the sad state of lunch at work, and an ode to canteens. 
 
-*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}), [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %}) and [2022]({% post_url 2022-12-30-reading-list-picks-of-2022 %})*
+*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}), [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %}), [2022]({% post_url 2022-12-30-reading-list-picks-of-2022 %}), and [2025]({% post_url 2026-01-10-reading-list-picks-of-2025 %})*

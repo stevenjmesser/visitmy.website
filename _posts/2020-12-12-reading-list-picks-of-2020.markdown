@@ -196,6 +196,4 @@ After reading this, I realised how much I'd learned about colonialism and struct
 
 Read [The Battle of Los Angeles](https://pitchfork.com/reviews/albums/rage-against-the-machine-the-battle-of-los-angeles/).
 
----
-
-_Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), and [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %})_
+*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %}), [2022]({% post_url 2022-12-30-reading-list-picks-of-2022 %}), [2024]({% post_url 2024-12-24-reading-list-picks-of-2024 %}), and [2025]({% post_url 2026-01-10-reading-list-picks-of-2025 %})*

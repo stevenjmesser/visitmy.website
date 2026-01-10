@@ -176,9 +176,7 @@ The story of how 'the mother of all demos' changed the world, moving computing f
 
 Read [In 1968, computers got personal](http://theconversation.com/in-1968-computers-got-personal-how-the-mother-of-all-demos-changed-the-world-101654).
 
----
-
-_Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}) and [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %})_
+*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}), [2021]({% post_url 2021-12-16-reading-list-picks-of-2021 %}), [2022]({% post_url 2022-12-30-reading-list-picks-of-2022 %}), [2024]({% post_url 2024-12-24-reading-list-picks-of-2024 %}), and [2025]({% post_url 2026-01-10-reading-list-picks-of-2025 %})*
 
 ---
 
