@@ -12,21 +12,4 @@ tags:
  - Notes
 ---
 
-From Peter Fischli and David Weiss.
-
-1. Do one thing at a time
-2. Know the problem
-3. Learn to listen
-4. Learn to ask questions
-5. Distinguish sense from nonsense
-6. Accept change as inevitable
-7. Admit mistakes
-8. Say it simple
-9. Be calm
-10. Smile
-
-These feel like good principles for all sorts of work, especially work that involves other people. 
-
-Apparently the artists appropriated this from a sign in a factory in Thailand in the 1980s. Later they painted it on an office building in Zurich and then opposite a factory in Lower Manhattan.
-
-![‘How to work better’ (1991) by Peter Fischli and David Weiss. (Photograph by Jason Wyche.)](/assets/images/FischliWeiss_3080.jpg)
+Check out [How to work better](https://boringmagi.cc/2026/01/09/how-to-work-better/) on the Boring Magic blog.

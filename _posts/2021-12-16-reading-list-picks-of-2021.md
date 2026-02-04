@@ -194,6 +194,4 @@ As soon as I read this, I wanted to be able to run long distances. Camping is gr
 
 Read [Intro to Fast-packing](https://janji.com/blogs/travelogue/intro-to-fastpacking).
 
----
-
-*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), and [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %})*
+*Check out my reading lists from [2018]({% post_url 2018-12-23-reading-list-picks-of-2018 %}), [2019]({% post_url 2019-12-14-reading-list-picks-of-2019 %}), [2020]({% post_url 2020-12-12-reading-list-picks-of-2020 %}), [2022]({% post_url 2022-12-30-reading-list-picks-of-2022 %}), [2024]({% post_url 2024-12-24-reading-list-picks-of-2024 %}), and [2025]({% post_url 2026-01-10-reading-list-picks-of-2025 %})*
