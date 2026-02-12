@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 **London, SE25**  
-[visitmy.website/about](/about/)
+[visitmy.website/about](/about/)  
 [boringmagi.cc/services](https://boringmagi.cc/services){:target="_blank"}
 
 Passionate about innovation for the public good, making complex or tedious things more simple. Specialist in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1 or 1 → n.
@@ -107,10 +107,10 @@ Main duties across product line: customer development, product design, roadmappi
 
 ## Education
 
-**University of Maryland, Modern Product Leadership**
+**University of Maryland, Modern Product Leadership**  
 *Sep 2024*
 
-**Service Design College, Ethics in Design**
+**Service Design College, Ethics in Design**  
 *Oct 2023 - Nov 2023*
 
 **On Deck, Product Fellowship**  
