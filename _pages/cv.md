@@ -7,7 +7,7 @@ permalink: /cv/
 
 **London, SE25**  
 [visitmy.website/about](/about/)
-[boringmagi.cc/services](https://boringmagi.cc/services)
+[boringmagi.cc/services](https://boringmagi.cc/services){:target="_blank"}
 
 Passionate about innovation for the public good, making complex or tedious things more simple. Specialist in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1 or 1 → n.
 
@@ -22,8 +22,8 @@ Making it easier to find, use and trust planning and housing open data in Englan
 - Established and oversaw the strategy and product operating model for a data platform maturing from private to public beta
 - Implemented objectives and key results (OKRs), a performance dashboard, quarterly planning and prioritisation methods, driving data-informed decision-making and resulting in better outcomes
 - Coached and lead product managers, delivery managers, developers and designers
-- Led product inception and strategy for [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/), one of the [Prime Minister’s AI exemplars](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025), in partnership with Incubator for AI
-- Delivered [6x increase](https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/#:~:text=Last%20year%20LPAs%20provided%20around%20200%20datasets%20–%20up%20from%20around%2030%20the%20year%20before.%20That’s%20a%20six%20fold%20leap) in the quantity of open data available from trusted local government sources
+- Led product inception, strategy and alpha for [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/){:target="_blank"} ([read the weeknotes](https://digital-land.github.io/extract-alpha/){:target="_blank"}), one of the [Prime Minister’s AI exemplars](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025){:target="_blank"}, in partnership with Incubator for AI
+- Delivered [6x increase](https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/#:~:text=Last%20year%20LPAs%20provided%20around%20200%20datasets%20–%20up%20from%20around%2030%20the%20year%20before.%20That’s%20a%20six%20fold%20leap){:target="_blank"} in the quantity of open data available from trusted local government sources
 
 ### Government Digital Service, Senior Product Manager (contract)
 *Dec 2022 - Feb 2024*
@@ -31,11 +31,12 @@ Making it easier to find, use and trust planning and housing open data in Englan
 Maternity cover on the GOV.UK Design System.
 
 - Lead strategy design across the service, including a growth strategy to drive greater cost-savings and accelerate UX outcomes
-- Coached the team to enhance iterative delivery, reduce risk-aversion and promote open-working
+- Coached the team to [improve delivery and 2x release cadence](https://boringmagi.cc/case-studies/improving-delivery-for-govuk-design-system/){:target="_blank"}, reduce risk-aversion and promote open-working
+- Delivered [GOV.UK Frontend v5.0.0](https://github.com/alphagov/govuk-frontend/releases/tag/v5.0.0){:target="_blank"} and [new GOV.UK logo](https://github.com/alphagov/govuk-frontend/releases/tag/v5.1.0){:target="_blank"} featuring Tudor crown for King Charles III
 - Worked closely with the delivery manager to iterate ways of working and methodologies
 - Engaged with multiple stakeholders across government to align the needs of organisations across the UK government digital ecosystem
-- Helped co-ordinate and organise a 2-day conference for design and development professionals
-- Organised 3 unconferences for the cross-government product management community
+- Helped co-ordinate and organise [a 2-day conference for design and development professionals](https://design-system.service.gov.uk/community/design-system-day-2023/){:target="_blank"}
+- Organised [3 unconferences for the cross-government product management community](https://productforthepeople.xyz){:target="_blank"}
 
 ### NHS Digital, Senior Product Manager
 *Aug 2022 - Dec 2022*
@@ -106,6 +107,12 @@ Main duties across product line: customer development, product design, roadmappi
 
 ## Education
 
+**University of Maryland, Modern Product Leadership**
+*Sep 2024*
+
+**Service Design College, Ethics in Design**
+*Oct 2023 - Nov 2023*
+
 **On Deck, Product Fellowship**  
 *Jan 2021 - Current*
 
@@ -123,14 +130,3 @@ Main duties across product line: customer development, product design, roadmappi
 
 **Bath Spa University, English Literature & Creative Writing**  
 *Sep 2006 - Jul 2009*
-
-## Skills
-
-<span id="tag">Product Management</span>
-<span id="tag">Strategic Design</span>
-<span id="tag">User-Centred Design</span>
-<span id="tag">Agile and Lean methods</span>
-<span id="tag">Analytics</span>
-<span id="tag">HTML & CSS</span>
-<span id="tag">SQL</span>
-<span id="tag">Open Data</span>
