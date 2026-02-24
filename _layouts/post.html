@@ -17,9 +17,33 @@ layout: default
     {% endfor %}
   </p>
   <p id="webmention-count">
-    {% webmention_count page.url replies %} replies, {% webmention_count page.url reposts %} reposts, {% webmention_count page.url likes %} likes
+    <a href="#webmentions-replies" aria-label="Show replies">{% webmention_count page.url replies %} replies</a>,
+    <a href="#webmentions-reposts" aria-label="Show reposts">{% webmention_count page.url reposts %} reposts</a>,
+    <a href="#webmentions-likes" aria-label="Show likes">{% webmention_count page.url likes %} likes</a>,
+    <a href="#webmentions-links" aria-label="Show links">{% webmention_count page.url links %} links</a>,
+    <a href="#webmentions-posts" aria-label="Show posts">{% webmention_count page.url posts %} posts</a>
   </p>
 </span>
+<div id="webmentions-replies" class="webmentions-detail">
+  <a href="#webmention-count" class="webmentions-detail__close" aria-label="Close replies">Close</a>
+  {% webmention_replies page.url %}
+</div>
+<div id="webmentions-reposts" class="webmentions-detail">
+  <a href="#webmention-count" class="webmentions-detail__close" aria-label="Close reposts">Close</a>
+  {% webmention_reposts page.url %}
+</div>
+<div id="webmentions-likes" class="webmentions-detail">
+  <a href="#webmention-count" class="webmentions-detail__close" aria-label="Close likes">Close</a>
+  {% webmention_likes page.url %}
+</div>
+<div id="webmentions-links" class="webmentions-detail">
+  <a href="#webmention-count" class="webmentions-detail__close" aria-label="Close links">Close</a>
+  {% webmention_links page.url %}
+</div>
+<div id="webmentions-posts" class="webmentions-detail">
+  <a href="#webmention-count" class="webmentions-detail__close" aria-label="Close posts">Close</a>
+  {% webmention_posts page.url %}
+</div>
 </section>
 
 <script type="application/ld+json">

@@ -200,6 +200,19 @@ strong, b {
 	opacity: 0.8;
 }
 
+.webmentions-detail {
+	display: none;
+}
+
+.webmentions-detail:target {
+	display: block;
+}
+
+.webmentions-detail__close {
+	display: block;
+	margin-bottom: 0.5rem;
+}
+
 main {
 	flex-basis: 0;
 	flex-grow: 999;
