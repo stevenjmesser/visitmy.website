@@ -7,16 +7,16 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
-    <li>watching <i>The Walking Dead</i>, having shaken off a phobia of zombies</li>
-    <li>trying to find joy in life outside work</li>
-    <li>learning about electric cars</li>
-    <li>training for a half-marathon in December</li>
+    <li>doing some discovery and prototyping with a new client</li>
+    <li>re-watching <i>Games of Thrones</i></li>
+    <li>finding joy in life outside work through cooking</li>
+    <li>training for a marathon in April</li>
+    <li>learning Welsh again</li>
   </ul>
 </p>
 
 <p>Later I’d like to
   <ul>
-    <li>pick up where I left off learning Welsh</li>
     <li>walk the Llŷn Peninsula section of the Wales Coast Path</li>
   </ul>
 </p>
