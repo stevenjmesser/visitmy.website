@@ -7,7 +7,7 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on product strategy and leadership at MHCLG (through <a href="https://boringmagi.cc" target="_blank">Boring Magic</a>), making land and housing data easier to find, use and trust</li>
-    <li>doing some discovery and prototyping with a new client</li>
+    <li>doing some discovery and prototyping in Sport England’s Data & AI Lab</li>
     <li>re-watching <i>Games of Thrones</i></li>
     <li>finding joy in life outside work through cooking</li>
     <li>training for a marathon in April</li>

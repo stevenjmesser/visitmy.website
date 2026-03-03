@@ -41,7 +41,7 @@ Now I’m turning our Post-it notes into a clear spreadsheet with narrative, so 
 
 ## New client!
 
-Super happy to have started working with a new client part-time (for 4–8 weeks) today. We’re doing some [discovery and prototyping](https://boringmagi.cc/services/discovery-and-prototyping/){:target="_blank"} aiming to solve operational bottlenecks rapidly with [digital ways of working](https://public.digital/about-pd/our-definition-of-digital){:target="_blank"}. There’s a slant on better use of data and exploring where to make use of AI, using co-design methods to involve staff in the feedback loop.
+Super happy to have started working with a new client part-time (for 4 weeks) today. I’m doing some [discovery and prototyping](https://boringmagi.cc/services/discovery-and-prototyping/){:target="_blank"} in Sport England’s Data & AI Lab, aiming to solve operational bottlenecks rapidly with [digital ways of working](https://public.digital/about-pd/our-definition-of-digital){:target="_blank"}. There’s a slant on better use of data and exploring where to make use of AI, using co-design methods to involve staff in the feedback loop.
 
 Today was all about gathering context and getting up to speed with the rest of the team. We’re in discovery mode this week and have had a couple of fruitful conversations already. 
 
