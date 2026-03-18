@@ -22,7 +22,7 @@ Alongside this I [established the team’s agile cadences and product foundation
 
 I also created the team’s [handbook](https://handbook.planning.data.gov.uk/){:target="_blank"}, documenting how the service is organised, how it works, its product operating model, and the principles that underpin the work. 
 
-This groundwork produced measurable results. The number of local planning authorities providing data more than doubled in the first year and continued growing at the same rate through 2025 — as did the total number of datasets on the platform, which grew roughly sixfold over the same period.
+This groundwork produced measurable results. The number of local planning authorities providing data more than doubled in the first year and continued growing at the same rate through 2025 – as did the total number of datasets on the platform, which grew roughly sixfold over the same period.
 
 [Working in the open](https://handbook.planning.data.gov.uk/how-we-work/working-in-the-open/){:target="_blank"} was central to the culture I helped build: [public weeknotes](https://digital-land.github.io/extract-alpha/weeknotes/){:target="_blank"}, [regular blogging](https://mhclgdigital.blog.gov.uk/category/digital-planning/), and [community drop-ins](https://design.planning.data.gov.uk/project/planning-applications){:target="_blank"} created a trail of evidence that proved its worth when the service came under governance scrutiny as a Government Major Project.
 
