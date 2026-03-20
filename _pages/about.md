@@ -34,3 +34,4 @@ You’ll mostly hear me yabbering on about: product management, user-centred des
 - [The benefits of open planning data for local planning authorities](https://youtu.be/8TaVbZ-QF2g?t=2363){:target="_blank"}
 - [Extract: Using AI to unlock historic planning data](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/){:target="_blank"}
 - [AI Leaders panel: how artificial intelligence impacts digital professions](https://boringmagi.cc/2026/02/04/recap-of-the-ai-leaders-panel/){:target="_blank"}
+- [What is working in the open? Why do it? and how to get started](https://www.youtube.com/watch?v=5R_f7IK_6Fs){:target="_blank"}
