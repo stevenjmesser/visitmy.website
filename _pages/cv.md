@@ -14,16 +14,15 @@ Passionate about innovation for the public good, making complex or tedious thing
 ## Work experience
 
 ### Ministry of Housing, Communities and Local Government, Strategic Product Lead (contract)
-*Mar 2024 - Current*
+*Mar 2024 - Apr 2026*
 
-Making it easier to find, use and trust planning and housing open data in England. A Major Government Project at the heart of reforming the planning system to build more houses and grow the economy. Contracting through my product consultancy, Boring Magic.
+Led product strategy for a Major Government Project at the heart of England’s housing mission – [scaling the team, the platform](https://boringmagi.cc/case-studies/establishing-foundations-and-scaling-planning-data-gov-uk/){:target="_blank"}, and [founding an AI product](https://boringmagi.cc/case-studies/leading-ai-product-innovation-on-planning-data-gov-uk/){:target="_blank"} that the Prime Minister launched at London Tech Week. Contracted through my product consultancy, Boring Magic.
 
-- Worked with service owner and other stakeholders to design and implement strategies to achieve the platform's vision
-- Established and oversaw the strategy and product operating model for a data platform maturing from private to public beta
-- Implemented objectives and key results (OKRs), a performance dashboard, quarterly planning and prioritisation methods, driving data-informed decision-making and resulting in better outcomes
-- Coached and lead product managers, delivery managers, developers and designers
-- Led product inception, strategy and alpha for [Extract](https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/){:target="_blank"} ([read the weeknotes](https://digital-land.github.io/extract-alpha/){:target="_blank"}), one of the [Prime Minister’s AI exemplars](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025){:target="_blank"}, in partnership with Incubator for AI
-- Delivered [6x increase](https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/#:~:text=Last%20year%20LPAs%20provided%20around%20200%20datasets%20–%20up%20from%20around%2030%20the%20year%20before.%20That’s%20a%20six%20fold%20leap){:target="_blank"} in the quantity of open data available from trusted local government sources
+- Grew the platform from 18 to over 170 local planning authorities publishing data, scaled datasets sixfold to 400+, and quadrupled traffic to 1.2 million weekly visitors
+- Conceived and led Extract – an AI tool reducing planning document conversion from 1–2 hours to under 15 minutes – from initial pitch through alpha; launched by the Prime Minister at London Tech Week as one of his AI Exemplars
+- Restructured two generalist teams into three specialised teams of ~40 people, and established the operating model, OKR framework, and team handbook that gave a growing distributed team the conditions to do its best work
+- Co-developed an economic model and Theory of Change showing the platform’s value across the ecosystem, supporting Spending Review business cases and backed by external research projecting £72bn in PropTech sector growth
+- Established working-in-the-open practices that provided the governance evidence needed to navigate scrutiny as a Government Major Project
 
 ### Government Digital Service, Senior Product Manager (contract)
 *Dec 2022 - Feb 2024*
