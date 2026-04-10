@@ -13,8 +13,6 @@ tags:
  - Weeknotes
 ---
 
-IMG_7122.jpg
-
 Last week was my penultimate week on planning.data.gov.uk, meaning there were a bunch of loose ends tied up. But there were a couple of really valuable moments too, and one that was especially heartwarming. 
 
 Also had a lovely chat with PSD over tea beside the Thames on Wednesday evening, the warm sun reflecting off the water. Need to get a regular catch-up in the diary, I’m going to miss being able to hang out with the man so often!
