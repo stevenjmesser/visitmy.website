@@ -6,7 +6,6 @@ permalink: /now/
 
 <p>Right now I’m
   <ul>
-    <li>doing some discovery and prototyping in Sport England’s Data & AI Lab</li>
     <li>re-watching <i>Games of Thrones</i></li>
     <li>pulling together a side project on writing and connection</li>
     <li>finding joy in life outside work through cooking</li>
