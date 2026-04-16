@@ -22,6 +22,8 @@ A few weeks ago [I tried playing with OpenClaw]({% post_url 2026-02-17-the-cat-d
 
 Setting up Goose and getting it connected to LM Studio was super easy, thanks to [native support for LM Studio](https://goose-docs.ai/docs/getting-started/providers/#local-llms){:target="_blank"}. This is made possible through OpenAI’s AI server API standard – another win for standards.
 
+If you don’t use LM Studio, it’s no bother. Goose will check which model can run on your machine, download it and install it via [Ollama](https://ollama.com){:target="_blank"}.
+
 Goose has a bunch of in-built [extensions](https://goose-docs.ai/docs/getting-started/using-extensions){:target="_blank"} that bring agent capabilities. Stuff like general development tools that are useful for software development, tools for webscraping, file caching, and automations, to-do lists and sub-agents. 
 
 ## Adding more tools and data
@@ -41,6 +43,8 @@ Markdown and standard config files make all of this so easy to implement too. Co
 In the early 2010s, SaaS products with extensible APIs were exciting. Then everyone removed or limited their APIs, everyone stuck their prices up, and you had to be picky about which things you subscribed to.
 
 It’s the same with AI subscriptions now. I know some people have two or three, but it’s possible to have none if you run everything locally. 
+
+And those [Claude outages and error rates happening almost daily](https://news.ycombinator.com/item?id=47779730){:target="_blank"}? A problem totally avoided if everything’s on your computer.
 
 It’s kind of exciting. We’re in a place where it’s easy enough for relatively technical people to build their own [boring tiny tools](https://vaughntan.org/boringtinytools/){:target="_blank"}. For free. 
 
