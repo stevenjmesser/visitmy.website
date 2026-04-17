@@ -477,6 +477,17 @@ figcaption {
     }
   }
 
+  .schedule-select {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 1rem 0;
+
+    @media screen and (max-width: 42rem) {
+      grid-template-columns: 1fr;
+    }
+  }
+
   .charger-option {
     padding: 1rem;
     border: 1px solid rgb(22, 23, 26);
@@ -504,6 +515,63 @@ figcaption {
       font-size: 0.9rem;
       opacity: 0.8;
     }
+  }
+
+  .schedule-option {
+    display: block;
+    position: relative;
+    padding: 1rem;
+    border: 1px solid rgb(22, 23, 26);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: #fff;
+
+    input {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    &:hover {
+      background: rgb(22, 23, 26);
+      color: #fff;
+    }
+
+    &.selected {
+      background: rgb(22, 23, 26);
+      color: #fff;
+    }
+
+    .schedule-title {
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+
+    .schedule-copy {
+      font-size: 0.95rem;
+      opacity: 0.8;
+      line-height: 1.4;
+    }
+  }
+
+  .finish-by-group.hidden {
+    display: none;
+  }
+
+  .datetime-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid rgb(22, 23, 26);
+    background: #fff;
+    color: rgb(22, 23, 26);
+    font: inherit;
+    box-sizing: border-box;
+  }
+
+  .input-help {
+    margin: 0.5rem 0 0;
+    font-size: 0.95rem;
+    opacity: 0.8;
   }
 
   .calculate-btn {
@@ -555,6 +623,15 @@ figcaption {
 
       p {
         margin: 0.2rem 0;
+      }
+
+      .schedule-note,
+      .schedule-warning {
+        padding-top: 0.3rem;
+      }
+
+      .schedule-warning {
+        font-weight: 600;
       }
     }
   }
