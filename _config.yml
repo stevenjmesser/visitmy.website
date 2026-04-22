@@ -57,6 +57,9 @@ ai_related_posts:
 
 markdown: kramdown
 
+search:
+  index_url: /search.json
+
 defaults:
   -
     scope:
