@@ -11,7 +11,7 @@ I’m passionate about innovation for the public good and open, ethical product 
 
 Right now I’m working on making land and housing data easier to find, use and trust at the Ministry of Housing, Communities and Local Government on the [Digital Land team](https://digital-land.github.io/about/){:target="_blank"}. I’m also running the [Product for the People](https://productforthepeople.xyz){:target="_blank"} community with Matt Jukes and Debbie Blanchard. There’s more about my work experience in my [portfolio]({{ "/work" | relative_url }}).
 
-I used to teach product management at [General Assembly](https://generalassemb.ly/instructors/steve-messer/19440){:target="_blank"}, but you can [hire me](https://boringmagi.cc/services){:target="_blank"} to train your product people directly.
+I used to teach product management at [General Assembly](https://generalassemb.ly/instructors/steve-messer/19440){:target="_blank"}, and you can [hire me](https://boringmagi.cc/services){:target="_blank"} to train your product people directly.
 
 You’ll mostly hear me yabbering on about: product management, user-centred design, leading agile teams, design, data, sustainability, food, ancient history, human culture, and the technology-augmented anthropecene. Here’s [what I’m doing now]({{ "/now" | relative_url }}).
 
