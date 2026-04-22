@@ -58,6 +58,7 @@ ai_related_posts:
 markdown: kramdown
 
 search:
+  # Cloud-hosted search index URL; override in environment-specific config if needed.
   index_url: https://visitmy.website/search.json
 
 defaults:
