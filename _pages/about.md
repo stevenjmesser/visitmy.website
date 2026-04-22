@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello, I’m Steve. I grew up in the Black Country where there used to be lots of factories and lots of smoke, the heart of the Industrial Revolution, where [people talk different](https://www.youtube.com/watch?v=-Mt80vikTxU){:target="_blank"}. Nowadays I live in London.
 
-For the day job, I’m a digital product & design person, and I run a company called [Boring Magic](https://boringmagi.cc/){:target="_blank"}. My main skill is product management, but I studied Creative Writing at university, which brings creative techniques to my craft.
+For the day job, I’m somewhere between a product manager, service designer and strategist., and I run a company called [Boring Magic](https://boringmagi.cc/){:target="_blank"}. My main skill is product management, but I studied Creative Writing at university, which brings creative techniques to my craft.
 
 I’m passionate about innovation for the public good and open, ethical product design, thinking about how we can make public services more frictionless and better for people. My work focuses on pragmatic applications of technology that meet people’s expectations, making complex or tedious things more simple, and co-creating markets and value that shape a different future.
 
