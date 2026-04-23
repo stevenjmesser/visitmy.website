@@ -5,16 +5,21 @@ document.addEventListener('DOMContentLoaded', function() {
   const targetCharge = document.getElementById('targetCharge');
   const startValue = document.getElementById('startValue');
   const targetValue = document.getElementById('targetValue');
+  const finishByInput = document.getElementById('finishBy');
+  const finishByGroup = document.getElementById('finishByGroup');
+  const scheduleInputs = document.querySelectorAll('input[name="scheduleMode"]');
 
   if (startCharge && targetCharge && startValue && targetValue) {
     startCharge.addEventListener('input', function() {
       startValue.textContent = this.value + '%';
       validateChargeRange();
+      calculateChargingTime();
     });
 
     targetCharge.addEventListener('input', function() {
       targetValue.textContent = this.value + '%';
       validateChargeRange();
+      calculateChargingTime();
     });
 
     function validateChargeRange() {
@@ -32,72 +37,130 @@ document.addEventListener('DOMContentLoaded', function() {
       option.addEventListener('click', function() {
         document.querySelectorAll('.charger-option').forEach(opt => opt.classList.remove('selected'));
         this.classList.add('selected');
+        calculateChargingTime();
       });
     });
+
+    scheduleInputs.forEach(input => {
+      input.addEventListener('change', function() {
+        updateScheduleMode();
+        calculateChargingTime();
+      });
+    });
+
+    if (finishByInput) {
+      setFinishByMinimum();
+      finishByInput.addEventListener('input', calculateChargingTime);
+      finishByInput.addEventListener('focus', setFinishByMinimum);
+    }
+
+    updateScheduleMode();
 
     // Initialize with default calculation
     calculateChargingTime();
   }
+
+  function updateScheduleMode() {
+    if (!finishByGroup || !finishByInput) {
+      return;
+    }
+
+    const mode = getScheduleMode();
+    const isFinishMode = mode === 'finish';
+
+    finishByGroup.classList.toggle('hidden', !isFinishMode);
+    finishByInput.disabled = !isFinishMode;
+
+    if (isFinishMode) {
+      setFinishByMinimum();
+    }
+
+    document.querySelectorAll('.schedule-option').forEach(option => {
+      const optionInput = option.querySelector('input[name="scheduleMode"]');
+      option.classList.toggle('selected', optionInput && optionInput.checked);
+    });
+  }
 });
 
 function calculateChargingTime() {
-  const startSoC = parseInt(document.getElementById('startCharge').value);
-  const targetSoC = parseInt(document.getElementById('targetCharge').value);
-  const chargerType = document.querySelector('.charger-option.selected').dataset.charger;
-  
-  // Calculate percentage increase
+  const startCharge = document.getElementById('startCharge');
+  const targetCharge = document.getElementById('targetCharge');
+  const selectedCharger = document.querySelector('.charger-option.selected');
+  const timeDisplay = document.getElementById('timeDisplay');
+  const energyInfo = document.getElementById('energyInfo');
+  const chargingDetails = document.getElementById('chargingDetails');
+  const result = document.getElementById('result');
+
+  if (!startCharge || !targetCharge || !selectedCharger || !timeDisplay || !energyInfo || !chargingDetails || !result) {
+    return;
+  }
+
+  const estimate = getChargingEstimate(
+    parseInt(startCharge.value, 10),
+    parseInt(targetCharge.value, 10),
+    selectedCharger.dataset.charger
+  );
+
+  const schedule = getScheduleDetails(estimate.chargingTime);
+
+  timeDisplay.textContent = formatDuration(estimate.chargingTime);
+  energyInfo.textContent = `Adding ${estimate.energyAdded.toFixed(1)} kWh using ${estimate.chargerName}`;
+
+  chargingDetails.innerHTML = [
+    schedule.primaryLine,
+    schedule.secondaryLine,
+    `<p><strong>Range added:</strong> ~${Math.round(estimate.rangeAdded)} miles</p>`,
+    `<p><strong>Average charging power:</strong> ${estimate.avgPower.toFixed(1)} kW</p>`,
+    `<p><strong>Energy from wall:</strong> ${estimate.energyFromWall.toFixed(1)} kWh</p>`
+  ].filter(Boolean).join('');
+
+  result.classList.remove('hidden');
+}
+
+function getChargingEstimate(startSoC, targetSoC, chargerType) {
   const percentageIncrease = targetSoC - startSoC;
-  
-  let chargingTime, chargerName, avgPower, energyFromWall;
-  
+  const energyAdded = percentageIncrease * 39 / 100;
+
+  let chargingTime;
+  let chargerName;
+  let avgPower;
+  let energyFromWall;
+
   if (chargerType === 'slow') {
     chargerName = 'UK 3-Pin Plug';
-    
-    // Empirical formula based on real user data:
-    // 77% increase (17% to 94%) = 12 hours
-    // This gives us: time = percentage_increase × (12/77) × adjustment_factor
-    
-    // Base rate: 12 hours for 77% = 0.156 hours per percent
-    let baseRateHoursPerPercent = 12 / 77; // 0.156 hours per %
-    
-    // Apply charging curve adjustments
+
+    let baseRateHoursPerPercent = 12 / 77;
     let adjustedTime = 0;
+
     for (let i = 0; i < percentageIncrease; i++) {
       const currentSoC = startSoC + i;
       let timeForThisPercent = baseRateHoursPerPercent;
-      
-      // Minimal adjustments based on charging curve
+
       if (currentSoC < 10) {
-        timeForThisPercent *= 1.15; // Slightly slower at very low SoC
+        timeForThisPercent *= 1.15;
       } else if (currentSoC >= 90) {
-        timeForThisPercent *= 1.4; // Slower above 90%
+        timeForThisPercent *= 1.4;
       } else if (currentSoC >= 85) {
-        timeForThisPercent *= 1.2; // Starts to slow above 85%
+        timeForThisPercent *= 1.2;
       }
-      // 10% to 85% uses base rate (where your data sits)
-      
+
       adjustedTime += timeForThisPercent;
     }
-    
+
     chargingTime = adjustedTime;
-    avgPower = (percentageIncrease * 39 / 100) / chargingTime; // kW to battery
-    energyFromWall = chargingTime * 2.3; // Assuming full 2.3kW draw
-    
+    avgPower = energyAdded / chargingTime;
+    energyFromWall = chargingTime * 2.3;
   } else {
     chargerName = 'Type 2 Charger';
-    
-    // For 6.6kW charger, scale based on power ratio and efficiency
-    // Assume 6.6kW is about 2.87x faster than 2.3kW with better efficiency
-    let slowChargerTime = (percentageIncrease * 12 / 77);
-    
-    // Apply same curve adjustments
+
+    let slowChargerTime = percentageIncrease * 12 / 77;
     let adjustedTime = 0;
     let baseRateHoursPerPercent = slowChargerTime / percentageIncrease;
-    
+
     for (let i = 0; i < percentageIncrease; i++) {
       const currentSoC = startSoC + i;
       let timeForThisPercent = baseRateHoursPerPercent;
-      
+
       if (currentSoC < 10) {
         timeForThisPercent *= 1.1;
       } else if (currentSoC >= 90) {
@@ -105,50 +168,132 @@ function calculateChargingTime() {
       } else if (currentSoC >= 85) {
         timeForThisPercent *= 1.15;
       }
-      
+
       adjustedTime += timeForThisPercent;
     }
-    
-    // 6.6kW is 2.87x more powerful, with better efficiency
-    chargingTime = adjustedTime / 2.87 * 0.95; // Small penalty for curve differences
-    avgPower = (percentageIncrease * 39 / 100) / chargingTime;
-    energyFromWall = chargingTime * 6.6 * 0.90; // 90% efficiency for L2
+
+    chargingTime = adjustedTime / 2.87 * 0.95;
+    avgPower = energyAdded / chargingTime;
+    energyFromWall = chargingTime * 6.6 * 0.90;
   }
-  
-  // Display results
-  const hours = Math.floor(chargingTime);
-  const minutes = Math.round((chargingTime - hours) * 60);
-  
-  let timeString;
-  if (hours === 0) {
-    timeString = `${minutes} minutes`;
-  } else if (minutes === 0) {
-    timeString = `${hours} hour${hours > 1 ? 's' : ''}`;
-  } else {
-    timeString = `${hours}h ${minutes}m`;
-  }
-  
-  document.getElementById('timeDisplay').textContent = timeString;
-  document.getElementById('energyInfo').textContent = 
-    `Adding ${(percentageIncrease * 39 / 100).toFixed(1)} kWh using ${chargerName}`;
-  
-  // Calculate completion time
+
+  return {
+    chargingTime,
+    chargerName,
+    avgPower,
+    energyAdded,
+    energyFromWall,
+    rangeAdded: percentageIncrease / 100 * 148
+  };
+}
+
+function getScheduleDetails(chargingTime) {
+  const mode = getScheduleMode();
   const now = new Date();
+
+  if (mode === 'finish') {
+    const finishByInput = document.getElementById('finishBy');
+    const finishTime = finishByInput ? parseLocalDateTime(finishByInput.value) : null;
+
+    if (!finishTime) {
+      return {
+        primaryLine: '<p><strong>Target finish time:</strong> Choose a date and time to calculate when to start charging.</p>',
+        secondaryLine: '<p class="schedule-note">The calculator will work backwards from your chosen finish time.</p>'
+      };
+    }
+
+    const recommendedStartTime = new Date(finishTime.getTime() - chargingTime * 60 * 60 * 1000);
+    const isPastStartTime = recommendedStartTime.getTime() < now.getTime();
+
+    if (finishTime.getTime() <= now.getTime()) {
+      return {
+        primaryLine: `<p><strong>Target finish time:</strong> ${formatDateTime(finishTime)}</p>`,
+        secondaryLine: '<p class="schedule-warning"><strong>This finish time is in the past.</strong> Choose a future date and time.</p>'
+      };
+    }
+
+    if (isPastStartTime) {
+      return {
+        primaryLine: `<p><strong>Target finish time:</strong> ${formatDateTime(finishTime)}</p>`,
+        secondaryLine: `<p class="schedule-warning"><strong>You would need to have started charging by:</strong> ${formatDateTime(recommendedStartTime)}</p>`
+      };
+    }
+
+    return {
+      primaryLine: `<p><strong>Start charging by:</strong> ${formatDateTime(recommendedStartTime)}</p>`,
+      secondaryLine: `<p><strong>Target finish time:</strong> ${formatDateTime(finishTime)}</p>`
+    };
+  }
+
   const completionTime = new Date(now.getTime() + chargingTime * 60 * 60 * 1000);
-  const timeStr = completionTime.toLocaleTimeString('en-GB', { 
-    hour: '2-digit', 
-    minute: '2-digit' 
+
+  return {
+    primaryLine: `<p><strong>Charging will complete around:</strong> ${formatDateTime(completionTime)}</p>`,
+    secondaryLine: ''
+  };
+}
+
+function getScheduleMode() {
+  const selectedMode = document.querySelector('input[name="scheduleMode"]:checked');
+  return selectedMode ? selectedMode.value : 'now';
+}
+
+function formatDuration(chargingTime) {
+  const totalMinutes = Math.round(chargingTime * 60);
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+
+  if (hours === 0) {
+    return `${minutes} minutes`;
+  }
+
+  if (minutes === 0) {
+    return `${hours} hour${hours > 1 ? 's' : ''}`;
+  }
+
+  return `${hours}h ${minutes}m`;
+}
+
+function formatDateTime(date) {
+  return date.toLocaleString('en-GB', {
+    weekday: 'short',
+    day: 'numeric',
+    month: 'short',
+    hour: '2-digit',
+    minute: '2-digit'
   });
-  
-  // Additional details
-  const rangeAdded = percentageIncrease / 100 * 148; // miles
-  
-  document.getElementById('chargingDetails').innerHTML = `
-    <p><strong>Charging will complete around:</strong> ${timeStr}</p>
-    <p><strong>Range added:</strong> ~${Math.round(rangeAdded)} miles</p>
-    <p><strong>Average charging power:</strong> ${avgPower.toFixed(1)} kW</p>
-    <p><strong>Energy from wall:</strong> ${energyFromWall.toFixed(1)} kWh</p>
-  `;
-  
-  document.getElementById('result').classList.remove('hidden');
+}
+
+function parseLocalDateTime(value) {
+  if (!value) {
+    return null;
+  }
+
+  const parts = value.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})$/);
+
+  if (!parts) {
+    return null;
+  }
+
+  const [, year, month, day, hour, minute] = parts;
+  return new Date(
+    Number(year),
+    Number(month) - 1,
+    Number(day),
+    Number(hour),
+    Number(minute)
+  );
+}
+
+function setFinishByMinimum() {
+  const finishByInput = document.getElementById('finishBy');
+
+  if (!finishByInput) {
+    return;
+  }
+
+  const now = new Date();
+  const offset = now.getTimezoneOffset();
+  const localNow = new Date(now.getTime() - offset * 60 * 1000);
+  finishByInput.min = localNow.toISOString().slice(0, 16);
 }

@@ -46,6 +46,28 @@ Calculate charging time for your Nissan Leaf 40kWh
     </div>
   </div>
 
+  <div class="input-group">
+    <label>Scheduling</label>
+    <div class="schedule-select" role="radiogroup" aria-label="Charging schedule">
+      <label class="schedule-option selected" for="scheduleNow">
+        <input type="radio" id="scheduleNow" name="scheduleMode" value="now" checked>
+        <div class="schedule-title">Start charging now</div>
+        <div class="schedule-copy">Estimate when charging is likely to finish.</div>
+      </label>
+      <label class="schedule-option" for="scheduleFinish">
+        <input type="radio" id="scheduleFinish" name="scheduleMode" value="finish">
+        <div class="schedule-title">Finish by a chosen date and time</div>
+        <div class="schedule-copy">Work backwards to find the best time to start charging.</div>
+      </label>
+    </div>
+  </div>
+
+  <div class="input-group finish-by-group hidden" id="finishByGroup">
+    <label for="finishBy">Target finish date and time</label>
+    <input type="datetime-local" id="finishBy" class="datetime-input">
+    <p class="input-help">Choose when you would like the car to reach your target charge level.</p>
+  </div>
+
   <button class="calculate-btn" onclick="calculateChargingTime()">
     Calculate Charging Time
   </button>

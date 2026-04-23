@@ -5,13 +5,13 @@ permalink: /about/
 ---
 Hello, I’m Steve. I grew up in the Black Country where there used to be lots of factories and lots of smoke, the heart of the Industrial Revolution, where [people talk different](https://www.youtube.com/watch?v=-Mt80vikTxU){:target="_blank"}. Nowadays I live in London.
 
-For the day job, I’m a digital product & design person, and I run a company called [Boring Magic](https://boringmagi.cc/){:target="_blank"}. My main skill is product management, but I studied Creative Writing at university, which brings creative techniques to my craft.
+For the day job, I’m somewhere between a product manager, service designer and strategist., and I run a company called [Boring Magic](https://boringmagi.cc/){:target="_blank"}. My main skill is product management, but I studied Creative Writing at university, which brings creative techniques to my craft.
 
 I’m passionate about innovation for the public good and open, ethical product design, thinking about how we can make public services more frictionless and better for people. My work focuses on pragmatic applications of technology that meet people’s expectations, making complex or tedious things more simple, and co-creating markets and value that shape a different future.
 
-Right now I’m working on making land and housing data easier to find, use and trust at the Ministry of Housing, Communities and Local Government on the [Digital Land team](https://digital-land.github.io/about/){:target="_blank"}. I’m also running the [Product for the People](https://productforthepeople.xyz){:target="_blank"} community with Matt Jukes and Debbie Blanchard. There’s more about my work experience in my [portfolio]({{ "/work" | relative_url }}).
+Right now I’m between contracts, and you can find out what I’ve been up to recently by reading the [Boring Magic case studies](https://boringmagi.cc/case-studies){:target="_blank"}. I’m also running the [Product for the People](https://productforthepeople.xyz){:target="_blank"} community with Matt Jukes and Debbie Blanchard. There’s more about my work experience in my [portfolio]({{ "/work" | relative_url }}).
 
-I used to teach product management at [General Assembly](https://generalassemb.ly/instructors/steve-messer/19440){:target="_blank"}, but you can [hire me](https://boringmagi.cc/services){:target="_blank"} to train your product people directly.
+I used to teach product management at [General Assembly](https://generalassemb.ly/instructors/steve-messer/19440){:target="_blank"}, and you can [hire me](https://boringmagi.cc/services){:target="_blank"} to train your product people directly.
 
 You’ll mostly hear me yabbering on about: product management, user-centred design, leading agile teams, design, data, sustainability, food, ancient history, human culture, and the technology-augmented anthropecene. Here’s [what I’m doing now]({{ "/now" | relative_url }}).
 
