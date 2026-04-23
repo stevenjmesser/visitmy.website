@@ -8,5 +8,5 @@ task :build do
 end
 
 task :webmention do
-    system("npx webmention https://visitmy.website/feed.xml --send")
+    system("bundle exec ruby -rjekyll-webmention_io -S jekyll webmention")
 end
