@@ -17,6 +17,7 @@ highlighter: none
 exclude:
   - .jekyll-cache
   - .ai_related_posts_cache.sqlite3-journal
+  - .ai_related_posts_cache.sqlite3
   
 compress_html:
   clippings: all
