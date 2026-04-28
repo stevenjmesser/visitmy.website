@@ -33,6 +33,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll_ai_related_posts
   - jekyll-webmention_io
+  - jekyll-aeo
 
 collections:
   pages:
