@@ -6,7 +6,7 @@ permalink: /now/
 
 <p>Right now I’m
   <ul>
-    <li>working on keeping people healther for longer and finding hidden problems early through the NHS App</li>
+    <li>working on keeping people healthier for longer and finding hidden problems early through the NHS App</li>
     <li>re-watching <i>Games of Thrones</i></li>
     <li>pulling together a side project on writing and connection</li>
     <li>finding joy in life outside work through cooking</li>
