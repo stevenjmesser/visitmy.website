@@ -104,4 +104,4 @@ This cold put shot to any activity the last few days, so I’m hoping to get bac
 
 ## Footnotes
 
-[^1]: A tiny inconsistency here. Previously I’ve spelled this ‘provoc-otype’ – from the adjective, ‘provocative’ – but here I’ve leaned into the verb, ‘provoke’. The former is likely more correct but possibly less recognisable. A portmanteau that’s not recognisably so just sounds like a mistake. Hmm.
+[^1]: A tiny inconsistency here. Previously I’ve spelled this ‘[provoc-otype]({% post_url 2025-11-02-the-building-up-of-steam %}#:~:text=it%20as%20a-,provoc%2Dotype,-.%20The%20responses%20it’ll)’ – from the adjective, ‘provocative’ – but here I’ve leaned into the verb, ‘provoke’. The former is likely more correct but possibly less recognisable. A portmanteau that’s not recognisably so just sounds like a mistake. Hmm.
