@@ -22,7 +22,7 @@ Haven’t written a weeknote in almost a month, but a lot has been going on. A q
 - Refined the alpha assumptions into a clearer cycle of hypotheses, assumptions and experiments so the highest risks come first.
 - Held the first team retrospective to reflect on the first two weeks of alpha planning and improve how we collaborate.
 - Confirmed the first alpha partnerships with two teams, based on [Ralph’s relationshipping](https://ralphhawkins.co.uk/posts/weeknotes/2026-07-11-dance-yrself-clean/?from=home){:target="_blank"}.
-- Shared an early [prototype from Frankie](https://frankieroberto.github.io/nhsnotes/posts/week-100-mixed-messages/){:target="_blank"} with one partner team, gathering positive feedback plus refinements around trauma-informed notifications.
+- Shared an early [prototype from Frankie](https://design-history.prevention-services.nhs.uk/managing-my-health/2026/07/enhanced-test-results-sketch/){:target="_blank"} with one partner team, gathering positive feedback plus refinements around trauma-informed notifications.
 - Held the first clinical governance session and set up a regular clinical review.
 - Explored the tech and data landscape with NHS England colleagues, mapping the PSA data flow end to end.
 - Continued building relationships across GPIT, the NHS App team, and prevention services.
