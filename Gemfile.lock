@@ -1,6 +1,24 @@
+GIT
+  remote: https://github.com/stevenjmesser/jekyll_ai_related_posts.git
+  revision: dfe85628211fdb47ece10bfc4f14a85cdb240fc7
+  specs:
+    jekyll_ai_related_posts (0.1.5)
+      activerecord (~> 7.0)
+      faraday (~> 2.9)
+      jekyll (>= 3.0)
+      sqlite-vss (~> 0.1.2)
+      sqlite3 (~> 1.4)
+      zeitwerk (~> 2.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
+    activemodel (7.2.3.1)
+      activesupport (= 7.2.3.1)
+    activerecord (7.2.3.1)
+      activemodel (= 7.2.3.1)
+      activesupport (= 7.2.3.1)
+      timeout (>= 0.4.0)
     activesupport (7.2.3.1)
       base64
       benchmark (>= 0.3)
@@ -29,6 +47,12 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     execjs (2.10.0)
+    faraday (2.14.3)
+      faraday-net_http (>= 2.0, < 3.5)
+      json
+      logger
+    faraday-net_http (3.4.4)
+      net-http (~> 0.5)
     ffi (1.17.4-arm64-darwin)
     ffi (1.17.4-x86_64-linux-gnu)
     ffi-compiler (1.3.2)
@@ -118,6 +142,8 @@ GEM
     mercenary (0.4.0)
     minitest (5.27.0)
     multi_json (1.15.0)
+    net-http (0.9.1)
+      uri (>= 0.11.1)
     nokogiri (1.19.4-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.19.4-x86_64-linux-gnu)
@@ -141,18 +167,25 @@ GEM
     sass-embedded (1.102.0-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     securerandom (0.4.1)
+    sqlite-vss (0.1.2-arm64-darwin)
+    sqlite-vss (0.1.2-x86_64-linux)
+    sqlite3 (1.7.3-arm64-darwin)
+    sqlite3 (1.7.3-x86_64-linux)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
+    timeout (0.6.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     uglifier (4.2.1)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.6.0)
+    uri (1.1.1)
     webmention (7.0.0)
       http (~> 5.0)
       indieweb-endpoints (~> 8.0)
       nokogiri (>= 1.13)
     webrick (1.9.2)
+    zeitwerk (2.8.2)
 
 PLATFORMS
   arm64-darwin-23
@@ -168,6 +201,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-webmention_io
+  jekyll_ai_related_posts!
 
 BUNDLED WITH
    2.6.3

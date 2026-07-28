@@ -16,6 +16,8 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
+  - .ai_related_posts_cache.sqlite3-journal
+  - .ai_related_posts_cache.sqlite3
   
 compress_html:
   clippings: all
@@ -29,6 +31,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll_ai_related_posts
   - jekyll-webmention_io
   - jekyll-aeo
 
@@ -48,6 +51,14 @@ webmentions:
     last_month: monthly
     last_year: monthly
     older: every 3 months
+
+ai_related_posts:
+  embedding_model: text-embedding-granite-embedding-278m-multilingual
+  summary_model: google/gemma-3-4b
+  lm_studio_url: http://127.0.0.1:1234
+  embedding_dimensions: 768
+  summary_enabled: true
+  summary_max_chars: 5000
 
 markdown: kramdown
 
