@@ -3,9 +3,10 @@ layout: post
 title: "The Ancient Farm"
 sub-title: "Weeknotes S22E09"
 date: 2026-07-30T20:28:07+01:00
+modified_date: 2026-08-04T11:37:50+01:00
 description: "Planning how to test our user-centred design and technical hypotheses."
 image: /assets/images/IMG_7733.jpg
-image_title: "People looking at POst-it notes during a hackathon."
+image_title: "People looking at Post-it notes during a hackathon."
 image_artist: Steve Messer
 image_source:
 image_credit: Steve Messer
@@ -13,7 +14,7 @@ tags:
  - Weeknotes
 ---
 
-The last couple of weeks have been good, and we’ve made decent progress. They have also been short weeks, with a two-day hackathon taking up some of last week and four-day weeks for most of us this week.
+The last couple of weeks looking at [helping users do more with their test results](https://design-history.prevention-services.nhs.uk/managing-my-health/2026/07/helping-users-do-more-with-results/){:target="_blank"} have been good, and we’ve made decent progress. They have also been short weeks, with a two-day hackathon taking up some of last week and four-day weeks for most of us this week.
 
 We’re also down two designers and onboarding a new temporary user researcher. Despite that I think progress has been good.
 
@@ -42,6 +43,8 @@ My hypothesis is that data quality across suppliers is poor, and not high enough
 This is a personal belief based on my experience and not a view of any contracting parties between me and NHS England, but the [virtual duopoly of GP IT systems](https://observablehq.com/@mikejamesthompson/map-of-gp-practices-in-england-by-gpit-supplier){:target="_blank"} is a problem, and the existing standards and frameworks don’t apply enough leverage to solve it. 
 
 It’s a market-shaping problem. Switching costs are massive for GP surgeries, and barriers-to-entry are high for new market entrants. Despite what the Competition & Markets Authority say, existing mechanisms do not mean the market is competitive. 
+
+_Edit: Prof Erika Denton recently wrote about how the [systems holding patients’ most sensitive data keep ending up with a small number of large suppliers](https://www.theguardian.com/society/2026/aug/03/the-best-way-to-protect-nhs-patients-data#:~:text=pattern.-,Systems%20holding%20patients’%20most%20sensitive%20data%20keep%20ending%20up%20with%20a%20small%20number%20of%20large%20suppliers), an interesting perspective from inside the NHS._
 
 But I’ll get off the soapbox: it’s not my game to play or the immediate focus. 
 
