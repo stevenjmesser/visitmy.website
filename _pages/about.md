@@ -7,15 +7,15 @@ Hello, I’m Steve. I grew up in the Black Country where there used to be lots o
 
 For the day job, I’m somewhere between a product manager, service designer and strategist, and I run a company called [Boring Magic](https://boringmagi.cc/){:target="_blank"}. My main skill is product management, but I studied Creative Writing at university, which brings creative techniques to my craft.
 
-Right now I’m working on keeping people healthier for longer and finding hidden problems early through the NHS App. I’m also [reviewing the product strategy](https://boringmagi.cc/services/reviewing-your-vision-or-strategy/){:target="_blank"} and [setting up product foundations](https://boringmagi.cc/services/setting-up-your-product-foundations/){:target="_blank"} for a membership body that drives collaboration across the built environment and construction sectors.
+Right now I’m working on helping people [manage their health](https://design-history.prevention-services.nhs.uk/managing-my-health/){:target="_blank"} through the NHS App. I’m also [reviewing the product strategy](https://boringmagi.cc/services/reviewing-your-vision-or-strategy/){:target="_blank"} and [setting up product foundations](https://boringmagi.cc/services/setting-up-your-product-foundations/){:target="_blank"} for a membership body that drives collaboration across the built environment and construction sectors.
 
 I’m passionate about innovation for the public good and open, ethical product design, thinking about how we can make public services more frictionless and better for people. My work focuses on pragmatic applications of technology that meet people’s expectations, making complex or tedious things more simple, and co-creating markets and value that shape a different future.
 
-Right now I’m between contracts, and you can find out what I’ve been up to recently by reading the [Boring Magic case studies](https://boringmagi.cc/case-studies){:target="_blank"}. I’m also running the [Product for the People](https://productforthepeople.xyz){:target="_blank"} community with Matt Jukes and Debbie Blanchard. There’s more about my work experience in my [portfolio]({{ "/work" | relative_url }}).
+You can find out what I’ve been working on recently by reading the [Boring Magic case studies](https://boringmagi.cc/case-studies){:target="_blank"}. I’m also running the [Product for the People](https://productforthepeople.xyz){:target="_blank"} community with Matt Jukes and Debbie Blanchard. There’s more about my work experience in my [portfolio]({{ "/work" | relative_url }}).
 
 I used to teach product management at [General Assembly](https://generalassemb.ly/instructors/steve-messer/19440){:target="_blank"}, and you can [hire me](https://boringmagi.cc/services){:target="_blank"} to train your product people directly.
 
-You’ll mostly hear me yabbering on about: product management, user-centred design, leading agile teams, design, data, sustainability, food, ancient history, human culture, and the technology-augmented anthropecene. Here’s [what I’m doing now]({{ "/now" | relative_url }}).
+You’ll mostly hear me yabbering on about: product management, user-centred design, leading agile teams, design, data, AI in public services, sustainability, food, human culture, and the technology-augmented anthropecene. Here’s [what I’m doing now]({{ "/now" | relative_url }}).
 
 ## Elsewhere on the web
 

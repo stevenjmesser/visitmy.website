@@ -7,11 +7,8 @@ permalink: /now/
 <p>Right now I’m
   <ul>
     <li>working on keeping people healthier for longer and finding hidden problems early through the NHS App</li>
-    <li>re-watching <i>Games of Thrones</i></li>
-    <li>pulling together a side project on writing and connection</li>
+    <li>getting to grips with sampling and synthesisers, after a 20-year hiatus</li>
     <li>finding joy in life outside work through cooking</li>
-    <li>training for a marathon in April</li>
-    <li>learning Welsh again</li>
   </ul>
 </p>
 
