@@ -6,8 +6,8 @@ permalink: /cv/
 ---
 
 **London, SE25**  
-[visitmy.website/about](/about/)  
-[boringmagi.cc/services](https://boringmagi.cc/services){:target="_blank"}
+[visitmy.website/work](/work/)  
+[boringmagi.cc/case-studies](https://boringmagi.cc/case-studies){:target="_blank"}
 
 Passionate about innovation for the public good, making complex or tedious things more simple. Specialist in modern product methodologies, designing strategies, and mobilising teams to go from 0 → 1 or 1 → n.
 
