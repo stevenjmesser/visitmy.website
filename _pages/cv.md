@@ -13,13 +13,26 @@ Passionate about innovation for the public good, making complex or tedious thing
 
 ## Work experience
 
+### NHS England, Principal Product Manager (contract)
+*May 2026 - present*
+
+Working on Managing my Health, a small team working out how screening, vaccinations and home testing should work in the NHS App as it moves from a digital front door to a lifelong health companion. Part of a Government Major Programme. Contracted through my product consultancy, Boring Magic.
+
+- Lead product strategy for an alpha on enhancing test results, the app’s most-used feature.
+- Designed a privacy-preserving experiment to match results in the GP record with the national cervical screening system. Specified it to field level so information governance, legal and clinical safety could judge it, and won backing from the screening programme’s own information owner.
+- Sized a patient-safety problem hiding in plain sight: an HPV result titled with a truncated lab code, seen by about 175,000 people a quarter and causing major confusion. Got it rated as a major clinical hazard.
+- Iterated the team’s innovation model, including testing, learning, shipping and effecting the conditions around us. We prototype, join up teams and write down what would have to change for leadership.
+- Set up and lead a monthly community where prevention teams building into the NHS App learn from each other, reuse work and unblock shared problems.
+- Wrote principles for keeping one coherent experience when many teams ship into one app, drawing on conversations with Spotify and the BBC. They feed NHS England’s thinking on a federated operating model for the app.
+- Started a benefits case with NHS England’s economists that shows how clearer test results leads to clinician time saved and reduced anxiety (using quality-adjusted life years). It makes the investment question explicit before any infrastructure gets built.
+
 ### Ministry of Housing, Communities and Local Government, Strategic Product Lead (contract)
 *Mar 2024 - Apr 2026*
 
 Led product strategy for a Major Government Project at the heart of England’s housing mission – [scaling the team, the platform](https://boringmagi.cc/case-studies/establishing-foundations-and-scaling-planning-data-gov-uk/){:target="_blank"}, and [founding an AI product](https://boringmagi.cc/case-studies/leading-ai-product-innovation-on-planning-data-gov-uk/){:target="_blank"} that the Prime Minister launched at London Tech Week. Contracted through my product consultancy, Boring Magic.
 
 - Grew the platform from 18 to over 170 local planning authorities publishing data, scaled datasets sixfold to 400+, and quadrupled traffic to 1.2 million weekly visitors
-- Conceived and led Extract – an AI tool reducing planning document conversion from 1–2 hours to under 15 minutes – from initial pitch through alpha; launched by the Prime Minister at London Tech Week as one of his AI Exemplars
+- Conceived and led Extract – an AI tool reducing planning document conversion from 1–2 hours to under 15 minutes – from initial pitch through alpha; launched by the Prime Minister at London Tech Week 2025 as one of his AI Exemplars.
 - Restructured two generalist teams into three specialised teams of ~40 people, and established the operating model, OKR framework, and team handbook that gave a growing distributed team the conditions to do its best work
 - Co-developed an economic model and Theory of Change showing the platform’s value across the ecosystem, supporting Spending Review business cases and backed by external research projecting £72bn in PropTech sector growth
 - Established working-in-the-open practices that provided the governance evidence needed to navigate scrutiny as a Government Major Project
