@@ -10,29 +10,30 @@ sitemap: false
 [visitmy.website/work](/work/)  
 [boringmagi.cc/case-studies](https://boringmagi.cc/case-studies){:target="_blank"}
 
-Product lead for customer-facing web and app services, most recently in healthcare. I set up product functions and get teams shipping. I was the first product hire at a seed-funded startup, where I took an MVP to market in six months, and I currently lead product strategy for test results, the NHS App’s most-used feature. I’m comfortable setting strategy with a leadership team and just as happy writing tickets for the next sprint.
+Product lead for customer-facing web and app services, most recently in healthcare. I set up product functions and get teams shipping. I was the first product hire at a seed-funded startup, where I took an MVP to market in six months, and I grew a national data platform to 1.2 million weekly visitors. I currently lead product strategy for a team redesigning how the NHS App helps people manage their health. I’m comfortable setting strategy with a leadership team and just as happy writing tickets for the next sprint.
 
 ## Relevant experience at a glance
 
-- **Healthcare and app:** test results in the NHS App (NHS England), and the Secure Data Environment service (NHS Digital)
-- **Online payments:** payment types, channels and payment provider integrations on GOV.UK Pay, plus recurring payments across card, Open Banking and Direct Debit
-- **Self-serve content:** GOV.UK site search and personalisation, and a self-service support portal at Porism
-- **Customer communications and growth:** email, content and conversion at Porism, and positioning and marketing with the Head of Growth at Claimer
-- **Setting up product in less mature organisations:** first product hire at Claimer, introduced agile at Porism, and built the operating model for a team of around 40 at MHCLG
+- **Healthcare and app:** helping people manage their health in the NHS App, from getting a test to understanding the result and booking what comes next (NHS England)
+- **Bookings and payments:** shaping booking and appointment opportunities in the NHS App, and owning payment types, channels, payment provider integrations and recurring payments on GOV.UK Pay
+- **Growth:** grew planning.data.gov.uk from 18 to over 170 publishing organisations and quadrupled traffic, and took Claimer from MVP to market with its Head of Growth
+- **Self-serve content:** GOV.UK site search and personalisation
+- **Setting up product in less mature organisations:** first product hire at Claimer, and built the operating model for a team of around 40 at MHCLG
 
 ## Work experience
 
 ### NHS England, Principal Product Manager (contract)
 *May 2026 - present*
 
-Managing My Health: a small team working out how screening, vaccinations and home testing should work in the NHS App as it moves from a digital front door to a lifelong health companion. Contracted through my product consultancy, Boring Magic.
+Managing My Health: a small team redesigning how the NHS App helps people manage their health, covering screening, vaccinations and home testing, as the app moves from a digital front door to a lifelong health companion. Contracted through my product consultancy, Boring Magic.
 
-- Lead product strategy for an alpha on test results, the app’s most-used feature. In research with 14 people, a prototype that put the result and its explanation together scored better on comprehension than a version close to what’s live today.
-- Found and sized a patient-safety problem hiding in plain sight: an HPV result titled with a truncated lab code, seen by about 175,000 people a quarter. Got it rated as a major clinical hazard, and made the fix the team’s test case for what it takes to ship a change into the app.
-- Wrote principles for keeping one coherent customer experience when many teams ship into one app, drawing on conversations with Spotify and the BBC. They feed NHS England’s thinking on the app’s operating model.
-- Designed a privacy-preserving experiment to match results in the GP record with the national cervical screening system. Specified it to field level for information governance, legal and clinical safety, and won backing from the screening programme’s information owner.
+- Lead product strategy and a pipeline of opportunities across the journey: getting a test, understanding the result, and booking and managing what comes next. Set up a flow from scouting and shaping ideas through testing to launch and scale, with monthly reviews to decide what continues.
+- Started with test results, the app’s most-used feature, partnering with cervical screening and PSA home testing. In research with 14 people, a prototype that put the result and its explanation together scored better on comprehension than a version close to what’s live today.
+- Shaped the next steps after a result, including booking an appointment straight from a result, managing appointments, and screening for people with long-term conditions, such as diabetic eye screening.
+- Sketched ordering a test and getting the result as one joined-up journey. It now feeds the app’s information architecture and navigation work.
+- Found and sized a patient-safety problem: an HPV result titled with a truncated lab code, seen by about 175,000 people a quarter. Got it rated as a major clinical hazard.
+- Wrote principles for keeping one coherent experience when many teams ship into one app, drawing on conversations with Spotify and the BBC, and set up a monthly community where those teams reuse each other’s work.
 - Started a benefits case with NHS England’s economists that values clearer results in clinician time saved and reduced anxiety, so the investment question is explicit before anything gets built.
-- Set up and lead a monthly community where teams building into the NHS App reuse each other’s work and unblock shared problems.
 
 ### Ministry of Housing, Communities and Local Government, Strategic Product Lead (contract)
 *Mar 2024 - Apr 2026*
@@ -86,13 +87,7 @@ Claimer helps startups claim R&D tax credits in days rather than weeks.
 ### Porism, Product Manager & Engagement Lead
 *Mar 2014 - Jan 2018*
 
-Software products for local government.
-
-- Grew annual subscriptions to LG Inform Plus by 141%, held the following year, and lifted conversion by 20% with a new growth strategy.
-- Ran customer email and content, including a monthly newsletter to 7,500 subscribers with a 20% open rate.
-- Built a self-service support portal that reduced time spent on customer contact.
-- Owned a new product, Know My Neighbourhood, and co-owned the rebuild of eCasework through customer development.
-- Introduced agile to the company.
+- Owned software products for local government, introduced agile to the company, and grew annual subscriptions to one product by 141%.
 
 ## Education
 
