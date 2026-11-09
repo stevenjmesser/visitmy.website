@@ -58,7 +58,7 @@ Given the glacial progress on our main piece of work, this week we talked about 
 - [Here be dragons](https://loosemore.com/2026/10/26/here-be-dragons/){:target="_blank"}, 2 mins
 - [The hard-nosed case for optimism](https://www.lewissilkin.com/our-thinking/the-collective/insights/2026/10/01/the-hard-nosed-case-for-optimism){:target="_blank"}, 6 mins
 - [IMF Warns That AI Bubble Could Take Down the Entire World Economy](https://futurism.com/future-society/imf-ai-bubble-world-economy){:target="_blank"}, 3 mins
-- [The half empty nest | weeknotes 21 October 2026](https://neilojwilliams.net/the-half-empty-nest-weeknotes-21-october-2026/){:target="_blank"}, 7 mins
+- [The half empty nest: weeknotes 21 October 2026](https://neilojwilliams.net/the-half-empty-nest-weeknotes-21-october-2026/){:target="_blank"}, 7 mins
 - [Weeknote 10: 6 months in](https://www.designswarm.com/blog/2026/10/weeknote-10-6-months-in/){:target="_blank"}, 3 mins
 - [The end to governing in prose](https://loosemore.com/2026/10/14/the-end-to-governing-in-prose/){:target="_blank"}, 4 mins
 - [Mistakes were made](https://mikegallagher.org/posts/mistakes-were-made/){:target="_blank"}, 4 mins
